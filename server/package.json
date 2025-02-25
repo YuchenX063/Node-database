@@ -1,0 +1,27 @@
+{
+    "name": "Almanacs-Database",
+    "version": "0.0.1",
+    "description": "A database for the Almanacs project",
+    "private": true,
+    "contributors": [
+        {
+            "name": "Yuchen Xiong"
+        }
+    ],
+    "scripts": {
+        "start": "node server.js",
+        "migrate:reset": "npx sequelize-cli db:migrate:undo:all && npm run migrate",
+        "migrate": "npx sequelize-cli db:migrate && npx sequelize-cli db:seed:all && sleep 2"
+    },
+    "license": "CC-BY-NC-SA-4.0",
+    "dependencies": {
+        "cors": "^2.8.5",
+        "dotenv": "^16.4.7",
+        "express": "^4.21.2",
+        "mysql2": "^3.12.0",
+        "sequelize": "^6.37.5",
+        "sequelize-cli": "^6.6.2",
+        "serve-favicon": "^2.5.0",
+        "util": "^0.12.5"
+    }
+}

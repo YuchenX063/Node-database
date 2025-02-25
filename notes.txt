@@ -1,0 +1,4 @@
+should I distinguish small church and big church now that I can define "allowNull"?
+
+do I need the church_church table if I can directly link a small church with a big church?
+searching from the big church for the small church might be a problem (?)

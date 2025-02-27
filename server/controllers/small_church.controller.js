@@ -5,6 +5,7 @@ const Church = db.Church;
 const Person = db.Person;
 const Church_Person = db.Church_Person;
 const Small_Church = db.Small_Church;  
+const Church_Church = db.Church_Church;
 
 exports.create = (req, res) => {
     const small_churches = req.body;
@@ -25,7 +26,7 @@ exports.findAll = (req, res) => {
         include: [
             {
                 model: Church,
-                as: 'attending institutitons',
+                as: 'attending_institutions',
                 attributes: ['instID', 'instName', 'instYear'],
                 through: {
                     attributes: []

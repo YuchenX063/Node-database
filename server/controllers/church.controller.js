@@ -4,6 +4,7 @@ const Op = db.Sequelize.Op;
 const Church = db.Church;
 const Person = db.Person;
 const Church_Person = db.Church_Person;
+const Small_Church = db.Small_Church;
 
 exports.create = (req, res) => {
     const churches = req.body;
@@ -27,6 +28,12 @@ exports.findAll = (req, res) => {
             attributes: ['persID', 'persName', 'persYear'],
             through: {
                 attributes: []
+            }},{
+                model: Small_Church,
+                as: 'small_churches',
+                attributes: ['instID', 'instName', 'instYear'],
+                through: {
+                    attributes: []
             }
         }]
     }).then( data => {
@@ -68,7 +75,7 @@ exports.findOne = (req, res) => {
 exports.delete = (req, res) => {
     const id = req.params.instID;
     Church.destroy({
-        where: { id: id }
+        where: { instID: id }
     })
     .then(data => {
         if (!data) {

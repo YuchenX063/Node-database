@@ -73,7 +73,7 @@ exports.findOne = (req, res) => {
 exports.delete = (req, res) => {
     const id = req.params.persID;
     Person.destroy({
-        where: { id: id }
+        where: { persID: id }
     })
     .then(data => {
         if (!data) {

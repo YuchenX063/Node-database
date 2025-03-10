@@ -2,6 +2,8 @@ const { where } = require("sequelize");
 const db = require("../models");
 const Op = db.Sequelize.Op;
 
+const getPagination = require("../utils/get-pagination");
+
 const Church = db.Church;
 const Person = db.Person;
 const Church_Person = db.Church_Person;
@@ -20,13 +22,29 @@ exports.create = (req, res) => {
 };
 
 exports.findAll = (req, res) => {
-    Person.findAll({
-        attributes: ['persID', 'persName', 'persYear'],
+    let {page, size} = req.query;
+    if (!page) {
+        page = 0;
+    };
+    if (!size) {
+        size = 3;
+    };
+    let {limit, offset} = getPagination(page, size);
+    let where = {};
+    let { instName } = req.query;
+    if (instName) {
+        where.instName = { [Op.like]: `%${instName}%` };
+    };
+    Person.findAndCountAll({
+        where: where,
+        limit: limit,
+        offset: offset,
+        attributes: ['persID', 'persName', 'persYear', 'persTitle', 'persSuffix', 'persNote'],
         include: [
             {
                 model: Church,
                 as: 'churches',
-                attributes: ['instID', 'instName', 'instYear'],
+                attributes: ['instID', 'instName', 'instYear', 'language', 'church_type', 'instNote', 'city_reg', 'state_orig', 'diocese'],
                 through: {
                     attributes: []
                 }
@@ -44,12 +62,12 @@ exports.findAll = (req, res) => {
 exports.findOne = (req, res) => {
     const id = req.params.persID;
     Person.findByPk(id, {
-        attributes: ['persID', 'persName', 'persYear'],
+        attributes: ['persID', 'persName', 'persYear', 'persTitle', 'persSuffix', 'persNote'],
         include: [
             {
                 model: Church,
                 as: 'churches',
-                attributes: ['instID', 'instName', 'instYear'],
+                attributes: ['instID', 'instName', 'instYear', 'language', 'church_type', 'instNote', 'city_reg', 'state_orig', 'diocese'],
                 through: {
                     attributes: []
                 }

@@ -3,14 +3,10 @@
 module.exports = {
   async up(queryInterface, Sequelize) {
     await queryInterface.createTable('Small_Churches', {
-      id: {
-        allowNull: false,
-        autoIncrement: true,
-        primaryKey: true,
-        type: Sequelize.INTEGER
-      },
       instID: {
-        type: Sequelize.STRING
+        type: Sequelize.STRING,
+        primaryKey: true,
+        allowNull: false
       },
       instName: {
         type: Sequelize.STRING
@@ -18,15 +14,39 @@ module.exports = {
       instYear: {
         type: Sequelize.INTEGER
       },
+      church_type: {
+        type: Sequelize.STRING
+      },
+      language: {
+        type: Sequelize.STRING
+      },
+      instNote: {
+        type: Sequelize.STRING
+      },
+      city_reg: {
+        type: Sequelize.STRING
+      },
+      state_orig: {
+        type: Sequelize.STRING
+      },
+      diocese: {
+        type: Sequelize.STRING
+      },
       attendingInstID: {
         type: Sequelize.STRING
       },
+      attendingChurch: {
+        type: Sequelize.STRING
+      },
+      attendingChurchFrequency: {
+        type: Sequelize.STRING
+      },
       createdAt: {
-        allowNull: false,
+        allowNull: true,
         type: Sequelize.DATE
       },
       updatedAt: {
-        allowNull: false,
+        allowNull: true,
         type: Sequelize.DATE
       }
     });

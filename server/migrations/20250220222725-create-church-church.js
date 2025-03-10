@@ -12,27 +12,21 @@ module.exports = {
       instID: {
         type: Sequelize.STRING
       },
-      instName: {
-        type: Sequelize.STRING
-      },
       instYear: {
         type: Sequelize.INTEGER
       },
       attendingInstID: {
         type: Sequelize.STRING
       },
-      attendingInstName: {
-        type: Sequelize.STRING
-      },
       attendingInstYear: {
         type: Sequelize.INTEGER
       },
       createdAt: {
-        allowNull: false,
+        allowNull: true,
         type: Sequelize.DATE
       },
       updatedAt: {
-        allowNull: false,
+        allowNull: true,
         type: Sequelize.DATE
       }
     });

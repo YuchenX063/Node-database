@@ -17,12 +17,48 @@ module.exports = {
         type: Sequelize.INTEGER,
         allowNull: false
       },
+      church_type: {
+        type: Sequelize.STRING,
+        allowNull: true
+      },
+      language: {
+        type: Sequelize.STRING,
+        allowNull: true
+      },
+      instNote: {
+        type: Sequelize.STRING,
+        allowNull: true
+      },
+      city_reg: {
+        type: Sequelize.STRING,
+        allowNull: true
+      },
+      state_orig: {
+        type: Sequelize.STRING,
+        allowNull: true
+      },
+      memberType: {
+        type: Sequelize.STRING,
+        allowNull: true
+      },
+      member: {
+        type: Sequelize.STRING,
+        allowNull: true
+      },
+      affiliated: {
+        type: Sequelize.STRING,
+        allowNull: true
+      },
+      diocese: {
+        type: Sequelize.STRING,
+        allowNull: true
+      },
       createdAt: {
-        allowNull: false,
+        allowNull: true,
         type: Sequelize.DATE
       },
       updatedAt: {
-        allowNull: false,
+        allowNull: true,
         type: Sequelize.DATE
       }
     });

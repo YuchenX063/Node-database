@@ -1,4 +1,5 @@
 const db = require("../models");
+const getPagination = require("../utils/get-pagination");
 const Op = db.Sequelize.Op;
 
 const Church = db.Church;
@@ -20,12 +21,28 @@ exports.create = (req, res) => {
 };
 
 exports.findAll = (req, res) => {
-    Church.findAll({
-        attributes: ['instID', 'instName', 'instYear'],
+    let {page, size} = req.query;
+    if (!page) {
+        page = 0;
+    };
+    if (!size) {
+        size = 3;
+    };
+    let {limit, offset} = getPagination(page, size);
+    let where = {};
+    let { instName } = req.query;
+    if (instName) {
+        where.instName = { [Op.like]: `%${instName}%` };
+    };
+    Church.findAndCountAll({
+        where: where,
+        limit: limit,
+        offset: offset,
+        attributes: ['instID', 'instName', 'instYear', 'language', 'church_type', 'instNote', 'city_reg', 'state_orig', 'diocese'],
         include: [{
             model: Person,
             as: 'people',
-            attributes: ['persID', 'persName', 'persYear'],
+            attributes: ['persID', 'persName', 'persYear', 'persSuffix', 'persNote'],
             through: {
                 attributes: []
             }},{
@@ -48,13 +65,19 @@ exports.findAll = (req, res) => {
 exports.findOne = (req, res) => {
     const id = req.params.instID;
     Church.findByPk(id, {
-        attributes: ['instID', 'instName', 'instYear'],
+        attributes: ['instID', 'instName', 'instYear', 'language', 'church_type', 'instNote', 'city_reg', 'state_orig', 'diocese'],
         include: [{
             model: Person,
             as: 'people',
-            attributes: ['persID', 'persName', 'persYear'],
+            attributes: ['persID', 'persName', 'persYear', 'persSuffix', 'persNote'],
             through: {
                 attributes: []
+            }},{
+                model: Small_Church,
+                as: 'small_churches',
+                attributes: ['instID', 'instName', 'instYear'],
+                through: {
+                    attributes: []
             }
         }]
     }).then(data => {

@@ -3,11 +3,8 @@ searching from the big church for the small church might be a problem (?)
 
 what do I need for the church_church table (just two ids and two years?)
 
-does the sequence of seeders really matter?
+does the sequence of seeders really matter? Or, can I only use one file to import data?
 
-do I need to test relationship, or just CRUD?
-AND do I need to test CRUD now that my database does not ask users to create data?
+update the database models
 
-running seeders before running test (then what is the point of running tests?)
-
-data preprocess: how to do that inside this project (write another script?)
+repeatedly importing raw data in different seeders

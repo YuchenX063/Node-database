@@ -30,14 +30,15 @@ exports.findAll = (req, res) => {
 };
 
 exports.delete = (req, res) => {
-    const id = req.params.id;
+    const instID = req.params.instID;
+    const persID = req.params.persID;
     Church_Person.destroy({
-        where: { id: id }
+        where: { instID: instID, persID: persID }
     })
     .then(data => {
         if (!data) {
             res.status(404).send({
-                message: `Cannot delete Church_Person with id=${id}. Maybe Church_Person was not found!`
+                message: `Cannot delete Church_Person with id=${instID}. Maybe Church_Person was not found!`
             });
         } else {
             res.send({
@@ -46,7 +47,7 @@ exports.delete = (req, res) => {
         }
     }).catch(err => {
         res.status(500).send({
-            message: "Could not delete Church_Person with id=" + id
+            message: "Could not delete Church_Person with id=" + instID
         });
     });
 };

@@ -22,7 +22,15 @@ module.exports = (sequelize, DataTypes) => {
     },
     instName: DataTypes.STRING,
     instYear: DataTypes.INTEGER,
-    attendingInstID: DataTypes.STRING
+    church_type: DataTypes.STRING,
+    language: DataTypes.STRING,
+    instNote: DataTypes.STRING,
+    city_reg: DataTypes.STRING,
+    state_orig: DataTypes.STRING,
+    diocese: DataTypes.STRING,
+    attendingInstID: DataTypes.STRING,
+    attendingChurch: DataTypes.STRING,
+    attendingChurchFrequency: DataTypes.STRING
   }, {
     sequelize,
     modelName: 'Small_Church',

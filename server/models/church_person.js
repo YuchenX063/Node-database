@@ -21,7 +21,7 @@ module.exports = (sequelize, DataTypes) => {
     instYear: DataTypes.INTEGER,
     persID: DataTypes.STRING,
     persName: DataTypes.STRING,
-    persYear: DataTypes.INTEGER
+    persYear: DataTypes.INTEGER,
   }, {
     sequelize,
     modelName: 'Church_Person',

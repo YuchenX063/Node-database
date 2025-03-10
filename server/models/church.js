@@ -20,7 +20,16 @@ module.exports = (sequelize, DataTypes) => {
       primaryKey: true
     },
     instName: DataTypes.STRING,
-    instYear: DataTypes.INTEGER
+    church_type: DataTypes.STRING,
+    language: DataTypes.STRING,
+    instNote: DataTypes.STRING,
+    instYear: DataTypes.INTEGER,
+    city_reg: DataTypes.STRING,
+    state_orig: DataTypes.STRING,
+    memberType: DataTypes.STRING,
+    member: DataTypes.STRING,
+    affiliated: DataTypes.STRING,
+    diocese: DataTypes.STRING,
   }, {
     sequelize,
     modelName: 'Church',

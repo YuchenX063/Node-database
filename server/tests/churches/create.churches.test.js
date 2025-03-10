@@ -4,6 +4,10 @@ const requestWithSupertest = supertest(app);
 
 describe(
     'CREATE methods for the Church model', () => {
+        
+        afterAll(async () => {
+            await requestWithSupertest.delete('/api/church/test-inst1');
+        });
 
         it('should create a new Church', async () => {
             const res = await requestWithSupertest.post('/api/church')

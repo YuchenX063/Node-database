@@ -17,10 +17,8 @@ module.exports = (sequelize, DataTypes) => {
   }
   Church_Church.init({
     instID: DataTypes.STRING,
-    instName: DataTypes.STRING,
     instYear: DataTypes.INTEGER,
     attendingInstID: DataTypes.STRING,
-    attendingInstName: DataTypes.STRING,
     attendingInstYear: DataTypes.INTEGER
   }, {
     sequelize,

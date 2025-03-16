@@ -61,7 +61,8 @@ exports.findAll = (req, res) => {
 
 exports.findOne = (req, res) => {
     const id = req.params.persID;
-    Person.findByPk(id, {
+    Person.findOne({
+        where: { persID: id },
         attributes: ['persID', 'persName', 'persYear', 'persTitle', 'persSuffix', 'persNote'],
         include: [
             {

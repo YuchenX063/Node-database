@@ -7,19 +7,17 @@ const fs = require('fs');
 const path = require('path');
 const csv = require('csv-parser');
 const{ Church } = require('../models');
-const{ preprocessCSV } = require('../utils/data-preprocess');
+const{ loadData } = require('../utils/data-preprocess');
 
 /** @type {import('sequelize-cli').Migration} */
 module.exports = {
   async up (queryInterface, Sequelize) {
-    const csvFilePath = path.join(__dirname, 'import');
-    const files = fs.readdirSync(csvFilePath).filter(file => file.endsWith('.csv'));
-
-    for (const file of files) {
-      const filePath = path.join(csvFilePath, file);
-      const data = await preprocessCSV(filePath);
-      await importData(data);
-    };},
+    if (process.env.NODE_ENV != 'test') {
+      const data = await loadData(__dirname);
+      for (const file of data) {
+        await importData(file);
+      }
+    }},
 
   async down (queryInterface, Sequelize) {
     await queryInterface.bulkDelete('Churches', null, {});
@@ -27,11 +25,8 @@ module.exports = {
 };
 
 async function importData(data) {
-  const churchKeys = ['instID', 'instYear', 'church_type', 'instName', 'language', 'instNote', 'state_orig', 'city_reg', 'memberType', 'member', 'affiliated', 'diocese'];
-  //const smallChurchKeys = ['instID', 'instYear', 'church_type', 'instName', 'language', 'instNote', 'state_orig', 'city_reg', 'attendingInstID', 'attendingChurch', 'attendingChurchFrequency', 'diocese'];
-  //const personKeys = ['persID', 'persYear', 'persTitle', 'persName', 'persSuffix', 'persNote'];
-  //const churchPersonKeys = ['instID', 'persID', 'instYear', 'persYear', 'role', 'roleNote'];
-  //const churchChurchKeys = ['instID', 'attendingInstID', 'instYear', 'attendingInstYear'];
+  
+  const churchKeys = ['instID', 'instYear', 'church_type', 'instName', 'language', 'instNote', 'state_orig', 'city_reg', 'memberType', 'member', 'affiliated', 'diocese', 'attendingInstID', 'attendingChurch', 'attendingChurchFrequency'];
 
   // extract church information
   const churchInfo = data
@@ -52,7 +47,7 @@ async function importData(data) {
 
   // create church objects
   for (const item of uniqueChurchInfo) {
-    if (!item.attendingInstID) {
+    if (item.instID) {
       try{
         await Church.create(item);
         //console.log(`Created church: ${item.instID}`);

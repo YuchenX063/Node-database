@@ -5,17 +5,18 @@ module.exports = {
     await queryInterface.createTable('Churches', {
       instID: {
         type: Sequelize.STRING,
-        primaryKey: true,
         allowNull: false,
+        primaryKey: true
       },
       instName: {
         type: Sequelize.STRING,
         allowNull: false,
-        defaultValue: 'name not recorded'
+        defaultValue: '(name not recorded)'
       },
       instYear: {
         type: Sequelize.INTEGER,
-        allowNull: false
+        allowNull: false,
+        primaryKey: true
       },
       church_type: {
         type: Sequelize.STRING,
@@ -26,7 +27,7 @@ module.exports = {
         allowNull: true
       },
       instNote: {
-        type: Sequelize.STRING,
+        type: Sequelize.STRING(1024),
         allowNull: true
       },
       city_reg: {
@@ -50,6 +51,18 @@ module.exports = {
         allowNull: true
       },
       diocese: {
+        type: Sequelize.STRING,
+        allowNull: true
+      },
+      attendingInstID: {
+        type: Sequelize.STRING,
+        allowNull: true
+      },
+      attendingChurch: {
+        type: Sequelize.STRING,
+        allowNull: true
+      },
+      attendingChurchFrequency: {
         type: Sequelize.STRING,
         allowNull: true
       },

@@ -5,7 +5,6 @@ const Op = db.Sequelize.Op;
 const Church = db.Church;
 const Person = db.Person;
 const Church_Person = db.Church_Person;
-const Small_Church = db.Small_Church;
 
 exports.create = (req, res) => {
     const churches = req.body;
@@ -38,7 +37,7 @@ exports.findAll = (req, res) => {
         where: where,
         limit: limit,
         offset: offset,
-        attributes: ['instID', 'instName', 'instYear', 'language', 'church_type', 'instNote', 'city_reg', 'state_orig', 'diocese'],
+        attributes: ['instID', 'instName', 'instYear', 'language', 'church_type', 'instNote', 'city_reg', 'state_orig', 'diocese', 'attendingInstID', 'attendingChurch', 'attendingChurchFrequency'],
         include: [{
             model: Person,
             as: 'people',
@@ -46,13 +45,19 @@ exports.findAll = (req, res) => {
             through: {
                 attributes: []
             }},{
-                model: Small_Church,
-                as: 'small_churches',
+                model: Church,
+                as: 'attendingChurches',
+                attributes: ['instID', 'instName', 'instYear'],
+                through: {
+                    attributes: []
+            }},{
+                model: Church,
+                as: 'attendedBy',
                 attributes: ['instID', 'instName', 'instYear'],
                 through: {
                     attributes: []
             }
-        }]
+    }],
     }).then( data => {
         res.send(data);
     }).catch(err => {
@@ -64,8 +69,9 @@ exports.findAll = (req, res) => {
 
 exports.findOne = (req, res) => {
     const id = req.params.instID;
-    Church.findByPk(id, {
-        attributes: ['instID', 'instName', 'instYear', 'language', 'church_type', 'instNote', 'city_reg', 'state_orig', 'diocese'],
+    Church.findOne({
+        where: { instID: id },
+        attributes: ['instID', 'instName', 'instYear', 'language', 'church_type', 'instNote', 'city_reg', 'state_orig', 'diocese', 'attendingInstID', 'attendingChurch', 'attendingChurchFrequency'],
         include: [{
             model: Person,
             as: 'people',
@@ -73,8 +79,14 @@ exports.findOne = (req, res) => {
             through: {
                 attributes: []
             }},{
-                model: Small_Church,
-                as: 'small_churches',
+                model: Church,
+                as: 'attendingChurches',
+                attributes: ['instID', 'instName', 'instYear'],
+                through: {
+                    attributes: []
+            }},{
+                model: Church,
+                as: 'attendedBy',
                 attributes: ['instID', 'instName', 'instYear'],
                 through: {
                     attributes: []

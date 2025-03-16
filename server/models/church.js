@@ -10,7 +10,8 @@ module.exports = (sequelize, DataTypes) => {
     static associate(models) {
       // define association here
       Church.belongsToMany(models.Person, { through: models.Church_Person, foreignKey: 'instID', as: 'people'});
-      Church.belongsToMany(models.Small_Church, { through: models.Church_Church, foreignKey: 'attendingInstID', as: 'small_churches'});
+      Church.belongsToMany(models.Church, { through: models.Church_Church, foreignKey: 'attendingInstID', as: 'attendingChurches'});
+      Church.belongsToMany(models.Church, { through: models.Church_Church, foreignKey: 'instID', as: 'attendedBy'});
       // the foreign key for Church should be "attendingInstID" rather than "instID"
     }
   }
@@ -22,14 +23,22 @@ module.exports = (sequelize, DataTypes) => {
     instName: DataTypes.STRING,
     church_type: DataTypes.STRING,
     language: DataTypes.STRING,
-    instNote: DataTypes.STRING,
-    instYear: DataTypes.INTEGER,
+    instNote: {
+      type: DataTypes.STRING(1024),
+    },
+    instYear: {
+      type: DataTypes.INTEGER,
+      primaryKey: true
+    },
     city_reg: DataTypes.STRING,
     state_orig: DataTypes.STRING,
     memberType: DataTypes.STRING,
     member: DataTypes.STRING,
     affiliated: DataTypes.STRING,
     diocese: DataTypes.STRING,
+    attendingInstID: DataTypes.STRING,
+    attendingChurch: DataTypes.STRING,
+    attendingChurchFrequency: DataTypes.STRING
   }, {
     sequelize,
     modelName: 'Church',

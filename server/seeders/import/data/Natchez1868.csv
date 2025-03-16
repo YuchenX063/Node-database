@@ -1,0 +1,7 @@
+﻿instID,church_type,instName,language,instNote,placeName,region,county_orig,county_reg,city_orig,city_reg,state_orig,state_reg,latitude,longitude,attendingInstID,attendingChurch,attendingChurchFrequency,attendingChurchNote,persID,persTitle,persName,persSuffix,persRole,persNote,memberType,member,affiliated,year,diocese
+﻿nat.ms.0001,﻿cathedral,"﻿St. Mary's Cathedral, Our Lady of Sorrows",English,,,,,,﻿Natchez,﻿Natchez,﻿MS,,31.5587495,-91.4014488,,,,,﻿wil_h_elder_001,﻿Rt. Rev.,﻿William Henry Elder,﻿D.D.,,,,,,1868.0,Natchez
+﻿nat.ms.0001,﻿cathedral,"﻿St. Mary's Cathedral, Our Lady of Sorrows",English,,,,,,﻿Natchez,﻿Natchez,﻿MS,,31.5587495,-91.4014488,,,,,﻿mat_f_grignon_001,﻿Very Rev.,﻿Mathurin F. Grignon,,﻿V.G.,,,,,1868.0,Natchez
+﻿nat.ms.0002,﻿church,not recorded,English,﻿new church,,,﻿Monroe County,,﻿Aberdeen,﻿Aberdeen,﻿MS,,33.8251139,-88.5436553,,,,,﻿ant_strake_001,﻿Rev.,﻿Anthony Strake,,,,,,,1868.0,Natchez
+﻿nat.ms.0005,﻿church,not recorded,English,,,,﻿Copiah County,,﻿Bahala,﻿Wesson,﻿MS,,31.699167,-90.39694399999999,﻿nat.ms.0013,﻿Visited from Brookhaven,,,,,,,,,,,,1868.0,Natchez
+﻿nat.ms.0006,﻿church,not recorded,English,,,,﻿Choctaw County,,﻿Bankston,﻿French Camp,﻿MS,,33.397222,-89.366667,﻿nat.ms.0019,﻿Visited from Columbus,﻿Occasionally,,,,,,,,,,,1868.0,Natchez
+﻿nat.ms.0007,﻿church,﻿Our Lady of the Gulf,English,,,,,﻿Hancock County,﻿Bay of St. Louis,﻿Bay St. Louis,﻿MS,,30.314721999999996,-89.344167,,,,,﻿hen_ledue_001,﻿Rev.,﻿Henry Ledue,,,﻿Leduc on 1870- presumed typo,,,,1868.0,Natchez

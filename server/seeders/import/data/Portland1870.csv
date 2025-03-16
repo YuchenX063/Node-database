@@ -1,0 +1,94 @@
+﻿instID,church_type,instName,language,instNote,placeName,region,county_orig,county_reg,city_orig,city_reg,state_orig,state_reg,latitude,longitude,attendingInstID,attendingChurch,attendingChurchFrequency,attendingChurchNote,persID,persTitle,persName,persSuffix,persRole,persNote,memberType,member,affiliated,year,diocese
+﻿por.me.0001,﻿cathedral,﻿Cathedral Chapel of the Immaculate Conception,English,,,,,,﻿Portland,﻿Portland,﻿ME,,44.8147712,-71.8803728,,,,,﻿d_w_bacon_001,﻿Rt. Rev.,﻿D. W. Bacon,﻿D.D.,,,,,,1870.0,Portland
+﻿por.me.0001,﻿cathedral,﻿Cathedral Chapel of the Immaculate Conception,English,,,,,,﻿Portland,﻿Portland,﻿ME,,44.8147712,-71.8803728,,,,,﻿joh_d_rose_001,﻿Rev.,﻿John De Rose,,,,,,,1870.0,Portland
+﻿por.me.0001,﻿cathedral,﻿Cathedral Chapel of the Immaculate Conception,English,,,,,,﻿Portland,﻿Portland,﻿ME,,44.8147712,-71.8803728,,,,,﻿eug_ocallaghan_002,﻿Rev.,﻿Eugene O'Callaghan,,,,,,,1870.0,Portland
+﻿por.me.0002,﻿church,﻿St. Dominick's Church,English,,,,,,﻿Portland,﻿Portland,﻿ME,,43.6503141,-70.26267292,,,,,﻿joh_murphy_001,﻿Rev.,﻿John Murphy,,,,,,,1870.0,Portland
+﻿por.me.0003,﻿chapel,﻿Calvary Chapel,English,,,,,,﻿Portland,﻿Portland,﻿ME,,43.660720399999995,-70.2580778,﻿por.me.0002,﻿attended from St. Dominick's Church,,,﻿p_mcgreavey_001,﻿Rev.,﻿P. McGreavey,,,,,,,1870.0,Portland
+﻿por.me.0004,﻿chapel,﻿St. Aloysius' Chapel,English,,,,,,﻿Portland,﻿Portland,﻿ME,,43.660720399999995,-70.2580778,,,,,﻿eug_ocallaghan_002,﻿Rev.,﻿Eugene O'Callaghan,,,,,,,1870.0,Portland
+﻿por.me.0005,﻿chapel,﻿Convent Chapel,English,,,,,,﻿Portland,﻿Portland,﻿ME,,43.660720399999995,-70.2580778,,,,,﻿joh_murphy_001,﻿Rev.,﻿John Murphy,,,,,,,1870.0,Portland
+﻿por.me.0006,﻿church,﻿St. Mary's,English,,,,,,﻿Augusta,﻿Augusta,﻿ME,,44.30914944,-69.78025576,,,,,﻿cha_egan_001,﻿Rev.,﻿Charles Egan,,,,,,,1870.0,Portland
+﻿por.me.0007,﻿church,﻿St. John's,English,,,,,,﻿Bangor,﻿Bangor,﻿ME,,44.80387965,-68.76104988,,,,,﻿jas_t_durnin_001,﻿Rev.,﻿Jas. T. Durnin,,,,,,,1870.0,Portland
+﻿por.me.0007,﻿church,﻿St. John's,English,,,,,,﻿Bangor,﻿Bangor,﻿ME,,44.80387965,-68.76104988,,,,,﻿d_mcfaul_001,﻿Rev.,﻿D. McFaul,,,,,,,1870.0,Portland
+﻿por.me.0007,﻿church,﻿St. John's,English,,,,,,﻿Bangor,﻿Bangor,﻿ME,,44.80387965,-68.76104988,,,,,﻿f_c_mussaers_001,﻿Rev.,﻿F. Clement Mussaers,,,,,,,1870.0,Portland
+﻿por.me.0008,﻿church,﻿St. Mary's,English,﻿(Indian),,,,,﻿Bath,﻿Bath,﻿ME,,43.9159483,-69.82482519999999,,,,,﻿luk_f_bartley_001,﻿Rev.,﻿Luke F. Bartley,,,,,,,1870.0,Portland
+﻿por.me.0009,﻿church,﻿St. Benedict's,English,,,,,,﻿Benedicta,﻿Benedicta,﻿ME,,45.80328179999999,-68.4120628,,,,,﻿joh_brady_003,﻿Rev.,﻿John Brady,,,,,,,1870.0,Portland
+﻿por.me.0010,﻿church,not recorded,English,,,,,,﻿Belfast,﻿Belfast,﻿ME,,44.4259092,-69.0064234,,,,,﻿lou_lhiver_001,﻿Rev.,﻿Louis l'Hiver,,,,,,,1870.0,Portland
+﻿por.me.0011,﻿church,not recorded,English,,,,,,﻿Bucksport,﻿Bucksport,﻿ME,,44.6289696,-68.7701225,,,,,﻿wm_herbert_001,﻿Rev.,﻿Wm. Herbert,,,,,,,1870.0,Portland
+﻿por.me.0012,﻿church,﻿Immaculate Conception,English,,,,,,﻿Biddeford,﻿Biddeford,﻿ME,,43.4925843,-70.4533844,,,,,﻿eug_müller_001,﻿Rev.,﻿Eugene Müller,,,,,,,1870.0,Portland
+﻿por.me.0012,﻿church,﻿Immaculate Conception,English,,,,,,﻿Biddeford,﻿Biddeford,﻿ME,,43.4925843,-70.4533844,,,,,﻿eug_conlan_001,﻿Rev.,﻿Eugene Conlan,,,,,,,1870.0,Portland
+﻿por.me.0013,﻿church,not recorded,English,,,,,,﻿Brunswick,﻿Brunswick,﻿ME,,43.9140162,-69.96699609999999,,,,,﻿l_f_bartley_001,﻿Rev.,﻿L. F. Bartley,,,,,,,1870.0,Portland
+﻿por.me.0014,﻿church,﻿Immaculate Conception,English,﻿(Indian),,,,,﻿Calais,﻿Calais,﻿ME,,45.18657876,-67.27700870000001,,,,,﻿mat_w_murphy_001,﻿Rev.,﻿Matthew W. Murphy,,,,,,,1870.0,Portland
+﻿por.me.0015,﻿church,﻿St. Ann's,English,,,,,,﻿Calais,﻿Calais,﻿ME,,45.187368,-67.278382,,,,,﻿e_vetromile_001,﻿Rev.,﻿E. Vetromile,,,,,,,1870.0,Portland
+﻿por.me.0016,﻿church,not recorded,English,,,,,,﻿Cherryfield,﻿Cherryfield,﻿ME,,44.607299100000006,-67.9258366,,,,,﻿wm_herbert_001,﻿Rev.,﻿Wm. Herbert,,,,,,,1870.0,Portland
+﻿por.me.0017,﻿church,﻿St. Patrick's,English,,,,,,﻿Damariscotta,﻿Damariscotta,﻿ME,,44.0328765,-69.51888840000001,,,,,﻿jam_peterson_001,﻿Rev.,﻿James Peterson,,,,,,,1870.0,Portland
+﻿por.me.0018,﻿church,﻿St. Joseph's,English,,,,,,﻿Eastport,﻿Eastport,﻿ME,,44.9061906,-66.9899785,,,,,﻿eug_vetromile_001,﻿Rev.,﻿Eug. Vetromile,,,,,,,1870.0,Portland
+﻿por.me.0019,﻿church,not recorded,English,,,,,,﻿Ellsworth,﻿Ellsworth,﻿ME,,44.543409499999996,-68.4194641,,,,,﻿wm_herbert_001,﻿Rev.,﻿Wm. Herbert,,,,,,,1870.0,Portland
+﻿por.me.0020,﻿church,not recorded,English,,,,,,﻿Frankfort,﻿Frankfort,﻿ME,,44.60867329999999,-68.8744635,,,,,﻿wm_herbert_001,﻿Rev.,﻿Wm. Herbert,,,,,,,1870.0,Portland
+﻿por.me.0021,﻿church,﻿St. Mary's,English,,,,,,﻿Gardiner,﻿Gardiner,﻿ME,,44.230069799999995,-69.7753222,,,,,﻿cha_egan_001,﻿Rev.,﻿Charles Egan,,,,,,,1870.0,Portland
+﻿por.me.0022,﻿church,﻿St. Mary's,English,,,,,,﻿Houlton,﻿Houlton,﻿ME,,46.1252722,-67.8264926,,,,,﻿joh_brady_003,﻿Rev.,﻿John Brady,,,,,,,1870.0,Portland
+﻿por.me.0023,﻿church,﻿St. Ann's,English,,,,,,﻿Indiantown,﻿Indian Island,﻿ME,,44.94271968,-68.65226797,,,,,﻿e_vetromile_001,﻿Rev.,﻿E. Vetromile,,,,,,,1870.0,Portland
+﻿por.me.0024,﻿church,not recorded,English,,,,,,﻿Kennebunk,﻿Kennebunk,﻿ME,,43.384530600000005,-70.54399000000001,,,,,﻿eug_müller_001,﻿Rev.,﻿Eugene Müller,,,,,,,1870.0,Portland
+﻿por.me.0025,﻿church,﻿St. John's,English,,,,,,﻿Lewiston,﻿Lewiston,﻿ME,,44.100351,-70.2147764,,,,,﻿mic_lucey_001,﻿Rev.,﻿Michael Lucey,,,,,,,1870.0,Portland
+﻿por.me.0025,﻿church,﻿St. John's,English,,,,,,﻿Lewiston,﻿Lewiston,﻿ME,,44.100351,-70.2147764,,,,,﻿joh_duddy_001,﻿Rev.,﻿John Duddy,,,,,,,1870.0,Portland
+﻿por.me.0026,﻿church,not recorded,English,,,,,,﻿Lubec,﻿Lubec,﻿ME,,44.8585863,-66.98359070000001,﻿por.me.0018,﻿attended from Eastport,,,,,,,,,,,,1870.0,Portland
+﻿por.me.0027,﻿church,﻿St. Mary's,English,,,,,,﻿Machias,﻿Machias,﻿ME,,44.7150789,-67.461376,,,,,﻿joh_sullivan_001,﻿Rev.,﻿John Sullivan,,,,,,,1870.0,Portland
+﻿por.me.0028,﻿church,﻿St. Mary's,English,,,,,,﻿Oldtown,﻿Old Town,﻿ME,,44.9342349,-68.6453092,,,,,﻿d_mcfaul_001,﻿Rev.,﻿D. McFaul,,,,,,,1870.0,Portland
+﻿por.me.0029,﻿mission,"﻿""Indian Mission""",English,,,,,,﻿Oldtown,﻿Old Town,﻿ME,,44.93412694,-68.64547990000001,,,,,﻿d_mcfaul_001,﻿Rev.,﻿D. McFaul,,,,,,,1870.0,Portland
+﻿por.me.0030,﻿church,not recorded,English,,,,,,﻿Orono,﻿Orono,﻿ME,,44.8831125,-68.6719411,,,,,﻿j_t_durnin_001,﻿Rev.,﻿J. T. Durnin,,,,,,,1870.0,Portland
+﻿por.me.0031,﻿church,﻿St. John's,English,,,,,,﻿Pembroke,﻿Pembroke,﻿ME,,44.9536891,-67.1619293,,,,,﻿j_t_durnin_001,﻿Rev.,﻿J. T. Durnin,,,,,,,1870.0,Portland
+﻿por.me.0032,﻿church,not recorded,English,,,,,,﻿Pleasant Point,﻿Pleasant Point,﻿ME,,44.957301,-67.0422023,,,,,﻿eug_vetromile_001,﻿Rev.,﻿Eug. Vetromile,,,,,,,1870.0,Portland
+﻿por.me.0033,﻿church,not recorded,English,,,,,,﻿Robbinstown,﻿Robbinstown,﻿ME,,45.078132399999994,-67.10942829999999,,,,,﻿w_m_murphy_001,﻿Rev.,﻿W. M. Murphy,,,,,,,1870.0,Portland
+﻿por.me.0034,﻿church,﻿St. David's,English,,,,,,﻿Rockland,﻿Rockland,﻿ME,,44.10274491,-69.11847546,,,,,﻿lou_lhiver_001,﻿Rev.,﻿Louis l'Hiver,,,,,,,1870.0,Portland
+﻿por.me.0035,﻿church,not recorded,English,,,,,,﻿Skowbegan,﻿Skowhegan,﻿ME,,44.7650366,-69.7193803,,,,,﻿f_picart_001,﻿Rev.,﻿F. Picart,,,,,,,1870.0,Portland
+﻿por.me.0036,﻿church,not recorded,English,,,,,,﻿Thomaston,﻿Thomaston,﻿ME,,44.07895739999999,-69.18169549999999,,,,,﻿lou_lhiver_001,﻿Rev.,﻿Louis l'Hiver,,,,,,,1870.0,Portland
+﻿por.me.0037,﻿church,not recorded,English,,,,,,﻿Trescott,﻿Trescott,﻿ME,,44.7692466,-67.07414969999999,,,,,﻿joh_sullivan_001,﻿Rev.,﻿John Sullivan,,,,,,,1870.0,Portland
+﻿por.me.0038,﻿church,﻿St. Francis of Sales',English,,,,,,﻿Waterville,﻿Waterville,﻿ME,,44.54996908,-69.63413682,,,,,﻿f_picart_001,﻿Rev.,﻿F. Picart,,,,,,,1870.0,Portland
+﻿por.me.0040,﻿church,not recorded,English,,,,,,,﻿Claremont,﻿NH,,43.38348863,-72.37208443,,,,,,﻿Rev.,,,,,,,,1870.0,Portland
+﻿por.me.0041,﻿church,﻿St. Mary's,English,,,,,,﻿Claremont,,﻿NH,,43.374179,-72.34177609999999,,,,,﻿d_murphy_001,﻿Rev.,﻿D. Murphy,,,,,,,1870.0,Portland
+﻿por.me.0041,﻿church,﻿St. Mary's,English,,,,,,﻿Claremont,,﻿NH,,43.374179,-72.34177609999999,,,,,﻿l_mussaers_001,﻿Rev.,﻿L. Mussaers,,,,,,,1870.0,Portland
+﻿por.me.0042,﻿church,not recorded,English,,,,,,﻿Columbia,﻿Columbia,﻿NH,,44.85199229999999,-71.5517531,,,,,﻿isi_noiseux_001,﻿Rev.,﻿Isidore Noiseux,,,,,,,1870.0,Portland
+﻿por.me.0043,﻿church,not recorded,English,,,,,,﻿Concord,﻿Concord,﻿NH,,43.2081366,-71.5375718,,,,,﻿joh_barry_002,﻿Rev.,﻿John Barry,,,,,,,1870.0,Portland
+﻿por.me.0044,﻿church,﻿St. Aloysius',English,,,,,,﻿Dover,﻿Dover,﻿NH,,43.1978624,-70.8736698,,,,,﻿jam_drummond_001,﻿Rev.,﻿James Drummond,,,,,,,1870.0,Portland
+﻿por.me.0045,﻿church,﻿St. Bernard's,English,,,,,,﻿Exeter,﻿Exeter,﻿NH,,42.9814292,-70.9477546,,,,,﻿m_obrien_001,﻿Rev.,﻿M. O'Brien,,,,,,,1870.0,Portland
+﻿por.me.0046,﻿church,not recorded,English,,,,,,﻿Gorham,﻿Gorham,﻿NH,,44.387950399999994,-71.17278809999999,,,,,﻿i_noiseux_001,﻿Rev.,﻿I. Noiseux,,,,,,,1870.0,Portland
+﻿por.me.0047,﻿church,﻿St. Michael's,English,,,,,,﻿Great Falls,﻿Somersworth,﻿NH,,43.25445551,-70.88355845,,,,,﻿p_canavan_001,﻿Rev.,﻿P. Canavan,,,,,,,1870.0,Portland
+﻿por.me.0048,﻿church,﻿St. Bernard's,English,,,,,,﻿Keene,﻿Keene,﻿NH,,42.92929148,-72.27821581,,,,,﻿d_murphy_001,﻿Rev.,﻿D. Murphy,,,,,,,1870.0,Portland
+﻿por.me.0048,﻿church,﻿St. Bernard's,English,,,,,,﻿Keene,﻿Keene,﻿NH,,42.92929148,-72.27821581,,,,,﻿l_mussaers_001,﻿Rev.,﻿L. Mussaers,,,,,,,1870.0,Portland
+﻿por.me.0049,﻿church,not recorded,English,,,,,,﻿Laconia,﻿Laconia,﻿NH,,43.527854600000005,-71.47035090000001,,,,,﻿i_noiseux_001,﻿Rev.,﻿I. Noiseux,,,,,,,1870.0,Portland
+﻿por.me.0050,﻿church,not recorded,English,,,,,,﻿Lancaster,﻿Lancaster,﻿NH,,44.4889204,-71.5692477,,,,,﻿i_noiseux_001,﻿Rev.,﻿I. Noiseux,,,,,,,1870.0,Portland
+﻿por.me.0050,﻿church,not recorded,English,,,,,,﻿Lancaster,﻿Lancaster,﻿NH,,44.4889204,-71.5692477,,,,,﻿j_lecrome_001,﻿Rev.,﻿J. Lecrome,,,,,,,1870.0,Portland
+﻿por.me.0051,﻿church,not recorded,English,,,,,,﻿Littleton,﻿Littleton,﻿NH,,44.306162799999996,-71.77012370000001,,,,,﻿i_noiseux_001,﻿Rev.,﻿I. Noiseux,,,,,,,1870.0,Portland
+﻿por.me.0052,﻿church,﻿St. Ann's,English,,,,,,﻿Manchester,﻿Manchester,﻿NH,,42.989249799999996,-71.45558790000001,,,,,﻿wm_mcdonald_001,﻿Rev.,﻿Wm. McDonald,,,,,,,1870.0,Portland
+﻿por.me.0052,﻿church,﻿St. Ann's,English,,,,,,﻿Manchester,﻿Manchester,﻿NH,,42.989249799999996,-71.45558790000001,,,,,﻿ant_sinescalchi_001,﻿Rev.,﻿Antonio Sinescalchi,,,,,,,1870.0,Portland
+﻿por.me.0053,﻿church,﻿St. Joseph's,English,,,,,,﻿Manchester,,﻿NH,,42.995639700000005,-71.4547891,,,,,﻿joh_obrien_002,﻿Rev.,﻿John O'Brien,,,,,,,1870.0,Portland
+﻿por.me.0055,﻿chapel,﻿Convent Chapel,English,,,,,,,﻿Manchester,﻿NH,,42.98364241,-71.46599778,,,,,﻿wm_mcdonald_001,﻿Rev.,﻿Wm. McDonald,,,,,,,1870.0,Portland
+﻿por.me.0057,﻿church,not recorded,English,,,,,,﻿Mason,﻿Mason,﻿NH,,42.7431782,-71.7688868,,,,,﻿p_hoolahan_001,﻿Rev.,﻿P. Hoolahan,,,,,,,1870.0,Portland
+﻿por.me.0058,﻿church,not recorded,English,,,,,,﻿Milford,﻿Milford,﻿NH,,42.8353619,-71.6489836,,,,,﻿p_hoolahan_001,﻿Rev.,﻿P. Hoolahan,,,,,,,1870.0,Portland
+﻿por.me.0059,﻿church,﻿Immaculate Conception,English,,,,,,﻿Nashua,﻿Nashua,﻿NH,,42.76201277,-71.45888407,,,,,﻿joh_odonnell_001,﻿V. Rev.,﻿John O'Donnell,,﻿V.G.,,,,,1870.0,Portland
+﻿por.me.0059,﻿church,﻿Immaculate Conception,English,,,,,,﻿Nashua,﻿Nashua,﻿NH,,42.76201277,-71.45888407,,,,,﻿joh_f_pousardin_001,﻿Rev.,﻿John Francis Pousardin,,,,,,,1870.0,Portland
+﻿por.me.0060,﻿church,not recorded,English,,,,,,﻿Newmarket,﻿Newmarket,﻿NH,,43.0828551,-70.9350382,,,,,﻿wm_obrien_001,﻿Rev.,﻿Wm. O'Brien,,,,,,,1870.0,Portland
+﻿por.me.0062,﻿church,not recorded,English,,,,,,﻿Lebanon,﻿Lebanon,﻿NH,,43.6422934,-72.2517569,,,,,﻿i_noiseux_001,﻿Rev.,﻿I. Noiseux,,,,,,,1870.0,Portland
+﻿por.me.0063,﻿church,﻿St. Mary's,English,,,,,,﻿Portsmouth,﻿Portsmouth,﻿NH,,43.0568033,-70.785658,,,,,﻿t_walsh_002,﻿Rev.,﻿T. Walsh,,,,,,,1870.0,Portland
+﻿por.me.0064,﻿church,not recorded,English,,,,,,﻿Rochester,﻿Rochester,﻿NH,,43.304526,-70.9756186,,,,,﻿m_obrien_001,﻿Rev.,﻿M. O'Brien,,,,,,,1870.0,Portland
+﻿por.me.0065,﻿church,﻿St. Mary's,English,,,,,,﻿Salmon Falls,﻿Salmon Falls,﻿NH,,43.23789339,-70.82079769,,,,,﻿p_canavan_001,﻿Rev.,﻿P. Canavan,,,,,,,1870.0,Portland
+﻿por.me.0066,﻿church,not recorded,English,,,,,,﻿Peterboro,﻿Peterboro,﻿NH,,42.870604799999995,-71.95167459999999,,,,,﻿d_murphy_001,﻿Rev.,﻿D. Murphy,,,,,,,1870.0,Portland
+﻿por.me.0066,﻿church,not recorded,English,,,,,,﻿Peterboro,﻿Peterboro,﻿NH,,42.870604799999995,-71.95167459999999,,,,,﻿joh_imasso_001,﻿Rev.,﻿John Imasso,,,﻿absent with permission,,,,1870.0,Portland
+﻿por.me.0067,﻿church,not recorded,English,,,,,,﻿Suncook,﻿Suncook,﻿NH,,43.130638,-71.4531241,,,,,﻿joh_barry_002,﻿Rev.,﻿John Barry,,,,,,,1870.0,Portland
+﻿por.me.0068,﻿church,not recorded,English,,,,,,﻿Fisherville,﻿Fisherville,﻿NH,,43.2801927,-71.59909990000001,,,,,﻿joh_barry_002,﻿Rev.,﻿John Barry,,,,,,,1870.0,Portland
+﻿por.me.0069,﻿church,not recorded,English,,,,,,﻿Wilton,﻿Wilton,﻿NH,,42.8433943,-71.7351077,,,,,﻿p_hoolahan_001,﻿Rev.,﻿P. Hoolahan,,,,,,,1870.0,Portland
+﻿por.me.0070,"﻿convent, academy",﻿Convent and Academy of the Ladies of the Congregation of Notre Dame,English,,,,,,﻿Portland,﻿Portland,﻿ME,,43.667720200000005,-70.2809152,,,,,﻿ste_josephine_001,﻿Madame,﻿Ste. Josephine,,﻿Lady Superior,,﻿religious,"﻿Number of religious, 14",,1870.0,Portland
+﻿por.me.0070,"﻿convent, academy",﻿Convent and Academy of the Ladies of the Congregation of Notre Dame,English,,,,,,﻿Portland,﻿Portland,﻿ME,,43.667720200000005,-70.2809152,,,,,,,,,,,﻿pupil,"﻿number of pupils, 80",,1870.0,Portland
+﻿por.me.0071,﻿school,﻿Parochial School of the Cathedral,English,,,,,,﻿Portland,﻿Portland,﻿ME,,43.659099299999994,-70.2568189,,,,,,,,,,,﻿pupil,"﻿Number of pupils, about 460",﻿in charge of the Ladies of the Congregation of Notre Dame,1870.0,Portland
+﻿por.me.0072,﻿school,not recorded,English,﻿Parochial School,,,,,﻿Portland,﻿Portland,﻿ME,,43.659099299999994,-70.2568189,,,,,,,,,,,﻿pupil,"﻿Number of pupils, about 375",﻿in charge of the Ladies of the Congregation of Notre Dame,1870.0,Portland
+﻿por.me.0073,﻿house,﻿Mother House of the Sisters of Mercy,English,,,,,,﻿Manchester,﻿Manchester,﻿NH,,42.995639700000005,-71.4547891,,,,,,﻿Mother,﻿M. Francis Xavier Warde,,﻿Mother Superior,,﻿professed choir sister,"﻿Professed choir sisters, 20",,1870.0,Portland
+﻿por.me.0073,﻿house,﻿Mother House of the Sisters of Mercy,English,,,,,,﻿Manchester,﻿Manchester,﻿NH,,42.995639700000005,-71.4547891,,,,,,,,,,,﻿choir novice,"﻿choir novices, 12",,1870.0,Portland
+﻿por.me.0073,﻿house,﻿Mother House of the Sisters of Mercy,English,,,,,,﻿Manchester,﻿Manchester,﻿NH,,42.995639700000005,-71.4547891,,,,,,,,,,,﻿postulant,"﻿postulants, 3",,1870.0,Portland
+﻿por.me.0073,﻿house,﻿Mother House of the Sisters of Mercy,English,,,,,,﻿Manchester,﻿Manchester,﻿NH,,42.995639700000005,-71.4547891,,,,,,,,,,,﻿lay sister,"﻿lay Sisters, 9",,1870.0,Portland
+﻿por.me.0074,"﻿academy, school",not recorded,English,﻿Academy and Boarding-school,﻿attached to the Mother House of the Sisters of Mercy,,,,﻿Manchester,﻿Manchester,﻿NH,,42.995639700000005,-71.4547891,,,,,,,,,,,,,﻿under charge of the Sisters of Mercy,1870.0,Portland
+﻿por.me.0075,﻿house,﻿House of the Sisters of Mercy,English,,,,,,﻿Portsmouth,﻿Portsmouth,﻿NH,,43.071755200000005,-70.7625532,,,,,,,,,,,﻿professed choir sister,"﻿Professed choir sisters, 3",,1870.0,Portland
+﻿por.me.0075,﻿house,﻿House of the Sisters of Mercy,English,,,,,,﻿Portsmouth,﻿Portsmouth,﻿NH,,43.071755200000005,-70.7625532,,,,,,,,,,,﻿lay sister,"﻿lay Sisters, 2",,1870.0,Portland
+﻿por.me.0076,﻿house,﻿House of the Sisters of Mercy,English,,,,,,﻿Bangor,﻿Bangor,﻿ME,,44.801612799999994,-68.7712257,,,,,,,,,,,﻿professed choir sister,"﻿Professed choir sisters, 5",,1870.0,Portland
+﻿por.me.0076,﻿house,﻿House of the Sisters of Mercy,English,,,,,,﻿Bangor,﻿Bangor,﻿ME,,44.801612799999994,-68.7712257,,,,,,,,,,,﻿lay sister,"﻿lay Sisters, 3",,1870.0,Portland
+﻿por.me.0077,﻿school,not recorded,English,,,,,,﻿Manchester,﻿Manchester,﻿NH,,42.995639700000005,-71.4547891,,,,,,,,,,,﻿pupil,"﻿Number of pupils, over 400",﻿under the direction of the Sisters of Mercy,1870.0,Portland
+﻿por.me.0078,"﻿academy, school",not recorded,English,,,,,,﻿Bangor,﻿Bangor,﻿ME,,44.801612799999994,-68.7712257,,,,,,,,,,,,,﻿in charge of the Sisters of Mercy,1870.0,Portland
+﻿por.me.0079,"﻿academy, school",not recorded,English,,,,,,﻿Portsmouth,﻿Portsmouth,﻿NH,,43.071755200000005,-70.7625532,,,,,,,,,,,,,﻿in charge of the Sisters of Mercy,1870.0,Portland

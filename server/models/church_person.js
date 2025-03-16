@@ -16,10 +16,16 @@ module.exports = (sequelize, DataTypes) => {
     }
   }
   Church_Person.init({
-    instID: DataTypes.STRING,
+    instID: {
+      type: DataTypes.STRING,
+      allowNull: false,
+    },
     instName: DataTypes.STRING,
     instYear: DataTypes.INTEGER,
-    persID: DataTypes.STRING,
+    persID: {
+      type: DataTypes.STRING,
+      allowNull: false,
+    },
     persName: DataTypes.STRING,
     persYear: DataTypes.INTEGER,
   }, {

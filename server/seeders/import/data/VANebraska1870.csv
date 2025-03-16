@@ -1,0 +1,69 @@
+﻿instID,church_type,instName,language,instNote,placeName,region,county_orig,county_reg,city_orig,city_reg,state_orig,state_reg,latitude,longitude,attendingInstID,attendingChurch,attendingChurchFrequency,attendingChurchNote,persID,persTitle,persName,persSuffix,persRole,persNote,memberType,member,affiliated,year,diocese
+﻿oma.ne.0001,﻿church,﻿Church of St. Philomena,English,,,,,,﻿Omaha,﻿Omaha,﻿NE,﻿NE,41.2565369,-95.93450340000001,,,,,﻿jam_ogorman_001,﻿Rt. Rev.,﻿James O'Gorman,﻿D.D.,﻿Bishop,,,,,1870.0,VANebraska
+﻿oma.ne.0001,﻿church,﻿Church of St. Philomena,English,,,,,,﻿Omaha,﻿Omaha,﻿NE,,41.2565369,-95.93450340000001,,,,,﻿joh_curtis_001,﻿Rev.,﻿John Curtis,﻿Administrator,,,,,,1870.0,VANebraska
+﻿oma.ne.0001,﻿church,﻿Church of St. Philomena,English,,,,,,﻿Omaha,﻿Omaha,﻿NE,,41.2565369,-95.93450340000001,,,,,﻿wil_mcginnis_001,﻿Rev.,﻿William McGinnis,,,,,,,1870.0,VANebraska
+﻿oma.ne.0002,﻿church,﻿Church of St. Mary Magdalen,﻿german,,,,,,﻿Omaha,﻿Omaha,﻿NE,﻿NE,41.2050802,-95.9845069,,,,,﻿ott_groenebaum_001,﻿Rev.,﻿Ottoe Groenebaum,,﻿Pastor,,,,,1870.0,VANebraska
+﻿oma.ne.0003,﻿church,﻿Church of St. Benedict,﻿german,,,,,,﻿Nebraska City,﻿Nebraska City,﻿NE,﻿NE,40.6765745,-95.85936159999999,,,,,﻿ema_hartig_001,﻿Rev.,﻿Emanuel Hartig,﻿O.S.B.,﻿Pastor,,,,,1870.0,VANebraska
+﻿oma.ne.0004,﻿church,not recorded,﻿german,,,,﻿Platte County,,﻿Columbus,﻿Columbus,﻿NE,﻿NE,41.4302973,-97.35939040000001,,,,,﻿j_m_ryan_002,﻿Rev.,﻿J. M. Ryan,,﻿Pastor,,,,,1870.0,VANebraska
+﻿oma.ne.0005,﻿church,﻿St. Patrick's,﻿german,,,,﻿Dakota County,,﻿Franklin,﻿Jackson,﻿NE,﻿NE,42.450708,-96.5712915,,,,,﻿pat_keenan_001,﻿Rev.,﻿Patrick Keenan,,﻿Pastor,,,,,1870.0,VANebraska
+﻿oma.ne.0006,﻿church,not recorded,English,,,,﻿Richardson County,,﻿Rulo,﻿Rulo,﻿NE,﻿NE,40.0524616,-95.4292764,,,,,﻿the_majerus_001,﻿Rev.,﻿Theodore Majerus,,﻿Pastor,,,,,1870.0,VANebraska
+﻿oma.ne.0007,﻿church,﻿St. Patrick's,English,,,,,,﻿Forest City,,﻿NE,﻿NE,"﻿41.13105296617946,",-96.27832634,,,,,﻿joh_lonergan_001,﻿Rev.,﻿John Lonergan,,﻿Pastor,,,,,1870.0,VANebraska
+﻿oma.ne.0008,﻿church,not recorded,﻿german,,,,,,﻿West Point,﻿West Point,﻿NE,﻿NE,41.8416659,-96.7086432,,,,,﻿fr_uhing_001,﻿Rev.,﻿Fr. Uhing,,﻿Pastor,,,,,1870.0,VANebraska
+﻿oma.ne.0009,﻿church,﻿St. Patrick's,English,,,,,,﻿Elk Horn,﻿Elkhorn,﻿NE,﻿NE,41.292345,-96.2363881,,,,,﻿joh_lonergan_001,﻿Rev.,﻿John Lonergan,,﻿Pastor,,,,,1870.0,VANebraska
+﻿oma.ne.0010,﻿church,﻿Church of the Immaculate Conception of the Blessed Virgin Mary,English,,,,﻿Cedar County,,﻿St. Helena,﻿St. Helena,﻿NE,﻿NE,42.8097196,-97.2489418,,,,,﻿fer_lechlectner_001,﻿Rev.,﻿Ferdinand Lechlectner,,﻿Pastor,,,,,1870.0,VANebraska
+﻿oma.ne.0011,﻿station,not recorded,English,,,,,,﻿Arago,﻿Arago,﻿NE,﻿NE,40.1172996,-95.4987565,,,,,,,,,,﻿attended from Rulo,,,,1870.0,VANebraska
+﻿oma.ne.0012,﻿station,not recorded,English,,,,,,﻿Blairstown,﻿Blair,﻿NE,﻿NE,41.5446975,-96.1350702,,,,,,,,,,﻿attended from Omaha one Sunday in the month,,,,1870.0,VANebraska
+﻿oma.ne.0013,﻿station,not recorded,English,,,,,,﻿Brownsville,﻿Brownsville,﻿NE,﻿NE,40.3977793,-95.6580455,,,,,,,,,,﻿attended from Rulo,,,,1870.0,VANebraska
+﻿oma.ne.0014,﻿station,not recorded,English,,,,,,﻿Fort Kearney,﻿Kearney,﻿NE,﻿NE,40.6993303,-99.08167840000002,,,,,,,,,,﻿attended from Columbus occasionally,,,,1870.0,VANebraska
+﻿oma.ne.0015,﻿station,not recorded,English,,,,,,﻿Fort McPherson,,﻿NE,﻿NE,41.016111,-100.5175,,,,,,,,,,﻿attended from Columbus occasionally,,,,1870.0,VANebraska
+﻿oma.ne.0016,﻿station,not recorded,English,,,,,,﻿Fort Sedwick,﻿Fort Sedgwick,﻿NE,﻿CO,40.9363799,-102.52546640000001,,,,,,,,,,﻿attended from Columbus occasionally,,,,1870.0,VANebraska
+﻿oma.ne.0017,﻿station,not recorded,English,,,,﻿Dodge County,,﻿Fremont,﻿Fremont,﻿NE,﻿NE,41.4333909,-96.4981467,,,,,,,,,,﻿attended one Sunday a month from Elk Horn,,,,1870.0,VANebraska
+﻿oma.ne.0018,﻿station,not recorded,English,,,,﻿Hall County,,﻿Grand Island,﻿Grand Island,﻿NE,﻿NE,40.9263957,-98.34201180000001,,,,,,,,,,﻿attended from Columbus,,,,1870.0,VANebraska
+﻿oma.ne.0019,﻿station,not recorded,English,,,,,,﻿Julesburgh,﻿Julesburg,﻿NE,﻿CO,40.9883258,-102.26435190000001,,,,,,,,,,﻿attended from Columbus,,,,1870.0,VANebraska
+﻿oma.ne.0020,﻿station,not recorded,English,,,,,,﻿Lincoln City,﻿Lincoln,﻿NE,﻿NE,40.8136634,-96.70257640000001,,,,,,,,,,﻿attended one Sunday a month from Nebraska City,,,,1870.0,VANebraska
+﻿oma.ne.0021,﻿station,not recorded,English,,,,,,﻿North Platte,﻿North Platte,﻿NE,﻿NE,41.1402759,-100.7601454,,,,,,,,,,﻿attended from Columbus,,,,1870.0,VANebraska
+﻿oma.ne.0022,﻿station,not recorded,English,,,,,,﻿North Bend,﻿North Bend,﻿NE,﻿NE,41.4619485,-96.7797515,,,,,,,,,,﻿attended from Elk Horn,,,,1870.0,VANebraska
+﻿oma.ne.0023,﻿station,not recorded,English,,,,,,﻿Papillion,﻿Papillion,﻿NE,﻿NE,41.1544398,-96.0430314,,,,,,,,,,﻿attended from Omaha occasionally,,,,1870.0,VANebraska
+﻿oma.ne.0024,﻿station,not recorded,English,,,,,,﻿Poucha,﻿Ponca,﻿NE,﻿NE,42.5624971,-96.7055917,,,,,,,,,,﻿attended from Franklin,,,,1870.0,VANebraska
+﻿oma.ne.0025,﻿station,not recorded,English,,,,﻿Cass County,,﻿Plattsmouth,﻿Plattsmouth,﻿NE,﻿NE,41.0111103,-95.8808424,,,,,,,,,,﻿attended once a month from Nebraska City,,,,1870.0,VANebraska
+﻿oma.ne.0026,﻿station,not recorded,English,,,,,,﻿Rockport,﻿Rock Port,﻿NE,﻿MO,40.4111122,-95.5169286,,,,,,,,,,﻿attended from Omaha,,,,1870.0,VANebraska
+﻿oma.ne.0027,﻿station,not recorded,English,,,,,,﻿Shell Creek,﻿Shell Creek,﻿NE,﻿NE,41.49416595,-97.0590615,,,,,,,,,,﻿attended from Columbus,,,,1870.0,VANebraska
+﻿oma.ne.0028,﻿station,not recorded,English,,,,,,﻿Tecumseh,﻿Tecumseh,﻿NE,﻿NE,40.3667541,-96.1957864,,,,,,,,,,﻿attended from Nebraska City,,,,1870.0,VANebraska
+﻿oma.ne.0029,﻿station,not recorded,English,,,,﻿Hall County,,﻿Wood River,﻿Wood River,﻿NE,﻿NE,40.820569,-98.6000704,,,,,,,,,,﻿attended from Columbus,,,,1870.0,VANebraska
+﻿hel.mt.0001,﻿church,﻿Church of the Sacred Hearts of Jesus and Mary,English,,,﻿Territory of Montana,,,﻿Helena,﻿Helena,,﻿MT,46.5891452,-112.03910570000001,,,,,﻿l_v_gorp_001,﻿Rev.,﻿L. Van Gorp,﻿S.J.,﻿Pastor,,,,,1870.0,VANebraska
+﻿hel.mt.0002,﻿church,not recorded,English,,,﻿Territory of Montana,,,﻿Boulder Valley,﻿Boulder,,﻿MT,45.8668713,-111.94554280000001,,,,,,,,,,﻿visited once in two weeks from Helena,,,,1870.0,VANebraska
+﻿hel.mt.0003,﻿church,not recorded,English,,,﻿Territory of Montana,,,﻿Bannack City,﻿Bannack,,﻿MT,45.1610337,-112.99559070000001,,,,,,,,,,﻿visited once in two weeks from Helena,,,,1870.0,VANebraska
+﻿hel.mt.0004,﻿church,not recorded,English,,,﻿Territory of Montana,,,﻿Carrie Gulch,,,﻿MT,46.8796822,-110.3625658,,,,,,,,,,﻿visited once in two weeks from Helena,,,,1870.0,VANebraska
+﻿hel.mt.0005,﻿church,not recorded,English,,,﻿Territory of Montana,,,﻿Diamond City,﻿Diamond City,,﻿MT,46.5971602,-111.4238527,,,,,,,,,,﻿visited once in two weeks from Helena,,,,1870.0,VANebraska
+﻿hel.mt.0006,﻿church,not recorded,English,,,﻿Territory of Montana,,,﻿Eldorado Bar,﻿El Dorado Bar,,,46.7228,-111.8439,,,,,,,,,,﻿visited once in two weeks from Helena,,,,1870.0,VANebraska
+﻿hel.mt.0007,﻿church,not recorded,English,,,﻿Territory of Montana,,,﻿Fort Shaw,﻿Fort Shaw,,﻿MT,47.5055075,-111.81026509999998,,,,,,,,,,﻿visited once in two months from Helena,,,,1870.0,VANebraska
+﻿hel.mt.0008,﻿church,not recorded,English,,,﻿Territory of Montana,,,﻿Fort Benton,﻿Fort Benton,,﻿MT,47.8344143,-110.65826990000001,,,,,,,,,,﻿visited once in two months from Helena,,,,1870.0,VANebraska
+﻿hel.mt.0009,﻿church,not recorded,English,,,﻿Territory of Montana,,,﻿Fort Ellis,,,,46.8796822,-110.3625658,,,,,,,,,,﻿visited once in two months from Helena,,,,1870.0,VANebraska
+﻿hel.mt.0010,﻿church,not recorded,English,,,﻿Territory of Montana,,,﻿French Bar,﻿French Bar Place,,﻿MT,46.6603,-111.7439,,,,,,,,,,﻿visited once in two months from Helena,,,,1870.0,VANebraska
+﻿hel.mt.0011,﻿church,not recorded,English,,,﻿Territory of Montana,,,﻿Gallatin Valley,,,﻿MT,45.861022,-111.48866100000001,,,,,,,,,,﻿visited once in two months from Helena,,,,1870.0,VANebraska
+﻿hel.mt.0012,﻿church,not recorded,English,,,﻿Territory of Montana,,,﻿Missouri Valley,,,﻿MT,46.8796822,-110.3625658,,,,,,,,,,﻿visited once in two months from Helena,,,,1870.0,VANebraska
+﻿hel.mt.0013,﻿church,not recorded,English,,,﻿Territory of Montana,,,﻿New York Gulch,﻿York,,﻿MT,46.72286,-111.75398,,,,,,,,,,﻿visited once in two months from Helena,,,,1870.0,VANebraska
+﻿hel.mt.0014,﻿church,not recorded,English,,,﻿Territory of Montana,,,﻿Passamera Valley,,,﻿MT,46.8796822,-110.3625658,,,,,,,,,,﻿visited once in two months from Helena,,,,1870.0,VANebraska
+﻿hel.mt.0015,﻿church,not recorded,English,,,﻿Territory of Montana,,,﻿Silver Creek,﻿Silver City,,﻿MT,"﻿46.73572379953894,",-112.18104640000001,,,,,,,,,,﻿visited once in two months from Helena,,,,1870.0,VANebraska
+﻿hel.mt.0016,﻿mission,not recorded,English,,﻿in the Rocky Mountains,﻿Territory of Montana,,,,,,,44.2642998,-109.7869527,,,,,,,,,,,,,﻿Jesuit Fathers,1870.0,VANebraska
+﻿che.wy.0001,﻿church,﻿Church of St. Mary of the Plains,English,,,﻿Territory of Wyoming,,,﻿Cheyenne,﻿Cheyenne,﻿WY,﻿WY,41.1344201,-104.8128327,,,,,﻿p_j_erlach_001,﻿Rev.,﻿P. J. Erlach,,﻿Pastor,,,,,1870.0,VANebraska
+﻿che.wy.0001,﻿church,﻿Church of St. Mary of the Plains,English,,,﻿Territory of Wyoming,,,﻿Cheyenne,﻿Cheyenne,﻿WY,,41.1344201,-104.8128327,,,,,﻿joh_a_hayes_002,﻿Rev.,﻿John A. Hayes,,﻿Assistant-Pastor,,,,,1870.0,VANebraska
+﻿che.wy.0002,﻿church,not recorded,English,,,﻿Territory of Wyoming,,,﻿Fort Russel,﻿Cheyenne,﻿WY,﻿WY,41.133056,-104.86694399999999,,,,,,,,,,﻿attended from Cheyenne occasionally,,,,1870.0,VANebraska
+﻿che.wy.0003,﻿church,not recorded,English,,,﻿Territory of Wyoming,,,﻿Fort Saunders,﻿Laramie,﻿WY,﻿WY,41.269167,-105.59472199999999,,,,,,,,,,﻿attended from Cheyenne occasionally,,,,1870.0,VANebraska
+﻿che.wy.0004,﻿church,not recorded,English,,,﻿Territory of Wyoming,,,﻿Fort Fetterman,﻿Orpha,﻿WY,﻿WY,42.84296623,-105.48606629999999,,,,,,,,,,﻿attended from Cheyenne occasionally,,,,1870.0,VANebraska
+﻿che.wy.0005,﻿church,not recorded,English,,,﻿Territory of Wyoming,,,﻿Fort Steele,﻿Walcott,﻿WY,﻿WY,41.77785447,-106.9464303,,,,,,,,,,﻿attended from Cheyenne occasionally,,,,1870.0,VANebraska
+﻿che.wy.0006,﻿church,not recorded,English,,,﻿Territory of Wyoming,,,﻿Fort Bridger,﻿Fort Bridger,﻿WY,﻿WY,41.3166168,-110.3843251,,,,,,,,,,﻿attended from Cheyenne occasionally,,,,1870.0,VANebraska
+﻿che.wy.0007,﻿church,not recorded,English,,,﻿Territory of Wyoming,,,﻿Fort Laramie,﻿Fort Laramie,﻿WY,﻿WY,42.2127448,-104.5171788,,,,,,,,,,﻿attended from Cheyenne occasionally,,,,1870.0,VANebraska
+﻿che.wy.0008,﻿church,not recorded,English,,,﻿Territory of Wyoming,,,﻿Laramie City,﻿Laramie,﻿WY,﻿WY,41.3113669,-105.5911007,,,,,,,,,,﻿attended one Sunday a month from Cheyenne,,,,1870.0,VANebraska
+﻿che.wy.0009,﻿church,not recorded,English,,,﻿Territory of Wyoming,,,﻿Sherman Station,,﻿WY,﻿WY,41.131111,-105.39805600000001,,,,,,,,,,﻿attended from Cheyenne occasionally,,,,1870.0,VANebraska
+﻿che.wy.0010,﻿church,not recorded,English,,,﻿Territory of Wyoming,,,﻿Sydney,﻿Sidney,﻿WY,﻿NE,41.14321997,-102.9812572,,,,,,,,,,﻿attended from Cheyenne,,,,1870.0,VANebraska
+﻿che.wy.0011,﻿church,not recorded,English,,,﻿Territory of Wyoming,,,﻿Pine Bluffs,﻿Pine Bluffs,﻿WY,﻿WY,41.1819261,-104.06911740000001,,,,,,,,,,﻿attended from Cheyenne,,,,1870.0,VANebraska
+﻿sio.sd.0001,﻿church,not recorded,English,,,﻿Territory of Dakota,﻿Union County,,﻿French Settlement,,,﻿SD,42.61173223,-96.53192785,,,,,﻿bouchet_001,﻿Rev. Fr.,﻿Bouchet,,﻿Pastor,,,,,1870.0,VANebraska
+﻿sio.sd.0002,﻿church,not recorded,English,,,﻿Territory of Dakota,,,﻿Elk Point,﻿Elk Point,,﻿SD,42.68366888,-96.67796313,,,,,,,,,,﻿attended by Rev. Fr. Bouchet,,,,1870.0,VANebraska
+﻿sio.sd.0003,﻿church,not recorded,English,,,﻿Territory of Dakota,,,﻿Sioux Point,,,﻿SD,42.51932889,-96.49612194,,,,,,,,,,﻿attended by Rev. Fr. Bouchet,,,,1870.0,VANebraska
+﻿sio.sd.0004,﻿church,not recorded,English,,,﻿Territory of Dakota,,,﻿Yacton,﻿Yankton,,﻿SD,42.87210862,-97.40814165,,,,,,,,,,"﻿attended from St. Helena, Nebraska",,,,1870.0,VANebraska
+﻿oma.ne.0030,﻿school,﻿Academy of Mount St. Mary's,English,,,,,,﻿Omaha,﻿Omaha,﻿NE,﻿NE,41.2565369,-95.93450340000001,,,,,,,,,,,,,﻿Sisters of Mercy,1870.0,VANebraska
+﻿oma.ne.0031,﻿school,﻿Academy of St. Benedict,English,,,,,,﻿Nebraska City,﻿Nebraska City,﻿NE,﻿NE,40.6765745,-95.85936159999999,,,,,,﻿Mother Prioress,﻿Beatrice,,,,,,,1870.0,VANebraska
+﻿oma.ne.0031,﻿school,﻿Academy of St. Benedict,English,,,,,,﻿Nebraska City,﻿Nebraska City,﻿NE,,40.6765745,-95.85936159999999,,,,,,,,,,,,,﻿Sisters of the Benedictine Order,1870.0,VANebraska
+﻿oma.ne.0032,﻿school,﻿Day Schools,English,﻿The boys' schools are under the direction of the pastors and secular teachers,,,,,﻿Omaha,﻿Omaha,﻿NE,﻿NE,41.2565369,-95.93450340000001,,,,,,,,,,,,,﻿Sisters of Mercy,1870.0,VANebraska
+﻿oma.ne.0033,﻿school,﻿Day Schools,English,,,,,,﻿Nebraska City,﻿Nebraska City,﻿NE,﻿NE,40.6765745,-95.85936159999999,,,,,,,,,,,,,﻿Sisters of the Benedictine Order,1870.0,VANebraska

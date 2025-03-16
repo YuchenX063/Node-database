@@ -1,0 +1,417 @@
+﻿instID,church_type,instName,language,instNote,placeName,region,county_orig,county_reg,city_orig,city_reg,state_orig,state_reg,latitude,longitude,attendingInstID,attendingChurch,attendingChurchFrequency,attendingChurchNote,persID,persTitle,persName,persSuffix,persRole,persNote,memberType,member,affiliated,year,diocese
+﻿chi.il.0001,﻿cathedral,﻿Cathedral of the Holy Name,English,﻿Residence at 148 Cass street,﻿Corner of N. State and Superior streets,,,,﻿Chicago,﻿Chicago,﻿IL,,41.89600177,-87.62763549,,,,,﻿jos_h_doyle_001,﻿Rev.,﻿Jos. H. Doyle,,﻿Administrator,,,,,1870.0,Chicago
+﻿chi.il.0001,﻿cathedral,﻿Cathedral of the Holy Name,English,﻿Residence at 148 Cass street,﻿Corner of N. State and Superior streets,,,,﻿Chicago,﻿Chicago,﻿IL,,41.89600177,-87.62763549,,,,,﻿m_stack_001,﻿Rev.,﻿M. Stack,,﻿Assistant,,,,,1870.0,Chicago
+﻿chi.il.0002,﻿church,﻿St. Mary's,English,"﻿Residence, Bishop's house",﻿Corner of Madison street and Wabash avenue,,,,﻿Chicago,﻿Chicago,﻿IL,,41.8819264,-87.62655323,,,,,﻿tho_halligan_001,﻿Rev.,﻿Thomas Halligan,,,,,,,1870.0,Chicago
+﻿chi.il.0002,﻿church,﻿St. Mary's,English,"﻿Residence, Bishop's house",﻿Corner of Madison street and Wabash avenue,,,,﻿Chicago,﻿Chicago,﻿IL,,41.8819264,-87.62655323,,,,,﻿f_murtagh_001,﻿Rev.,﻿F. Murtagh,,,,,,,1870.0,Chicago
+﻿chi.il.0002,﻿church,﻿St. Mary's,English,"﻿Residence, Bishop's house",﻿Corner of Madison street and Wabash avenue,,,,﻿Chicago,﻿Chicago,﻿IL,,41.8819264,-87.62655323,,,,,﻿ed_gavin_001,﻿Rev.,﻿Ed. Gavin,,,,,,,1870.0,Chicago
+﻿chi.il.0003,﻿church,﻿St. Patrick's,English,"﻿Residence, adjoining church","﻿Desplain street, corner of Adams",,,,﻿Chicago,﻿Chicago,﻿IL,,41.87951815,-87.64453189,,,,,﻿t_o_gard_001,﻿Rev.,﻿T. O. Gard,,,,,,,1870.0,Chicago
+﻿chi.il.0003,﻿church,﻿St. Patrick's,English,"﻿Residence, adjoining church","﻿Desplain street, corner of Adams",,,,﻿Chicago,﻿Chicago,﻿IL,,41.87951815,-87.64453189,,,,,﻿p_flannigan_001,﻿Rev.,﻿P. Flannigan,,﻿Assistant,,,,,1870.0,Chicago
+﻿chi.il.0004,﻿church,﻿Church of the Holy Family,English,"﻿Residence, adjoining church",﻿Corner of Twelfth and May streets,,,,﻿Chicago,﻿Chicago,﻿IL,,41.86719614,-87.65472456,,,,,﻿arn_damen_001,﻿Very Rev.,﻿Arnold Damen,﻿S.J.,﻿Superior,,,,,1870.0,Chicago
+﻿chi.il.0004,﻿church,﻿Church of the Holy Family,English,"﻿Residence, adjoining church",﻿Corner of Twelfth and May streets,,,,﻿Chicago,﻿Chicago,﻿IL,,41.86719614,-87.65472456,,,,,﻿c_f_smarius_001,﻿Rev.,﻿C. F. Smarius,﻿S.J.,,,,,,1870.0,Chicago
+﻿chi.il.0004,﻿church,﻿Church of the Holy Family,English,"﻿Residence, adjoining church",﻿Corner of Twelfth and May streets,,,,﻿Chicago,﻿Chicago,﻿IL,,41.86719614,-87.65472456,,,,,﻿joh_schultz_001,﻿Rev.,﻿John Schultz,﻿S.J.,,,,,,1870.0,Chicago
+﻿chi.il.0004,﻿church,﻿Church of the Holy Family,English,"﻿Residence, adjoining church",﻿Corner of Twelfth and May streets,,,,﻿Chicago,﻿Chicago,﻿IL,,41.86719614,-87.65472456,,,,,﻿joh_deblieck_001,﻿Rev.,﻿John DeBlieck,﻿S.J.,,,,,,1870.0,Chicago
+﻿chi.il.0004,﻿church,﻿Church of the Holy Family,English,"﻿Residence, adjoining church",﻿Corner of Twelfth and May streets,,,,﻿Chicago,﻿Chicago,﻿IL,,41.86719614,-87.65472456,,,,,﻿mau_oakley_001,﻿Rev.,﻿Maurice Oakley,﻿S.J.,,,,,,1870.0,Chicago
+﻿chi.il.0004,﻿church,﻿Church of the Holy Family,English,"﻿Residence, adjoining church",﻿Corner of Twelfth and May streets,,,,﻿Chicago,﻿Chicago,﻿IL,,41.86719614,-87.65472456,,,,,﻿and_oneil_001,﻿Rev.,﻿Andrew O'Neil,﻿S.J.,,,,,,1870.0,Chicago
+﻿chi.il.0004,﻿church,﻿Church of the Holy Family,English,"﻿Residence, adjoining church",﻿Corner of Twelfth and May streets,,,,﻿Chicago,﻿Chicago,﻿IL,,41.86719614,-87.65472456,,,,,﻿joh_s_verdin_001,﻿Rev.,﻿John S. Verdin,﻿S.J.,,,,,,1870.0,Chicago
+﻿chi.il.0004,﻿church,﻿Church of the Holy Family,English,"﻿Residence, adjoining church",﻿Corner of Twelfth and May streets,,,,﻿Chicago,﻿Chicago,﻿IL,,41.86719614,-87.65472456,,,,,﻿joh_coghlan_001,﻿Rev.,﻿John Coghlan,﻿S.J.,,,,,,1870.0,Chicago
+﻿chi.il.0004,﻿church,﻿Church of the Holy Family,English,"﻿Residence, adjoining church",﻿Corner of Twelfth and May streets,,,,﻿Chicago,﻿Chicago,﻿IL,,41.86719614,-87.65472456,,,,,﻿joh_setters_001,﻿Rev.,﻿John Setters,﻿S.J.,,,,,,1870.0,Chicago
+﻿chi.il.0004,﻿church,﻿Church of the Holy Family,English,"﻿Residence, adjoining church",﻿Corner of Twelfth and May streets,,,,﻿Chicago,﻿Chicago,﻿IL,,41.86719614,-87.65472456,,,,,﻿fra_x_schulack_001,﻿Rev.,﻿Francis Xavier Schulack,﻿S.J.,,,,,,1870.0,Chicago
+﻿chi.il.0004,﻿church,﻿Church of the Holy Family,English,"﻿Residence, adjoining church",﻿Corner of Twelfth and May streets,,,,﻿Chicago,﻿Chicago,﻿IL,,41.86719614,-87.65472456,,,,,﻿ben_massellis_001,﻿Rev.,﻿Benedict Massellis,﻿S.J.,,,,,,1870.0,Chicago
+﻿chi.il.0004,﻿church,﻿Church of the Holy Family,English,"﻿Residence, adjoining church",﻿Corner of Twelfth and May streets,,,,﻿Chicago,﻿Chicago,﻿IL,,41.86719614,-87.65472456,,,,,﻿a_laurent_001,﻿Rev.,﻿A. Laurent,﻿S.J.,,,,,,1870.0,Chicago
+﻿chi.il.0005,﻿church,﻿St. Peter's,﻿German,,﻿corner of Clark and Polk streets,,,,﻿Chicago,﻿Chicago,﻿IL,,41.87223934,-87.63060513,,,,,﻿pet_fischer_001,﻿Very Rev.,﻿Peter Fischer,,,,,,,1870.0,Chicago
+﻿chi.il.0005,﻿church,﻿St. Peter's,﻿German,,﻿corner of Clark and Polk streets,,,,﻿Chicago,﻿Chicago,﻿IL,,41.87223934,-87.63060513,,,,,﻿p_g_hoch_001,﻿Rev.,﻿P. Gallus Hoch,﻿O.S.B.,,,,,,1870.0,Chicago
+﻿chi.il.0005,﻿church,﻿St. Peter's,﻿German,,﻿corner of Clark and Polk streets,,,,﻿Chicago,﻿Chicago,﻿IL,,41.87223934,-87.63060513,,,,,﻿m_brineke_001,﻿Rev.,﻿M. Brineke,,,,,,,1870.0,Chicago
+﻿chi.il.0006,﻿church,﻿Immaculate Conception,English,"﻿Residence, 497 North Franklin street","﻿North Franklin, near Schiller street",,,,﻿Chicago,﻿Chicago,﻿IL,,41.90843809,-87.6363965,,,,,﻿tha_j_butler_001,﻿Rev.,﻿Thaddeus J. Butler,﻿D.D.,,,,,,1870.0,Chicago
+﻿chi.il.0006,﻿church,﻿Immaculate Conception,English,"﻿Residence, 497 North Franklin street","﻿North Franklin, near Schiller street",,,,﻿Chicago,﻿Chicago,﻿IL,,41.90843809,-87.6363965,,,,,﻿p_butler_001,﻿Rev.,﻿P. Butler,,﻿Assistant,,,,,1870.0,Chicago
+﻿chi.il.0007,﻿church,﻿St. Michael's,﻿German,"﻿Residence on Church street, adjoining the church",﻿corner of Linden and Hulbert streets,,,,﻿Chicago,﻿Chicago,﻿IL,,41.91214034,-87.6409337,,,,,﻿pet_zimmer_001,﻿Rev.,﻿Peter Zimmer,﻿C.SS.R.,,,,,,1870.0,Chicago
+﻿chi.il.0007,﻿church,﻿St. Michael's,﻿German,"﻿Residence on Church street, adjoining the church",﻿corner of Linden and Hulbert streets,,,,﻿Chicago,﻿Chicago,﻿IL,,41.91214034,-87.6409337,,,,,﻿t_majerus_001,﻿Rev.,﻿T. Majerus,﻿C.SS.R.,,,,,,1870.0,Chicago
+﻿chi.il.0007,﻿church,﻿St. Michael's,﻿German,"﻿Residence on Church street, adjoining the church",﻿corner of Linden and Hulbert streets,,,,﻿Chicago,﻿Chicago,﻿IL,,41.91214034,-87.6409337,,,,,﻿jos_wessel_001,﻿Rev.,﻿Jos. Wessel,﻿C.SS.R.,,,,,,1870.0,Chicago
+﻿chi.il.0007,﻿church,﻿St. Michael's,﻿German,"﻿Residence on Church street, adjoining the church",﻿corner of Linden and Hulbert streets,,,,﻿Chicago,﻿Chicago,﻿IL,,41.91214034,-87.6409337,,,,,﻿cha_rosenbaur_001,﻿Rev.,﻿Chas. Rosenbaur,﻿C.SS.R.,,,,,,1870.0,Chicago
+﻿chi.il.0007,﻿church,﻿St. Michael's,﻿German,"﻿Residence on Church street, adjoining the church",﻿corner of Linden and Hulbert streets,,,,﻿Chicago,﻿Chicago,﻿IL,,41.91214034,-87.6409337,,,,,﻿f_oberle_001,﻿Rev.,﻿F. Oberle,﻿C.SS.R.,,,,,,1870.0,Chicago
+﻿chi.il.0007,﻿church,﻿St. Michael's,﻿German,"﻿Residence on Church street, adjoining the church",﻿corner of Linden and Hulbert streets,,,,﻿Chicago,﻿Chicago,﻿IL,,41.91214034,-87.6409337,,,,,﻿r_klieniedam_001,﻿Rev.,﻿R. Klieniedam,,,,,,,1870.0,Chicago
+﻿chi.il.0008,﻿church,﻿St. Joseph's,﻿German,"﻿Residence on Cass street, adjoining the church",﻿corner of Cass street and Chicago avenue,,,,﻿Chicago,﻿Chicago,﻿IL,,41.89671205,-87.62555666,,,,,﻿lea_schuers_001,﻿Rev.,﻿Leander Schuers,﻿O.S.B.,,,,,,1870.0,Chicago
+﻿chi.il.0008,﻿church,﻿St. Joseph's,﻿German,"﻿Residence on Cass street, adjoining the church",﻿corner of Cass street and Chicago avenue,,,,﻿Chicago,﻿Chicago,﻿IL,,41.89671205,-87.62555666,,,,,﻿p_s_marteau_001,﻿Rev.,﻿P. Suilbert de Marteau,﻿O.S.B.,,,,,,1870.0,Chicago
+﻿chi.il.0008,﻿church,﻿St. Joseph's,﻿German,"﻿Residence on Cass street, adjoining the church",﻿corner of Cass street and Chicago avenue,,,,﻿Chicago,﻿Chicago,﻿IL,,41.89671205,-87.62555666,,,,,﻿a_stubinger_001,﻿Rev.,﻿A. Stubinger,,,,,,,1870.0,Chicago
+﻿chi.il.0009,﻿church,﻿St. Bridget's,English,"﻿Residence, adjoining church",﻿Bridgeport,,,,﻿Chicago,﻿Chicago,﻿IL,,41.841201,-87.65944992,,,,,﻿joh_h_grogan_001,﻿Rev.,﻿John H. Grogan,,,,,,,1870.0,Chicago
+﻿chi.il.0010,﻿church,﻿St. John's,English,"﻿Residence, adjoining church",﻿Corner of Clark and Eighteenth streets,,,,﻿Chicago,﻿Chicago,﻿IL,,41.85796108,-87.62999524,,,,,﻿joh_waldron_001,﻿Rev.,﻿John Waldron,,,,,,,1870.0,Chicago
+﻿chi.il.0011,﻿church,﻿St. Francis Assisium,﻿German,"﻿Residence, adjoining church",﻿Corner of Twelfth and Newberry streets,,,,﻿Chicago,﻿Chicago,﻿IL,,41.86684589,-87.64779062,,,,,﻿fer_kalvelag_001,﻿Rev.,﻿Ferdinand Kalvelag,,,,,,,1870.0,Chicago
+﻿chi.il.0011,﻿church,﻿St. Francis Assisium,﻿German,"﻿Residence, adjoining church",﻿Corner of Twelfth and Newberry streets,,,,﻿Chicago,﻿Chicago,﻿IL,,41.86684589,-87.64779062,,,,,﻿j_meiler_001,﻿Rev.,﻿J. Meiler,,,,,,,1870.0,Chicago
+﻿chi.il.0012,﻿church,﻿St. Columba's,English,"﻿Residence, Indiana street, adjoining church",﻿Corner of Paulina and Indiana streets,,,,﻿Chicago,﻿Chicago,﻿IL,,41.6654003,-87.61736309999999,,,,,﻿tho_c_bourk_001,﻿Rev.,﻿Thomas C. Bourk,,,,,,,1870.0,Chicago
+﻿chi.il.0012,﻿church,﻿St. Columba's,English,"﻿Residence, Indiana street, adjoining church",﻿Corner of Paulina and Indiana streets,,,,﻿Chicago,﻿Chicago,﻿IL,,41.6654003,-87.61736309999999,,,,,﻿j_murphy_002,﻿Rev.,﻿J. Murphy,,﻿Ass. Pastor,,,,,1870.0,Chicago
+﻿chi.il.0013,﻿church,﻿St. James',English,"﻿Residence, 1233 Prairie avenue","﻿Prairie avenue, between Twenty-sixth and Twenty-seventh streets",,,,﻿Chicago,﻿Chicago,﻿IL,,41.84384284,-87.61745143,,,,,﻿p_conway_001,﻿Rev.,﻿P. Conway,,,,,,,1870.0,Chicago
+﻿chi.il.0014,﻿church,﻿St. Louis',English,"﻿Residence, 156 Sherman street","﻿Sherman street, near Polk",,,,﻿Chicago,﻿Chicago,﻿IL,,41.87224806,-87.63255865,,,,,﻿p_noonan_001,﻿Rev.,﻿P. Noonan,,,,,,,1870.0,Chicago
+﻿chi.il.0015,﻿church,﻿Notre Dame de Chicago,﻿French,"﻿Residence, in rear of church","﻿Halsted street, near Harrison",,,,﻿Chicago,﻿Chicago,﻿IL,,41.87490617,-87.64701522,,,,,﻿jac_coté_001,﻿Rev.,﻿Jacob Coté,,,,,,,1870.0,Chicago
+﻿chi.il.0016,﻿church,﻿St. Boniface's,﻿German,"﻿Residence, Noble street, adjoining church",﻿Corner of Cornell and Noble streets,,,,﻿Chicago,﻿Chicago,﻿IL,,41.89811073,-87.66214862,,,,,﻿j_venn_001,﻿Rev.,﻿J. Venn,,,,,,,1870.0,Chicago
+﻿chi.il.0017,﻿church,﻿St. Wenceslaus',﻿Bohemian,"﻿Residence, in rear of church",﻿Corner of Desplain and Bunker streets,,,,﻿Chicago,﻿Chicago,﻿IL,,41.86923997,-87.64351614,,,,,﻿j_molitor_001,﻿Rev.,﻿J. Molitor,,,,,,,1870.0,Chicago
+﻿chi.il.0018,﻿church,﻿St. Paul's,English,"﻿Residence, 322 Clinton street",﻿Corner of Mather and Clinton streets,,,,﻿Chicago,﻿Chicago,﻿IL,,41.7801693,-87.6074995,,,,,﻿joh_kilkenny_001,﻿Rev.,﻿John Kilkenny,,,,,,,1870.0,Chicago
+﻿chi.il.0019,﻿church,﻿Church of the Annunciation,English,"﻿Residence, Paulina and Wapansia avenues",﻿West Chicago,,,,﻿Chicago,﻿Chicago,﻿IL,,41.91243854,-87.67019096,,,,,﻿t_edwards_001,﻿Rev.,﻿T. Edwards,,,,,,,1870.0,Chicago
+﻿chi.il.0020,﻿church,﻿Church of Holy Angels,English,,﻿South Halsted and Thirty-eighth streets,,,,﻿Chicago,﻿Chicago,﻿IL,,41.82240957,-87.61179622,,,,,﻿p_lyons_001,﻿Rev.,﻿P. Lyons,,,,,,,1870.0,Chicago
+﻿chi.il.0021,﻿church,﻿St. Stanislaus',English,,"﻿Evans street, opposite John street",,,,﻿Chicago,﻿Chicago,﻿IL,,41.9051699,-87.6622193,,,,,﻿m_oakley_001,﻿Rev.,﻿M. Oakley,﻿S.J.,﻿Pastor,,,,,1870.0,Chicago
+﻿chi.il.0022,﻿church,﻿St. Aloysius',English,"﻿Residence, Desplain and Adams streets",﻿Hermitage avenue and W. Jackson street,,,,﻿Chicago,﻿Chicago,﻿IL,,41.9051699,-87.6622193,,,,,﻿j_j_grogan_001,﻿Rev.,﻿J. J. Grogan,,﻿Pastor,,,,,1870.0,Chicago
+﻿chi.il.0023,﻿church,﻿St. Rose's,English,"﻿Residence, 148 Cass street","﻿North Franklin, near Chicago avenue",,,,﻿Chicago,﻿Chicago,﻿IL,,41.8953121,-87.7190874,,,,,﻿j_mcmahon_001,﻿Rev.,﻿J. McMahon,,﻿Pastor,,,,,1870.0,Chicago
+﻿chi.il.0024,﻿church,not recorded,English,,"﻿Hyde Park, South Chicago",,,,﻿Chicago,﻿Chicago,﻿IL,,41.79421803,-87.63052052,,,,,﻿tho_leydon_001,﻿Rev.,﻿Thomas Leydon,,﻿Pastor,,,,,1870.0,Chicago
+﻿chi.il.0025,﻿church,﻿St. Stephen's,English,"﻿Residence, 156 North Peoria street",,,,,﻿Chicago,﻿Chicago,﻿IL,,41.89247391,-87.65271474,,,,,﻿s_barrett_001,﻿Rev.,﻿S. Barrett,,﻿Pastor,,,,,1870.0,Chicago
+﻿chi.il.0026,﻿church,﻿Polish Church,﻿Polish,﻿In course of erection,,,,,﻿Chicago,﻿Chicago,﻿IL,,41.90597552,-87.66219092,,,,,,,,,,,,,,1870.0,Chicago
+﻿chi.il.0027,﻿church,﻿St. Patrick's,English,,,,﻿Lee,﻿Lee County,﻿Amboy,﻿Amboy,﻿IL,,41.7132868,-89.32813318,,,,,﻿wil_murphy_001,﻿Rev.,﻿William Murphy,,,,,,,1870.0,Chicago
+﻿chi.il.0028,﻿church,not recorded,English,,,,﻿Jo Daviess,﻿Jo Daviess County,﻿Apple River,﻿Apple River,﻿IL,,42.50492948,-90.09681898,,,,,﻿r_j_oneil_001,﻿Rev.,﻿R. J. O'Neil,,,,,,,1870.0,Chicago
+﻿chi.il.0029,﻿church,﻿Sacred Heart,English,,,,﻿Kane,,﻿Aurora,﻿Aurora,﻿IL,,41.7605849,-88.3200715,,,,,﻿j_clarke_001,﻿Rev.,﻿J. Clarke,,,,,,,1870.0,Chicago
+﻿chi.il.0030,﻿church,﻿St. Nicholas',﻿German,,,,﻿Kane,,﻿Aurora,﻿Aurora,﻿IL,,41.76135775,-88.30320275,,,,,﻿her_liermann_001,﻿Rev.,﻿Hermann Liermann,,,,,,,1870.0,Chicago
+﻿chi.il.0031,﻿church,﻿Holy Trinity,﻿German,﻿German Catholic church,,,﻿McLean,,﻿Bloomington,﻿Bloomington,﻿IL,,40.48525023,-88.99422853,,﻿Attended from Lincoln,﻿regularly,,﻿p_duhig_001,﻿Rev.,﻿P. Duhig,,,,,,,1870.0,Chicago
+﻿chi.il.0031,﻿church,﻿Holy Trinity,﻿German,﻿German Catholic church,,,﻿McLean,,﻿Bloomington,﻿Bloomington,﻿IL,,40.48525023,-88.99422853,,,,,,﻿Rev.,﻿— Gormey,,,,,,,1870.0,Chicago
+﻿chi.il.0032,﻿church,﻿Notre Dame,English,,,,﻿Kankakee,,﻿Bourbonnais Grove,﻿Bourbonnais,﻿IL,,41.15648863,-87.87627605,,,,,﻿p_baudoin_001,﻿Rev.,﻿P. Baudoin,,,,,,,1870.0,Chicago
+﻿chi.il.0032,﻿church,﻿Notre Dame,English,,,,﻿Kankakee,,﻿Bourbonnais Grove,﻿Bourbonnais,﻿IL,,41.15648863,-87.87627605,,,,,﻿roy_001,﻿Rev. Fr.,﻿Roy,,,,,,,1870.0,Chicago
+﻿chi.il.0033,﻿church,﻿St. Joseph's,English,,,,﻿Peoria,,﻿Brimfield,﻿Brimfield,﻿IL,,40.83976145,-89.8888287,,,,,﻿h_boërs_001,﻿Rev.,﻿H. Boërs,,,,,,,1870.0,Chicago
+﻿chi.il.0034,﻿church,not recorded,English,,,,,,﻿Buffalo Grove,﻿Buffalo Grove,﻿IL,,42.1545374,-87.96360669,,,,,﻿j_goldsmidt_001,﻿Rev.,﻿J. Goldsmidt,,﻿Pastor,,,,,1870.0,Chicago
+﻿chi.il.0035,﻿church,﻿St. Peter's,English,,,,,﻿Iroquois County,﻿Clifton,﻿Clifton,﻿IL,,40.9353109,-87.93448509999999,,,,,,﻿Rev.,﻿— Kukenbuch,,,,,,,1870.0,Chicago
+﻿chi.il.0036,﻿church,﻿St. Mary's,English,,,,﻿Fulton,﻿Fulton County,﻿Canton,﻿Canton,﻿IL,,40.55732454,-90.03214698,,,﻿Attended twice a month,,﻿j_ryan_001,﻿Rev.,﻿J. Ryan,,,,,,,1870.0,Chicago
+﻿chi.il.0037,﻿church,﻿St. Mary's,English,,,,﻿Champaign,,﻿Champaign,﻿Champaign,﻿IL,,40.11766284,-88.2293473,,,,,﻿pat_toner_001,﻿Rev.,﻿Patrick Toner,,,,,,,1870.0,Chicago
+﻿chi.il.0038,﻿church,not recorded,English,,,,,,﻿Cottage Hill,,﻿IL,,﻿Try again to find coordinates,-88.2293473,,,,,,﻿Rev.,﻿——,,﻿Pastor,,,,,1870.0,Chicago
+﻿chi.il.0039,﻿church,﻿St. Patrick's,﻿German,﻿German church,,,﻿Vermilion,﻿Vermilion County,﻿Danville,﻿Danville,﻿IL,,39.98820602,-88.25720849,,,,,﻿m_prendergast_001,﻿Rev.,﻿M. Prendergast,,,,,,,1870.0,Chicago
+﻿chi.il.0039,﻿church,﻿St. Patrick's,﻿German,﻿German church,,,﻿Vermilion,﻿Vermilion County,﻿Danville,﻿Danville,﻿IL,,39.98820602,-88.25720849,,,,,﻿a_reck_001,﻿Rev.,﻿A. Reck,,,,,,,1870.0,Chicago
+﻿chi.il.0040,﻿church,﻿St. Mary's,English,,,,﻿De Kalb,,﻿De Kalb,﻿DeKalb,﻿IL,,41.93294433,-88.74856482,,,,,﻿r_scott_001,﻿Rev.,﻿R. Scott,,,,,,,1870.0,Chicago
+﻿chi.il.0041,﻿church,﻿St. Patrick's,English,,,,﻿Lee,,﻿Dixon,﻿Dixon,﻿IL,,41.83736085,-89.48387765,,,,,﻿j_n_kennedy_001,﻿Rev.,﻿J. N. Kennedy,,,,,,,1870.0,Chicago
+﻿chi.il.0042,﻿church,﻿St. Patrick's,English,,,,﻿Lee,,,,﻿IL,,41.83736085,-89.48387765,,,,,﻿j_n_kennedy_001,﻿Rev.,﻿J. N. Kennedy,,,,,,,1870.0,Chicago
+﻿chi.il.0043,﻿church,not recorded,English,,,,,,﻿Dunleith,﻿East Dubuque,﻿IL,,42.49341126,-90.64252126,,,,,﻿j_murphy_002,﻿Rev.,﻿J. Murphy,,﻿Pastor,,,,,1870.0,Chicago
+﻿chi.il.0044,﻿church,not recorded,English,,,,﻿Livingston,,﻿Dwight,﻿Dwight,﻿IL,,41.09432299,-88.42939084,,,,,﻿l_dunne_001,﻿Rev.,﻿L. Dunne,,,,,,,1870.0,Chicago
+﻿chi.il.0045,﻿church,﻿Immaculate Conception,English,,,,﻿Kane,,﻿Elgin,﻿Elgin,﻿IL,,42.03527365,-88.27562783,,,,,﻿j_fitzsimmons_001,﻿Rev.,﻿J. Fitzsimmons,,,,,,,1870.0,Chicago
+﻿chi.il.0046,﻿church,﻿St. Mary's,English,,,,﻿Woodford,,﻿El Paso,﻿El Paso,﻿IL,,40.74183013,-89.01760425,,,,,﻿fra_a_keenan_001,﻿Rev.,﻿Francis A. Keenan,,,,,,,1870.0,Chicago
+﻿chi.il.0047,﻿church,not recorded,English,,,,﻿Cook,,﻿Evanston,﻿Evanston,﻿IL,,42.04396331,-87.6866391,,,,,﻿p_haemers_001,﻿Rev.,﻿P. Haemers,,,,,,,1870.0,Chicago
+﻿chi.il.0048,﻿church,not recorded,English,,,,﻿Livingston,,﻿Fairbury,﻿Fairbury,﻿IL,,40.75008495,-88.51167185,,,,,﻿j_a_fanning_001,﻿Rev.,﻿J. A. Fanning,﻿B.D.,,,,,,1870.0,Chicago
+﻿chi.il.0049,﻿church,﻿St. Mary's,English,,,,﻿Stephenson,,﻿Freeport,﻿Freeport,﻿IL,,42.29253255,-89.61576885,,,,,﻿p_l_hendrick_001,﻿Rev.,﻿P. L. Hendrick,,,,,,,1870.0,Chicago
+﻿chi.il.0050,﻿church,﻿St. Joseph's,﻿German,,,,﻿Stephenson,,﻿Freeport,﻿Freeport,﻿IL,,42.29400468,-89.62053274,,,,,﻿ig_balluff_001,﻿Rev.,﻿Ig. Balluff,,,,,,,1870.0,Chicago
+﻿chi.il.0051,﻿church,not recorded,English,,,,,﻿Whiteside County,﻿Fulton,﻿Fulton,﻿IL,,41.86568191,-90.16181856,,,,,﻿j_mcgovern_001,﻿Rev.,﻿J. McGovern,﻿D.D.,,,,,,1870.0,Chicago
+﻿chi.il.0052,﻿church,﻿St. Michael's,English,,,,﻿Daviess,,﻿Galena,﻿Galena,﻿IL,,42.41531383,-90.43043709999999,,,,,﻿p_farrelly_001,﻿Rev.,﻿P. Farrelly,,,,,,,1870.0,Chicago
+﻿chi.il.0053,﻿church,﻿St. Mary's,﻿German,,,,﻿Daviess,,﻿Galena,﻿Galena,﻿IL,,42.41950233,-90.42845953,,,,,﻿wil_bally_001,﻿Rev.,﻿William Bally,,,,,,,1870.0,Chicago
+﻿chi.il.0054,﻿church,﻿St. Patrick's,English,,,,﻿Knox,﻿Knox County,﻿Galesburgh,﻿Galesburg,﻿IL,,40.93660967,-90.37625778,,,,,﻿mau_howard_001,﻿Rev.,﻿Maurice Howard,,,,,,,1870.0,Chicago
+﻿chi.il.0055,﻿church,﻿St. Malachy's,English,,,,﻿Henry,﻿Henry County,﻿Geneseo,﻿Geneseo,﻿IL,,41.45542525,-90.15266039,,,,,﻿fre_smyth_001,﻿Rev.,﻿Fred. Smyth,,,,,,,1870.0,Chicago
+﻿chi.il.0056,﻿church,﻿St. Joseph's,English,,"﻿Post Town, Vinetka",,﻿Cook,,﻿Gross Point,﻿Wilmette,﻿IL,,42.07935379,-87.72191665,,,,,﻿b_heskemann_001,﻿Rev.,﻿B. Heskemann,,,,,,,1870.0,Chicago
+﻿chi.il.0057,﻿church,not recorded,English,,,,﻿Rock Island,,﻿Hampton,﻿Hampton,﻿IL,,41.55770184,-90.40798808,,,,,﻿j_apt_001,﻿Rev.,﻿J. Apt,,,,,,,1870.0,Chicago
+﻿chi.il.0058,﻿church,﻿St. Patrick's,English,,,,﻿McHenry,,﻿Hartland,﻿Hartland,﻿IL,,42.37819326,-88.49035292,,﻿Attended from Harvard,,,,,,,,,,,,1870.0,Chicago
+﻿chi.il.0059,﻿church,not recorded,English,,,,﻿McHenry,,﻿Harvard,﻿Harvard,﻿IL,,42.41914391,-88.61457701,,,,,﻿d_egan_001,﻿Rev.,﻿D. Egan,,,,,,,1870.0,Chicago
+﻿chi.il.0060,﻿church,not recorded,English,,,,,﻿Putnam,﻿Hennepin,﻿Hennepin,﻿IL,,41.2542033,-89.34231120000001,,,,,﻿r_guillaume_001,﻿Rev.,﻿R. Guillaume,,,,,,,1870.0,Chicago
+﻿chi.il.0061,﻿church,﻿St. Mary's,English,,,,﻿Marshall,,﻿Henry,﻿Henry,﻿IL,,41.1114249,-89.35647759999999,,,,,﻿m_albrecht_001,﻿Rev.,﻿M. Albrecht,,,,,,,1870.0,Chicago
+﻿chi.il.0062,﻿church,not recorded,English,,,,﻿Grundy,,﻿Highland,﻿Verona,﻿IL,,41.19420076,-88.49173741,,,,,,,,,,,,,,1870.0,Chicago
+﻿chi.il.0063,﻿church,﻿St. Patrick's,English,,,,﻿Will,,﻿Joliet,﻿Joliet,﻿IL,,41.52150743,-88.09907207,,,,,﻿w_power_001,﻿Rev.,﻿W. Power,,,,,,,1870.0,Chicago
+﻿chi.il.0064,﻿church,﻿St. John the Baptist,﻿German,,,,﻿Will,,﻿Joliet,﻿Joliet,﻿IL,,41.53119826,-88.08902764,,,,,﻿f_h_nolte_001,﻿Rev.,﻿F. H. Nolte,,,,,,,1870.0,Chicago
+﻿chi.il.0065,﻿church,﻿St. Mary's,English,﻿New church,,,﻿Will,,﻿Joliet,﻿Joliet,﻿IL,,41.5266497,-88.08347803,,,,,﻿p_riordan_001,﻿Rev.,﻿P. Riordan,,,,,,,1870.0,Chicago
+﻿chi.il.0066,﻿church,﻿St. Rose's,English,,,,﻿Kankakee,﻿Kankakee County,﻿Kankakee,﻿Kankakee,﻿IL,,41.11951002,-87.87155827,,,,,﻿a_marschall_001,﻿Rev.,﻿A. Marschall,,,,,,,1870.0,Chicago
+﻿chi.il.0067,﻿church,﻿St. Mary's,English,,,,,﻿Kankakee County,﻿Kewanee,﻿Kankakee,﻿IL,,41.24802327,-89.92720373,,,,,﻿j_m_ryan_001,﻿Rev.,﻿J. M. Ryan,,,,,,,1870.0,Chicago
+﻿chi.il.0068,﻿church,not recorded,English,,,,,﻿Peoria,﻿Kickapoo,﻿Kickapoo,﻿IL,,40.78836905,-89.74988163,,,,,﻿m_albrecht_001,﻿Rev.,﻿M. Albrecht,,,,,,,1870.0,Chicago
+﻿chi.il.0069,﻿church,﻿Immaculate Conception,English,,,,﻿Marshall,﻿Marshall County,﻿Lacon,﻿Lacon,﻿IL,,41.02749621,-89.40577738,,,,,﻿m_mcdermott_001,﻿Rev.,﻿M. McDermott,,,,,,,1870.0,Chicago
+﻿chi.il.0070,﻿church,﻿St. Mary's,English,,,,,﻿Lake County,﻿Lake Forest,﻿Lake Forest,﻿IL,,42.25506477,-87.83971721,,,,,﻿p_mcelhearne_001,﻿Rev.,﻿P. McElhearne,,﻿Pastor,,,,,1870.0,Chicago
+﻿chi.il.0071,﻿church,﻿St. Patrick's,English,,,,,﻿La Salle County,﻿La Salle,﻿La Salle,﻿IL,,41.33178105,-89.09574784,,,,,﻿mar_anthony_001,﻿Rev.,﻿Mark Anthony,﻿C.M.,,,,,,1870.0,Chicago
+﻿chi.il.0071,﻿church,﻿St. Patrick's,English,,,,,﻿La Salle County,﻿La Salle,﻿La Salle,﻿IL,,41.33178105,-89.09574784,,,,,﻿p_knowd_001,﻿Rev.,﻿P. Knowd,﻿C.M.,,,,,,1870.0,Chicago
+﻿chi.il.0072,﻿church,not recorded,English,,,,﻿Iroquois,,﻿L'Erable,﻿L'Erable,﻿IL,,40.90270974,-87.84636903,,,,,,﻿Rev.,﻿— Kavanagh,,,,,,,1870.0,Chicago
+﻿chi.il.0072,﻿church,not recorded,English,,,,﻿Iroquois,,﻿L'Erable,﻿L'Erable,﻿IL,,40.90270974,-87.84636903,,,,,﻿cha_clement_001,﻿Rev.,﻿Charles Clement,,,,,,,1870.0,Chicago
+﻿chi.il.0073,﻿church,﻿St. Patrick's,English,,,,﻿Logan,﻿Logan County,﻿Lincoln,﻿Lincoln,﻿IL,,40.15457068,-89.36797216,,,,,﻿p_dalton_001,﻿Rev.,﻿P. Dalton,,,,,,,1870.0,Chicago
+﻿chi.il.0074,﻿church,not recorded,﻿German,,,,﻿Logan,﻿Logan County,﻿Lincoln,﻿Lincoln,﻿IL,,40.061338,-89.3226954,,,,,﻿w_nettstraeter_001,﻿Rev.,﻿W. Nettstraeter,,,,,,,1870.0,Chicago
+﻿chi.il.0075,﻿church,﻿St. Denis,English,,,,﻿Will,﻿Will County,﻿Lockport,﻿Lockport,﻿IL,,41.58515142,-88.05697786,,,,,﻿a_eustace_001,﻿Rev.,﻿A. Eustace,,,,,,,1870.0,Chicago
+﻿chi.il.0076,﻿church,not recorded,﻿German,,,,﻿Will,﻿Will County,﻿Lockport,﻿Lockport,﻿IL,,41.59207156,-88.05084276,,,,,,,,,,,,,,1870.0,Chicago
+﻿chi.il.0077,﻿church,﻿St. Paul's,English,,,,﻿McDonough,﻿McDonough County,﻿Macomb,﻿Macomb,﻿IL,,40.45862934,-90.67556199,,,,,﻿joh_larmer_001,﻿Rev.,﻿John Larmer,,,,,,,1870.0,Chicago
+﻿chi.il.0078,﻿church,﻿St. Patrick's,English,,,,﻿McHenry,﻿McHenry County,﻿McHenry,﻿McHenry,﻿IL,,42.34960509,-88.26293916,,,,,﻿p_birch_001,﻿Rev.,﻿P. Birch,,,,,,,1870.0,Chicago
+﻿chi.il.0079,﻿church,﻿St. John the Baptist,﻿German,,,,﻿McHenry,,﻿McHenry,﻿Johnsburg,﻿IL,,42.38310468,-88.24214808,,,,,﻿m_fegers_001,﻿Rev.,﻿M. Fegers,,,,,,,1870.0,Chicago
+﻿chi.il.0080,﻿church,﻿Immaculate Conception,English,,,,,﻿La Salle County,﻿Mendota,﻿Mendota,﻿IL,,41.5472547,-89.11758509999999,,,,,﻿tho_ofarrel_001,﻿Rev.,﻿Thomas O'Farrel,,,,,,,1870.0,Chicago
+﻿chi.il.0080,﻿church,﻿Immaculate Conception,English,,,,,﻿La Salle County,﻿Mendota,﻿Mendota,﻿IL,,41.5472547,-89.11758509999999,,,,,﻿j_bowles_001,﻿Rev.,﻿J. Bowles,,﻿Assistant,,,,,1870.0,Chicago
+﻿chi.il.0081,﻿church,not recorded,﻿German,,,,﻿La Salle,﻿La Salle County,﻿Mendota,﻿Mendota,﻿IL,,41.54945686,-89.12355092,,,,,﻿e_hermann_001,﻿Rev.,﻿E. Hermann,,,,,,,1870.0,Chicago
+﻿chi.il.0082,﻿church,not recorded,English,,﻿Excelsior Mills P.O.,,,﻿Jo Daviess County,﻿Menomonee,﻿Menominee,﻿IL,,42.48864801,-90.53296405,,,,,﻿h_verhoef_001,﻿Rev.,﻿H. Verhoef,,,,,,,1870.0,Chicago
+﻿chi.il.0083,﻿church,﻿St. Mary's,English,,,,﻿Woodford,﻿Woodford County,﻿Metamora,﻿Metamora,﻿IL,,40.79150161,-89.46296678,,,,,,﻿Rev.,﻿— Shroudenback,,,,,,,1870.0,Chicago
+﻿chi.il.0084,﻿church,not recorded,English,,﻿Rosencrans P.O.,,,﻿Union County,﻿Mill Creek,﻿Mill Creek,﻿IL,,42.45512308,-87.95270452,,,,,﻿p_corcoran_001,﻿Rev.,﻿P. Corcoran,,,,,,,1870.0,Chicago
+﻿chi.il.0085,﻿church,not recorded,English,,,,﻿Grundy,,﻿Minooka,﻿Minooka,﻿IL,,41.4566776,-88.2690245,,,,,﻿p_sheedy_001,﻿Rev.,﻿P. Sheedy,,,,,,,1870.0,Chicago
+﻿chi.il.0086,﻿church,﻿Immaculate Conception,English,,,,﻿Grundy,﻿Grundy County,﻿Morris,﻿Morris,﻿IL,,41.36046748,-88.41899925,,,,,﻿j_devine_001,﻿Rev.,﻿J. Devine,,,,,,,1870.0,Chicago
+﻿chi.il.0087,﻿church,﻿St. Peter's,﻿German,,,,﻿Du Page,,﻿Napierville,﻿Naperville,﻿IL,,41.77527567,-88.14481739,,,,,﻿w_delaporte_001,﻿Rev.,﻿W. Delaporte,,,,,,,1870.0,Chicago
+﻿chi.il.0088,﻿church,﻿St. Patrick's,English,,,,﻿Hancock,﻿Hancock County,﻿Nauvoo,﻿Nauvoo,﻿IL,,40.55183391,-91.38472797,,,,,﻿hen_reimbold_001,﻿Rev.,﻿Henry Reimbold,,,,,,,1870.0,Chicago
+﻿chi.il.0089,﻿church,﻿St. Mary's,English,,,,﻿Stephenson,,﻿New Dublin,﻿OGLESBY??,﻿IL,,41.2953126,-89.0595266,,,,,﻿j_moloney_001,﻿Rev.,﻿J. Moloney,,﻿Pastor,"﻿Post Office, Eleroy",,,,1870.0,Chicago
+﻿chi.il.0090,﻿church,﻿St. Joseph's,English,,,,,,﻿New Strasburgh,﻿Sauk Village,﻿IL,,41.48812819,-87.57680672,,,,,,,,,,,,,,1870.0,Chicago
+﻿chi.il.0091,﻿church,﻿St. Columba's,English,,,,﻿La Salle,﻿La Salle County,﻿Ottawa,﻿Ottawa,﻿IL,,41.3455892,-88.84257690000001,,,,,﻿pat_terry_001,﻿Rev.,﻿Patrick Terry,,,,,,,1870.0,Chicago
+﻿chi.il.0092,﻿church,not recorded,﻿German,,,,﻿La Salle,﻿La Salle County,﻿Ottawa,﻿Ottawa,﻿IL,,41.3455892,-88.84257690000001,,,,,﻿c_kalvelag_001,﻿Rev.,﻿C. Kalvelag,,,,,,,1870.0,Chicago
+﻿chi.il.0093,﻿church,﻿St. Mary's,English,,,,﻿Peoria,,﻿Peoria,﻿Peoria,﻿IL,,40.69483698,-89.5845249,,,,,﻿joh_mackin_001,﻿Rev.,﻿John Mackin,,,,,,,1870.0,Chicago
+﻿chi.il.0094,﻿church,﻿St. Joseph's,﻿German,,,,﻿Peoria,,﻿Peoria,﻿Peoria,﻿IL,,40.68906744,-89.60439228,,,,,﻿w_deiters_001,﻿Rev.,﻿W. Deiters,,,,,,,1870.0,Chicago
+﻿chi.il.0095,﻿church,﻿St. Patrick's,English,,,,﻿Peoria,,﻿Peoria,﻿Peoria,﻿IL,,40.68576455,-89.60978174,,,,,﻿m_hurley_001,﻿Rev.,﻿M. Hurley,,,,,,,1870.0,Chicago
+﻿chi.il.0096,﻿church,﻿St. Patrick's,English,,,,﻿Tazewell,﻿Tazewell County,﻿Pekin,﻿Pekin,﻿IL,,40.5547573,-89.6423584,,,,,﻿t_h_cashman_001,﻿Rev.,﻿T. H. Cashman,,,,,,,1870.0,Chicago
+﻿chi.il.0097,﻿church,not recorded,English,,,,﻿Lee,,﻿Perkins's Grove,,﻿IL,,41.59935609,-89.25458922,,,,,﻿jos_goebbels_001,﻿Rev.,﻿Jos. Goebbels,,,,,,,1870.0,Chicago
+﻿chi.il.0098,﻿church,﻿St. Joseph's,﻿German,,,,﻿La Salle,,﻿Peru,﻿Peru,﻿IL,,41.32832687,-89.13152025,,,,,﻿l_schaffar_001,﻿Rev.,﻿L. Schaffar,,,,,,,1870.0,Chicago
+﻿chi.il.0099,﻿church,﻿St. Mary's,English,,,,﻿La Salle,,﻿Peru,﻿Peru,﻿IL,,41.32980444,-89.12370581,,,,,﻿a_petit_001,﻿Rev.,﻿A. Petit,,,,,,,1870.0,Chicago
+﻿chi.il.0100,﻿church,﻿St. George's,English,,,,﻿Kankakee,,﻿Petites Isles,﻿St. George,﻿IL,,41.19221331,-87.77486529999999,,,,,﻿p_parradis_001,﻿Rev.,﻿P. Parradis,,,,,,,1870.0,Chicago
+﻿chi.il.0101,﻿church,﻿St. Mary's,English,﻿Mission newly organized,,,﻿Livingston,,﻿Pontiac,﻿Pontiac,﻿IL,,40.88147203,-88.62843058,,,,,﻿j_fanning_001,﻿Rev.,﻿J. Fanning,﻿B.D.,,,,,,1870.0,Chicago
+﻿chi.il.0102,﻿church,﻿St. Patrick's,English,,,,﻿Ogle,,﻿Rochelle,﻿Rochelle,﻿IL,,41.92721697,-89.06659081,,,,,﻿p_gormley_001,﻿Rev.,﻿P. Gormley,,,,,,,1870.0,Chicago
+﻿chi.il.0103,﻿church,﻿St. James',English,,,,﻿Winnebago,,﻿Rockford,﻿Rockford,﻿IL,,42.27124179,-89.08502852,,,,,﻿j_s_oneil_001,﻿Rev.,﻿J. S. O'Neil,,,,,,,1870.0,Chicago
+﻿chi.il.0104,﻿church,﻿St. Mary's,English,,,,﻿Rock Island,﻿Rock Island County,﻿Rock Island,﻿Rock Island,﻿IL,,41.50861017,-90.56889602,,,,,﻿jos_h_roles_001,﻿Rev.,﻿Jos. H. Roles,,,,,,,1870.0,Chicago
+﻿chi.il.0105,﻿church,not recorded,English,,﻿Havelock P.O.,,,﻿Jasper County,﻿Rose Hill,﻿Rose Hill,﻿IL,,39.0554965,-88.0900762,,,,,﻿e_haemers_001,﻿Rev.,﻿E. Haemers,,,,,,,1870.0,Chicago
+﻿chi.il.0106,﻿church,not recorded,English,,,,﻿La Salle,,﻿Seneca,﻿Seneca,﻿IL,,41.31075767,-88.6126072,,,,,﻿t_devine_001,﻿Rev.,﻿T. Devine,,,,,,,1870.0,Chicago
+﻿chi.il.0107,﻿church,not recorded,English,,,,,,﻿Somonock,﻿Somonauk,﻿IL,,41.63100474,-88.68301538,,,,,﻿c_huth_001,﻿Rev.,﻿C. Huth,,,,,,,1870.0,Chicago
+﻿chi.il.0108,﻿church,﻿St. Patrick's,English,,,,﻿Whitesides,,﻿Sterling,﻿Sterling,﻿IL,,41.79078354,-89.69931,,,,,﻿joh_daly_001,﻿Rev.,﻿John Daly,,,,,,,1870.0,Chicago
+﻿chi.il.0109,﻿church,﻿St. Patrick's,English,,,,﻿Kane,,﻿St. Charles,﻿St. Charles,﻿IL,,41.91407319,-88.31845068,,,,,﻿pet_campbell_001,﻿Rev.,﻿Peter Campbell,,,,,,,1870.0,Chicago
+﻿chi.il.0110,﻿church,﻿St. Mary's,English,,,,﻿Iroquois,,﻿St. Marie,﻿Beaverville,﻿IL,,40.95287115,-87.65358583,,,,,﻿g_s_kertson_001,﻿Rev.,﻿G. S. Kertson,,,,,,,1870.0,Chicago
+﻿chi.il.0111,﻿church,not recorded,English,,,,﻿Kankakee,﻿Kankakee County,﻿St. George,﻿St George,﻿IL,,41.1925328,-87.7755959,,,,,﻿p_parradis_001,﻿Rev.,﻿P. Parradis,,,,,,,1870.0,Chicago
+﻿chi.il.0112,﻿church,﻿St. Josephs's,English,,,,﻿Hancock,﻿Hancock County,﻿Warsaw,﻿Warsaw,﻿IL,,40.359211,-91.4345978,,,,,,,,,,,,,"﻿Attended by Franciscan Fathers, Quincy, Ill.",1870.0,Chicago
+﻿chi.il.0113,﻿church,﻿Immaculate Conception,English,,,,﻿Lake,,﻿Waukegan,﻿Waukegan,﻿IL,,42.35820769,-87.83267301,,,,,﻿mic_donahoe_001,﻿Rev.,﻿Michael Donahoe,,,,,,,1870.0,Chicago
+﻿chi.il.0114,﻿church,not recorded,﻿German,,,,﻿Lake,,﻿Waukegan,﻿Waukegan,﻿IL,,42.3562042,-87.8327061,,,,,,,,,,,,,﻿Attended by Redemptorist Fathers,1870.0,Chicago
+﻿chi.il.0115,﻿church,﻿St. Rose of Lima,English,,,,﻿Will,,﻿Wilmington,﻿Wilmington,﻿IL,,41.30407584,-88.14340099,,,,,﻿j_mcmullen_001,﻿Rev.,﻿J. McMullen,﻿D.D.,,,,,,1870.0,Chicago
+﻿chi.il.0116,﻿church,not recorded,English,,,,,﻿DuPage County,﻿Winfield,﻿Winfield,﻿IL,,41.86750989,-88.15667593,,,,,﻿j_wutherhold_001,﻿Rev.,﻿J. Wutherhold,,,,,,,1870.0,Chicago
+﻿chi.il.0117,﻿church,not recorded,English,,,,,,﻿Winona,﻿Wenona,﻿IL,,41.04965614,-89.05246487,,,,,﻿m_j_hanly_001,﻿Rev.,﻿M. J. Hanly,,,,,,,1870.0,Chicago
+﻿chi.il.0118,﻿church,﻿St. Patrick's,English,﻿A convent in contemplation,,,﻿McHenry,﻿McHenry County,﻿Woodstock,﻿Woodstock,﻿IL,,42.31718389,-88.45083491,,,,,﻿lou_lightner_001,﻿Rev.,﻿Louis Lightner,﻿D.D.,,,,,,1870.0,Chicago
+﻿chi.il.0119,﻿station,﻿St. Patrick's,English,,,,﻿Cook,,﻿Ainsworth,﻿South Chicago,﻿IL,,41.73406012,-87.55764343,,"﻿Attended from Hyde Park, Chicago",﻿monthly,,,,,,,,,,,1870.0,Chicago
+﻿chi.il.0120,﻿station,﻿St. Patrick's,English,,,,﻿Bureau,﻿Bureau County,﻿Arlington,﻿Arlington,﻿IL,,41.4710246,-89.25036504,,﻿Attended from Mendota,﻿monthly,,,,,,,,,,,1870.0,Chicago
+﻿chi.il.0121,﻿station,﻿St. Mary's,English,,,,﻿Hancock,,﻿Augusta,﻿Augusta,﻿IL,,40.23060664,-90.95095823,,﻿Attended from Macomb,﻿monthly,,,,,,,,,,,1870.0,Chicago
+﻿chi.il.0122,﻿station,﻿Immaculate Conception,English,,,,﻿Du Page,,﻿Babcock's Grove,﻿Lombard,﻿IL,,41.88435611,-88.03518729,,﻿From St. Charles.,,,,,,,,,,,,1870.0,Chicago
+﻿chi.il.0123,﻿station,﻿St. Patrick's,English,,,,﻿Kane,,﻿Barrens,﻿Rutland Township,﻿IL,,42.08204986,-88.37009648,,﻿Attended from Elgin,﻿twice a month,,,,,,,,,,,1870.0,Chicago
+﻿chi.il.0124,﻿station,not recorded,English,,,,,,﻿Barrington,﻿Barrington,﻿IL,,42.15409109,-88.1355441,,﻿from Woodstock,﻿twice a month,,,,,,,,,,,1870.0,Chicago
+﻿chi.il.0125,﻿station,﻿Holy Cross,English,,,,﻿Kane,,﻿Batavia,﻿Batavia,﻿IL,,41.85029535,-88.30290973,,﻿Attended from St. Charles,﻿twice a month,,,,,,,,,,,1870.0,Chicago
+﻿chi.il.0126,﻿station,not recorded,English,,,,,,﻿Big Hollow,﻿Ingleside,﻿IL,,42.36869846,-88.1915191,,﻿from McHenry,﻿monthly,,,,,,,,,,,1870.0,Chicago
+﻿chi.il.0127,﻿station,not recorded,English,,,,﻿Kane,﻿Kane County,﻿Blackberry,﻿Blackberry,﻿IL,,41.89866074,-88.53469223,,﻿Attended from St. Charles,﻿monthly,,,,,,,,,,,1870.0,Chicago
+﻿chi.il.0128,﻿station,not recorded,English,,,,,,﻿Black Partridge,﻿Chillicothe,﻿IL,,40.8950152,-89.42786007,,﻿Attended from Peoria,,,,,,,,,,,,1870.0,Chicago
+﻿chi.il.0129,﻿station,not recorded,English,,,,,,﻿Blue Island,﻿Blue Island,﻿IL,,41.65700573,-87.67859896,,"﻿from St. Joseph's, Chicago",,,,,,,,,,,,1870.0,Chicago
+﻿chi.il.0130,﻿station,not recorded,English,,,,﻿Piat,,﻿Bremont,﻿Bement,﻿IL,,39.91673737,-88.57484657,,﻿from Champaign,﻿every eight weeks,,,,,,,,,,,1870.0,Chicago
+﻿chi.il.0131,﻿station,not recorded,English,,,,,,﻿Bristol,﻿Bristol,﻿IL,,41.68550942,-88.42743828,,﻿from Somonock,﻿occasionally,,,,,,,,,,,1870.0,Chicago
+﻿chi.il.0132,﻿station,not recorded,﻿German,,,,,,﻿Buffalo Grove,﻿Buffalo Grove,﻿IL,,42.1662831,-87.9631308,,"﻿Attended from St. Joseph's, Chicago",,,,,,,,,,,,1870.0,Chicago
+﻿chi.il.0133,﻿station,not recorded,English,,,,﻿Boone,﻿Boone County,﻿Caledonia,﻿Caledonia,﻿IL,,42.36751527,-88.893422,,﻿from Belvidere,﻿occasionally,,,,,,,,,,,1870.0,Chicago
+﻿chi.il.0134,﻿station,﻿St. Gertrude's,English,,,,﻿Hancock,﻿Hancock County,﻿Carthage,﻿Carthage,﻿IL,,40.41631971,-91.13632215,,﻿Attended from Macomb,,,,,,,,,,,,1870.0,Chicago
+﻿chi.il.0135,﻿station,﻿St. Patrick's,English,,,,﻿Du Page,,﻿Cass,﻿Darien,﻿IL,,41.74788121,-87.97450348,,﻿from Napierville,﻿regularly,,,,,,,,,,,1870.0,Chicago
+﻿chi.il.0136,﻿station,not recorded,English,,,,﻿Jo Daviess,,﻿Council Hill,﻿Council Hill,﻿IL,,42.48921796,-90.35213035,,﻿Attended from Galena,﻿occasionally,,,,,,,,,,,1870.0,Chicago
+﻿chi.il.0137,﻿station,not recorded,English,,,,﻿Winnebago,,﻿Cherry Valley,﻿Cherry Valley,﻿IL,,42.2359747,-88.95472789,,﻿Attended from Belvidere,,,,,,,,,,,,1870.0,Chicago
+﻿chi.il.0138,﻿station,not recorded,English,,,,﻿Livingston,,﻿Chatsworth,﻿Chatsworth,﻿IL,,40.74731531,-88.31523175,,﻿from Pontiac,﻿monthly,,,,,,,,,,,1870.0,Chicago
+﻿chi.il.0139,﻿station,not recorded,English,,,,﻿McHenry,﻿Marshall,﻿Camping Grove,﻿Saratoga,﻿IL,,41.08988021,-89.55674777,,﻿Attended from Lacon,﻿monthly,,,,,,,,,,,1870.0,Chicago
+﻿chi.il.0140,﻿station,not recorded,English,,,,,,﻿Cottage Hill,﻿Elmhurst,﻿IL,,41.895928,-87.94118588,,"﻿from Redemptorists, Chicago",﻿monthly,,,,,,,,,,,1870.0,Chicago
+﻿chi.il.0141,﻿station,not recorded,English,,,,﻿McHenry,,﻿Crystal Lake,﻿Crystal Lake,﻿IL,,42.24842634,-88.40397601,,﻿Attended from Woodstock,,,,,,,,,,,,1870.0,Chicago
+﻿chi.il.0142,﻿station,not recorded,English,,,,﻿McLean,,﻿Chenva,﻿Chenoa,﻿IL,,40.74180381,-88.72346347,,﻿Attended from El Paso,﻿monthly,,,,,,,,,,,1870.0,Chicago
+﻿chi.il.0143,﻿station,not recorded,English,,,,﻿McHenry,﻿Peoria County,﻿Chillicothe,﻿Chillicothe,﻿IL,,40.92062495,-89.48959106,,﻿Attended from Peoria,﻿monthly,,,,,,,,,,,1870.0,Chicago
+﻿chi.il.0144,﻿station,﻿St. Mary's,English,,,,﻿Cook,,﻿Dunton,﻿Arlington Heights,﻿IL,,42.08824636,-87.98044021,,﻿Attended from Woodstock,,,,,,,,,,,,1870.0,Chicago
+﻿chi.il.0145,﻿station,not recorded,English,,,,﻿Lake,,﻿Dwyer's Settlement,﻿Lake Bluff,﻿IL,,42.28825507,-87.85796129,,﻿Attended from McHenry,,,,,,,,,,,,1870.0,Chicago
+﻿chi.il.0146,﻿station,not recorded,English,,,,﻿La Salle,,﻿Eagle Town,﻿Eagle Township,﻿IL,,41.1351122,-88.9222277,,﻿Attended from Ottawa,,,,,,,,,,,,1870.0,Chicago
+﻿chi.il.0147,﻿station,not recorded,English,,,,﻿Lee,,﻿East Grove,﻿East Grove Township,﻿IL,,41.58551913,-89.44741743,,﻿Attended from Perkin's Grove,,,,,,,,,,,,1870.0,Chicago
+﻿chi.il.0148,﻿church,﻿St. Thomas',English,,,,﻿La Salle,﻿La Salle County,﻿Earlville,﻿Earlville,﻿IL,,41.5850206,-88.9214895,,﻿Attended from Mendota,﻿monthly,,,,,,,,,,,1870.0,Chicago
+﻿chi.il.0149,﻿station,not recorded,English,,,,,,﻿Edgenipon,﻿Edgington,﻿IL,,41.38874873,-90.76328994,,﻿from Rock Island,﻿occasionally,,,,,,,,,,,1870.0,Chicago
+﻿chi.il.0150,﻿station,﻿St. Thomas',English,,,,﻿Peoria,﻿Peoria County,﻿Elmwood,﻿Elmwood,﻿IL,,40.77788886,-89.97662883,,﻿Attended from Canton,﻿monthly,,,,,,,,,,,1870.0,Chicago
+﻿chi.il.0151,﻿station,﻿St. Thomas',English,,,,﻿Jo Daviess,﻿Jo Daviess County,﻿Elizabeth,﻿Elizabeth,﻿IL,,42.32069156,-90.2232448,,﻿Attended from New Dublin,﻿one Sunday in month,,,,,,,,,,,1870.0,Chicago
+﻿chi.il.0152,﻿station,not recorded,English,,,,,,﻿Evanston,﻿Evanston,﻿IL,,42.0450722,-87.6876969,,﻿Attended from Rosehill,,,,,,,,,,,,1870.0,Chicago
+﻿chi.il.0153,﻿station,not recorded,English,,,,,,﻿Fairmont,﻿Fairmont,﻿IL,,41.56267731,-88.05724689,,﻿from Danville,﻿once in three months,,,,,,,,,,,1870.0,Chicago
+﻿chi.il.0154,﻿station,﻿st. James',English,,,,﻿Lake,,﻿Fremont Centre,﻿Fremont Township,﻿IL,,42.29481618,-88.06847057,,"﻿Attended from St. Joseph's, Chicago",﻿monthly,,,,,,,,,,,1870.0,Chicago
+﻿chi.il.0155,﻿station,not recorded,English,,,,﻿Hancock,,﻿Fountain Greene,﻿Fountain Green,﻿IL,,40.48300183,-90.96870429,,﻿Attended from Nauvoo,,,,,,,,,,,,1870.0,Chicago
+﻿chi.il.0156,﻿station,not recorded,English,,,,,,﻿Forest City,﻿Forest City,﻿IL,,40.37207963,-89.83088526,,﻿Attended from Pekin,,,,,,,,,,,,1870.0,Chicago
+﻿chi.il.0157,﻿station,not recorded,English,,,,,,﻿Galva,﻿Galva,﻿IL,,41.16816966,-90.03890036,,﻿Attended from Lacon,﻿twice a month,,,,,,,,,,,1870.0,Chicago
+﻿chi.il.0158,﻿station,not recorded,English,,,,﻿Kane,﻿Kane County,﻿Geneva,﻿Geneva,﻿IL,,41.86603657,-88.34745817,,﻿Attended from St. Charles,,,,,,,,,,,,1870.0,Chicago
+﻿chi.il.0159,﻿station,not recorded,English,,,,﻿Whitesides,﻿Whiteside,﻿Genesee Grove,﻿Genesee Township,﻿IL,,41.89152388,-89.80479718,,﻿Attended from Sterling,,,,,,,,,,,,1870.0,Chicago
+﻿chi.il.0160,﻿station,not recorded,English,,,,﻿Henry,﻿Henry County,﻿Green River,﻿Green River,﻿IL,,41.47556049,-90.31922756,,﻿Attended from Sterling,,,,,,,,,,,,1870.0,Chicago
+﻿chi.il.0161,﻿station,﻿St. John's,English,,,,﻿Hancock,,﻿Giddings Mound,﻿Gittings Mound/Dallas City,﻿IL,,40.63513386,-91.04558624,,﻿Attended from Warsaw,﻿monthly,,,,,,,,,,,1870.0,Chicago
+﻿chi.il.0162,﻿station,not recorded,English,,,,﻿Iroquois,﻿Iroquois County,﻿Gilman,﻿Gilman,﻿IL,,40.76951178,-87.99919543,,﻿Attended from Fairbury,,,,,,,,,,,,1870.0,Chicago
+﻿chi.il.0163,﻿station,﻿St. Mathias',English,,,,,﻿Will,﻿Gooding's Grove,﻿Homer Glen,﻿IL,,41.61542267,-87.91041597,,"﻿Attended from St. Joseph's, Chicago",﻿monthly,,,,,,,,,,,1870.0,Chicago
+﻿chi.il.0164,﻿station,not recorded,English,,,,﻿Hancock,,﻿Hamilton,﻿Hamilton,﻿IL,,40.4007668,-91.35029777,,﻿Attended from Macomb,,,,,,,,,,,,1870.0,Chicago
+﻿chi.il.0165,﻿station,﻿St. Thomas',English,,,,﻿Cook,,﻿Harlem,﻿Forest Park,﻿IL,,41.8794758,-87.81367,,"﻿Attended from St. Columba's, Chicago",,,,,,,,,,,,1870.0,Chicago
+﻿chi.il.0166,﻿station,﻿St. Mary's,English,,,,,,﻿Havana,﻿Havana,﻿IL,,40.29671243,-90.06343134,,﻿Attended from Pekin,﻿monthly,,,,,,,,,,,1870.0,Chicago
+﻿chi.il.0167,﻿station,not recorded,English,,,,,,﻿Highland Park,﻿Highland Park,﻿IL,,42.17598798,-87.79752585,,﻿Attended from Gross Point,,,,,,,,,,,,1870.0,Chicago
+﻿chi.il.0168,﻿station,not recorded,English,,,,﻿Shelby,,﻿Holland,﻿Holland Township,﻿IL,,39.25014502,-88.75047516,,,,,,,,,,,,,,1870.0,Chicago
+﻿chi.il.0169,﻿station,not recorded,English,,,,﻿La Salle,,﻿Homer,﻿Troy Grove,﻿IL,,41.46755486,-89.08337749,,﻿Attended from Danville,﻿once in three months,,,,,,,,,,,1870.0,Chicago
+﻿chi.il.0170,﻿station,﻿St. Patrick's,English,,,,﻿Stephenson,,﻿Irish Grove,﻿Davis,﻿IL,,42.37999688,-89.40774626,,﻿Attended from Freeport,,,,,,,,,,,,1870.0,Chicago
+﻿chi.il.0171,﻿station,not recorded,English,,,,﻿McHenry,,﻿Island,﻿Island Lake,﻿IL,,42.27619421,-88.19483841,,﻿Attended from Belvidere,﻿monthly,,,,,,,,,,,1870.0,Chicago
+﻿chi.il.0172,﻿station,not recorded,English,,,,,,﻿Jovestown,,﻿IL,,40.6331249,-89.3985283,,﻿Attended from Freeport,,,,,,,,,,,,1870.0,Chicago
+﻿chi.il.0173,﻿station,﻿St. William's,English,,,,,,﻿Kingston,﻿Kingston Mines,﻿IL,,40.55747107,-89.77226798,,﻿Attended from Pekin,﻿monhtly (week days),,,,,,,,,,,1870.0,Chicago
+﻿chi.il.0174,﻿station,﻿St. Patrick's,English,,,,,,﻿Kickapoo,﻿Kickapoo,﻿IL,,40.7904957,-89.75639196,,﻿Attended from Brimfield,﻿monthly,,,,,,,,,,,1870.0,Chicago
+﻿chi.il.0175,﻿station,﻿St. Patrick's,English,,,,﻿Fulton,,﻿Lewistown,﻿Lewistown,﻿IL,,40.40130785,-90.15150418,,﻿Attended from Canton,﻿monthly,,,,,,,,,,,1870.0,Chicago
+﻿chi.il.0176,﻿station,﻿St. Mary's,English,,,,﻿Kane,,﻿Lodi,﻿Maple Park,﻿IL,,41.90772249,-88.60192494,,﻿Attended from De Kalb,﻿every third Sunday,,,,,,,,,,,1870.0,Chicago
+﻿chi.il.0177,﻿station,﻿St. Joseph's,English,,,,﻿Kankakee,,﻿Labend,﻿Bradley,﻿IL,,41.14459402,-87.86958662,,﻿Attended from Kankakee,,,,,,,,,,,,1870.0,Chicago
+﻿chi.il.0178,﻿station,not recorded,﻿German,,,,,,﻿Lena,﻿Lena,﻿IL,,42.37919108,-89.82213367,,﻿Attended from Freeport,﻿monthly,,,,,,,,,,,1870.0,Chicago
+﻿chi.il.0179,﻿station,not recorded,English,,,,,,﻿Lacoune,﻿Bonfield,﻿IL,,41.19772905,-88.05208121,,﻿Attended from Kankakee,﻿every three weeks,,,,,,,,,,,1870.0,Chicago
+﻿chi.il.0180,﻿station,﻿St. Alphonsus',English,,,,,,﻿Lemont,﻿Lemont,﻿IL,,41.66971645,-87.99988114,,﻿Attended from St. Michael's,﻿monthly,,,,,,,,,,,1870.0,Chicago
+﻿chi.il.0181,﻿station,not recorded,English,,,,﻿McLean,,﻿Lexington,﻿Lexington,﻿IL,,40.64240331,-88.78814144,,﻿Attended from Bloomington,﻿monthly,,,,,,,,,,,1870.0,Chicago
+﻿chi.il.0182,﻿station,not recorded,English,,,,,,﻿Lenark,﻿Lanark,﻿IL,,42.10302995,-89.83303732,,﻿Attended from Freeport,﻿four times a year,,,,,,,,,,,1870.0,Chicago
+﻿chi.il.0183,﻿station,﻿St. Mary's,English,,,,,,﻿Langrove,﻿Long Grove,﻿IL,,42.19960182,-88.00070697,,"﻿Attended from St. Joseph's, Chicago",﻿monthly,,,,,,,,,,,1870.0,Chicago
+﻿chi.il.0184,﻿station,not recorded,English,,,,,,﻿Moonee,﻿Monee,﻿IL,,41.420034,-87.7417114,,﻿Attended from Strasburgh,,,,,,,,,,,,1870.0,Chicago
+﻿chi.il.0185,﻿station,not recorded,English,,,,,,﻿Mount Carol City,﻿Mount Carroll,﻿IL,,42.09711331,-89.97783837,,﻿Attended from New Dublin,﻿occasionally,,,,,,,,,,,1870.0,Chicago
+﻿chi.il.0186,﻿station,﻿St. Thomas',English,,,,,,﻿Mooney's Settlement,﻿Medina Township,﻿IL,,40.8780472,-89.54946009999999,,﻿Attended from Lacon,,,,,,,,,,,,1870.0,Chicago
+﻿chi.il.0187,﻿station,﻿Epiphany,English,,,,,,﻿Monmouth,﻿Monmouth,﻿IL,,40.91425125,-90.65196904,,﻿Attended from Galesburgh,,,,,,,,,,,,1870.0,Chicago
+﻿chi.il.0188,﻿station,﻿St. Mary's,English,,,,,,﻿Mokena,﻿Mokena,﻿IL,,41.53522599,-87.88761401,,"﻿Attended from St. Joseph's, Chicago",﻿monthly,,,,,,,,,,,1870.0,Chicago
+﻿chi.il.0189,﻿station,﻿St. Joseph's,English,,,,﻿Kankakee,﻿Kankakee County,﻿Manteno,﻿Manteno,﻿IL,,41.25267546,-87.83481165,,﻿Attended from Petites Isles,﻿monthly,,,,,,,,,,,1870.0,Chicago
+﻿chi.il.0190,﻿station,﻿St. Mary's,English,,,,﻿Lee,,﻿Maytown,﻿Maytown,﻿IL,,41.59977635,-89.30446398,,﻿Attended from Amboy,,,,,,,,,,,,1870.0,Chicago
+﻿chi.il.0191,﻿station,not recorded,English,,,,﻿Iroquois,,﻿Middleport,﻿Middleport Township,﻿IL,,40.79273264,-87.76803134,,﻿Attended from L'Erable,,,,,,,,,,,,1870.0,Chicago
+﻿chi.il.0192,﻿station,﻿St. Patrick's,English,,,,﻿Woodford,,﻿Minonk,﻿Minonk,﻿IL,,40.90110753,-89.02480208,,﻿Attended from El Paso,,,,,,,,,,,,1870.0,Chicago
+﻿chi.il.0193,﻿station,﻿St. Stephen's,English,,,,﻿Du Page,,﻿Milton,﻿Milton Township,﻿IL,,41.89908491,-88.11093111,,﻿Attended from Napierville,﻿twice a month,,,,,,,,,,,1870.0,Chicago
+﻿chi.il.0194,﻿station,not recorded,English,,,,﻿McHenry,,﻿Marengo,﻿Marengo,﻿IL,,42.25798945,-88.60954979,,﻿Attended from Belvidere,,,,,,,,,,,,1870.0,Chicago
+﻿chi.il.0195,﻿station,﻿St. Patrick's,English,,,,﻿Kankakee,,﻿Momence,﻿Momence,﻿IL,,41.16385173,-87.6678462,,﻿Attended from Petites Isles,,,,,,,,,,,,1870.0,Chicago
+﻿chi.il.0196,﻿station,not recorded,English,,,,﻿McHenry,,﻿Murray's Settlement,﻿Hartland,﻿IL,,42.37228386,-88.50174087,,﻿Attended from McHenry,﻿twice a month,,,,,,,,,,,1870.0,Chicago
+﻿chi.il.0197,﻿station,﻿St. Mary's,English,,,,﻿Rock Island,﻿Rock Island County,﻿Moline,﻿Moline,﻿IL,,41.50529973,-90.5236122,,﻿Attended from Rock Island,,,,,,,,,,,,1870.0,Chicago
+﻿chi.il.0198,﻿station,﻿St. Henry's,English,,,,﻿Cook,,﻿New Trier,﻿New Trier Township,﻿IL,,40.6331249,-89.3985283,,﻿Attended from Gross Point,,,,,,,,,,,,1870.0,Chicago
+﻿chi.il.0199,﻿station,not recorded,English,,,,,,﻿Niles,﻿Niles,﻿IL,,42.00668852,-87.79652325,,"﻿Attended from St. Peter's, Chicago",,,,,,,,,,,,1870.0,Chicago
+﻿chi.il.0200,﻿station,not recorded,English,,,,﻿Ogle,﻿Ogle County,﻿Oregon,﻿Oregon,﻿IL,,42.00819355,-89.33128338,,﻿Attended from Dixon,,,,,,,,,,,,1870.0,Chicago
+﻿chi.il.0201,﻿station,not recorded,English,,,,﻿Henderson,﻿Henderson County,﻿Oquaka,﻿Oquawka,﻿IL,,40.93671835,-90.95361988,,﻿Attended from Macomb,,,,,,,,,,,,1870.0,Chicago
+﻿chi.il.0202,﻿station,not recorded,English,,,,﻿Knox,﻿Knox County,﻿Oneida,﻿Oneida,﻿IL,,41.07386717,-90.22488572,,﻿Attended from Galesburg,,,,,,,,,,,,1870.0,Chicago
+﻿chi.il.0203,﻿station,not recorded,English,,,,,,﻿Palatine,﻿Palatine,﻿IL,,42.11075666,-88.03386379,,﻿Attended from Hennepin,,,,,,,,,,,,1870.0,Chicago
+﻿chi.il.0204,﻿station,not recorded,English,,,,﻿Ford,﻿Ford County,﻿Paxton,﻿Paxton,﻿IL,,40.46008555,-88.09553304,,﻿Attended from Champaign City,,,,,,,,,,,,1870.0,Chicago
+﻿chi.il.0205,﻿station,not recorded,English,,,,﻿Ogle,﻿Ogle County,﻿Polo,﻿Polo,﻿IL,,41.98585728,-89.57819337,,﻿Attended from Dixon,,,,,,,,,,,,1870.0,Chicago
+﻿chi.il.0206,﻿station,not recorded,English,,,,﻿Rock Island,﻿Rock Island County,﻿Port Byron,﻿Port Byron,﻿IL,,41.60660611,-90.33557961,,﻿Attended from Rock Island,,,,,,,,,,,,1870.0,Chicago
+﻿chi.il.0207,﻿station,﻿St. Joseph's,English,,,,﻿Bureau,,﻿Princetown,﻿Princeton,﻿IL,,41.36850963,-89.47315572,,﻿Attended from Mendota,,,,,,,,,,,,1870.0,Chicago
+﻿chi.il.0208,﻿station,not recorded,English,,,,﻿Cook,,﻿Rock Island Junction,﻿Blue Island,﻿IL,,41.64849109,-87.68528373,,"﻿Attended from Hyde Park, Chicago",,,,,,,,,,,,1870.0,Chicago
+﻿chi.il.0209,﻿station,not recorded,English,,,,﻿McHenry,﻿McHenry County,﻿Richmond,﻿Richmond,﻿IL,,42.49015067,-88.30621053,,﻿Attended from McHenry,,,,,,,,,,,,1870.0,Chicago
+﻿chi.il.0210,﻿station,not recorded,English,,,,,,﻿Richton,﻿Richton Park,﻿IL,,41.48368613,-87.7037373,,﻿Attended from Strasburgh,,,,,,,,,,,,1870.0,Chicago
+﻿chi.il.0211,﻿station,not recorded,English,,,,,﻿LaSalle County,﻿Richland,﻿Richland Township,﻿IL,,41.15001128,-89.00175418,,﻿Attended from Hennepin,,,,,,,,,,,,1870.0,Chicago
+﻿chi.il.0212,﻿station,not recorded,English,,,,﻿Cook,,﻿Ridgeville,﻿Evanston,﻿IL,,42.04448248,-87.68882453,,﻿Attended from Chicago,,,,,,,,,,,,1870.0,Chicago
+﻿chi.il.0213,﻿station,not recorded,English,,,,﻿Cook,,﻿Sagganah and Summit,﻿Summit,﻿IL,,41.78717663,-87.81242211,,﻿Attended from Lockport,﻿four times a year,,,,,,,,,,,1870.0,Chicago
+﻿chi.il.0214,﻿station,not recorded,English,,,,﻿Jo Daviess,﻿Jo Daviess County,﻿Scales Mound,﻿Scales Mound,﻿IL,,42.47644006,-90.25230315,,﻿Attended from (German church) Galena,,,,,,,,,,,,1870.0,Chicago
+﻿chi.il.0215,﻿station,not recorded,English,,,,﻿Bureau,﻿Bureau County,﻿Sheffield,﻿Sheffield,﻿IL,,"﻿41.358292006572924, -89.7384978598952",-89.73732259999998,,﻿Attended from Mendota,,,,,,,,,,,,1870.0,Chicago
+﻿chi.il.0216,﻿station,﻿St. Mary's,English,,,,﻿De Kalb,﻿DeKalb County,﻿Sycamore,﻿Sycamore,﻿IL,,41.983563,-88.68889456,,﻿Attended from De Kalb,,,,,,,,,,,,1870.0,Chicago
+﻿chi.il.0217,﻿station,﻿St. Patrick's,English,,,,﻿Lee,﻿Lee County,﻿Sublette,﻿Sublette,﻿IL,,41.64380395,-89.23093779,,﻿Attended from Perkins' Grove,,,,,,,,,,,,1870.0,Chicago
+﻿chi.il.0218,﻿station,not recorded,English,,,,﻿Fulton,,﻿St. Augustine,﻿St Augustine,﻿IL,,40.71668877,-90.41123891,,﻿Attended from Macomb,,,,,,,,,,,,1870.0,Chicago
+﻿chi.il.0219,﻿station,﻿St. Mary's,English,,,,﻿McDonough,﻿McDonough County,﻿Tennessee,﻿Tennessee,﻿IL,,40.40990694,-90.84147983,,﻿Attended from Macomb,,,,,,,,,,,,1870.0,Chicago
+﻿chi.il.0220,﻿station,not recorded,English,,,,﻿Stark,﻿Stark County,﻿Toulon,﻿Toulon,﻿IL,,41.09513197,-89.86580861,,﻿Attended from Lacon,,,,,,,,,,,,1870.0,Chicago
+﻿chi.il.0221,﻿station,not recorded,English,,,,﻿Bureau,﻿Bureau County,﻿Tiskilwa,﻿Tiskilwa,﻿IL,,41.29317775,-89.50914441,,﻿Attended from Mendota,﻿regularly,,,,,,,,,,,1870.0,Chicago
+﻿chi.il.0222,﻿station,not recorded,English,,,,﻿Cook,,﻿Thornhill,﻿Carol Stream,﻿IL,,41.89118727,-88.09664505,,"﻿Attended from St. James', Chicago",,,,,,,,,,,,1870.0,Chicago
+﻿chi.il.0223,﻿station,not recorded,English,,,,﻿La Salle,﻿La Salle County,﻿Troy Grove,﻿Troy Grove,﻿IL,,41.4678108,-89.08313829999999,,﻿Attended from Mendota,,,,,,,,,,,,1870.0,Chicago
+﻿chi.il.0224,﻿station,not recorded,English,,,,﻿Will,,﻿Twelve Mile Grove,﻿Wilton Center,﻿IL,,41.35153281,-87.95959447,,﻿Attended from Wilmington,,,,,,,,,,,,1870.0,Chicago
+﻿chi.il.0225,﻿station,not recorded,English,,,,﻿La Salle,,﻿Utica,﻿North Utica,﻿IL,,41.33911752,-89.0129673,,﻿Attended from Ottawa,,,,,,,,,,,,1870.0,Chicago
+﻿chi.il.0226,﻿station,not recorded,English,,,,﻿Jo Daviess,,﻿Vinegar Hill,﻿Vinegar Hill Township,﻿IL,,42.50043431,-90.42638281,,﻿Attended from Galena,,,,,,,,,,,,1870.0,Chicago
+﻿chi.il.0227,﻿station,not recorded,English,,,,﻿Jo Daviess,﻿Jo Daviess County,﻿Warren,﻿Warren,﻿IL,,42.48809293,-89.98237089,,﻿Attended from Freeport,,,,,,,,,,,,1870.0,Chicago
+﻿chi.il.0228,﻿station,not recorded,English,,,,﻿Lee,﻿Lee County,﻿Walnut Grove,﻿Amboy,﻿IL,,41.71677934,-89.32947017,,﻿Attended from Amboy,,,,,,,,,,,,1870.0,Chicago
+﻿chi.il.0229,﻿station,﻿St. Patrick's,English,,,,﻿De Witt,﻿De Witt County,﻿Waupela,﻿Wapella,﻿IL,,40.21711,-88.95986702,,﻿Attended from El Paso,,,,,,,,,,,,1870.0,Chicago
+﻿chi.il.0230,﻿station,not recorded,English,,,,﻿Lee,﻿Lee County,﻿Willow Creek,﻿Twelvemile Corner,﻿IL,,41.79528215,-88.94393024,,﻿Attended from Peru,,,,,,,,,,,,1870.0,Chicago
+﻿chi.il.0231,﻿station,not recorded,English,,,,﻿Winnebago,,﻿Winnebago,,﻿IL,,42.26644993,-89.23975290000001,,﻿Attended from Rockford,,,,,,,,,,,,1870.0,Chicago
+﻿chi.il.0232,﻿college,﻿St. Ignatius' College,English,"﻿Will be ready for the reception of students first Monday in January, 1870.",﻿Corner of Twelfth and May streets,,,,﻿Chicago,﻿Chicago,﻿IL,,41.86737613,-87.65414607,,,,,,,,,,,,,﻿Under the direction of the Jesuit Fathers,1870.0,Chicago
+﻿chi.il.0233,﻿college,﻿St. Viateur's College,English,,,,﻿Kankakee,﻿Kankakee County,﻿Bourbonnais,﻿Bourbonnais,﻿IL,,41.15507063,-87.87014516,,,,,﻿roy_001,﻿Rev. Fr.,﻿Roy,,﻿Director,,,,,1870.0,Chicago
+﻿chi.il.0234,﻿academy,﻿La Salle Academy,English,,,,﻿La Salle,,﻿La Salle,﻿La Salle,﻿IL,,41.3621503,-89.04182490000001,,,,,,,,,,,,,﻿Conducted by the Brothers of the Christian Schools,1870.0,Chicago
+﻿chi.il.0235,﻿convent,﻿Redemptorist Convent,English,﻿For other Fathers see St. Michael's Church,﻿Corner of North avenue and Church street,,,,﻿Chicago,﻿Chicago,﻿IL,,41.91116983,-87.63986557,,,,,﻿pet_zimmer_001,﻿Rev.,﻿Peter Zimmer,﻿C.SS.R.,﻿Superior,,,,,1870.0,Chicago
+﻿chi.il.0236,﻿convent,﻿Benedictine Convent,English,﻿See St. Joseph's Church,﻿Corner of Cass and Chicago avenue,,,,﻿Chicago,﻿Chicago,﻿IL,,41.89671205,-87.62555666,,,,,﻿w_leander_001,﻿Rev.,﻿W. Leander,,﻿Superior,,,,,1870.0,Chicago
+﻿chi.il.0237,﻿school,﻿Brothers of Christian Schools,English,,﻿Corner of Desplain and Adams streets,,,,﻿Chicago,﻿Chicago,﻿IL,,41.87951815,-87.64453189,,,,,,,,,,,,,,1870.0,Chicago
+﻿chi.il.0238,﻿academy,﻿Christian Brothers' Academy,English,,﻿99 Van Buren,,,,﻿Chicago,﻿Chicago,﻿IL,,41.87688096,-87.63076982,,,,,,,,,,,,,,1870.0,Chicago
+﻿chi.il.0239,﻿house,﻿Alexian Brothers,English,,﻿No. 546 North Franklin,,,,﻿Chicago,﻿Chicago,﻿IL,,41.8919005,-87.63559971,,,,,,﻿Brother,﻿Bonaventura,,﻿Superior,,,,,1870.0,Chicago
+﻿chi.il.0240,﻿house,﻿Order of St. Viateur,English,,,,,,﻿Chicago,﻿Chicago,﻿IL,,41.9478719,-87.7309264,,,,,﻿p_beaudoin_001,﻿Rev.,﻿P. Beaudoin,,﻿Superior,,,,,1870.0,Chicago
+﻿chi.il.0241,﻿academy,﻿St. Francis Xavier's Academy,English,,﻿131 Wabash avenue,,,,﻿Chicago,﻿Chicago,﻿IL,,41.88215304,-87.62623814,,,,,﻿p_beaudoin_001,﻿Rev.,﻿P. Beaudoin,,﻿Superior,,,,,1870.0,Chicago
+﻿chi.il.0241,﻿academy,﻿St. Francis Xavier's Academy,English,,﻿131 Wabash avenue,,,,﻿Chicago,﻿Chicago,﻿IL,,41.86973731,-87.65913135,,,,,,,,,,,,,﻿Under the direction of the Sisters of Mercy,1870.0,Chicago
+﻿chi.il.0242,﻿seminary,﻿Seminary of the Sacred Heart,English,,﻿Corner of Taylor and Throop streets,,,,﻿Chicago,﻿Chicago,﻿IL,,41.89689282,-87.62704114,,,,,﻿m_j_gauthreux_001,﻿Madame,﻿M. J. Gauthreux,,﻿Superior,,,,,1870.0,Chicago
+﻿chi.il.0242,﻿seminary,﻿Seminary of the Sacred Heart,English,,﻿Corner of Taylor and Throop streets,,,,﻿Bloomington,﻿Bloomington,﻿IL,,40.48544794,-88.99461298,,,,,,,,,,,,,,1870.0,Chicago
+﻿chi.il.0243,﻿academy,﻿St. Joseph's Academy,English,,﻿Chicago avenue,,,﻿Kankakee County,﻿Bourbonnais Grove,﻿Bourbonnais,﻿IL,,41.1545949,-87.87476264,,,,,,,,,,,,,﻿Under the charge of the Sisters of St. Benedict,1870.0,Chicago
+﻿chi.il.0244,﻿academy,﻿St. Joseph's Academy,English,,,,﻿McLean,,﻿La Salle,﻿La Salle,﻿IL,,40.6331249,-89.3985283,,,,,,,,,,,,,﻿Under the charge of the Sisters of St. Joseph,1870.0,Chicago
+﻿chi.il.0245,﻿academy,﻿Notre Dame Academy,English,,,,﻿Kankakee,,﻿Morris,﻿Morris,﻿IL,,41.36144431,-88.41419165,,,,,,﻿Sister-Servant,﻿Alexis de St. Joseph,,﻿Superior,,,,,1870.0,Chicago
+﻿chi.il.0245,﻿academy,﻿Notre Dame Academy,English,,,,﻿Kankakee,﻿La Salle County,﻿Ottawa,﻿Ottawa,﻿IL,,41.3455892,-88.84257690000001,,,,,,,,,,,,,﻿Under the direction of the Sisters of the Congregation,1870.0,Chicago
+﻿chi.il.0246,﻿academy,﻿St. Vincent's Academy,English,,,,﻿La Salle,,,,﻿IL,,40.69483698,-89.5845249,,,,,,﻿Sister,﻿Pacifica,,﻿Superior,,,,,1870.0,Chicago
+﻿chi.il.0246,﻿academy,﻿St. Vincent's Academy,English,,,,﻿La Salle,,﻿Chicago,﻿Chicago,﻿IL,,41.741676,-87.70966740000001,,,,,﻿und_t_charity_001,,,,,,,,﻿Under the direction of the Daughters of Charity,1870.0,Chicago
+﻿chi.il.0247,﻿academy,﻿St. Angela's Academy,English,,,,﻿Grundy,﻿Kankakee County,﻿Bourbonnais,﻿Bourbonnais,﻿IL,,41.15702865,-87.87473641,,,,,,﻿Sister,﻿Frances,,﻿Superior,,,,,1870.0,Chicago
+﻿chi.il.0247,﻿academy,﻿St. Angela's Academy,English,,,,﻿Grundy,﻿Kankakee County,﻿Chicago,﻿Chicago,﻿IL,,41.88168173,-87.62616931,,,,,,,,,,,,,﻿Under the direction of the Sisters of the Holy Cross,1870.0,Chicago
+﻿chi.il.0248,﻿academy,﻿St. Francis Xavier's Academy,English,,,,,,﻿Chicago,﻿Chicago,﻿IL,,41.86973731,-87.65913135,,,,,,,,,,,,,﻿Under the direction of the Sisters of Mercy,1870.0,Chicago
+﻿chi.il.0248,﻿academy,﻿St. Francis Xavier's Academy,English,,,,,,﻿Chicago,﻿Chicago,﻿IL,,41.89669941,-87.6268575,,,,,,,,,,,,,﻿Under the direction of the Sisters of Mercy,1870.0,Chicago
+﻿chi.il.0248,﻿academy,﻿St. Francis Xavier's Academy,English,,,,,,﻿Chicago,﻿Chicago,﻿IL,,41.91109543,-87.64118387,,,,,,,,,,,,,﻿Under the direction of the Sisters of Mercy,1870.0,Chicago
+﻿chi.il.0249,﻿academy,﻿Academy of the Immaculate Conception,English,,,,﻿Peoria,,﻿Chicago,﻿Chicago,﻿IL,,41.879269,-87.64406437,,,,,,,,,,,,,﻿Under the direction of the Sisters of St. Joseph,1870.0,Chicago
+﻿chi.il.0250,﻿school,"﻿Sisters of St. Dominic, Church of Immaculate Conception",English,,,,,,﻿Chicago,﻿Chicago,﻿IL,,41.89567395,-87.62819034,,,,,,,,,,,,,﻿Under the direction of the Sisters of St. Dominic,1870.0,Chicago
+﻿chi.il.0251,"﻿convent, school",﻿Sisters of Notre Dame Convent,English,,,,﻿Kankakee,,﻿Chicago,﻿Chicago,﻿IL,,41.90207602,-87.6368849,,,,,,﻿Sister,﻿St. Alexis,,﻿Superior,,,,,1870.0,Chicago
+﻿chi.il.0251,"﻿convent, school",﻿Sisters of Notre Dame Convent,English,,,,﻿Kankakee,,﻿Chicago,﻿Chicago,﻿IL,,41.89495739,-87.62547074,,,,,,,,,,,,,,1870.0,Chicago
+﻿chi.il.0252,﻿convent,﻿Convent of the Sisters of Mercy,English,,﻿135 Wabash avenue,,,,﻿Bloomington,﻿Bloomington,﻿IL,,40.4854768,-88.994654,,,,,,﻿Sister,﻿M. Scholastica,,﻿Superior,,,,,1870.0,Chicago
+﻿chi.il.0252,﻿convent,﻿Convent of the Sisters of Mercy,English,,﻿135 Wabash avenue,,,﻿Kankakee County,﻿Bourbonnais Grove,﻿Bourbonnais,﻿IL,,41.15702865,-87.87473641,,,,,,,,,,,,,,1870.0,Chicago
+﻿chi.il.0252,﻿convent,﻿Convent of the Sisters of Mercy,English,,﻿135 Wabash avenue,,,﻿Kankakee County,﻿Morris,﻿Morris,﻿IL,,41.36144431,-88.41419165,,,,,,,,,,,,,,1870.0,Chicago
+﻿chi.il.0253,﻿convent,﻿Convent of the Sacred Heart,English,,﻿Corner of Taylor and Throop streets,,,,﻿Joliet,﻿Joliet,﻿IL,,41.525031,-88.0817251,,,,,﻿m_r_gauthreux_001,﻿Madame,﻿M. R. Gauthreux,,﻿Superior,,,,,1870.0,Chicago
+﻿chi.il.0253,﻿convent,﻿Convent of the Sacred Heart,English,,﻿Corner of Taylor and Throop streets,,,﻿La Salle County,﻿Ottawa,﻿Ottawa,﻿IL,,41.350375,-88.83943511,,,,,,,,,,,,,,1870.0,Chicago
+﻿chi.il.0253,﻿convent,﻿Convent of the Sacred Heart,English,,﻿Corner of Taylor and Throop streets,,,﻿La Salle County,﻿La Salle,﻿La Salle,﻿IL,,41.32822237,-89.09400634,,,,,,,,,,,,,,1870.0,Chicago
+﻿chi.il.0254,﻿convent,﻿St. Joseph's Convent,English,,﻿Chicago Avenue,,,,﻿Chicago,﻿Chicago,﻿IL,,41.86486248,-87.64137974,,,,,﻿m_antonia_001,,﻿M. Antonia,﻿O.S.B.,﻿Superior,,,,﻿Sisters of St. Benedict,1870.0,Chicago
+﻿chi.il.0254,﻿convent,﻿St. Joseph's Convent,English,,﻿Chicago Avenue,,,,﻿Chicago,﻿Chicago,﻿IL,,41.8849314,-87.669669,,,,,,,,,,,,,﻿Sisters of St. Benedict,1870.0,Chicago
+﻿chi.il.0254,﻿convent,﻿St. Joseph's Convent,English,,﻿Chicago Avenue,,,,﻿Chicago,﻿Chicago,﻿IL,,41.87224065,-87.63062009,,,,,,,,,,,,,﻿Sisters of St. Benedict,1870.0,Chicago
+﻿chi.il.0255,﻿convent,﻿Convent of the School Sisters of Notre Dame,English,,﻿North avenue,,,,﻿Henry,﻿Henry,﻿IL,,41.1114249,-89.35647759999999,,,,,,﻿Sister,﻿M. Bartholomew,,﻿Superior,,,,,1870.0,Chicago
+﻿chi.il.0255,﻿convent,﻿Convent of the School Sisters of Notre Dame,English,,﻿North avenue,,,﻿Kankakee County,﻿Kankakee,﻿Kankakee,﻿IL,,41.11952311,-87.87105699,,,,,,,,,,,,,,1870.0,Chicago
+﻿chi.il.0256,﻿convent,﻿Convent of Our Lady of Loretto,English,,﻿West Adams Street,,,,﻿Chicago,﻿Chicago,﻿IL,,41.90881554,-87.64587215,,,,,,﻿Sister,﻿M. Ferdinand,,﻿Superior,,,,﻿Sisters of Loretto,1870.0,Chicago
+﻿chi.il.0256,﻿convent,﻿Convent of Our Lady of Loretto,English,,﻿West Adams Street,,,,﻿Chicago,﻿Chicago,﻿IL,,41.86684589,-87.64779062,,,,,,,,,,,,,﻿Sisters of Loretto,1870.0,Chicago
+﻿chi.il.0256,﻿convent,﻿Convent of Our Lady of Loretto,English,,﻿West Adams Street,,,,﻿Chicago,﻿Chicago,﻿IL,,41.89811073,-87.66214862,,,,,,,,,,,,,﻿Sisters of Loretto,1870.0,Chicago
+﻿chi.il.0257,﻿convent,﻿Convent of St. Joseph,English,,﻿N. State and Superior streets,,,,﻿Chicago,﻿Chicago,﻿IL,,41.86923997,-87.64351614,,,,,,,,,,,,,﻿Sisters of St. Joseph,1870.0,Chicago
+﻿chi.il.0258,﻿convent,﻿Convent of the Good Shepherd,English,,﻿Corner of Market and Hill streets,,,﻿La Salle County,﻿Mendota,﻿Mendota,﻿IL,,41.5472547,-89.11758509999999,,,,,,﻿Sister,﻿Mary of the Nativity,,﻿Superior,,,,,1870.0,Chicago
+﻿chi.il.0258,﻿convent,﻿Convent of the Good Shepherd,English,,﻿Corner of Market and Hill streets,,,﻿La Salle County,﻿Freeport,﻿Freeport,﻿IL,,42.29368455,-89.62055857,,,,,,,,,,,,,,1870.0,Chicago
+﻿chi.il.0259,﻿convent,﻿Convent of the Sisters of Charity,English,,"﻿Huron street, near Cass",,,,﻿Kickapoo,﻿Kickapoo,﻿IL,,40.78838096,-89.75011078,,,,,,﻿Sister,﻿Beata McFaul,,﻿Superior,,,,,1870.0,Chicago
+﻿chi.il.0260,﻿convent,﻿Convent of the Sisters of St. Joseph,English,,,,,,﻿Rischland,﻿Richland Township,﻿IL,,41.15001128,-89.00175418,,,,,,﻿Mother,﻿Winfred,,﻿Superior,,,,,1870.0,Chicago
+﻿chi.il.0260,﻿convent,﻿Convent of the Sisters of St. Joseph,English,,,,,,﻿Rock Island,﻿Rock Island,﻿IL,,41.50818682,-90.58040121,,,,,,,,,,,,,,1870.0,Chicago
+﻿chi.il.0261,﻿convent,﻿Convent of the Sisters of the Congregation,English,,,,﻿Kankakee,,﻿Naperville,﻿Naperville,﻿IL,,41.74913135,-88.15428839,,,,,,﻿Sister,﻿St. Alexis de St. Joseph,,﻿Superior,,,,,1870.0,Chicago
+﻿chi.il.0262,﻿convent,﻿Convent of the Sisters of the Holy Cross,English,,,,﻿Grundy,,﻿Effingham,﻿Teutopolis,﻿IL,,39.13273335,-88.46989058,,,,,,﻿Sister,﻿Frances,,﻿Superior,,,,,1870.0,Chicago
+﻿chi.il.0263,﻿convent,﻿Convent of the Sisters of the Holy Cross,English,,,,,,﻿Chicago,﻿Chicago,﻿IL,,41.89600177,-87.62763549,,,,,,﻿Sister,﻿Edward,,﻿Superior,,,,,1870.0,Chicago
+﻿chi.il.0264,﻿convent,﻿St. Joseph's Convent of the Sisters of Mercy,English,,,,,,﻿Chicago,﻿Chicago,﻿IL,,41.89671205,-87.62555666,,,,,,﻿Mother,﻿Mary Paula,,﻿Superior,,,,,1870.0,Chicago
+﻿chi.il.0264,﻿convent,﻿St. Joseph's Convent of the Sisters of Mercy,English,,,,,,﻿Chicago,﻿Chicago,﻿IL,,41.9146514,-87.6716945,,,,,,,,,,,,,,1870.0,Chicago
+﻿chi.il.0264,﻿convent,﻿St. Joseph's Convent of the Sisters of Mercy,English,,,,,,﻿Chicago,﻿Chicago,﻿IL,,41.9146514,-87.6716945,,,,,,,,,,,,,,1870.0,Chicago
+﻿chi.il.0265,﻿convent,﻿Sisters of Charity,English,,,,﻿La Salle,,﻿Chicago,﻿Chicago,﻿IL,,41.87942649,-87.6443372,,,,,,﻿Sister,﻿Pacifica,,﻿Superior,,,,,1870.0,Chicago
+﻿chi.il.0266,﻿convent,﻿Convent of the Sisters of Charity of the Blessed Virgin Mary,English,,"﻿Maxwell, near Jefferson Street",,,,﻿Chicago,﻿Chicago,﻿IL,,41.87761658,-87.81431939,,,,,,﻿Sister,﻿M. Agatha,,﻿Superior,,,,,1870.0,Chicago
+﻿chi.il.0267,﻿convent,﻿St. Columba's Convent,English,,﻿178 Paulina street,,,,﻿Chicago,﻿Chicago,﻿IL,,41.88289691,-87.65204781,,,,,,﻿Sister,﻿M. Barbara,,﻿Superior,,,,,1870.0,Chicago
+﻿chi.il.0267,﻿convent,﻿St. Columba's Convent,English,,﻿178 Paulina street,,,,﻿Chicago,﻿Chicago,﻿IL,,41.88289691,-87.65204781,,,,,,,,,,,,,﻿Under the direction of the Sisters of Charity,1870.0,Chicago
+﻿chi.il.0268,﻿convent,﻿St. Peter's Church,English,,﻿corner of Clark and Polk streets,,,,﻿Chicago,﻿Chicago,﻿IL,,41.86739633,-87.65474471,,,,,,﻿Mother,﻿Mary Paula,,﻿Superior,,,,,1870.0,Chicago
+﻿chi.il.0268,﻿convent,﻿St. Peter's Church,English,,﻿corner of Clark and Polk streets,,,,﻿Chicago,﻿Chicago,﻿IL,,41.88228297,-87.63145416,,,,,,,,,,,,,﻿Under the direction of the Sisters of Notre Dame,1870.0,Chicago
+﻿chi.il.0269,﻿convent,not recorded,English,,﻿Convent,,,,﻿Chicago,﻿Chicago,﻿IL,,41.88228297,-87.63145416,,,,,,﻿Sister,﻿Mélanie,,﻿Superior,,,,,1870.0,Chicago
+﻿chi.il.0269,﻿convent,not recorded,English,,﻿Convent,,,,﻿Chicago,﻿Chicago,﻿IL,,41.91309555,-87.64076883,,,,,,,,,,,,,﻿Under the direction of the Sisters of Notre Dame,1870.0,Chicago
+﻿chi.il.0270,﻿convent,not recorded,English,,﻿Convent,,,,﻿Chicago,﻿Chicago,﻿IL,,41.91309555,-87.64076883,,,,,﻿mélanie_001,﻿Sœur St.,﻿Mélanie,,﻿Superior,,,,,1870.0,Chicago
+﻿chi.il.0271,﻿convent,﻿Church of the Immaculate Conception,English,,"﻿North Franklin, near Schiller street",,,,﻿Chicago,﻿Chicago,﻿IL,,41.89673178,-87.62555666,,,,,,,,,,,,,﻿Under the direction of the Sisters of Notre Dame,1870.0,Chicago
+﻿chi.il.0272,﻿convent,﻿Convent of the Sisters of St. Francis Assisium,English,,﻿at St. Francis' Church,,,,﻿Chicago,﻿Chicago,﻿IL,,41.89673178,-87.62555666,,,,,,﻿Sister,﻿Maria Barbara,,﻿Superior,,,,,1870.0,Chicago
+﻿chi.il.0272,﻿convent,﻿Convent of the Sisters of St. Francis Assisium,English,,﻿at St. Francis' Church,,,,﻿Chicago,﻿Chicago,﻿IL,,41.8577813,-87.63023928,,,,,,,,,,,,,﻿Under the direction of the Sisters of St. Dominic,1870.0,Chicago
+﻿chi.il.0272,﻿convent,﻿Convent of the Sisters of St. Francis Assisium,English,,﻿at St. Francis' Church,,,,﻿Chicago,﻿Chicago,﻿IL,,41.8577813,-87.63023928,,,,,,,,,,,,,﻿Under the direction of the Sisters of St. Dominic,1870.0,Chicago
+﻿chi.il.0272,﻿convent,﻿Convent of the Sisters of St. Francis Assisium,English,,﻿at St. Francis' Church,,,,﻿Chicago,﻿Chicago,﻿IL,,41.86356598,-87.64789749,,,,,,,,,,,,,﻿Under the direction of the Sisters of St. Dominic,1870.0,Chicago
+﻿chi.il.0273,﻿convent,﻿Convent of the Sisters of St. Francis Assisium,English,,﻿at St. Boniface's,,,,﻿Chicago,﻿Chicago,﻿IL,,41.89095906,-87.6695875,,,,,,﻿Sister,﻿Maria Alberto,,﻿Superior,,,,,1870.0,Chicago
+﻿chi.il.0273,﻿convent,﻿Convent of the Sisters of St. Francis Assisium,English,,﻿at St. Boniface's,,,,﻿Chicago,﻿Chicago,﻿IL,,41.84384284,-87.61745143,,,,,,,,,,,,,,1870.0,Chicago
+﻿chi.il.0273,﻿convent,﻿Convent of the Sisters of St. Francis Assisium,English,,﻿at St. Boniface's,,,,﻿Chicago,﻿Chicago,﻿IL,,41.86739633,-87.65474471,,,,,,,,,,,,,,1870.0,Chicago
+﻿chi.il.0274,﻿convent,﻿Convent of the Sisters of St. Francis Assisium,English,,﻿at St. Wenceslaus',,,,﻿Chicago,﻿Chicago,﻿IL,,41.7520183,-87.60007270000001,,,,,,﻿Sister,﻿Maria Francis,,﻿Superior,,,,,1870.0,Chicago
+﻿chi.il.0274,﻿convent,﻿Convent of the Sisters of St. Francis Assisium,English,,﻿at St. Wenceslaus',,,,﻿Bourbonnais Grove,﻿Bourbonnais,﻿IL,,41.15631108,-87.8733378,,,,,,,,,,,,,,1870.0,Chicago
+﻿chi.il.0275,﻿convent,﻿Convent of the Sisters of St. Francis Assisium,English,,,,,,﻿Bourbonnais Grove,﻿Bourbonnais,﻿IL,,41.15631108,-87.8733378,,,,,,﻿Sister,﻿Mary Cœlestin,,﻿Superior,,,,,1870.0,Chicago
+﻿chi.il.0275,﻿convent,﻿Convent of the Sisters of St. Francis Assisium,English,,,,,,﻿Freeport,﻿Freeport,﻿IL,,42.28535298,-89.60634926,,,,,,,,,,,,,,1870.0,Chicago
+﻿chi.il.0275,﻿convent,﻿Convent of the Sisters of St. Francis Assisium,English,,,,,,﻿Galena,﻿Galena,﻿IL,,42.41912337,-90.42923658,,,,,,,,,,,,,,1870.0,Chicago
+﻿chi.il.0276,﻿convent,﻿Convent of the Sisters of St. Francis Assisium,English,,,,,,﻿Henry,﻿Henry,﻿IL,,41.10810877,-89.36352818,,,,,,﻿Sister,﻿Mary Alphonse,,﻿Superior,,,,,1870.0,Chicago
+﻿chi.il.0276,﻿convent,﻿Convent of the Sisters of St. Francis Assisium,English,,,,,,﻿Henry,﻿Henry,﻿IL,,41.10810877,-89.36352818,,,,,,,,,,,,,,1870.0,Chicago
+﻿chi.il.0277,﻿convent,﻿Convent of the Sisters of St. Francis Assisium,English,,,,,,﻿Joliet,﻿Joliet,﻿IL,,41.55042754,-88.12143239,,,,,,﻿Sister,﻿M. Gabriel,,﻿Superior,,,,,1870.0,Chicago
+﻿chi.il.0277,﻿convent,﻿Convent of the Sisters of St. Francis Assisium,English,,,,,,﻿Joliet,﻿Joliet,﻿IL,,41.55042754,-88.12143239,,,,,,,,,,,,,,1870.0,Chicago
+﻿chi.il.0278,﻿convent,﻿Convent of the Sisters of St. Francis Assisium,English,,,,,,﻿Joliet,﻿Joliet,﻿IL,,41.55042754,-88.12143239,,,,,,﻿Sister,﻿Maria Mathilda,,﻿Superior,,,,,1870.0,Chicago
+﻿chi.il.0278,﻿convent,﻿Convent of the Sisters of St. Francis Assisium,English,,,,,,﻿Joliet,﻿Joliet,﻿IL,,41.55042754,-88.12143239,,,,,,,,,,,,,,1870.0,Chicago
+﻿chi.il.0278,﻿convent,﻿Convent of the Sisters of St. Francis Assisium,English,,,,,,﻿Kickapoo,﻿Kickapoo,﻿IL,,40.78905982,-89.75319783,,,,,,,,,,,,,,1870.0,Chicago
+﻿chi.il.0279,﻿convent,﻿Convent of the Sisters of St. Francis Assisium,English,,,,,,﻿Morris,﻿Morris,﻿IL,,41.36087489,-88.41844791,,,,,,﻿Sister,﻿Mary,,﻿Superior,,,,,1870.0,Chicago
+﻿chi.il.0279,﻿convent,﻿Convent of the Sisters of St. Francis Assisium,English,,,,,,﻿Nauvoo,﻿Nauvoo,﻿IL,,40.550042,-91.3848749,,,,,,,,,,,,,,1870.0,Chicago
+﻿chi.il.0279,﻿convent,﻿Convent of the Sisters of St. Francis Assisium,English,,,,,,﻿Naperville,﻿Naperville,﻿IL,,41.77616832,-88.14468134,,,,,,,,,,,,,,1870.0,Chicago
+﻿chi.il.0280,﻿convent,﻿Convent of the Sisters of St. Francis Assisium,English,,,,,﻿La Salle County,﻿Ottawa,﻿Ottawa,﻿IL,,38.60818384,-95.26847793,,,,,,﻿Sister,﻿Mary Angela,,﻿Superior,,,,,1870.0,Chicago
+﻿chi.il.0280,﻿convent,﻿Convent of the Sisters of St. Francis Assisium,English,,,,,﻿La Salle County,﻿Peoria,﻿Peoria,﻿IL,,40.72759979,-89.60770066,,,,,,,,,,,,,,1870.0,Chicago
+﻿chi.il.0280,﻿convent,﻿Convent of the Sisters of St. Francis Assisium,English,,,,,﻿La Salle County,﻿Peoria,﻿Peoria,﻿IL,,40.6960573,-89.5872995,,,,,,,,,,,,,,1870.0,Chicago
+﻿chi.il.0281,﻿convent,﻿Convent of the Sisters of St. Francis Assisium,English,,,,,,﻿Peru,﻿Peru,﻿IL,,41.3287833,-89.12874304,,,,,,﻿Sister,﻿Mary Theresa,,﻿Superior,,,,,1870.0,Chicago
+﻿chi.il.0281,﻿convent,﻿Convent of the Sisters of St. Francis Assisium,English,,,,,,﻿Rockford,﻿Rockford,﻿IL,,42.26864915,-89.10294173,,,,,,,,,,,,,,1870.0,Chicago
+﻿chi.il.0282,﻿school,﻿Cathedral School,English,﻿for girls,,,,,﻿La Salle,﻿La Salle,﻿IL,,41.33869046,-89.09488745,,,,,,,,,,,,,﻿Under the Sisters of Charity,1870.0,Chicago
+﻿chi.il.0282,﻿school,﻿Cathedral School,English,﻿for girls,,,,,﻿Sterling,﻿Sterling,﻿IL,,41.79416218,-89.69887866,,,,,,,,,,,,,﻿Under the Sisters of Charity,1870.0,Chicago
+﻿chi.il.0283,﻿school,﻿Cathedral School,English,﻿for boys,﻿Corner of Cass and Chicago avenues,,,,﻿Waukegan,﻿Waukegan,﻿IL,,42.37370147,-87.8451929,,,,,,,,,,,,,﻿Under the charge of Christian Brothers,1870.0,Chicago
+﻿chi.il.0284,﻿school,﻿St. Mary's School,English,﻿for boys,,,,,﻿Chicago,﻿Chicago,﻿IL,,41.90207602,-87.6368849,,,,,,,,,,,,,﻿Under Christian Brothers,1870.0,Chicago
+﻿chi.il.0285,﻿school,﻿St. Mary's School,English,﻿for girls,,,,,﻿Chicago,﻿Chicago,﻿IL,,41.89600177,-87.62763549,,,,,,,,,,,,,﻿Under Sisters of Mercy,1870.0,Chicago
+﻿chi.il.0286,﻿school,﻿St. Patrick's School,English,﻿for boys,,,,,﻿Rose Hill,﻿Rose Hill,﻿IL,,41.99766847,-87.67935105,,,,,,,,,,,,,﻿Under the Christian Brothers,1870.0,Chicago
+﻿chi.il.0287,﻿school,﻿St. Patrick's School,English,﻿for girls,,,,,﻿Bridgeport,﻿Bridgeport,﻿IL,,41.8412344,-87.65887064,,,,,,,,,,,,,﻿Under the Sisters of Loretto,1870.0,Chicago
+﻿chi.il.0288,﻿school,﻿Parochial School of Holy Family Church,English,﻿for boys,﻿On Morgan street,,,,﻿Chicago,﻿Chicago,﻿IL,,41.84572205,-87.61886041,,,,,,﻿Brother,﻿O'Neil,﻿S.J.,﻿Superintendent,,,,,1870.0,Chicago
+﻿chi.il.0288,﻿school,﻿Parochial School of Holy Family Church,English,﻿for boys,﻿On Morgan street,,,,﻿Chicago,﻿Chicago,﻿IL,,42.1302833,-87.7541648,,,,,﻿oneil_001,﻿Father,﻿O'Neil,﻿S.J.,﻿Director,,,,,1870.0,Chicago
+﻿chi.il.0289,﻿school,﻿Parochial School of Holy Family Church,English,﻿for girls,,,,,﻿Chicago,﻿Chicago,﻿IL,,41.88215304,-87.62623814,,,,,,,,,,,,,﻿Under the direction of the Ladies of the Sacred Heart,1870.0,Chicago
+﻿chi.il.0290,﻿school,﻿St. Aloysius' School,English,﻿for girls,﻿Church of the Holy Family,,,,﻿La Salle,﻿La Salle,﻿IL,,41.33636559,-89.092784,,,,,,,,,,,,,﻿Under the care of the Sisters of Charity of the Blessed Virgin Mary,1870.0,Chicago
+﻿chi.il.0291,﻿school,﻿St. Peter's School,English,﻿for boys,,,,﻿La Salle County,﻿Ottawa,﻿Ottawa,﻿IL,,41.3455892,-88.84257690000001,,,,,,,,,,,,,﻿Under secular teachers,1870.0,Chicago
+﻿chi.il.0292,﻿school,﻿St. Peter's School,English,﻿for girls,,,,,﻿Chicago,﻿Chicago,﻿IL,,41.89182407,-87.63558595,,,,,,,,,,,,,﻿Under the Sisters of Notre Dame,1870.0,Chicago
+﻿chi.il.0293,﻿school,﻿St. Michael's School,English,﻿for boys,,,,,,,﻿IL,,41.89182407,-87.63558595,,,,,,,,,,,,,﻿Under secular teachers,1870.0,Chicago
+﻿chi.il.0294,﻿school,﻿St. Michael's School,English,﻿for girls,,,,,,,﻿IL,,41.89182407,-87.63558595,,,,,,,,,,,,,﻿Under the Sisters of Notre Dame,1870.0,Chicago
+﻿chi.il.0295,﻿school,﻿St. Joseph's School,English,﻿for boys,,,,,,,﻿IL,,41.89182407,-87.63558595,,,,,,,,,,,,,﻿Under lay teachers,1870.0,Chicago
+﻿chi.il.0296,﻿school,﻿St. Joseph's School,English,﻿for girls. Christian Brothers expected,,,,,,,﻿IL,,41.89182407,-87.63558595,,,,,,,,,,,,,﻿Under the Sisters of St. Benedict. Christian Brothers.,1870.0,Chicago
+﻿chi.il.0297,﻿school,﻿St. John's School,English,﻿for boys,,,,,,,﻿IL,,41.89182407,-87.63558595,,,,,,,,,,,,,﻿Under lay teachers,1870.0,Chicago
+﻿chi.il.0298,﻿school,﻿St. John's School,English,﻿for girls,,,,,,,﻿IL,,41.89182407,-87.63558595,,,,,,,,,,,,,﻿Under the Sisters of Mercy,1870.0,Chicago
+﻿chi.il.0299,﻿school,﻿St. Francis' School,English,﻿for boys,,,,,,,﻿IL,,41.89182407,-87.63558595,,,,,,,,,,,,,﻿Under lay teachers,1870.0,Chicago
+﻿chi.il.0300,﻿school,﻿St. Columbkille's School,English,,,,,,,,﻿IL,,41.89182407,-87.63558595,,,,,,,,,,,,,﻿Sisters of Charity,1870.0,Chicago
+﻿chi.il.0301,﻿school,﻿St. James' School,English,﻿for boys and girls,,,,,,,﻿IL,,41.89182407,-87.63558595,,,,,,,,,,,,,﻿Under the Sisters of Mercy,1870.0,Chicago
+﻿chi.il.0302,﻿school,﻿St. Stanislaus' School,English,,﻿Church of the Holy Family,,,,,,﻿IL,,41.89182407,-87.63558595,,,,,,,,,,,,,﻿Under the Sisters of Charity of the Blessed Virgin Mary,1870.0,Chicago
+﻿chi.il.0303,﻿school,﻿St. Francis' School,English,﻿for girls,,,,,,,﻿IL,,41.89182407,-87.63558595,,,,,,,,,,,,,﻿Under the Sisters of St. Francis,1870.0,Chicago
+﻿chi.il.0304,﻿school,not recorded,English,﻿for boys and girls,﻿Parochial school,,,,,,﻿IL,,41.89182407,-87.63558595,,,,,,,,,,,,,﻿Under the Sisters of the Congregation,1870.0,Chicago
+﻿chi.il.0305,﻿school,not recorded,English,﻿for boys and girls,﻿Parochial school,,,,,,﻿IL,,41.89182407,-87.63558595,,,,,,,,,,,,,﻿Under the Sisters of the Congregation,1870.0,Chicago
+﻿chi.il.0306,﻿school,not recorded,﻿German,﻿for boys and girls,﻿Parochial schools,,,,,,﻿IL,,41.89182407,-87.63558595,,,,,,,,,,,,,﻿Under lay teachers,1870.0,Chicago
+﻿chi.il.0307,﻿school,not recorded,﻿German,﻿for boys and girls,﻿Parochial schools,,,,,,﻿IL,,41.89182407,-87.63558595,,,,,,,,,,,,,﻿Under lay teachers,1870.0,Chicago
+﻿chi.il.0308,﻿school,not recorded,﻿German,﻿for boys,﻿Parochial schools,,,,,,﻿IL,,41.89182407,-87.63558595,,,,,,,,,,,,,﻿Under lay teachers,1870.0,Chicago
+﻿chi.il.0309,﻿school,not recorded,English,,﻿Parochial schools,,,,,,﻿IL,,41.89182407,-87.63558595,,,,,,,,,,,,,﻿Under the Sisters of Notre Dame,1870.0,Chicago
+﻿chi.il.0310,﻿school,not recorded,English,﻿for boys,﻿Parochial schools,,,,,,﻿IL,,41.89182407,-87.63558595,,,,,,,,,,,,,﻿Under the Sisters of the Holy Cross,1870.0,Chicago
+﻿chi.il.0311,﻿school,not recorded,﻿German,﻿for boys,﻿Parochial school,,,,,,﻿IL,,41.89182407,-87.63558595,,,,,,,,,,,,,﻿Under lay teachers,1870.0,Chicago
+﻿chi.il.0312,﻿school,not recorded,﻿German,﻿for girls,﻿Parochial school,,,,,,﻿IL,,41.89182407,-87.63558595,,,,,,,,,,,,,﻿Under the Sisters of St. Francis,1870.0,Chicago
+﻿chi.il.0313,﻿school,not recorded,﻿German,﻿for girls,﻿Parochial school,,,,,,﻿IL,,41.89182407,-87.63558595,,,,,,,,,,,,,﻿Under the Sisters of St. Francis,1870.0,Chicago
+﻿chi.il.0314,﻿school,not recorded,English,﻿for boys and girls,﻿Parochial school,,,,,,﻿IL,,41.89182407,-87.63558595,,,,,,,,,,,,,﻿Under the Sisters of St. Francis,1870.0,Chicago
+﻿chi.il.0315,﻿school,not recorded,English,﻿for boys and girls,﻿Parochial schools,,,,,,﻿IL,,41.89182407,-87.63558595,,,,,,,,,,,,,﻿Under the Sisters of the Holy Cross,1870.0,Chicago
+﻿chi.il.0316,﻿school,not recorded,English,﻿for boys and girls,﻿Parochial schools,,,,,,﻿IL,,41.89182407,-87.63558595,,,,,,,,,,,,,﻿Under lay teachers,1870.0,Chicago
+﻿chi.il.0317,﻿school,not recorded,English,﻿for boys and girls,﻿Parochial schools,,,,,,﻿IL,,41.89182407,-87.63558595,,,,,,,,,,,,,﻿Under lay teachers,1870.0,Chicago
+﻿chi.il.0318,﻿school,not recorded,English,﻿for boys and girls,﻿Parochial schools,,,,,,﻿IL,,41.89182407,-87.63558595,,,,,,,,,,,,,﻿Under the Sisters of Mercy,1870.0,Chicago
+﻿chi.il.0318,﻿school,not recorded,English,﻿for boys and girls,﻿Parochial schools,,,,,,﻿IL,,41.89182407,-87.63558595,,,,,,,,,,,,,﻿Under the Christian Brothers,1870.0,Chicago
+﻿chi.il.0319,﻿school,not recorded,English,﻿for boys and girls,﻿Parochial schools,,,,,,﻿IL,,41.89182407,-87.63558595,,,,,,,,,,,,,﻿Under the Sisters of Mercy,1870.0,Chicago
+﻿chi.il.0319,﻿school,not recorded,English,﻿for boys and girls,﻿Parochial schools,,,,,,﻿IL,,41.89182407,-87.63558595,,,,,,,,,,,,,﻿Under the Sisters of St. Joseph,1870.0,Chicago
+﻿chi.il.0320,﻿school,not recorded,﻿German,﻿for boys and girls. German church.,﻿Parochial schools,,,,,,﻿IL,,41.89182407,-87.63558595,,,,,,,,,,,,,﻿Under lay teachers,1870.0,Chicago
+﻿chi.il.0321,﻿school,not recorded,English,﻿for boys and girls,﻿Parochial schools,,,,,,﻿IL,,41.89182407,-87.63558595,,,,,,,,,,,,,﻿Under lay teachers,1870.0,Chicago
+﻿chi.il.0322,﻿school,not recorded,English,﻿for boys and girls,﻿Parochial schools,,,,,,﻿IL,,41.89182407,-87.63558595,,,,,,,,,,,,,﻿Under lay teachers,1870.0,Chicago
+﻿chi.il.0323,﻿school,not recorded,English,﻿for boys and girls,﻿Parochial schools,,,,,,﻿IL,,41.89182407,-87.63558595,,,,,,,,,,,,,﻿Under the Sisters of Charity,1870.0,Chicago
+﻿chi.il.0323,﻿school,not recorded,English,﻿for boys and girls,﻿Parochial schools,,,,,,﻿IL,,41.89182407,-87.63558595,,,,,,,,,,,,,﻿Under the Christian Brothers,1870.0,Chicago
+﻿chi.il.0324,﻿school,not recorded,English,﻿for boys and girls,﻿Parochial schools,,,,,,﻿IL,,41.89182407,-87.63558595,,,,,,,,,,,,,﻿Under lay teachers,1870.0,Chicago
+﻿chi.il.0325,﻿school,not recorded,English,﻿for boys and girls,﻿Parochial schools,,,,,,﻿IL,,41.89182407,-87.63558595,,,,,,,,,,,,,﻿Under lay teachers,1870.0,Chicago
+﻿chi.il.0326,﻿asylum,﻿Magdalen Asylum,English,,﻿North Market Street,,,,,,﻿IL,,41.89182407,-87.63558595,,,,,,﻿Mother,﻿Mary,﻿of the Nativity,﻿Superior,,,,,1870.0,Chicago
+﻿chi.il.0326,﻿asylum,﻿Magdalen Asylum,English,,﻿North Market Street,,,,,,﻿IL,,41.89182407,-87.63558595,,,,,,,,,,,,,﻿Conducted by the Religious of the Good Shepherd,1870.0,Chicago
+﻿chi.il.0327,﻿asylum,﻿St. Mary's and St. Joseph's Orphan Asylum,English,﻿for boys and girls,﻿Corner of North State and Superior streets,,,,,,﻿IL,,41.89182407,-87.63558595,,,,,,,,,,,,,﻿Under the charge of the Sisters of St. Joseph,1870.0,Chicago
+﻿chi.il.0328,﻿asylum,﻿German Orphan Asylum,English,,,,,,,,﻿IL,,41.89182407,-87.63558595,,,,,,,,,,,,,,1870.0,Chicago
+﻿chi.il.0329,"﻿asylum, school",﻿Chicago Reform and Industrial School,English,"﻿Chartered by the State Legislature. Proposed new building, eighteen miles from Chicago, on the C. and M. R.R. Cost $70,000.",,,,,,,﻿IL,,41.89182407,-87.63558595,,,,,,,,,,,,,﻿Conducted by the Christian Brothers,1870.0,Chicago
+﻿chi.il.0330,﻿hospital,﻿Mercy Hospital,English,"﻿New hospital completed. Cost $75,000.",﻿Corner of Calumet avenue and Twenty-sixth street,,,,,,﻿IL,,41.89182407,-87.63558595,,,,,,﻿Mother,﻿M. Francis de Sales,,﻿Director,,,,,1870.0,Chicago
+﻿chi.il.0330,﻿hospital,﻿Mercy Hospital,English,"﻿New hospital completed. Cost $75,000.",﻿Corner of Calumet avenue and Twenty-sixth street,,,,,,﻿IL,,41.89182407,-87.63558595,,,,,,,,,,,,,﻿Under the charge of the Sisters of Mercy,1870.0,Chicago
+﻿chi.il.0331,﻿hospital,﻿Sisters of Charity Hospital,English,,﻿Corner of Diversy and Green Bay roads,,,,,,﻿IL,,41.89182407,-87.63558595,,,,,,,,,,,,,,1870.0,Chicago
+﻿chi.il.0332,﻿house,﻿House of Providence,English,,﻿Corner of Calumet avenue and Twenty-sixth street,,,,,,﻿IL,,41.89182407,-87.63558595,,,,,,,,,,,,,﻿In charge of the Sisters of Mercy,1870.0,Chicago
+﻿chi.il.0333,﻿asylum,﻿St. Vincent's Orphan Asylum,English,,,,,,,,﻿IL,,41.89182407,-87.63558595,,,,,,,,,,,,,﻿Under the charge of the Sisters of Charity,1870.0,Chicago
+﻿chi.il.0334,﻿asylum,﻿St. Joseph's Orphan Asylum,English,,,,,,,,﻿IL,,41.89182407,-87.63558595,,,,,,,,,,,,,﻿Under the charge of the Sisters of Mercy,1870.0,Chicago
+﻿chi.il.0335,﻿hospital,not recorded,English,,﻿545 North Franklin street,,,,,,﻿IL,,41.89182407,-87.63558595,,,,,,,,,,,,,﻿Conducted by the Alexian Brothers,1870.0,Chicago

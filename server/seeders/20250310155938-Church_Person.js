@@ -5,19 +5,17 @@ const fs = require('fs');
 const path = require('path');
 const csv = require('csv-parser');
 const{ Church_Person } = require('../models');
-const{ preprocessCSV } = require('../utils/data-preprocess');
+const{ loadData } = require('../utils/data-preprocess');
 
 /** @type {import('sequelize-cli').Migration} */
 module.exports = {
   async up (queryInterface, Sequelize) {
-    const csvFilePath = path.join(__dirname, 'import');
-    const files = fs.readdirSync(csvFilePath).filter(file => file.endsWith('.csv'));
-
-    for (const file of files) {
-      const filePath = path.join(csvFilePath, file);
-      const data = await preprocessCSV(filePath);
-      await importData(data);
-    };},
+    if (process.env.NODE_ENV != 'test') {
+      const data = await loadData(__dirname);
+      for (const file of data) {
+        await importData(file);
+      }
+    }},
 
   async down (queryInterface, Sequelize) {
     await queryInterface.bulkDelete('Churche_People', null, {});
@@ -44,7 +42,7 @@ async function importData(data) {
 
   const uniqueChurchPersonInfo = Array.from(new Map(churchPersonInfo.map(item => [`${item.instID}-${item.persID}`, item])).values());
 
-  console.log(uniqueChurchPersonInfo[0]);
+  //console.log(uniqueChurchPersonInfo[0]);
   
   for (const item of uniqueChurchPersonInfo) {
     if (item.instID && item.persID) {

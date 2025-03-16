@@ -1,4 +1,5 @@
 const fs = require('fs');
+const path = require('path');
 const csv = require('csv-parser');
 
 async function preprocessCSV(filePath) {
@@ -7,7 +8,7 @@ async function preprocessCSV(filePath) {
         fs.createReadStream(filePath)
         .pipe(csv())
         .on('data', (row) => {
-            data.push(row);
+            data.push(row); // like append() in Python
         })
         .on('end', () => {
         resolve();
@@ -38,6 +39,20 @@ async function preprocessCSV(filePath) {
     return data;
 }
 
+async function loadData(directoryPath) {
+  if (process.env.NODE_ENV != 'test') {
+    const csvFilePath = path.join(directoryPath, 'import', 'data');
+    const files = fs.readdirSync(csvFilePath).filter(file => file.endsWith('.csv'));
+    let data = [];
+    for (const file of files) {
+      const filePath = path.join(csvFilePath, file);
+      data.push(await preprocessCSV(filePath));
+    }
+    return data;
+  }
+}
+
 module.exports = {
-  preprocessCSV
+  preprocessCSV,
+  loadData
 };

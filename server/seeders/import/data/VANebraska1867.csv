@@ -1,0 +1,38 @@
+﻿instID,church_type,instName,language,instNote,placeName,region,county_orig,county_reg,city_orig,city_reg,state_orig,state_reg,latitude,longitude,attendingInstID,attendingChurch,attendingChurchFrequency,attendingChurchNote,persID,persTitle,persName,persSuffix,persRole,persNote,memberType,member,affiliated,year,diocese
+﻿oma.ne.0001,﻿church,﻿Church of St. Philomena,English,,,,,,﻿Omaha,﻿Omaha,﻿NE,﻿NE,,,,,,,,﻿Rt. Rev.,﻿J.M. O'Gorman,﻿D.D.,﻿Bishop,,,,,1867.0,VANebraska
+﻿oma.ne.0001,﻿church,﻿Church of St. Philomena,English,,,,,,﻿Omaha,﻿Omaha,﻿NE,,,,,,,,,﻿Rev.,﻿P. Eagan,,﻿Pastor,,,,,1867.0,VANebraska
+﻿oma.ne.0001,﻿church,﻿Church of St. Philomena,English,,,,,,﻿Omaha,﻿Omaha,﻿NE,,,,,,,,,﻿Rev.,﻿Otto Groenebaum,,﻿Assistant Pastor,,,,,1867.0,VANebraska
+﻿dub.ia.0189,﻿mission,not recorded,English,,,,﻿Harrison County,,﻿Magnolia,﻿Magnolia,﻿IA,﻿IA,,,﻿oma.ne.0001,﻿Attended from Omaha,﻿Once a month,,,﻿Rev.,﻿P. Eagan,,,,,,,1867.0,VANebraska
+﻿dub.ia.0191,﻿mission,not recorded,English,,,,﻿Harrison County,,﻿St. John's,﻿St. John's,﻿IA,,,,﻿oma.ne.0001,﻿Attended from Omaha,﻿Once a month,,,﻿Rev.,﻿P. Eagan,,,,,,,1867.0,VANebraska
+﻿dub.ia.0191,﻿mission,﻿New St. John's,English,,,,﻿Harrison County,,﻿The Junction,﻿The Junction,﻿IA,,,,﻿oma.ne.0001,﻿Attended from Omaha,﻿Once a month,,,﻿Rev.,﻿P. Eagan,,,,,,,1867.0,VANebraska
+﻿dub.ia.0191,﻿mission,﻿New St. John's,English,,,,﻿Douglas County,,﻿McArdleville,﻿The Junction,﻿NE,﻿NE,,,﻿oma.ne.0001,﻿Attended from Omaha,﻿Once a month,,,﻿Rev.,﻿P. Eagan,,,,,,,1867.0,VANebraska
+﻿oma.ne.0007,﻿mission,not recorded,English,﻿an Irish settlement,,,,,﻿Forest City,,﻿NE,﻿NE,,,﻿oma.ne.0001,﻿Attended from Omaha,﻿Once a month,,,﻿Rev.,﻿O. Groenebaum,,,,,,,1867.0,VANebraska
+﻿oma.ne.0009,﻿mission,not recorded,English,,,,,,﻿Elk Horn,﻿Elkhorn,﻿NE,﻿NE,,,﻿oma.ne.0001,﻿Attended from Omaha,﻿Once a month,,,﻿Rev.,﻿O. Groenebaum,,,,,,,1867.0,VANebraska
+﻿oma.ne.0026,﻿mission,not recorded,English,,,,,,﻿Rockport,﻿Rock Port,﻿NE,﻿MO,,,﻿oma.ne.0001,﻿Attended from Omaha,﻿Once a month,,,﻿Rev.,﻿O. Groenebaum,,,,,,,1867.0,VANebraska
+﻿oma.ne.0023,﻿mission,not recorded,English,,,,,,﻿Papilion,﻿Papillion,﻿NE,﻿NE,,,﻿oma.ne.0001,﻿atteneded from Omaha,﻿Once a month,,,﻿Rev.,﻿O. Groenebaum,,,,,,,1867.0,VANebraska
+﻿oma.ne.0008,﻿mission,not recorded,﻿german settlement,,,,,,﻿West-Point,﻿West Point,﻿NE,﻿NE,,,﻿oma.ne.0001,﻿atteneded from Omaha,﻿Once a month,,,﻿Rev.,﻿O. Groenebaum,,,,,,,1867.0,VANebraska
+﻿oma.ne.0003,﻿church,not recorded,English,,,,﻿Otoe County,,﻿Nebraska City,﻿Nebraska City,﻿NE,﻿NE,,,,,,,,﻿Rev.,﻿Emanuel Hartig,﻿O.S.B.,﻿Pastor,,,,,1867.0,VANebraska
+﻿oma.ne.0025,﻿mission,not recorded,English,,,,﻿Cass County,,﻿Plattsmouth,﻿Plattsmouth,﻿NE,﻿NE,,,﻿oma.ne.0003,﻿attended from Nebraska City,,,,,,,,,,,,1867.0,VANebraska
+﻿oma.ne.0037,﻿mission,not recorded,English,,,,,,﻿Salt Creek,,﻿NE,,,,﻿oma.ne.0003,﻿attended from Nebraska City,,,,,,,,,,,,1867.0,VANebraska
+﻿oma.ne.0004,﻿church,not recorded,English,,,,﻿Platte County,,﻿Columbus,﻿Columbus,﻿NE,﻿NE,,,,,,,,﻿Rev.,﻿James Ryan,,﻿Pastor,,,,,1867.0,VANebraska
+﻿oma.ne.0010,﻿church,not recorded,English,﻿german settlement,,,,,﻿St. Helena,﻿St. Helena,,﻿NE,,,﻿oma.ne.0004,﻿attended from Columbus,,,,,,,,,,,,1867.0,VANebraska
+﻿oma.ne.0015,﻿church,not recorded,English,,,,,,﻿Cottonwood Springs,,﻿NE,﻿NE,,,﻿oma.ne.0004,﻿attended from Columbus,,,,,,,,,,,,1867.0,VANebraska
+﻿oma.ne.0014,﻿church,not recorded,English,,,,,,﻿Fort Kearney,﻿Kearney,﻿NE,﻿NE,,,﻿oma.ne.0004,﻿attended from Columbus,,,,,,,,﻿attended from Columbus occasionally,,,,1867.0,VANebraska
+﻿oma.ne.0029,﻿church,not recorded,English,﻿irish settlement,,,,,﻿Wood River,﻿Wood River,﻿NE,﻿NE,,,﻿oma.ne.0004,﻿attended from Columbus,,,,,,,,,,,,1867.0,VANebraska
+﻿oma.ne.0027,﻿church,not recorded,English,,,,,,﻿Shell Creek,﻿Shell Creek,﻿NE,﻿NE,,,﻿oma.ne.0004,﻿attended from Columbus,,,,,,,,,,,,1867.0,VANebraska
+﻿oma.ne.0019,﻿church,not recorded,English,﻿Dacotah,,,,,﻿Julesburgh,﻿Julesburg,﻿NE,﻿CO,,,﻿oma.ne.0004,﻿attended from Columbus,,,,,,,,,,,,1867.0,VANebraska
+﻿oma.ne.0019,﻿church,﻿St. John's,English,﻿Dacotah,,,,,﻿St. Patrick's Settlement,﻿Julesburg,﻿NE,,,,,,,,,﻿Rev.,﻿J. Erlock,,﻿Pastor,,,,,1867.0,VANebraska
+﻿sio.sd.0005,﻿church,not recorded,English,,,,,,﻿Fort Randall,,﻿NE,﻿SD,,,,﻿attended from St. John's,,,,,,,,,,,,1867.0,VANebraska
+﻿oma.ne.0024,﻿church,not recorded,English,,,,,,﻿Ponce,﻿Ponca,﻿NE,﻿NE,,,,﻿attended from St. John's,,,,,,,,,,,,1867.0,VANebraska
+﻿oma.ne.0006,﻿church,not recorded,English,,,,﻿Richardson County,,﻿Rulo,﻿Rulo,﻿NE,﻿NE,,,,,,,,﻿Rev.,﻿J. Hays,,﻿Pastor,,,,,1867.0,VANebraska
+﻿oma.ne.0013,﻿church,not recorded,English,,,,,,﻿Brownsville,﻿Brownsville,﻿NE,﻿NE,,,,,,,,﻿Rev.,﻿Mr. Uhing,,,,,,,1867.0,VANebraska
+﻿oma.ne.0011,﻿church,not recorded,English,,,,,,﻿Arago,﻿Arago,﻿NE,﻿NE,,,,,,,,﻿Rev.,﻿Mr. Uhing,,,,,,,1867.0,VANebraska
+﻿dub.ia.0130,﻿church,not recorded,English,,,,,,﻿Sioux City,﻿Sioux City,﻿IA,,,,,,,,,﻿Rev.,﻿John Curtis,,﻿Pastor,,,,,1867.0,VANebraska
+﻿dub.ia.0039,﻿church,not recorded,English,,,,,,﻿Council Bluffs,,﻿NE,﻿NE,,,,,,,,﻿Rev.,﻿John Daxacher,,,,,,,1867.0,VANebraska
+﻿hel.mt.0016,﻿mission,﻿Indian Missions of the Rocky Mountains,English,,﻿in the Rocky Mountains,,,,,,,,,,,"﻿attended by Jesuit Fathers, two at Virginia City, and two at Helena",,,,,,,,,,,,1867.0,VANebraska
+﻿oma.ne.0030,﻿school,﻿Academy of Mount St. Mary's,English,"﻿Besides the usual branches of a solid English education, the modern languages, vocal and instrumental music, drawing, and painting are taught. Terms for board and tuition are $250 per annum. To this Institution is, moreover, attached a select day-school.",,,,,﻿Omaha,﻿Omaha,﻿NE,﻿NE,,,,,,,,,﻿Conducted by Sister of Mercy,,,,,,,1867.0,VANebraska
+﻿oma.ne.0031,﻿school,﻿Academy,English,,,,,,﻿Nebraska City,﻿Nebraska City,﻿NE,﻿NE,,,,,,,,﻿Mother,﻿Beatrice,,﻿Prioress,"﻿The substantial and ornamental branches of education are taught under the direction of Mother Beatrice, Prioress of the Institution. Although this Institution has been but a short time in existence, it has been favored with kind patronage of both Catholics and Protestants, owing chiefly to the energy and perseverance of the Rev. E. Hartig, Pastor of the Missions.",,,,1867.0,VANebraska
+﻿oma.ne.0031,﻿school,﻿Academy,English,,,,,,﻿Nebraska City,﻿Nebraska City,﻿NE,,,,,,,,,,,,,,,,﻿Sisters of the Benedictine Order,1867.0,VANebraska
+﻿oma.ne.0032,﻿school,﻿Day Schools,English,﻿The girls' school is conducted by three of the Sister of Mercy. While a first-class male teacher has charge of the boys' school.,,,,,﻿Omaha,﻿Omaha,﻿NE,﻿NE,,,,,,,,,,,,,,,﻿Sisters of Mercy,1867.0,VANebraska
+﻿oma.ne.0033,﻿school,﻿Day Schools,English,,,,,,﻿Nebraska City,﻿Nebraska City,﻿NE,﻿NE,,,,,,,,﻿Rev.,﻿E. Hartig,,﻿Pastor,,,,,1867.0,VANebraska
+﻿oma.ne.0033,﻿school,﻿Day Schools,English,,,,,,﻿Nebraska City,﻿Nebraska City,﻿NE,,,,,,,,,,,,﻿Sisters of the Benedictine Ordfer,,,,,1867.0,VANebraska

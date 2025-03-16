@@ -1,0 +1,80 @@
+﻿instID,church_type,instName,language,instNote,placeName,region,county_orig,county_reg,city_orig,city_reg,state_orig,state_reg,latitude,longitude,attendingInstID,attendingChurch,attendingChurchFrequency,attendingChurchNote,persID,persTitle,persName,persSuffix,persRole,persNote,memberType,member,affiliated,year,diocese
+﻿mil.wi.0001,﻿cathedral,﻿St. John's Cathedral,English,,﻿Corner of Jackson and Oneida streets,,,﻿Milwaukee County,﻿Milwaukee,﻿Milwaukee,﻿WI,,,,,,,,﻿j_m_henni_001,﻿Rt. Rev.,﻿J. M. Henni,﻿D.D.,,,,,,1869.0,Milwaukee
+﻿mil.wi.0001,﻿cathedral,﻿St. John's Cathedral,English,,﻿Corner of Jackson and Oneida streets,,,﻿Milwaukee County,﻿Milwaukee,﻿Milwaukee,﻿WI,,,,,,,,﻿m_kundig_001,﻿Very Rev.,﻿M. Kundig,,,,,,,1869.0,Milwaukee
+﻿mil.wi.0001,﻿cathedral,﻿St. John's Cathedral,English,,﻿Corner of Jackson and Oneida streets,,,﻿Milwaukee County,﻿Milwaukee,﻿Milwaukee,﻿WI,,,,,,,,﻿p_j_donaghoe_001,﻿Rev.,﻿P. J. Donaghoe,,,,,,,1869.0,Milwaukee
+﻿mil.wi.0002,﻿church,﻿St. Mary's,English,,﻿Corner of Main and Biddle streets,,,﻿Milwaukee County,﻿Milwaukee,﻿Milwaukee,﻿WI,,,,,,,,﻿l_batz_001,﻿Rev.,﻿L. Batz,,,,,,,1869.0,Milwaukee
+﻿mil.wi.0003,﻿church,﻿St. Gall's,English,,﻿Corner of Second and Sycamore streets,,,﻿Milwaukee County,﻿Milwaukee,﻿Milwaukee,﻿WI,,,,,,,,﻿sta_p_lalumiere_001,﻿Rev.,﻿Stanislaus P. Lalumiere,﻿S.J.,﻿Superior,,,,,1869.0,Milwaukee
+﻿mil.wi.0003,﻿church,﻿St. Gall's,English,,﻿Corner of Second and Sycamore streets,,,﻿Milwaukee County,﻿Milwaukee,﻿Milwaukee,﻿WI,,,,,,,,﻿ign_maes_001,﻿Rev.,﻿Ignatius Maes,﻿S.J.,,,,,,1869.0,Milwaukee
+﻿mil.wi.0003,﻿church,﻿St. Gall's,English,,﻿Corner of Second and Sycamore streets,,,﻿Milwaukee County,﻿Milwaukee,﻿Milwaukee,﻿WI,,,,,,,,﻿p_a_nognes_001,﻿Rev.,﻿P. A. Nognes,﻿S.J.,,,,,,1869.0,Milwaukee
+﻿mil.wi.0003,﻿church,﻿St. Gall's,English,,﻿Corner of Second and Sycamore streets,,,﻿Milwaukee County,﻿Milwaukee,﻿Milwaukee,﻿WI,,,,,,,,﻿p_f_garesche_001,﻿Rev.,﻿P. F. Garesche,﻿S.J.,,,,,,1869.0,Milwaukee
+﻿mil.wi.0003,﻿church,﻿St. Gall's,English,,﻿Corner of Second and Sycamore streets,,,﻿Milwaukee County,﻿Milwaukee,﻿Milwaukee,﻿WI,,,,,,,,﻿ph_j_ross_001,﻿Rev.,﻿Ph. J. Ross,﻿S.J.,,,,,,1869.0,Milwaukee
+﻿mil.wi.0004,﻿church,﻿Holy Trinity,English,,﻿Corner of Park and Greenbush streets,,,﻿Milwaukee County,﻿Milwaukee,﻿Milwaukee,﻿WI,,,,,,,,﻿l_conrad_001,﻿Rev.,﻿L. Conrad,,,,,,,1869.0,Milwaukee
+﻿mil.wi.0005,﻿church,﻿St. Joseph's,English,,﻿Corner of Eleventh and Lisbon streets,,﻿Sheboygan County,,﻿Abbottown,,﻿WI,,,,,,,,﻿jos_holzhauer_001,﻿Rev.,﻿Jos. Holzhauer,,,,,,,1869.0,Milwaukee
+﻿mil.wi.0005,﻿church,﻿St. Joseph's,English,,﻿Corner of Eleventh and Lisbon streets,,﻿Sheboygan County,,﻿Abbottown,,﻿WI,,,,,,,,﻿jos_cremer_001,﻿Rev.,﻿Jos. Cremer,,﻿assistant,,,,,1869.0,Milwaukee
+﻿mil.wi.0006,﻿church,﻿St. Peter's,English,,﻿Corner of Martin and Jackson streets,,﻿Green County,﻿Green County,﻿Adams,﻿Adams,﻿WI,,,,﻿mil.wi.0001,﻿Attended from the Cathedral,,,,,,,,,,,,1869.0,Milwaukee
+﻿mil.wi.0007,﻿church,﻿St. Stanislaus',﻿Polish,,﻿Corner of Green and Grove streets,,﻿Washington County,﻿Washington County,﻿Addison,﻿Addison,﻿WI,,,,,,,,﻿j_jaster_001,﻿Rev.,﻿J. Jaster,,,,,,,1869.0,Milwaukee
+﻿mil.wi.0008,﻿church,﻿St. John Nepomucene's,﻿Bohemian,,﻿Corner of Fourth and Cherry streets,,﻿Washington County,﻿Washington County,﻿Addison,﻿Addison,﻿WI,,,,,,,,﻿j_gartner_001,﻿Rev.,﻿J. Gartner,,,,,,,1869.0,Milwaukee
+﻿mil.wi.0010,﻿church,﻿St. Mary's of the Holy Angels,English,,﻿Corner of Milwaukee and Knapp streets,,﻿Washington County,﻿Washington County,﻿Barton,﻿Barton,﻿WI,,,,,,,,﻿f_x_krautbauer_001,﻿Rev.,﻿F. X. Krautbauer,,﻿Chaplain,,,,,1869.0,Milwaukee
+﻿mil.wi.0010,﻿church,﻿St. Patrick's,English,,﻿Corner of Milwaukee and Knapp streets,,﻿Sheyboygan County,﻿Washington County,﻿Abbottown,﻿Barton,﻿WI,,,,,﻿Attended from Cascade,,,,,,,,,,,,1869.0,Milwaukee
+﻿mil.wi.0010,﻿church,﻿St. Anthony's,English,,﻿Corner of Milwaukee and Knapp streets,,﻿Sheyboygan County,﻿Washington County,﻿Addison,﻿Barton,﻿WI,,,,,,,,﻿m_wenker_001,﻿Rev.,﻿M. Wenker,,,,,,,1869.0,Milwaukee
+﻿mil.wi.0010,﻿church,﻿SS Peter and Paul's,English,,﻿Corner of Milwaukee and Knapp streets,,﻿Sheyboygan County,﻿Washington County,﻿Addison,﻿Barton,﻿WI,,,,,,,,﻿m_wenker_001,﻿Rev.,﻿M. Wenker,,,,,,,1869.0,Milwaukee
+﻿mil.wi.0010,﻿church,﻿St. Francis of Sales,English,,﻿Corner of Milwaukee and Knapp streets,,﻿Green County,﻿Washington County,﻿Albany,﻿Barton,﻿WI,,,,,﻿Attended by Rev. J. Kinsella,,,,,,,,,,,,1869.0,Milwaukee
+﻿mil.wi.0010,﻿church,﻿St. Martin's,English,,﻿Corner of Milwaukee and Knapp streets,,﻿Fond du Lac County,﻿Washington County,﻿Ashford,﻿Barton,﻿WI,,,,,,,,﻿h_j_muckerheide_001,﻿Rev.,﻿H. J. Muckerheide,,,,,,,1869.0,Milwaukee
+﻿mil.wi.0010,﻿church,﻿St. Matthias',English,,﻿Corner of Milwaukee and Knapp streets,,﻿Fond du Lac County,﻿Washington County,﻿Auburn,﻿Barton,﻿WI,,,,,﻿Attended by Rev. C. Rehrl,,,,,,,,,,,,1869.0,Milwaukee
+﻿mil.wi.0010,﻿church,﻿Immaculate Conception,English,,﻿Corner of Milwaukee and Knapp streets,,﻿Washington County,﻿Washington County,﻿Barton,﻿Barton,﻿WI,,,,,,,,﻿j_reindl_001,﻿Rev.,﻿J. Reindl,,,,,,,1869.0,Milwaukee
+﻿mil.wi.0010,﻿church,﻿St. Matthias',English,,﻿Corner of Milwaukee and Knapp streets,,﻿Milwaukee County,﻿Washington County,﻿Beloit Road,﻿Barton,﻿WI,,,,,,,,﻿a_michels_001,﻿Rev.,﻿A. Michels,,,,,,,1869.0,Milwaukee
+﻿mil.wi.0010,﻿church,﻿St. Thomas',English,,﻿Corner of Milwaukee and Knapp streets,,﻿Rock County,﻿Washington County,﻿Beloit,﻿Barton,﻿WI,,,,,,,,﻿r_sullivan_001,﻿Rev.,﻿R. Sullivan,,,,,,,1869.0,Milwaukee
+﻿mil.wi.0010,﻿church,﻿St. Peter's,English,,﻿Corner of Milwaukee and Knapp streets,,﻿Dodge County,﻿Washington County,﻿Beaver Dam,﻿Barton,﻿WI,,,,,,,,﻿f_fusseder_001,﻿Rev.,﻿F. Fusseder,,,,,,,1869.0,Milwaukee
+﻿mil.wi.0010,﻿church,﻿St. Mary's,English,,﻿Corner of Milwaukee and Knapp streets,,﻿Dodge County,﻿Washington County,﻿Beaver Dam,﻿Barton,﻿WI,,,,,,,,﻿f_fusseder_001,﻿Rev.,﻿F. Fusseder,,,,,,,1869.0,Milwaukee
+﻿mil.wi.0010,﻿church,﻿St. Patrick's,English,,﻿Corner of Milwaukee and Knapp streets,,﻿Dodge County,﻿Washington County,﻿Beaver Dam,﻿Barton,﻿WI,,,,,,,,﻿j_e_allen_001,﻿Rev.,﻿J. E. Allen,,,,,,,1869.0,Milwaukee
+﻿mil.wi.0010,﻿church,﻿Holy Cross,English,,﻿Corner of Milwaukee and Knapp streets,,﻿Ozaukee County,﻿Washington County,﻿Belgium,﻿Barton,﻿WI,,,,,,,,﻿j_welter_001,﻿Rev.,﻿J. Welter,,,,,,,1869.0,Milwaukee
+﻿mil.wi.0010,﻿church,﻿St. Mary's,English,,﻿Corner of Milwaukee and Knapp streets,,﻿Ozaukee County,﻿Washington County,﻿Belgium,﻿Barton,﻿WI,,,,,,,,﻿fre_friedlinger_001,﻿Rev.,﻿Fred Friedlinger,,,,,,,1869.0,Milwaukee
+﻿mil.wi.0010,﻿church,﻿St. Patrick's,English,,﻿Corner of Milwaukee and Knapp streets,,﻿La Fayette County,﻿Washington County,﻿Benton,﻿Barton,﻿WI,,,,,,,,﻿g_prendergast_001,﻿Rev.,﻿G. Prendergast,,,,,,,1869.0,Milwaukee
+﻿mil.wi.0010,﻿church,﻿St. Joseph's,English,,﻿Corner of Milwaukee and Knapp streets,,﻿Green Lake County,﻿Washington County,﻿Berlin,﻿Barton,﻿WI,,,,,﻿Attended by Rev. E. Gray,,,,,,,,,,,,1869.0,Milwaukee
+﻿mil.wi.0010,﻿church,﻿St. Rosa's,English,,﻿Corner of Milwaukee and Knapp streets,,﻿Green County,﻿Washington County,﻿Broadhead,﻿Barton,﻿WI,,,,,,,,﻿j_kinsella_001,﻿Rev.,﻿J. Kinsella,,,,,,,1869.0,Milwaukee
+﻿mil.wi.0010,﻿church,﻿St. Charles Borromeo's,English,,﻿Corner of Milwaukee and Knapp streets,,﻿Calumet County,﻿Washington County,﻿Brothertown,﻿Barton,﻿WI,,,,,﻿Attended from Marytown,,,,,,,,,,,,1869.0,Milwaukee
+﻿mil.wi.0010,﻿church,﻿Immaculate Conception,English,,﻿Corner of Milwaukee and Knapp streets,,﻿Racine County,﻿Washington County,﻿Burlington,﻿Barton,﻿WI,,,,,,,,﻿m_wissbauer_001,﻿Rev.,﻿M. Wissbauer,,,,,,,1869.0,Milwaukee
+﻿mil.wi.0023,﻿church,﻿St. Patrick's,English,,,,﻿Kenosha County,﻿Kenosha County,﻿Brighton,﻿Brighton,﻿WI,,,,,,,,﻿m_heiss_002,﻿Rev.,﻿M. Heiss,,,,,,,1869.0,Milwaukee
+﻿mil.wi.0023,﻿church,﻿St. Michael's,English,,,,﻿Kenosha County,﻿Kenosha County,﻿Bristol,﻿Brighton,﻿WI,,,,,﻿Attended from Wilmot,,,,,,,,,,,,1869.0,Milwaukee
+﻿mil.wi.0023,﻿church,﻿St. Dominic's,English,,,,﻿Waukesha County,﻿Kenosha County,﻿Brookfield,﻿Brighton,﻿WI,,,,,﻿Attended by Rev. D. P. Kirwin,,,,,,,,,,,,1869.0,Milwaukee
+﻿mil.wi.0023,﻿church,﻿St. Andrew's,English,,,,﻿Marquette County,﻿Kenosha County,﻿Buffalo,﻿Brighton,﻿WI,,,,,﻿Attended by Rev. M. Monaghan,,,,,,,,,,,,1869.0,Milwaukee
+﻿mil.wi.0023,﻿church,﻿St. John's,English,,,,﻿Fond du Lac County,﻿Kenosha County,﻿Byron,﻿Brighton,﻿WI,,,,,,,,﻿e_a_graves_001,﻿Rev.,﻿E. A. Graves,,,,,,,1869.0,Milwaukee
+﻿mil.wi.0023,﻿church,﻿St. Louis',English,,,,﻿Racine County,﻿Kenosha County,﻿Caledonia,﻿Brighton,﻿WI,,,,,,,,﻿h_reinhart_001,﻿Rev.,﻿H. Reinhart,,,,,,,1869.0,Milwaukee
+﻿mil.wi.0023,﻿church,﻿Holy Family,English,,,,﻿Racine County,﻿Kenosha County,﻿Caledonia,﻿Brighton,﻿WI,,,,,,,,﻿h_reinhart_001,﻿Rev.,﻿H. Reinhart,,,,,,,1869.0,Milwaukee
+﻿mil.wi.0023,﻿church,﻿St. Mary's Visitation,English,,,,﻿Columbia County,﻿Kenosha County,﻿Cambria,﻿Brighton,﻿WI,,,,,﻿Attended from Fox Lake,,,,,,,,,,,,1869.0,Milwaukee
+﻿mil.wi.0023,﻿church,﻿St. Mary's,English,,,,﻿Sheboygan County,﻿Kenosha County,﻿Cascade,﻿Brighton,﻿WI,,,,,,,,﻿t_tiernan_001,﻿Rev.,﻿T. Tiernan,,,,,,,1869.0,Milwaukee
+﻿mil.wi.0023,﻿church,﻿St. Charles',English,,,,﻿Grant County,﻿Kenosha County,﻿Cassville,﻿Brighton,﻿WI,,,,,,,,﻿h_j_albers_001,﻿Rev.,﻿H. J. Albers,,,,,,,1869.0,Milwaukee
+﻿mil.wi.0023,﻿church,﻿St. Francis Borgia's,English,,,,﻿Ozaukee County,﻿Kenosha County,﻿Cedarburgh,﻿Brighton,﻿WI,,,,,,,,﻿h_mcmahon_001,﻿Rev.,﻿H. McMahon,,,,,,,1869.0,Milwaukee
+﻿mil.wi.0023,﻿church,﻿St. George's,English,,,,﻿Manitowoc County,﻿Kenosha County,﻿Centerville,﻿Brighton,﻿WI,,,,,,,,﻿f_zuber_001,﻿Rev.,﻿F. Zuber,,,,,,,1869.0,Milwaukee
+﻿mil.wi.0023,﻿church,﻿St. Wendelin's,English,,,,﻿Manitowoc County,﻿Kenosha County,﻿Centerville,﻿Brighton,﻿WI,,,,,,,,﻿f_zuber_001,﻿Rev.,﻿F. Zuber,,,,,,,1869.0,Milwaukee
+﻿mil.wi.0023,﻿church,﻿St. Martin's,English,,,,﻿Calumet County,﻿Kenosha County,﻿Charleston,﻿Brighton,﻿WI,,,,,﻿Attended from Chilton,,,,,,,,,,,,1869.0,Milwaukee
+﻿mil.wi.0023,﻿church,﻿St. Malachy's,English,,,,﻿Iowa County,﻿Kenosha County,﻿Clydetown,﻿Brighton,﻿WI,,,,,﻿Attended from Highland,,,,,,,,,,,,1869.0,Milwaukee
+﻿mil.wi.0023,﻿church,﻿Holy Assumption,English,,,,﻿Dodge County,﻿Kenosha County,﻿Clyman,﻿Brighton,﻿WI,,,,,﻿Attended by Rev. H. Roche,,,,,,,,,,,,1869.0,Milwaukee
+﻿mil.wi.0023,﻿church,﻿St. Isidore's,﻿German,,,,﻿Dodge County,﻿Kenosha County,﻿Clyman,﻿Brighton,﻿WI,,,,,﻿Attended by Rev. W. Bernard,,,,,,,,,,,,1869.0,Milwaukee
+﻿mil.wi.0023,﻿church,﻿St. Jerom's,﻿German,,,,﻿Columbia County,﻿Kenosha County,﻿Colombus,﻿Brighton,﻿WI,,,,,,,,﻿j_okeefe_001,﻿Rev.,﻿J. O'Keefe,,,,,,,1869.0,Milwaukee
+﻿mil.wi.0023,﻿church,﻿St. Mary's of Help,﻿German,,,,﻿Jefferson County,﻿Kenosha County,﻿Concord,﻿Brighton,﻿WI,,,,,﻿Attended from Ottawa,,,,,,,,,,,,1869.0,Milwaukee
+﻿mil.wi.0023,﻿church,﻿St. Francis Xavier's,﻿German,,,,﻿Dane County,﻿Kenosha County,﻿Cross Plains,﻿Brighton,﻿WI,,,,,,,,﻿p_j_voissem_001,﻿Rev.,﻿P. J. Voissem,,,,,,,1869.0,Milwaukee
+﻿mil.wi.0023,﻿church,﻿St. Mary's,﻿German,,,,﻿Dane County,﻿Kenosha County,﻿Cross Plains,﻿Brighton,﻿WI,,,,,,,,﻿j_hamm_001,﻿Rev.,﻿J. Hamm,,,,,,,1869.0,Milwaukee
+﻿mil.wi.0023,﻿church,﻿St. Mary's,﻿German,,,,﻿Columbia County,﻿Kenosha County,﻿Courtland,﻿Brighton,﻿WI,,,,,﻿Attended from Fox Lake,,,,,,,,,,,,1869.0,Milwaukee
+﻿mil.wi.0023,﻿church,﻿Holy Rosary,﻿German,,,,﻿La Fayette County,﻿Kenosha County,﻿Darlington,﻿Brighton,﻿WI,,,,,,,,﻿e_mcginnity_001,﻿Rev.,﻿E. McGinnity,,,,,,,1869.0,Milwaukee
+﻿mil.wi.0023,﻿church,﻿Holy Rosary,﻿German,,,,﻿La Fayette County,﻿Kenosha County,﻿Darlington,﻿Brighton,﻿WI,,,,,,,,﻿d_mcginnity_001,﻿Rev.,﻿D. McGinnity,,,,,,,1869.0,Milwaukee
+﻿mil.wi.0023,﻿church,﻿St. Anne's,﻿German,,,,﻿Dane County,﻿Kenosha County,﻿Deerfield,﻿Brighton,﻿WI,,,,,﻿Attended by Rev. Thos. Corry,,,,,,,,,,,,1869.0,Milwaukee
+﻿mil.wi.0023,﻿church,﻿St. Andrew's,﻿German,,,,﻿Walworth County,﻿Kenosha County,﻿Delavan,﻿Brighton,﻿WI,,,,,,,,﻿m_morris_001,﻿Rev.,﻿M. Morris,,,,,,,1869.0,Milwaukee
+﻿mil.wi.0023,﻿church,﻿St. Kiernan's,﻿German,,,,﻿Columbia County,﻿Kenosha County,﻿Dekora,﻿Brighton,﻿WI,,,,,﻿Attended by Rev. Thos. Keenan,,,,,,,,,,,,1869.0,Milwaukee
+﻿mil.wi.0023,﻿church,﻿St. Peter's,﻿German,,,,﻿Iowa County,﻿Kenosha County,﻿Dodgeville,﻿Brighton,﻿WI,,,,,﻿Attended from Highland,,,,,,,,,,,,1869.0,Milwaukee
+﻿mil.wi.0051,﻿church,﻿St. Mary's,English,,,,﻿Racine County,﻿Racine County,﻿Dover,﻿Dover,﻿WI,,,,,﻿Attended from Waterford,,,,,,,,,,,,1869.0,Milwaukee
+﻿mil.wi.0051,﻿church,﻿St. Thaddeus',English,,,,﻿Walworth County,﻿Racine County,﻿East-Troy,﻿Dover,﻿WI,,,,,,,,﻿hf_fairbanks_001,﻿Rev.,﻿H.F. Fairbanks,,,,,,,1869.0,Milwaukee
+﻿mil.wi.0051,﻿church,﻿St. Gregory Naz,English,,,,﻿Manitowoc County,﻿Racine County,﻿Eaton,﻿Dover,﻿WI,,,,,,,,﻿a_oschwald_001,﻿Rev.,﻿A. Oschwald,,,,,,,1869.0,Milwaukee
+﻿mil.wi.0051,﻿church,﻿St. Theresa's,English,,,,﻿Waukesha County,﻿Racine County,﻿Eagle Centre,﻿Dover,﻿WI,,,,,﻿Attended by Rev. F. Spath,,,,,,,,,,,,1869.0,Milwaukee
+﻿mil.wi.0051,﻿church,﻿St. Mary's,English,,,,﻿Fond du Lac County,﻿Racine County,﻿Eldorado,﻿Dover,﻿WI,,,,,﻿Attended by Rev. W. Willard,,,,,,,,,,,,1869.0,Milwaukee
+﻿mil.wi.0051,﻿church,﻿St. Peter's,English,,,,﻿Lafayette County,﻿Racine County,﻿Elk Grove,﻿Dover,﻿WI,,,,,﻿Atteded by Rev. Ph. Albrecht,,,,,,,,,,,,1869.0,Milwaukee
+﻿mil.wi.0051,﻿church,﻿St. Rosa's,English,,,,﻿Lafayette County,﻿Racine County,﻿Elk Grove,﻿Dover,﻿WI,,,,,﻿Attended by Rev. J. Stehle,,,,,,,,,,,,1869.0,Milwaukee
+﻿mil.wi.0051,﻿church,﻿Visitation B.V.M.,English,,,,﻿Waukesha County,﻿Racine County,﻿Elm Grove,﻿Dover,﻿WI,,,,,,,,﻿kc_flasch_001,﻿Rev.,﻿K.C. Flasch,,,,,,,1869.0,Milwaukee
+﻿mil.wi.0051,﻿church,﻿St. Lawrence's,English,,,,﻿Walworth County,﻿Racine County,﻿Elkhorn,﻿Dover,﻿WI,,,,,﻿Visited by Rev. M. Morris,,,,,,,,,,,,1869.0,Milwaukee
+﻿mil.wi.0051,﻿church,﻿St. Joseph's,English,,,,﻿Rock County,﻿Racine County,﻿Edgerton,﻿Dover,﻿WI,,,,,﻿Attended by Rev. J. O. Farrell,,,,,,,,,,,,1869.0,Milwaukee
+﻿mil.wi.0051,﻿church,﻿St. James',English,,,,﻿Fond du Lac County,﻿Racine County,﻿Eden,﻿Dover,﻿WI,,,,,﻿Attended by Rev. E.A. Graves,,,,,,,,,,,,1869.0,Milwaukee
+﻿mil.wi.0051,﻿church,﻿St. Columkille's,English,,,,﻿Dodge County,﻿Racine County,﻿Elba,﻿Dover,﻿WI,,,,,,,,﻿e_mcguirk_001,﻿Rev.,﻿E. McGuirk,,,,,,,1869.0,Milwaukee
+﻿mil.wi.0051,﻿church,﻿St. Patrick's,English,,,,﻿Washington County,﻿Racine County,﻿Erin,﻿Dover,﻿WI,,,,,﻿Attended by Rev. S. St. Muench,,,,,,,,,,,,1869.0,Milwaukee
+﻿mil.wi.0051,﻿church,﻿St. John of God,English,,,,﻿Washington County,﻿Racine County,﻿Farming,﻿Dover,﻿WI,,,,,﻿Visited by Rev. C. Rehrl,,,,,,,,,,,,1869.0,Milwaukee
+﻿mil.wi.0051,﻿church,﻿St. Peter's,English,,,,﻿Washington County,﻿Racine County,﻿Farming,﻿Dover,﻿WI,,,,,﻿Visited by Rev. C. Rehrl,,,,,,,,,,,,1869.0,Milwaukee
+﻿mil.wi.0051,﻿church,﻿Holy Mother of Consolation,English,,,,﻿Dane County,﻿Racine County,﻿Fitzburgh,﻿Dover,﻿WI,,,,,,,,,﻿Rev.,﻿M. Hobbs,,,,,,,1869.0,Milwaukee

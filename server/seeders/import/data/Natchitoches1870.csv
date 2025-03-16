@@ -1,0 +1,80 @@
+﻿instID,church_type,instName,language,instNote,placeName,region,county_orig,county_reg,city_orig,city_reg,state_orig,state_reg,latitude,longitude,attendingInstID,attendingChurch,attendingChurchFrequency,attendingChurchNote,persID,persTitle,persName,persSuffix,persRole,persNote,memberType,member,affiliated,year,diocese
+﻿nat.la.0001,﻿cathedral church,﻿Cathedral Church of the Immaculate Conception,English,,,,,,﻿Natchitoches,﻿Natchitoches,﻿LA,,31.7611778,-93.0874794,,,,,﻿aug_m_martin_001,﻿Rt. Rev.,﻿Aug. M. Martin,﻿D.D.,,,,,,1870.0,Natchitoches
+﻿nat.la.0001,﻿cathedral church,﻿Cathedral Church of the Immaculate Conception,English,,,,,,﻿Natchitoches,﻿Natchitoches,﻿LA,,31.7611778,-93.0874794,,,,,﻿p_f_dicharry_001,﻿Very Rev.,﻿P. F. Dicharry,﻿S.T.D.,,,,,,1870.0,Natchitoches
+﻿nat.la.0001,﻿cathedral church,﻿Cathedral Church of the Immaculate Conception,English,,,,,,﻿Natchitoches,﻿Natchitoches,﻿LA,,31.7611778,-93.0874794,,,,,﻿f_martin_001,﻿Rev.,﻿F. Martin,,﻿Rector,,,,,1870.0,Natchitoches
+﻿nat.la.0001,﻿cathedral church,﻿Cathedral Church of the Immaculate Conception,English,,,,,,﻿Natchitoches,﻿Natchitoches,﻿LA,,31.7611778,-93.0874794,,,,,﻿f_l_vézouët_001,﻿Rev.,﻿F. Le Vézouët,,﻿Director of the Propagation of the Faith,,,,,1870.0,Natchitoches
+﻿nat.la.0002,﻿church,﻿Church of the Nativity,English,,,,﻿Natchitoches Parish,,﻿Camté,﻿Campti,﻿LA,,31.89310362,-93.12250125,,,,,﻿e_dupré_001,﻿Rev.,﻿E. Dupré,,,,,,,1870.0,Natchitoches
+﻿nat.la.0003,"﻿church, station",﻿Church of St. Rose,English,,,,,,﻿Tiger Island,﻿Morgan City,﻿LA,,29.69872556,-91.20576269,﻿nat.la.0002,﻿attended by Church of the Nativity,,,,,,,,,,,,1870.0,Natchitoches
+﻿nat.la.0004,﻿station,not recorded,English,,,,,,﻿Bayou Rouge,﻿Melville,﻿LA,,30.73183283,-91.75530783,﻿nat.la.0002,﻿attended by Church of the Nativity,,,,,,,,,,,,1870.0,Natchitoches
+﻿nat.la.0005,﻿station,not recorded,English,,,,,,﻿Grand Bayou,﻿Grand Bayou,﻿LA,,32.08296567,-93.46512832,﻿nat.la.0002,﻿attended by Church of the Nativity,,,,,,,,,,,,1870.0,Natchitoches
+﻿nat.la.0006,﻿station,not recorded,English,,,,,,﻿Black Lake,﻿Clarence,﻿LA,,31.82126099,-93.02952533,﻿nat.la.0002,﻿attended by Church of the Nativity,,,,,,,,,,,,1870.0,Natchitoches
+﻿nat.la.0007,﻿station,not recorded,English,,,,,,﻿Clair Lake,﻿Marksville,﻿LA,,31.15286794,-91.88594842,﻿nat.la.0002,﻿attended by Church of the Nativity,,,,,,,,,,,,1870.0,Natchitoches
+﻿nat.la.0008,﻿church,﻿Church of St. John the Baptist,English,,,,﻿Natchitoches Parish,,﻿Cloutierville,﻿Cloutierville,﻿LA,,31.54618773,-92.91557183,,,,,﻿j_m_beaulieu_001,﻿Rev.,﻿J. M. Beaulieu,,,,,,,1870.0,Natchitoches
+﻿nat.la.0009,﻿station,not recorded,English,,,,,,﻿Bayou Pierre,﻿Carmel,﻿LA,,32.05940836,-93.38007163,﻿nat.la.0008,﻿attended by Church of St. John the Baptist,,,,,,,,,,,,1870.0,Natchitoches
+﻿nat.la.0010,﻿station,not recorded,English,,﻿Mouth of the Cane River,,,,,,﻿LA,,31.51555019,-92.72305135,﻿nat.la.0008,﻿attended by Church of St. John the Baptist,,,,,,,,,,,,1870.0,Natchitoches
+﻿nat.la.0011,﻿church,﻿Church of St. Augustine,English,,,,﻿Natchitoches Parish,,﻿Ile Brevelle,﻿Natchez,﻿LA,,31.59382411,-92.97294095,,,,,﻿l_gallop_001,﻿Rev.,﻿L. Gallop,,,,,,,1870.0,Natchitoches
+﻿nat.la.0012,﻿station,﻿Church of St. Ann,English,,,,,,﻿Vieille Rivière,﻿Natchitoches,﻿LA,,31.64091333,-93.0659165,﻿nat.la.0011,﻿attended by Church of St. Augustine,,,,,,,,,,,,1870.0,Natchitoches
+﻿nat.la.0013,﻿church,﻿Church of Our Lady of Mount Carmel,English,,,,﻿Natchitoches Parish,,﻿Adayes and Spanish Lake,﻿Robeline,﻿LA,,31.70723337,-93.29302878,,,,,﻿f_l_vézouët_001,﻿Rev.,﻿F. Le Vézouët,,,,,,,1870.0,Natchitoches
+﻿nat.la.0014,﻿church,﻿Church of St. Francis Xavier,English,,,,﻿Rapides Parish,,﻿Alexandria,﻿Alexandria,﻿LA,,31.31276327,-92.44777472,,,,,﻿jb_avenard_001,﻿Rev.,﻿J.B. Avenard,,,,,,,1870.0,Natchitoches
+﻿nat.la.0015,﻿chapel,﻿Spring Creek Chapel,English,,,,,,,,﻿LA,,30.5190775,-91.52086240000001,﻿nat.la.0014,﻿attended by Church of St. Francis Xavier,,,,,,,,,,,,1870.0,Natchitoches
+﻿nat.la.0016,﻿station,﻿Holloway's Prairie Chapel,English,,,,,,,,﻿LA,,30.5190775,-91.52086240000001,﻿nat.la.0014,﻿attended by Church of St. Francis Xavier,,,,,,,,,,,,1870.0,Natchitoches
+﻿nat.la.0017,﻿station,not recorded,English,,,,,,﻿Bayou Rapides,﻿Alexandira,﻿LA,,31.31732017,-92.46255119,﻿nat.la.0014,﻿attended by Church of St. Francis Xavier,,,,,,,,,,,,1870.0,Natchitoches
+﻿nat.la.0018,﻿station,not recorded,English,,,,,,﻿Plaisance,﻿Plaisance,﻿LA,,30.61852186,-92.13506867,﻿nat.la.0014,﻿attended by Church of St. Francis Xavier,,,,,,,,,,,,1870.0,Natchitoches
+﻿nat.la.0019,﻿church,﻿Church of St. Joseph's,English,,,,﻿Avoyelles Parish,,﻿Marksville,﻿Marksville,﻿LA,,31.12414186,-92.06731488,,,,,﻿jul_janeau_001,﻿Rev.,﻿Julius Janeau,,,,,,,1870.0,Natchitoches
+﻿nat.la.0020,﻿station,not recorded,English,,,,,,﻿Pointemaigre,﻿Effie,﻿LA,,31.21614985,-92.15565912,﻿nat.la.0019,﻿attended by Church of St. Joseph's,,,,,,,,,,,,1870.0,Natchitoches
+﻿nat.la.0021,﻿station,not recorded,English,,,,,,﻿Grandes Côtes,﻿Grand Coteau,﻿LA,,30.43038901,-92.03930148,﻿nat.la.0019,﻿attended by Church of St. Joseph's,,,,,,,,,,,,1870.0,Natchitoches
+﻿nat.la.0022,﻿station,not recorded,English,,,,,,﻿Ile des Côtes,﻿Ile des Côtes,﻿LA,,31.11455012,-92.14904013,﻿nat.la.0019,﻿attended by Church of St. Joseph's,,,,,,,,,,,,1870.0,Natchitoches
+﻿nat.la.0023,﻿church,﻿Church of St. Paul,English,,,,﻿Avoyelles Parish,,﻿Mansura and Prairie,﻿Mansura,﻿LA,,31.06058429,-92.04972305,,,,,﻿e_chauvin_001,﻿Rev.,﻿E. Chauvin,,,,,,,1870.0,Natchitoches
+﻿nat.la.0024,﻿church,﻿Church of St. Hyacinth,English,,,,﻿Avoyelles Parish,,﻿Moreauville,﻿Moreauville,﻿LA,,31.03719485,-91.97720617,,,,,﻿ta_rebours_001,﻿Rev.,﻿T.A. Rebours,,,,,,,1870.0,Natchitoches
+﻿nat.la.0025,﻿station,not recorded,English,,,,,,﻿Bayou Choupik,﻿New Orleans,﻿LA,,29.97852102,-90.08802707,﻿nat.la.0024,﻿attended by Church of St. Hyacinth,,,,,,,,,,,,1870.0,Natchitoches
+﻿nat.la.0026,﻿station,not recorded,English,,,,,,﻿B. Jacques,,﻿LA,,30.5190775,-91.52086240000001,﻿nat.la.0024,﻿attended by Church of St. Hyacinth,,,,,,,,,,,,1870.0,Natchitoches
+﻿nat.la.0027,﻿station,not recorded,English,,,,,,﻿B. Rouge Prairie,,﻿LA,,30.451467699999995,-91.18714659999999,﻿nat.la.0024,﻿attended by Church of St. Hyacinth,,,,,,,,,,,,1870.0,Natchitoches
+﻿nat.la.0028,﻿station,not recorded,English,,,,,,﻿Spring B.,﻿Spring Bayou,﻿LA,,31.11995931,-92.01167854,﻿nat.la.0024,﻿attended by Church of St. Hyacinth,,,,,,,,,,,,1870.0,Natchitoches
+﻿nat.la.0029,﻿station,not recorded,English,,,,,﻿Vermilion Parish,﻿Indian B.,﻿Indian Bayou,﻿LA,,30.407004999999998,-91.709469,﻿nat.la.0024,﻿attended by Church of St. Hyacinth,,,,,,,,,,,,1870.0,Natchitoches
+﻿nat.la.0030,﻿station,not recorded,English,,,,,,﻿Enterprise,﻿Enterprise,﻿LA,,31.90130031,-91.89013990000001,﻿nat.la.0024,﻿attended by Church of St. Hyacinth,,,,,,,,,,,,1870.0,Natchitoches
+﻿nat.la.0031,﻿station,not recorded,English,,,,,,﻿Big Bend,﻿Moreauville,﻿LA,,31.07381887,-91.79329119,﻿nat.la.0024,﻿attended by Church of St. Hyacinth,,,,,,,,,,,,1870.0,Natchitoches
+﻿nat.la.0032,﻿station,not recorded,English,,,,,,﻿Bayou Dinde,﻿Westlake,﻿LA,,30.19920328,-93.28841527,﻿nat.la.0024,﻿attended by Church of St. Hyacinth,,,,,,,,,,,,1870.0,Natchitoches
+﻿nat.la.0033,﻿station,not recorded,English,,,,,,﻿Simsport,﻿Simmesport,﻿LA,,30.98956881,-91.8159674,﻿nat.la.0024,﻿attended by Church of St. Hyacinth,,,,,,,,,,,,1870.0,Natchitoches
+﻿nat.la.0034,﻿church,﻿Church of St. Matthew,English,,,,﻿Ouachita Parish,,﻿Monroe,﻿Monroe,﻿LA,,32.50122677,-92.11550191,,,,,﻿l_gergaud_001,﻿Rev.,﻿L. Gergaud,,,,,,,1870.0,Natchitoches
+﻿nat.la.0034,﻿church,﻿Church of St. Matthew,English,,,,﻿Ouachita Parish,,﻿Monroe,﻿Monroe,﻿LA,,32.50122677,-92.11550191,,,,,﻿l_esnault_001,﻿Rev.,﻿L. Esnault,,,,,,,1870.0,Natchitoches
+﻿nat.la.0035,﻿station,not recorded,English,,,,,,﻿Bastrop,﻿Bastrop,﻿LA,,32.78283033,-91.91710238,﻿nat.la.0034,﻿attended by Church of St. Matthew,,,,,,,,,,,,1870.0,Natchitoches
+﻿nat.la.0036,﻿station,not recorded,English,,,,,,﻿Boeuf River,﻿Boeuf,﻿LA,,29.66162946,-91.10548475,﻿nat.la.0034,﻿attended by Church of St. Matthew,,,,,,,,,,,,1870.0,Natchitoches
+﻿nat.la.0037,﻿station,not recorded,English,,,,,,﻿Bres' Settlement,,﻿LA,,30.5190775,-91.52086240000001,﻿nat.la.0034,﻿attended by Church of St. Matthew,,,,,,,,,,,,1870.0,Natchitoches
+﻿nat.la.0038,﻿station,not recorded,English,,,,,,﻿Ferrand's,﻿Riverton,﻿LA,,32.16704563,-92.10768647,﻿nat.la.0034,﻿attended by Church of St. Matthew,,,,,,,,,,,,1870.0,Natchitoches
+﻿nat.la.0039,﻿station,not recorded,English,,,,,,﻿Barey's,,﻿LA,,32.16704563,-92.10768647,﻿nat.la.0034,﻿attended by Church of St. Matthew,,,,,,,,,,,,1870.0,Natchitoches
+﻿nat.la.0040,﻿church,﻿Church of St. Mary,English,,,,﻿Madison Parish,,﻿Milliken's Bend,﻿Tallulah,﻿LA,,32.45722995,-91.1007007,,,,,﻿jos_gentille_001,﻿Rev.,﻿Joseph Gentille,,,,,,,1870.0,Natchitoches
+﻿nat.la.0041,﻿church,﻿Church of St. Patrice,English,﻿stations not returned,,,﻿Carrol Parish,,﻿Lake Providence,﻿Lake Providence,﻿LA,,32.80290439,-91.17183426,,,,,﻿jos_gentille_001,﻿Rev.,﻿Joseph Gentille,,,,,,,1870.0,Natchitoches
+﻿nat.la.0042,﻿church,﻿Church of the Holy Trinity,English,,,,﻿Caddo Parish,,﻿Shreveport,﻿Shreveport,﻿LA,,32.51452865,-93.75109642,,,,,﻿joh_pierre_001,﻿Rev.,﻿John Pierre,,,,,,,1870.0,Natchitoches
+﻿nat.la.0043,﻿chapel,﻿St. Joseph's Chapel,English,,,,,,﻿Minden,﻿Minden,﻿LA,,32.61465897,-93.28658653,﻿nat.la.0042,﻿attended by Church of the Holy Trinity,,,,,,,,,,,,1870.0,Natchitoches
+﻿nat.la.0044,﻿station,not recorded,English,,,,,,﻿Bellevue,﻿Bellevue,﻿LA,,32.67257829,-93.52165469,﻿nat.la.0042,﻿attended by Church of the Holy Trinity,,,,,,,,,,,,1870.0,Natchitoches
+﻿nat.la.0045,﻿station,not recorded,English,,,,,,﻿P. O'Neil's,,﻿LA,,32.67257829,-93.52165469,﻿nat.la.0042,﻿attended by Church of the Holy Trinity,,,,,,,,,,,,1870.0,Natchitoches
+﻿nat.la.0046,﻿station,not recorded,English,,,,,﻿De Soto Parish,﻿Les Presles,,﻿LA,,32.04599784,-93.54037199,﻿nat.la.0042,﻿attended by Church of the Holy Trinity,,,,,,,,,,,,1870.0,Natchitoches
+﻿nat.la.0047,﻿chapel,﻿St. Ann's Chapel,English,,,,,,﻿Kitchie,,﻿LA,,30.5190775,-91.52086240000001,﻿nat.la.0042,﻿attended by Church of the Holy Trinity,,,,,,,,,,,,1870.0,Natchitoches
+﻿nat.la.0048,﻿station,not recorded,English,,,,,,﻿Spanishtown,,﻿LA,,30.5190775,-91.52086240000001,﻿nat.la.0042,﻿attended by Church of the Holy Trinity,,,,,,,,,,,,1870.0,Natchitoches
+﻿nat.la.0049,﻿church,﻿Church of St. Peter and St. Paul,English,,,,﻿De Soto Parish,,﻿Bayou Pierre,﻿Carmel,﻿LA,,32.09005843,-93.60903501,﻿nat.la.0042,﻿attended from Shreveport,﻿vacant,,,,,,,,,,,1870.0,Natchitoches
+﻿nat.la.0049,﻿church,﻿Church of St. Peter and St. Paul,English,,,,﻿De Soto Parish,,﻿Bayou Pierre,﻿Carmel,﻿LA,,32.09005843,-93.60903501,﻿nat.la.0002,﻿attended from Camtè,,,,,,,,﻿no priest resident,,,,1870.0,Natchitoches
+﻿nat.la.0050,﻿church,﻿Church of Our Lady of Guadalupe,English,,,,﻿Sabine Parish,,﻿Bayou Cye,﻿Zwolle,﻿LA,,31.6184678,-93.64482942,,,,,,,,,,,,,,1870.0,Natchitoches
+﻿nat.la.0051,﻿station,not recorded,English,,,,,,﻿Many,﻿Many,﻿LA,,31.56872604,-93.47939099,,,,,,,,,,,,,,1870.0,Natchitoches
+﻿nat.la.0052,﻿station,not recorded,English,,,,,,﻿St. Patrice,,﻿LA,,30.5190775,-91.52086240000001,,,,,,,,,,,,,,1870.0,Natchitoches
+﻿nat.la.0053,﻿station,not recorded,English,,,,,,﻿San Miguel,﻿Zwolle,﻿LA,,31.6784813,-93.64277799,,,,,,,,,,,,,,1870.0,Natchitoches
+﻿nat.la.0054,﻿station,not recorded,English,,,,,,﻿Las Ormigas,﻿Mansfield,﻿LA,,31.95089993,-93.59552146,,,,,,,,,,,,,,1870.0,Natchitoches
+﻿nat.la.0055,﻿church,not recorded,English,,,,﻿Winn Parish,,﻿Montgomery,﻿Montgomery,﻿LA,,31.66532423,-92.89101334,﻿nat.la.0001,﻿attended from Natchitoches,,,,,,,,,,,,1870.0,Natchitoches
+﻿nat.la.0056,﻿church,﻿Church of St. Maurice,English,,,,﻿Winn Parish,,﻿St. Maurice,﻿St. Maurice,﻿LA,,31.759721999999996,-92.95916700000001,﻿nat.la.0001,﻿attended from Natchitoches,,,,,,,,,,,,1870.0,Natchitoches
+﻿nat.la.0057,﻿church,not recorded,English,,,,﻿Winn Parish,,﻿Bayou Dartigo,﻿Verda,﻿LA,,31.65178008,-92.75904738,﻿nat.la.0001,﻿attended from Natchitoches,,,,,,,,,,,,1870.0,Natchitoches
+﻿nat.la.0058,﻿church,not recorded,English,,,,﻿Winn Parish,,﻿B. Saline,﻿Goldonna,﻿LA,,31.97033919,-92.88358974,﻿nat.la.0001,﻿attended from Natchitoches,,,,,,,,,,,,1870.0,Natchitoches
+﻿nat.la.0059,"﻿convent, academy","﻿Convent of the Sacred Heart, and Academy",English,﻿for young ladies,,,,,﻿Natchitoches,﻿Natchitoches,﻿LA,,31.75052597,-93.09258224,,,,,,﻿Mother,﻿Doremus,﻿Superior,,,,,,1870.0,Natchitoches
+﻿nat.la.0060,﻿convent,"﻿Convent of the Presentation, and Novitiate of the Daughters of the Cross",English,"﻿Boarding and day-school, by the religious ladies of the Convent of the Sacred Heart",﻿Avoyelles Parish,,,,,,﻿LA,,30.971182399999996,-92.0665197,,,,,,,,,,,,,﻿Convent of the Sacred Heart,1870.0,Natchitoches
+﻿nat.la.0061,﻿school,not recorded,English,"﻿Day-school, by the religious ladies of the Convent of the Sacred Heart",,,,,﻿Cocoville,﻿Cocoville,﻿LA,,31.10276534,-92.06631587,,,,,,,,,,,,,﻿Convent of the Sacred Heart,1870.0,Natchitoches
+﻿nat.la.0062,﻿school,not recorded,English,"﻿for young ladies, by the religious ladies of the Convent of the Sacred Heart. Boarding and day-school, same order",,,,,﻿Marksville,﻿Marksville,﻿LA,,31.12772799,-92.06522592,,,,,,,,,,,,,,1870.0,Natchitoches
+﻿nat.la.0063,﻿academy,﻿St. Vincent's Academy,English,﻿by the religious ladies of the Convent of the Sacred Heart,﻿Caddo Parish,,,,﻿Fairfield,﻿Shreveport,﻿LA,,32.47673853,-93.75301719,,,,,﻿fx_jaquemet_001,﻿Rev.,﻿F.X. Jaquemet,﻿Chaplain,,,,,﻿Convent of the Sacred Heart,1870.0,Natchitoches
+﻿nat.la.0064,﻿school,﻿St. Mary's Day-school,English,﻿by the religious ladies of the Convent of the Sacred Heart,,,,,﻿Shreveport,﻿Shreveport,﻿LA,,32.40197721,-93.78942835,,,,,,,,,,,,,﻿Convent of the Sacred Heart,1870.0,Natchitoches
+﻿nat.la.0065,﻿school,﻿St. Hyacinth's Boarding and Day-school,English,"﻿for young colored girls, by the religious ladies of the Convent of the Sacred Heart",,,,,﻿Monroe,﻿Monroe,﻿LA,,32.52076869,-92.08258261,,,,,,,,,,,,,﻿Convent of the Sacred Heart,1870.0,Natchitoches
+﻿nat.la.0066,﻿school,﻿St. Joseph's Day-school,English,"﻿Catholic School, under the tuition of the Clergy",,,,,﻿Ile Brevelle,﻿Natchez,﻿LA,,31.592716999999997,-92.97352391,,,,,,,,,,,,,,1870.0,Natchitoches
+﻿nat.la.0067,﻿school,not recorded,English,"﻿Catholic School, under the tuition of the Clergy",,,,,﻿Natchitoches,﻿Natchitoches,﻿LA,,32.45722995,-91.1007007,,,,,,,,,,,,,,1870.0,Natchitoches
+﻿nat.la.0068,﻿school,not recorded,English,"﻿Catholic School, under the tuition of the Clergy",,,,,﻿Monroe,﻿Monroe,﻿LA,,32.5093109,-92.1193012,,,,,,,,,,,,,,1870.0,Natchitoches
+﻿nat.la.0069,﻿school,not recorded,English,"﻿Catholic School, under the tuition of the Clergy",,,,,﻿Shreveport,﻿Shreveport,﻿LA,,32.5251516,-93.75017890000001,,,,,,,,,,,,,,1870.0,Natchitoches
+﻿nat.la.0070,﻿school,not recorded,English,"﻿Catholic School, under the direction of the laity",,,,,﻿Milliken's Bend,﻿Tallulah,﻿LA,,30.5190775,-91.52086240000001,,,,,,,,,,,,,,1870.0,Natchitoches
+﻿nat.la.0071,﻿school,not recorded,English,"﻿Catholic School, under the direction of the laity",,,,,﻿Natchitoches,﻿Natchitoches,﻿LA,,31.7607195,-93.0862749,,,,,,,,,,,,,,1870.0,Natchitoches
+﻿nat.la.0072,﻿school,not recorded,English,"﻿Catholic School, under the direction of the laity",,,,,﻿Alexandria,﻿Alexandria,﻿LA,,31.29297693,-92.49014385,,,,,,,,,,,,,,1870.0,Natchitoches
+﻿nat.la.0073,﻿school,not recorded,English,"﻿Catholic School, under the direction of the laity",,,,,﻿Moreauville,﻿Moreauville,﻿LA,,31.036346899999998,-91.97519934,,,,,,,,,,,,,,1870.0,Natchitoches
+﻿nat.la.0074,﻿school,not recorded,English,,,,,,﻿Camte,﻿Campti,﻿LA,,31.89311613,-93.12150589,,,,,,,,,,,,,,1870.0,Natchitoches

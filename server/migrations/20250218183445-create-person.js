@@ -5,16 +5,18 @@ module.exports = {
     await queryInterface.createTable('People', {
       persID: {
         type: Sequelize.STRING,
-        primaryKey: true,
-        allowNull: false
+        allowNull: false,
+        primaryKey: true
       },
       persName: {
         type: Sequelize.STRING,
         allowNull: false,
-        defaultValue: 'name not recorded'
+        defaultValue: '(name not recorded)'
       },
       persYear: {
-        type: Sequelize.INTEGER
+        type: Sequelize.INTEGER,
+        allowNull: false,
+        primaryKey: true
       },
       persTitle: {
         type: Sequelize.STRING

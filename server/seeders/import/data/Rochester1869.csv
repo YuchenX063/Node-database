@@ -1,0 +1,95 @@
+﻿instID,church_type,instName,language,instNote,placeName,region,county_orig,county_reg,city_orig,city_reg,state_orig,state_reg,latitude,longitude,attendingInstID,attendingChurch,attendingChurchFrequency,attendingChurchNote,persID,persTitle,persName,persSuffix,persRole,persNote,memberType,member,affiliated,year,diocese
+﻿roc.ny.0001,﻿cathedral,﻿St. Patrick's,English,,,,﻿Monroe,,﻿Rochester,,﻿NY,,43.156577899999995,-77.6088465,,,,,﻿ber_j_mcquaid_001,﻿Rt. Rev.,﻿Bernard J. McQuaid,﻿D.D.,,,,,,1869.0,Rochester
+﻿roc.ny.0001,﻿cathedral,﻿St. Patrick's,English,,,,﻿Monroe,,﻿Rochester,,﻿NY,,43.156577899999995,-77.6088465,,,,,﻿jam_m_early_001,﻿Very Rev.,﻿James M. Early,﻿V.G.,﻿Rector,,,,,1869.0,Rochester
+﻿roc.ny.0002,﻿church,﻿St. Joseph's,﻿German,,,,﻿Monroe,,﻿Rochester,,﻿NY,,43.1594407,-77.6064884,,,,,﻿geo_roland_001,﻿Rev.,﻿Geo Roland,﻿C.SS.R.,,,,,,1869.0,Rochester
+﻿roc.ny.0003,﻿church,﻿St. Mary's,English,,,,﻿Monroe,,﻿Rochester,,﻿NY,,43.1484359,-77.637175,,,,,﻿pet_barker_001,﻿Rev.,﻿Peter Barker,﻿D.D.,,,,,,1869.0,Rochester
+﻿roc.ny.0004,﻿church,﻿Immaculate Conception,English,,,,﻿Monroe,,﻿Rochester,,﻿NY,,43.1621325,-77.6230577,,,,,﻿pat_byrnes_002,﻿Rev.,﻿Patrick Byrnes,,,,,,,1869.0,Rochester
+﻿roc.ny.0005,﻿church,﻿St. Bridget's,English,,,,﻿Monroe,,﻿Rochester,,﻿NY,,43.166207899999996,-77.6123066,,,,,﻿nic_byrne_001,﻿Rev.,﻿Nicholas Byrne,,,,,,,1869.0,Rochester
+﻿roc.ny.0006,﻿church,﻿St. Peter's,﻿German,,,,﻿Monroe,,﻿Rochester,,﻿NY,,43.1521729,-77.6329615,,,,,﻿f_sinclair_001,﻿Rev.,﻿F. Sinclair,﻿D.D.,,,,,,1869.0,Rochester
+﻿roc.ny.0007,﻿church,﻿St. Boniface's,﻿German,,,,﻿Monroe,,﻿Rochester,,﻿NY,,43.1427357,-77.60313740000001,,,,,﻿j_f_payer_001,﻿Rev.,﻿J. F. Payer,,,,,,,1869.0,Rochester
+﻿roc.ny.0008,﻿church,﻿Our Lady of Victory,﻿French,,,,﻿Monroe,,﻿Rochester,,﻿NY,,43.159031299999995,-77.6089505,,,,,﻿h_d_regge_001,﻿Rev.,﻿H. de Regge,,,,,,,1869.0,Rochester
+﻿roc.ny.0009,﻿church,﻿Holy Family,﻿German,,,,﻿Monroe,,﻿Rochester,,﻿NY,,43.156577899999995,-77.6088465,,,,,﻿leo_hoffschneider_001,﻿Rev.,﻿Leopold Hoffschneider,,,,,,,1869.0,Rochester
+﻿roc.ny.0010,﻿church,﻿Most Holy Redeemer,﻿German,,,,﻿Monroe,,﻿Rochester,,﻿NY,,43.1951865,-77.6395931,﻿roc.ny.0063,﻿attended frm the Redemptorist Convent,,,,,,,,,,,,1869.0,Rochester
+﻿roc.ny.0011,﻿church,﻿Nativity of the B.V.M.,English,,,,﻿Monroe,,﻿Brockport,,﻿NY,,43.2136713,-77.9391797,,,,,﻿ric_j_storey_001,﻿Rev.,﻿Richard J. Storey,,,,,,,1869.0,Rochester
+﻿roc.ny.0012,﻿church,﻿St. John Evangelist,English,,,,﻿Monroe,,﻿Spencerport,,﻿NY,,43.1864501,-77.80389720000001,,,,,﻿ric_j_storey_001,﻿Rev.,﻿Richard J. Storey,,,,,,,1869.0,Rochester
+﻿roc.ny.0013,﻿church,﻿Assumption of the B.V.M.,English,,,,﻿Monroe,,﻿Fairport,,﻿NY,,43.098674200000005,-77.4419378,,,,,﻿l_j_miller_001,﻿Rev.,﻿L. J. Miller,,,,,,,1869.0,Rochester
+﻿roc.ny.0014,﻿church,﻿Mother of Sorrows,English,,,,﻿Monroe,,﻿Greece,,﻿NY,,39.074208,21.824312,,,,,﻿joh_m_maurice_001,﻿Rev.,﻿John M. Maurice,,,,,,,1869.0,Rochester
+﻿roc.ny.0015,﻿church,﻿Holy Cross,English,,,,﻿Monroe,,﻿Charlotte,,﻿NY,,43.2349747,-77.62210909999999,,,,,﻿joh_m_maurice_001,﻿Rev.,﻿John M. Maurice,,,,,,,1869.0,Rochester
+﻿roc.ny.0016,﻿church,﻿St. John Evangelist's,English,,,,﻿Monroe,,﻿Ridge,,﻿NY,,43.2994285,-74.21793259999998,,,,,﻿joh_m_maurice_001,﻿Rev.,﻿John M. Maurice,,,,,,,1869.0,Rochester
+﻿roc.ny.0017,﻿church,﻿Assumption,English,,,,﻿Monroe,,﻿Scottsville,,﻿NY,,43.02589570000001,-77.74528259999998,,,,,﻿m_j_loughlin_001,﻿Rev.,﻿M. J. Loughlin,﻿D.D.,,,,,,1869.0,Rochester
+﻿roc.ny.0018,﻿church,﻿St. Patrick's,English,,,,﻿Monroe,,﻿Mumfordville,,﻿NY,,37.2722751,-85.8910819,,,,,﻿m_j_loughlin_001,﻿Rev.,﻿M. J. Loughlin,﻿D.D.,,,,,,1869.0,Rochester
+﻿roc.ny.0019,﻿church,﻿St. Fechan,English,,,,﻿Monroe,,﻿Chili,,﻿NY,,43.1138701,-77.755043,,,,,﻿m_j_loughlin_001,﻿Rev.,﻿M. J. Loughlin,﻿D.D.,,,,,,1869.0,Rochester
+﻿roc.ny.0020,﻿church,﻿St. Paul's,English,,,,﻿Monroe,,﻿Honeoye Falls,,﻿NY,,42.952285499999995,-77.59027590000001,﻿roc.ny.0024,﻿Attended from Lima,,,,,,,,,,,,1869.0,Rochester
+﻿roc.ny.0021,﻿church,﻿Holy Trinity,﻿German,,,,﻿Monroe,,﻿Webster,,﻿NY,,43.2122851,-77.4299939,,,,,﻿a_hechinger_001,﻿Rev.,﻿A. Hechinger,,,,,,,1869.0,Rochester
+﻿roc.ny.0022,﻿church,﻿St. Agnes',English,,,,﻿Livingston,,﻿Avon,,﻿NY,,42.9135097,-77.745194,,,,,﻿joh_l_okeefe_001,﻿Rev.,﻿John L. O'Keefe,,,,,,,1869.0,Rochester
+﻿roc.ny.0023,﻿church,﻿St. Joseph's,English,,,,﻿Livingston,,﻿Rush,,﻿NY,,42.1424234,-73.7779162,,,,,﻿joh_l_okeefe_001,﻿Rev.,﻿John L. O'Keefe,,,,,,,1869.0,Rochester
+﻿roc.ny.0024,﻿church,﻿St. Rose's,English,,,,﻿Livingston,,﻿Lima,,﻿NY,,42.904785700000005,-77.6113869,,,,,﻿wil_a_gregg_001,﻿Rev.,﻿William A. Gregg,,,,,,,1869.0,Rochester
+﻿roc.ny.0025,﻿church,﻿St. Michael's,English,,,,﻿Livingston,,﻿Livonia,,﻿NY,,42.36837,-83.3527097,,,,,﻿wil_a_gregg_001,﻿Rev.,﻿William A. Gregg,,,,,,,1869.0,Rochester
+﻿roc.ny.0026,﻿church,﻿St. Mary's,﻿German,,,,﻿Livingston,,﻿Dansville,,﻿NY,,42.5603213,-77.6929416,,,,,﻿jos_albinger_001,﻿Rev.,﻿Jos. Albinger,,,,,,,1869.0,Rochester
+﻿roc.ny.0027,﻿church,﻿St. Patrick's,English,,,,﻿Livingston,,﻿Dansville,,﻿NY,,42.5608999,-77.696106,,,,,﻿jos_albinger_001,﻿Rev.,﻿Jos. Albinger,,,,,,,1869.0,Rochester
+﻿roc.ny.0028,﻿church,﻿St. Patrick's,English,,,,﻿Livingston,,﻿Mount Morris,,﻿NY,,42.7256184,-77.8741694,,,,,﻿edw_mcgowan_001,﻿Rev.,﻿Edward McGowan,,,,,,,1869.0,Rochester
+﻿roc.ny.0029,﻿church,﻿St. Mary's,English,,,,﻿Livingston,,﻿Geneseo,,﻿NY,,42.795896,-77.816947,,,,,﻿edw_mcgowan_001,﻿Rev.,﻿Edward McGowan,,,,,,,1869.0,Rochester
+﻿roc.ny.0031,﻿church,﻿St. Mary's,English,,,,﻿Ontario,,﻿Canandaigua,,﻿NY,,42.890999900000004,-77.28295920000001,,,,,﻿jos_mckenna_001,﻿Rev.,﻿Joseph McKenna,,,,,,,1869.0,Rochester
+﻿roc.ny.0032,﻿church,﻿St. Francis de Sales',English,,,,﻿Ontario,,﻿Geneva,,﻿NY,,42.873696100000004,-76.97931379999999,,,,,﻿jam_mcmanus_002,﻿Rev.,﻿James McManus,,,,,,,1869.0,Rochester
+﻿roc.ny.0033,﻿church,﻿St. Agnes',English,,,,﻿Ontario,,﻿Clifton,,﻿NY,,43.2994285,-74.21793259999998,,,,,﻿p_lee_001,﻿Rev.,﻿P. Lee,,,,,,,1869.0,Rochester
+﻿roc.ny.0034,﻿church,﻿St. Francis',English,,,,﻿Ontario,,﻿Phelps,,﻿NY,,42.8509838,-77.28648790000001,,,,,﻿p_lee_001,﻿Rev.,﻿P. Lee,,,,,,,1869.0,Rochester
+﻿roc.ny.0035,﻿church,﻿St. Mary's,English,,,,﻿Ontario,,﻿Rushville,,﻿NY,,43.2209426,-77.2833793,,,,,﻿p_lee_001,﻿Rev.,﻿P. Lee,,,,,,,1869.0,Rochester
+﻿roc.ny.0036,﻿church,﻿St. Bridget's,English,,,,﻿Ontario,,﻿East Bloomfield,,﻿NY,,42.888141299999994,-77.4472495,,,,,﻿wm_hughes_001,﻿Rev.,﻿Wm. Hughes,,,,,,,1869.0,Rochester
+﻿roc.ny.0037,﻿church,﻿St. Patrick's,English,,,,﻿Ontario,,﻿Victor,,﻿NY,,42.9791683,-77.40864479999999,,,,,﻿wm_hughes_001,﻿Rev.,﻿Wm. Hughes,,,,,,,1869.0,Rochester
+﻿roc.ny.0038,﻿church,﻿St. Mary's,English,,,,﻿Ontario,,﻿Honeoye Flats,,﻿NY,,42.789051799999996,-77.5315439,,,,,﻿wm_hughes_001,﻿Rev.,﻿Wm. Hughes,,,,,,,1869.0,Rochester
+﻿roc.ny.0039,﻿church,﻿St. Joseph's,English,,,,﻿Ontario,,﻿West Bloomfield,,﻿NY,,43.2994285,-74.21793259999998,,,,,﻿wm_hughes_001,﻿Rev.,﻿Wm. Hughes,,,,,,,1869.0,Rochester
+﻿roc.ny.0040,﻿church,﻿St. Ann's,English,,,,﻿Wayne,,﻿Palmyra,,﻿NY,,43.0639521,-77.23331540000001,,,,,﻿wm_casey_001,﻿Rev.,﻿Wm. Casey,,,,,,,1869.0,Rochester
+﻿roc.ny.0041,﻿church,﻿St. Patrick's,English,,,,﻿Wayne,,﻿Macedon,,﻿NY,,43.0692299,-77.29887459999999,,,,,﻿wm_casey_001,﻿Rev.,﻿Wm. Casey,,,,,,,1869.0,Rochester
+﻿roc.ny.0042,﻿church,﻿St. John's,English,,,,﻿Wayne,,﻿Clyde,,﻿NY,,43.0870943,-76.8704498,,,,,﻿joh_stewart_001,﻿Rev.,﻿John Stewart,,,,,,,1869.0,Rochester
+﻿roc.ny.0043,﻿church,﻿St. Michael's,English,,,,﻿Wayne,,﻿Lyons,,﻿NY,,43.0642305,-76.9902456,,,,,﻿joh_stewart_001,﻿Rev.,﻿John Stewart,,,,,,,1869.0,Rochester
+﻿roc.ny.0044,﻿church,﻿St. Michael's,English,,,,﻿Wayne,,﻿Newark,,﻿NY,,43.04326,-77.0959674,﻿roc.ny.0033,﻿Attended from Clifton Springs,,,,,,,,,,,,1869.0,Rochester
+﻿roc.ny.0045,﻿church,﻿St. Patricks's,English,,,,﻿Seneca,,﻿Seneca Falls,,﻿NY,,42.9043282,-76.8329964,,,,,﻿mar_kavanagh_001,﻿Rev.,﻿Martin Kavanagh,,,,,,,1869.0,Rochester
+﻿roc.ny.0046,﻿church,﻿St. Mary's,English,,,,﻿Seneca,,﻿Waterloo,,﻿NY,,42.904788399999994,-76.86273670000001,,,,,﻿t_keenan_001,﻿Rev.,﻿T. Keenan,,,,,,,1869.0,Rochester
+﻿roc.ny.0047,﻿church,﻿Holy Cross,English,,,,﻿Seneca,,﻿Ovid,,﻿NY,,42.6738286,-76.8230916,,,,,﻿t_keenan_001,﻿Rev.,﻿T. Keenan,,,,,,,1869.0,Rochester
+﻿roc.ny.0048,﻿church,﻿Holy Family,English,,,,﻿Cayuga,,﻿Auburn,,﻿NY,,42.9359167,-76.5668083,,,,,﻿t_oflaherty_001,﻿Very Rev.,﻿T. O'Flaherty,,,,,,,1869.0,Rochester
+﻿roc.ny.0050,﻿church,﻿St. Mary's,English,,,,﻿Cayuga,,﻿Auburn,,﻿NY,,42.931762,-76.56965749999999,,,,,﻿tho_a_maher_001,﻿Rev.,﻿Thos. A. Maher,﻿D.D.,,,,,,1869.0,Rochester
+﻿roc.ny.0051,﻿church,﻿St. Alphonsus',﻿German,,,,﻿Cayuga,,﻿Auburn,,﻿NY,,42.9338909,-76.5555762,﻿roc.ny.0063,﻿Attended by the Redemptorists of Rochester,,,,,,,,,,,,1869.0,Rochester
+﻿roc.ny.0052,﻿church,﻿St. Michael's,English,,,,﻿Cayuga,,﻿Union Springs,,﻿NY,,42.8420443,-76.6916689,,,,,﻿b_mccool_001,﻿Rev.,﻿B. McCool,,,,,,,1869.0,Rochester
+﻿roc.ny.0053,﻿church,﻿St. Patrick's,English,,,,﻿Cayuga,,﻿Aurora,,﻿NY,,42.9189555,-76.7263397,,,,,﻿b_mccool_001,﻿Rev.,﻿B. McCool,,,,,,,1869.0,Rochester
+﻿roc.ny.0054,﻿church,﻿St. Bernard's,English,,,,﻿Cayuga,,﻿Scipio,,﻿NY,,42.9189555,-76.7263397,,,,,﻿b_mccool_001,﻿Rev.,﻿B. McCool,,,,,,,1869.0,Rochester
+﻿roc.ny.0055,﻿church,﻿St. Mary's of the Lake,English,,,,﻿Cayuga,,﻿Northville,,﻿NY,,42.431146399999996,-83.48326920000001,,,,,﻿b_mccool_001,﻿Rev.,﻿B. McCool,,,,,,,1869.0,Rochester
+﻿roc.ny.0056,﻿church,﻿St. Joseph's,English,,,,﻿Cayuga,,﻿Weedsport,,﻿NY,,43.044821899999995,-76.56433359999998,,,,,﻿jam_oconnor_002,﻿Rev.,﻿James O'Connor,,,,,,,1869.0,Rochester
+﻿roc.ny.0057,﻿church,﻿St. John's,English,,,,﻿Cayuga,,﻿Port Byron,,﻿NY,,43.034869799999996,-76.6262903,,,,,﻿jam_oconnor_002,﻿Rev.,﻿James O'Connor,,,,,,,1869.0,Rochester
+﻿roc.ny.0058,﻿church,﻿St. Michael's,English,,,,﻿Cayuga,,﻿Montezuma,,﻿NY,,42.9189555,-76.7263397,,,,,﻿jam_oconnor_002,﻿Rev.,﻿James O'Connor,,,,,,,1869.0,Rochester
+﻿roc.ny.0059,﻿church,﻿St. Michael's,English,,,,﻿Yates,,﻿Penn Yan,,﻿NY,,42.6611614,-77.05717320000001,,,,,﻿den_english_001,﻿Rev.,﻿Denis English,,,,,,,1869.0,Rochester
+﻿roc.ny.0060,﻿church,﻿Immaculate Conception,English,,,,﻿Tompkins,,﻿Ithaca,,﻿NY,,42.440140899999996,-76.5003217,,,,,﻿jam_tuohey_001,﻿Rev.,﻿James Tuohey,,,,,,,1869.0,Rochester
+﻿roc.ny.0061,﻿church,﻿St. Patrick's,English,,,,﻿Tompkins,,﻿McLean,,﻿NY,,42.552015600000004,-76.2910436,,,,,﻿jam_tuohey_001,﻿Rev.,﻿James Tuohey,,,,,,,1869.0,Rochester
+﻿roc.ny.0062,﻿church,﻿St. James',English,,,,﻿Tompkins,,﻿Trumansburgh,,﻿NY,,42.539990100000004,-76.6594687,,,,,﻿jam_tuohey_001,﻿Rev.,﻿James Tuohey,,,,,,,1869.0,Rochester
+﻿roc.ny.0063,﻿convent,﻿St. Joseph's Convent,English,﻿the Redemptorist Fathers attend the Germans in many places within the Diocese,,,﻿Monroe,,﻿Rochester,,﻿NY,,43.1594407,-77.6064884,,,,,﻿geo_ruland_001,﻿Rev.,﻿Geo. Ruland,﻿C.SS.R.,﻿Rector,,,,,1869.0,Rochester
+﻿roc.ny.0063,﻿convent,﻿St. Joseph's Convent,English,﻿the Redemptorist Fathers attend the Germans in many places within the Diocese,,,﻿Monroe,,﻿Rochester,,﻿NY,,43.1594407,-77.6064884,,,,,﻿pet_cronenberg_001,﻿Rev.,﻿Peter Cronenberg,﻿C.SS.R.,,,,,,1869.0,Rochester
+﻿roc.ny.0063,﻿convent,﻿St. Joseph's Convent,English,﻿the Redemptorist Fathers attend the Germans in many places within the Diocese,,,﻿Monroe,,﻿Rochester,,﻿NY,,43.1594407,-77.6064884,,,,,﻿fre_luette_001,﻿Rev.,﻿Fred. Luette,﻿C.SS.R.,,,,,,1869.0,Rochester
+﻿roc.ny.0063,﻿convent,﻿St. Joseph's Convent,English,﻿the Redemptorist Fathers attend the Germans in many places within the Diocese,,,﻿Monroe,,﻿Rochester,,﻿NY,,43.1594407,-77.6064884,,,,,﻿jos_clauss_001,﻿Rev.,﻿Joseph Clauss,﻿C.SS.R.,,,,,,1869.0,Rochester
+﻿roc.ny.0063,﻿convent,﻿St. Joseph's Convent,English,﻿the Redemptorist Fathers attend the Germans in many places within the Diocese,,,﻿Monroe,,﻿Rochester,,﻿NY,,43.1594407,-77.6064884,,,,,﻿fra_n_emstede_001,﻿Rev.,﻿Franc. Nichol. Van Emstede,﻿C.SS.R.,,,,,,1869.0,Rochester
+﻿roc.ny.0063,﻿convent,﻿St. Joseph's Convent,English,﻿the Redemptorist Fathers attend the Germans in many places within the Diocese,,,﻿Monroe,,﻿Rochester,,﻿NY,,43.1594407,-77.6064884,,,,,﻿jul_kuenzer_002,﻿Rev.,﻿Julius Kuenzer,﻿C.SS.R.,,,,,,1869.0,Rochester
+﻿roc.ny.0063,﻿convent,﻿St. Joseph's Convent,English,﻿the Redemptorist Fathers attend the Germans in many places within the Diocese,,,﻿Monroe,,﻿Rochester,,﻿NY,,43.1594407,-77.6064884,,,,,﻿joh_b_keuhn_001,﻿Rev.,﻿John Bl. Keuhn,﻿C.SS.R.,,,,,,1869.0,Rochester
+﻿roc.ny.0066,"﻿convent, academy",﻿Convent and Academy of the Sacred Heart,English,,,,﻿Monroe,,﻿Rochester,,﻿NY,,43.1410708,-77.52951740000002,,,,,﻿hanratty_001,﻿Madam,﻿Hanratty,,﻿Superior,,,,,1869.0,Rochester
+﻿roc.ny.0067,"﻿convent, academy",﻿Convent and Academy of Our Lady of Mercy,English,,,,﻿Monroe,,﻿Rochester,,﻿NY,,43.147763299999994,-77.5365707,,,,,,﻿Mother,﻿M. Camillus Kelly,,﻿Superior,,,,,1869.0,Rochester
+﻿roc.ny.0068,﻿hospital,﻿St. Mary's Hospital,English,,,,﻿Monroe County,,,﻿Rochester,﻿NY,,42.954519299999994,-74.21631550000001,,,,,,﻿Sister,﻿Hieronymo O'Brien,,﻿Superior,,﻿sister,﻿15 Sisters of Charity,,1869.0,Rochester
+﻿roc.ny.0068,﻿hospital,﻿St. Mary's Hospital,English,,,,﻿Monroe County,,,﻿Rochester,﻿NY,,42.954519299999994,-74.21631550000001,,,,,,,,,,,﻿patient,﻿300 patients on average,,1869.0,Rochester
+﻿roc.ny.0069,﻿asylum,﻿St. Mary's Boys' Orphan Asylum,English,,,,﻿Monroe County,,,﻿Rochester,﻿NY,,43.14927278,-77.63696056,,,,,,﻿Sister,﻿Stanislas,,﻿Superior,,﻿sister,﻿7 Sisters of St. Joseph,,1869.0,Rochester
+﻿roc.ny.0069,﻿asylum,﻿St. Mary's Boys' Orphan Asylum,English,,,,﻿Monroe County,,,﻿Rochester,﻿NY,,43.14927278,-77.63696056,,,,,,,,,,,﻿boy,﻿130 boys,,1869.0,Rochester
+﻿roc.ny.0070,﻿asylum,﻿St. Patrick's Girls' Orphan Asylum,English,,,,﻿Monroe County,,,﻿Rochester,﻿NY,,43.14927278,-77.63696056,,,,,,﻿Sister,﻿Beatrice Duffy,,﻿Superior,,﻿sister,﻿9 Sisters of Charity,,1869.0,Rochester
+﻿roc.ny.0070,﻿asylum,﻿St. Patrick's Girls' Orphan Asylum,English,,,,﻿Monroe County,,,﻿Rochester,﻿NY,,43.14927278,-77.63696056,,,,,,,,,,,﻿girl,﻿80 girls,,1869.0,Rochester
+﻿roc.ny.0071,﻿asylum,﻿St. Joseph's Orphan Asylum,﻿German,,,,,,,,﻿NY,,43.15878216,-77.60884713,,,,,,,,,,,,,﻿in charge of the Sisters of Notre Dame,1869.0,Rochester
+﻿roc.ny.0072,﻿asylum,﻿St. Mary's Orphan Asylum,English,,,,﻿Ontario,,﻿Canandaigua,,﻿NY,﻿NY,42.89085599,-77.28271747,,,,,,,,,,,﻿orphan,﻿20 orphans,﻿Under the care of the Sisters of St. Joseph,1869.0,Rochester
+﻿roc.ny.0073,﻿school,﻿St. Patrick's Boys' School,English,,,,,,,,﻿NY,,42.89085599,-77.28271747,,,,,,,,,,,﻿payScholar,﻿103 pay scholars,﻿Under the charge of the Christian Brothers,1869.0,Rochester
+﻿roc.ny.0073,﻿school,﻿St. Patrick's Boys' School,English,,,,,,,,﻿NY,,42.89085599,-77.28271747,,,,,,,,,,,﻿free,﻿90 free scholars,﻿Under the charge of the Christian Brothers,1869.0,Rochester
+﻿roc.ny.0074,﻿school,﻿St. Patrick's Girls' School,English,,,,,,,,﻿NY,,42.89085599,-77.28271747,,,,,,,,,,,﻿payScholar,﻿50 pay scholars,﻿Under the charge of the Sisters of Charity,1869.0,Rochester
+﻿roc.ny.0074,﻿school,﻿St. Patrick's Girls' School,English,,,,,,,,﻿NY,,42.89085599,-77.28271747,,,,,,,,,,,﻿free,﻿62 free scholars,﻿Under the charge of the Sisters of Charity,1869.0,Rochester
+﻿roc.ny.0075,﻿school,﻿St. Joseph's Boys' School,English,,,,,,,,﻿NY,,43.2994285,-74.21793259999998,,,,,,,,,,,﻿scholar,﻿460 scholars,﻿Under the charge of the Brothers of Mary,1869.0,Rochester
+﻿roc.ny.0076,﻿school,﻿St. Joseph's Girls' School,English,,,,,,,,﻿NY,,43.2994285,-74.21793259999998,,,,,,,,,,,﻿scholar,﻿480 scholars,﻿Under the charge of the Sisters of Notre Dame,1869.0,Rochester
+﻿roc.ny.0077,﻿school,﻿Most Holy Redeemer's Schools,English,,,,,,,,﻿NY,,43.2994285,-74.21793259999998,,,,,,,,,,,﻿scholar,﻿230 scholars,﻿Under the charge of the Sisters of Notre Dame,1869.0,Rochester
+﻿roc.ny.0077,﻿school,﻿St. Mary's Schools,English,﻿select school,,,,,,,﻿NY,,43.2994285,-74.21793259999998,,,,,,,,,,,﻿scholar,﻿36 scholars,﻿Under the charge of the Sisters of Mercy,1869.0,Rochester
+﻿roc.ny.0077,﻿school,﻿St. Mary's Schools,English,﻿parochial school,,,,,,,﻿NY,,43.2994285,-74.21793259999998,,,,,,,,,,,﻿scholar,﻿100 scholars,﻿Under the charge of the Sisters of Mercy,1869.0,Rochester
+﻿roc.ny.0078,﻿school,﻿St. Boniface's Schools,English,,,,,,,,﻿NY,,43.2994285,-74.21793259999998,,,,,,,,,,,﻿boy or girl,﻿230 boys and girls,﻿Under the charge of the Sisters of Notre Dame,1869.0,Rochester
+﻿roc.ny.0078,﻿schools,﻿St. Peter's Parochial schools,English,,,,,,,,﻿NY,,43.2994285,-74.21793259999998,,,,,,,,,,,﻿Brother of Mary,﻿3 Brothers of Mary,﻿Under the charge of the Sisters of Notre Dame,1869.0,Rochester
+﻿roc.ny.0078,﻿schools,﻿St. Peter's Parochial schools,English,,,,,,,,﻿NY,,43.2994285,-74.21793259999998,,,,,,,,,,,﻿boy,﻿256 boys,﻿Under the charge of the Sisters of Notre Dame,1869.0,Rochester
+﻿roc.ny.0078,﻿schools,﻿St. Peter's Parochial schools,English,,,,,,,,﻿NY,,43.2994285,-74.21793259999998,,,,,,,,,,,﻿Sisters of Notre Dame,﻿3 Sisters of Notre Dame,﻿Under the charge of the Sisters of Notre Dame,1869.0,Rochester
+﻿roc.ny.0078,﻿schools,﻿St. Peter's Parochial schools,English,,,,,,,,﻿NY,,43.2994285,-74.21793259999998,,,,,,,,,,,﻿girl,﻿260 girls,﻿Under the charge of the Sisters of Notre Dame,1869.0,Rochester
+﻿roc.ny.0081,﻿school,﻿Holy Family Parochial Schools,English,,,,,,,,﻿NY,,43.2994285,-74.21793259999998,,,,,,,,,,,﻿sister,﻿2 Sisters of Notre Dame,﻿Under the charge of the Sisters of Notre Dame,1869.0,Rochester
+﻿roc.ny.0081,﻿school,﻿Holy Family Parochial Schools,English,,,,,,,,﻿NY,,43.2994285,-74.21793259999998,,,,,,,,,,,﻿boy or girl,﻿240 boys and girls,﻿Under the charge of the Sisters of Notre Dame,1869.0,Rochester

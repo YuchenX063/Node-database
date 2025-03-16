@@ -1,0 +1,86 @@
+﻿instID,church_type,instName,language,instNote,placeName,region,county_orig,county_reg,city_orig,city_reg,state_orig,state_reg,latitude,longitude,attendingInstID,attendingChurch,attendingChurchFrequency,attendingChurchNote,persID,persTitle,persName,persSuffix,persRole,persNote,memberType,member,affiliated,year,diocese
+﻿gre.wi.0001,﻿cathedral,﻿St. Mary's,English,﻿temporary Cathedral,,,,﻿Brown County,﻿City of Green Bay,﻿Green Bay,﻿WI,,44.46464279999999,-88.0417563,,,,,﻿melcher_001,﻿Rt. Rev.,﻿Melcher,﻿D.D.,,,,,,1870.0,GreenBay
+﻿gre.wi.0001,﻿cathedral,﻿St. Mary's,English,﻿temporary Cathedral,,,,﻿Brown County,﻿City of Green Bay,﻿Green Bay,﻿WI,,44.46464279999999,-88.0417563,,,,,﻿f_x_pfaller_001,﻿Rev.,﻿F. X. Pfaller,,,,,,,1870.0,GreenBay
+﻿gre.wi.0002,﻿church,﻿St. John's,﻿French,,,,,﻿Brown County,﻿City of Green Bay,﻿Green Bay,﻿WI,,44.494279,-88.099739,,,,,﻿h_hoffen_001,﻿Rev.,﻿H. Hoffen,,,,,,,1870.0,GreenBay
+﻿gre.wi.0003,﻿church,﻿St. Willibrod's,﻿Dutch,,,,,﻿Brown County,﻿City of Green Bay,﻿Green Bay,﻿WI,,44.5122062,-88.01522170000001,,,,,﻿h_hoffen_001,﻿Rev.,﻿H. Hoffen,,,,,,,1870.0,GreenBay
+﻿gre.wi.0004,﻿church,﻿St. Patrick's,English,,﻿Fort Howard,,,﻿Brown County,﻿City of Green Bay,﻿Green Bay,﻿WI,,44.619925200000004,-88.09010620000001,,,,,﻿e_walsh_001,﻿Rev.,﻿E. Walsh,,,,,,,1870.0,GreenBay
+﻿gre.wi.0005,﻿church,﻿St. Mary's,English,,,,﻿Outagamie County,﻿Outagamie County,﻿Appleton,﻿Appleton,﻿WI,,44.259256799999996,-88.413329,,,,,﻿a_g_verberk_001,﻿Rev.,﻿A. G. Verberk,,,,,,,1870.0,GreenBay
+﻿gre.wi.0006,﻿church,﻿St. Joseph's,English,,,,﻿Outagamie County,﻿Outagamie County,﻿Appleton,﻿Appleton,﻿WI,,44.261131899999995,-88.41060970000001,,,,,﻿j_nussbaum_001,﻿Rev.,﻿J. Nussbaum,,,,,,,1870.0,GreenBay
+﻿gre.wi.0007,﻿church,﻿—,English,,,,﻿Outagamie County,﻿Outagamie County,﻿Buchanan,﻿Buchanan,﻿WI,,44.2624528,-88.2169027,,,,,﻿c_dürr_001,﻿Rev.,﻿C. Dürr,,,,,,,1870.0,GreenBay
+﻿gre.wi.0008,﻿church,﻿St. Augustin's,English,,,,﻿Calumet County,﻿Calumet County,﻿Chilton,﻿Chilton,﻿WI,,44.0289359,-88.1662237,,,,,﻿a_andolshek_001,﻿Rev.,﻿A. Andolshek,,,,,,,1870.0,GreenBay
+﻿gre.wi.0009,﻿church,﻿St. Francis Xavier's,English,,,,﻿Brown County,﻿Brown County,﻿De Pere,﻿De Pere,﻿WI,,44.4474937,-88.0586503,,,,,﻿w_a_verboort_001,﻿Rev.,﻿W. A. Verboort,,,,,,,1870.0,GreenBay
+﻿gre.wi.0010,﻿church,﻿St. Nicolas',English,,,,﻿Outagamie County,﻿Outagamie County,﻿Freedom,﻿Freedom,﻿WI,,44.3861111,-88.28805559999999,,,,,﻿w_wilkens_001,﻿Rev.,﻿W. Wilkens,,,,,,,1870.0,GreenBay
+﻿gre.wi.0011,﻿church,﻿Holy Cross,English,,,,﻿Wood County,﻿Wood County,﻿Grand Rapids,﻿Grand Rapids,﻿WI,,44.380134000000005,-89.7567693,,,,,﻿f_mcdonnell_001,﻿Rev.,﻿F. McDonnell,,,,,,,1870.0,GreenBay
+﻿gre.wi.0012,﻿church,﻿—,English,,,,﻿Outagamie County,﻿Outagamie County,﻿Greenville,﻿Greenville,﻿WI,,44.3002628,-88.5364954,,,,,﻿a_seibert_001,﻿Rev.,﻿A. Seibert,,,,,,,1870.0,GreenBay
+﻿gre.wi.0013,﻿church,﻿St. Francis',English,,,,﻿Brown County,﻿Brown County,﻿Hollandtown,﻿Hollandtown,﻿WI,,44.249756700000006,-88.17662320000001,,,,,﻿b_d_goey_001,﻿Rev.,﻿B. de Goey,,,,,,,1870.0,GreenBay
+﻿gre.wi.0014,﻿church,﻿St. Michael's,English,,﻿Mission of the Menominee tribe,,﻿Shawano County,﻿Menominee County,﻿Keshina,﻿Keshena,﻿WI,,45.0304745,-88.7477702,,,,,﻿f_steinauer_001,﻿Rev.,﻿F. Steinauer,,,,,,,1870.0,GreenBay
+﻿gre.wi.0015,﻿church,﻿Holy Rosary,English,,,,﻿Kewaunee County,﻿Kewaunee County,﻿Kewaunee,﻿Kewaunee,﻿WI,,44.4577123,-87.5066204,,,,,﻿j_maly_001,﻿Rev.,﻿J. Maly,,,,,,,1870.0,GreenBay
+﻿gre.wi.0016,﻿church,﻿St. Ann's,English,,,,﻿Manitowoc County,﻿Manitowoc County,﻿Kossuth,﻿Kossuth,﻿WI,,44.206987700000006,-87.75665129999999,,,,,﻿e_henzler_001,﻿Rev.,﻿E. Henzler,,,,,,,1870.0,GreenBay
+﻿gre.wi.0017,﻿church,﻿St. John Nep.,English,,,,﻿Outagamie County,﻿Outagamie County,﻿Little Chute,﻿Little Chute,﻿WI,,44.27827620000001,-88.31441740000001,,,,,﻿e_dewitt_001,﻿Rev.,﻿E. Dewitt,,,,,,,1870.0,GreenBay
+﻿gre.wi.0018,﻿church,﻿St. Mary's,English,,,,﻿Winnebago County,﻿Winnebago County,﻿Menasha,﻿Menasha,﻿WI,,44.2040369,-88.443403,,,,,﻿f_uhlemeyer_001,﻿Rev.,﻿F. Uhlemeyer,,,,,,,1870.0,GreenBay
+﻿gre.wi.0019,﻿church,﻿St. Charles',English,,,,﻿Winnebago County,﻿Winnebago County,﻿Menasha,﻿Menasha,﻿WI,,44.202208399999996,-88.4464973,,,,,﻿f_uhlemeyer_001,﻿Rev.,﻿F. Uhlemeyer,,,,,,,1870.0,GreenBay
+﻿gre.wi.0020,﻿church,﻿St. Patrick's,English,,,,﻿Manitowoc County,﻿Manitowoc County,﻿Maple Grove,﻿Maple Grove,﻿WI,,44.1888838,-87.9236281,,,,,﻿w_mahony_001,﻿Rev.,﻿W. Mahony,,,,,,,1870.0,GreenBay
+﻿gre.wi.0021,﻿church,﻿Gethsemane Church,English,,,,﻿Marquette County,﻿Marquette County,﻿Montello,﻿Montello,﻿WI,,43.7949612,-89.3182676,,,,,﻿m_monaghan_001,﻿Rev.,﻿M. Monaghan,,,,,,,1870.0,GreenBay
+﻿gre.wi.0022,﻿church,﻿St. Kilian's,English,,,,﻿Brown County,﻿Brown County,﻿New Franken,﻿New Franken,﻿WI,,44.5310301,-87.8258463,,,,,﻿w_boden_001,﻿Rev.,﻿W. Boden,,,,,,,1870.0,GreenBay
+﻿gre.wi.0023,﻿church,﻿—,English,,,,﻿Waupaca County,﻿Waupaca County,﻿New London,﻿New London,﻿WI,,44.3927582,-88.73982559999999,,,,,﻿cl_lemagie_001,﻿Rev.,﻿C.L. Lemagie,,,,,,,1870.0,GreenBay
+﻿gre.wi.0024,﻿church,﻿St. Peter's,English,,,,﻿Oconto County,﻿Oconto County,﻿Oconto,﻿Oconto,﻿WI,,44.8875713,-87.883319,,,,,﻿p_penin_001,﻿Rev.,﻿P. Penin,,,,,,,1870.0,GreenBay
+﻿gre.wi.0025,﻿church,﻿St. Peter's,English,,,,﻿Winnebago County,﻿Winnebago County,﻿Oshkosh,﻿Oshkosh,﻿WI,,44.019710700000005,-88.54447409999999,,,,,﻿f_gleeson_001,﻿Rev.,﻿F. Gleeson,,,,,,,1870.0,GreenBay
+﻿gre.wi.0026,﻿church,﻿St. Mary's,English,,,,﻿Winnebago County,﻿Winnebago County,﻿Oshkosh,﻿Oshkosh,﻿WI,,44.0123641,-88.61972390000001,,,,,﻿a_leitner_001,﻿Rev.,﻿A. Leitner,,,,,,,1870.0,GreenBay
+﻿gre.wi.0027,﻿church,﻿Immaculate Conception,English,,,,﻿Columbia County,﻿Columbia County,﻿Portage City,﻿Portage,﻿WI,,43.539148600000004,-89.4626202,,,,,﻿f_keenan_001,﻿Rev.,﻿F. Keenan,,,,,,,1870.0,GreenBay
+﻿gre.wi.0028,﻿church,﻿Holy Martyrs of Gorcum,English,,,,﻿Brown County,﻿Brown County,﻿Preble,﻿Preble,﻿WI,,44.4974789,-87.97013929999999,,,,,﻿a_v_grotel_001,﻿Rev.,﻿A. Van Grotel,,,,,,,1870.0,GreenBay
+﻿gre.wi.0029,﻿church,﻿St. Joseph's,English,,,,﻿Brown County,﻿Brown County,﻿Robinsonville,﻿Champion,﻿WI,,44.4822128,-88.01287109999998,,,,,﻿p_crud_001,﻿Rev.,﻿P. Crud,,,,,,,1870.0,GreenBay
+﻿gre.wi.0030,﻿church,﻿St. Hubert's,English,,,,﻿Kewaunee County,﻿Kewaunee County,﻿Rosière,﻿Rosiere,﻿WI,,44.675444899999995,-87.6142395,,,,,﻿a_vermare_001,﻿Rev.,﻿A. Vermare,,,,,,,1870.0,GreenBay
+﻿gre.wi.0031,﻿church,﻿St. Stephen's,English,,,,﻿Portage County,﻿Portage County,﻿Stevens Point,﻿Stevens Point,﻿WI,,44.5270456,-89.5532824,,,,,﻿m_schwebach_001,﻿Rev.,﻿M. Schwebach,,,,,,,1870.0,GreenBay
+﻿gre.wi.0032,﻿church,﻿St. Luke's,English,,,,﻿Manitowoc County,﻿Manitowoc County,﻿Two Rivers,﻿Two Rivers,﻿WI,,44.1499519,-87.56710809999998,,,,,﻿j_gauchè_001,﻿Rev.,﻿J. Gauchè,,,,,,,1870.0,GreenBay
+﻿gre.wi.0033,﻿church,﻿Invention of the Holy Cross,English,,,,﻿Brown County,﻿Brown County,﻿Wequiock,﻿Wequiock,﻿WI,,44.553625,-87.889262,,,,,﻿edw_daems_001,﻿Very Rev.,﻿Edw. Daems,,﻿V.G.,,,,,1870.0,GreenBay
+﻿gre.wi.0034,﻿station,not recorded,English,,,,,,﻿Ahnepee,﻿Algoma,﻿WI,,44.612240500000006,-87.43280653,,,"﻿Visited either monthly, or, for want of priests, occasionally",,,,,,,,,,,1870.0,GreenBay
+﻿gre.wi.0035,﻿station,not recorded,English,,,,,,﻿Bear Creek,﻿Bear Creek,﻿WI,,44.52905769,-88.72874329,,,"﻿Visited either monthly, or, for want of priests, occasionally",,,,,,,,,,,1870.0,GreenBay
+﻿gre.wi.0036,﻿station,not recorded,English,,,,,,﻿Bayley's Harbor,﻿Bailey's Harbor,﻿WI,,45.06041098,-87.12498422,,,"﻿Visited either monthly, or, for want of priests, occasionally",,,,,,,,,,,1870.0,GreenBay
+﻿gre.wi.0037,﻿station,not recorded,English,,,,,,﻿Buena Vista,﻿Plover,﻿WI,,44.40188755,-89.44639848,,,"﻿Visited either monthly, or, for want of priests, occasionally",,,,,,,,,,,1870.0,GreenBay
+﻿gre.wi.0038,﻿station,not recorded,English,,,,,﻿Kewaunee County,﻿Carrolton,﻿Carlton,﻿WI,,44.378333000000005,-87.57777800000001,,,"﻿Visited either monthly, or, for want of priests, occasionally",,,,,,,,,,,1870.0,GreenBay
+﻿gre.wi.0039,﻿station,not recorded,English,,,,,﻿Kewaunee County,﻿Casco,﻿Casco,﻿WI,,44.537778,-87.593056,,,"﻿Visited either monthly, or, for want of priests, occasionally",,,,,,,,,,,1870.0,GreenBay
+﻿gre.wi.0040,﻿station,not recorded,English,,,,,﻿Outagamie County,﻿Centre,﻿Center,﻿WI,,44.36239126,-88.41700499,,,"﻿Visited either monthly, or, for want of priests, occasionally",,,,,,,,,,,1870.0,GreenBay
+﻿gre.wi.0041,﻿station,not recorded,English,,,,,﻿Manitowoc County,﻿Cooper's Town,﻿Cooperstown,﻿WI,,44.31794554,-87.77673142,,,"﻿Visited either monthly, or, for want of priests, occasionally",,,,,,,,,,,1870.0,GreenBay
+﻿gre.wi.0042,﻿station,not recorded,English,,,,,﻿Manitowoc County,﻿Clark Mills,﻿Cato,﻿WI,,44.0948542,-87.86277131,,,"﻿Visited either monthly, or, for want of priests, occasionally",,,,,,,,,,,1870.0,GreenBay
+﻿gre.wi.0043,﻿station,not recorded,English,,,,,﻿Calumet County,﻿Charleston,﻿Charlestown,﻿WI,,44.00817578,-88.10214767,,,"﻿Visited either monthly, or, for want of priests, occasionally",,,,,,,,,,,1870.0,GreenBay
+﻿gre.wi.0044,﻿station,not recorded,English,,,,,,﻿Corryville,﻿Cincinnati,﻿WI,,43.78443970000001,-88.7878678,,,"﻿Visited either monthly, or, for want of priests, occasionally",,,,,,,,,,,1870.0,GreenBay
+﻿gre.wi.0045,﻿station,not recorded,English,,,,,﻿Kewaunee County,﻿Deycksville,﻿Dyckesville,﻿WI,,44.64056872,-87.76179278,,,"﻿Visited either monthly, or, for want of priests, occasionally",,,,,,,,,,,1870.0,GreenBay
+﻿gre.wi.0046,﻿station,not recorded,English,,,,,﻿Brown County,﻿Duck Creek,﻿Howard,﻿WI,,44.56577811,-88.05946898,,,"﻿Visited either monthly, or, for want of priests, occasionally",,,,,,,,,,,1870.0,GreenBay
+﻿gre.wi.0047,﻿station,not recorded,English,,,,,﻿Door County,﻿Egg Harbor,﻿Egg Harbor,﻿WI,,45.02454214,-87.29266452,,,"﻿Visited either monthly, or, for want of priests, occasionally",,,,,,,,,,,1870.0,GreenBay
+﻿gre.wi.0048,﻿station,not recorded,English,,,,,﻿Milwaukee County,﻿Franklin,﻿Franklin,﻿WI,,42.888627,-88.03841949999999,,,"﻿Visited either monthly, or, for want of priests, occasionally",,,,,,,,,,,1870.0,GreenBay
+﻿gre.wi.0049,﻿station,not recorded,English,,,,,﻿Calumet County,﻿Harrison,﻿Harrison,﻿WI,,44.12101225,-88.31205546,,,"﻿Visited either monthly, or, for want of priests, occasionally",,,,,,,,,,,1870.0,GreenBay
+﻿gre.wi.0050,﻿station,not recorded,English,,,,,﻿Brown County,﻿East Hollandtown,﻿Holland,﻿WI,,44.24950313,-88.17656876,,,"﻿Visited either monthly, or, for want of priests, occasionally",,,,,,,,,,,1870.0,GreenBay
+﻿gre.wi.0051,﻿station,not recorded,English,,,,,﻿Outagamie County,﻿Hortonville,﻿Hortonville,﻿WI,,44.33595913,-88.63647538,,,"﻿Visited either monthly, or, for want of priests, occasionally",,,,,,,,,,,1870.0,GreenBay
+﻿gre.wi.0052,﻿station,not recorded,English,,,,,﻿Brown County,﻿Humboldt,﻿Humboldt,﻿WI,,44.50003881,-87.82209547,,,"﻿Visited either monthly, or, for want of priests, occasionally",,,,,,,,,,,1870.0,GreenBay
+﻿gre.wi.0053,﻿station,not recorded,English,,,,,﻿Columbia County,﻿Kilborn City,﻿Wisconsin Dells,﻿WI,,43.78443970000001,-88.7878678,,,"﻿Visited either monthly, or, for want of priests, occasionally",,,,,,,,,,,1870.0,GreenBay
+﻿gre.wi.0054,﻿station,not recorded,English,,,,,﻿Marathon County,﻿Knolton,﻿Knowlton,﻿WI,,44.71357815,-89.68037191,,,"﻿Visited either monthly, or, for want of priests, occasionally",,,,,,,,,,,1870.0,GreenBay
+﻿gre.wi.0055,﻿station,not recorded,English,,,,,﻿Waupaca County,﻿Lebanon,﻿Lebanon,﻿WI,,44.44607157,-88.79815505,,,"﻿Visited either monthly, or, for want of priests, occasionally",,,,,,,,,,,1870.0,GreenBay
+﻿gre.wi.0056,﻿station,not recorded,English,,,,,﻿Kewaunee County,﻿Lincoln Town,﻿Lincoln,﻿WI,,44.61771881,-87.63732361,,,"﻿Visited either monthly, or, for want of priests, occasionally",,,,,,,,,,,1870.0,GreenBay
+﻿gre.wi.0057,﻿station,not recorded,English,,,,,﻿Portage County,﻿Lennark,﻿Lanark,﻿WI,,44.36470172,-89.35483394,,,"﻿Visited either monthly, or, for want of priests, occasionally",,,,,,,,,,,1870.0,GreenBay
+﻿gre.wi.0058,﻿station,not recorded,English,,,,,﻿Waupaca County,﻿Little Wolf,﻿Little Wolf,﻿WI,,44.423237,-88.897676,,,"﻿Visited either monthly, or, for want of priests, occasionally",,,,,,,,,,,1870.0,GreenBay
+﻿gre.wi.0059,﻿station,not recorded,English,,,,,﻿Oconto County,﻿Little Suamico,﻿Little Suamico,﻿WI,,44.71782773,-88.00949201,,,"﻿Visited either monthly, or, for want of priests, occasionally",,,,,,,,,,,1870.0,GreenBay
+﻿gre.wi.0060,﻿station,not recorded,English,,,,,﻿Manitowoc County,﻿Mishicot,﻿Mishicot,﻿WI,,44.23352908,-87.63948886,,,"﻿Visited either monthly, or, for want of priests, occasionally",,,,,,,,,,,1870.0,GreenBay
+﻿gre.wi.0061,﻿station,not recorded,English,,,,,﻿Kewaunee County,﻿Montpellier,﻿Montpelier,﻿WI,,44.455785999999996,-87.73445051,,,"﻿Visited either monthly, or, for want of priests, occasionally",,,,,,,,,,,1870.0,GreenBay
+﻿gre.wi.0062,﻿station,not recorded,English,,,,,﻿Brown County,﻿Morrisson Town,﻿Morrison,﻿WI,,44.298651899999996,-88.01415035,,,"﻿Visited either monthly, or, for want of priests, occasionally",,,,,,,,,,,1870.0,GreenBay
+﻿gre.wi.0063,﻿station,not recorded,English,,,,,,﻿Menomenee,,﻿WI,,44.298651899999996,-88.01415035,,,"﻿Visited either monthly, or, for want of priests, occasionally",,,,,,,,,,,1870.0,GreenBay
+﻿gre.wi.0064,﻿station,not recorded,English,,,,,﻿Door County,﻿New Brussels,﻿Brussels,﻿WI,,44.74843972,-87.6218728,,,"﻿Visited either monthly, or, for want of priests, occasionally",,,,,,,,,,,1870.0,GreenBay
+﻿gre.wi.0065,﻿station,not recorded,English,,,,,﻿Winnebago County,﻿Neenah,﻿Neenah,﻿WI,,44.1791842,-88.45535926,,,"﻿Visited either monthly, or, for want of priests, occasionally",,,,,,,,,,,1870.0,GreenBay
+﻿gre.wi.0066,﻿station,not recorded,English,,,,,﻿Waupaca County,﻿Ogdensburg,﻿Ogdensburg,﻿WI,,44.46705892,-89.02591173,,,"﻿Visited either monthly, or, for want of priests, occasionally",,,,,,,,,,,1870.0,GreenBay
+﻿gre.wi.0067,﻿station,not recorded,English,,,,,﻿Marinette County,﻿Peshtigo,﻿Peshtigo,﻿WI,,45.0528413,-87.75864271,,,"﻿Visited either monthly, or, for want of priests, occasionally",,,,,,,,,,,1870.0,GreenBay
+﻿gre.wi.0068,﻿station,not recorded,English,,,,,,﻿Prairie,,﻿WI,,42.553075299999996,-87.9334118,,,"﻿Visited either monthly, or, for want of priests, occasionally",,,,,,,,,,,1870.0,GreenBay
+﻿gre.wi.0069,﻿station,not recorded,English,,,,,﻿Shawano County,﻿Shawano,﻿Shawano,﻿WI,,44.77776734,-88.608672,,,"﻿Visited either monthly, or, for want of priests, occasionally",,,,,,,,,,,1870.0,GreenBay
+﻿gre.wi.0070,﻿station,not recorded,English,,,,,﻿Brown County,﻿Snydersville,﻿Sniderville,﻿WI,,44.35143853,-88.19630856,,,"﻿Visited either monthly, or, for want of priests, occasionally",,,,,,,,,,,1870.0,GreenBay
+﻿gre.wi.0071,﻿station,not recorded,English,,,,,﻿Calumet County,﻿Stockbridge,﻿Stockbridge,﻿WI,,44.07292431,-88.29841826,,,"﻿Visited either monthly, or, for want of priests, occasionally",,,,,,,,,,,1870.0,GreenBay
+﻿gre.wi.0072,﻿station,not recorded,English,,,,,﻿Marathon County,﻿Wausau,﻿Wausau,﻿WI,,44.9591352,-89.6301221,,,"﻿Visited either monthly, or, for want of priests, occasionally",,,,,,,,,,,1870.0,GreenBay
+﻿gre.wi.0073,﻿station,not recorded,English,,,,,,﻿Wahlheim,,﻿WI,,43.78443970000001,-88.7878678,,,"﻿Visited either monthly, or, for want of priests, occasionally",,,,,,,,,,,1870.0,GreenBay
+﻿gre.wi.0074,﻿station,not recorded,English,,,,,﻿Waupaca County,﻿Wayauwiga,﻿Weyauwega,﻿WI,,44.32181494,-88.92200893,,,"﻿Visited either monthly, or, for want of priests, occasionally",,,,,,,,,,,1870.0,GreenBay
+﻿gre.wi.0075,﻿station,not recorded,English,,,,,,﻿Woodville,,﻿WI,,44.9530206,-92.2912993,,,"﻿Visited either monthly, or, for want of priests, occasionally",,,,,,,,,,,1870.0,GreenBay
+﻿gre.wi.0076,﻿station,not recorded,English,,,,,﻿Brown County,﻿Wright's Town,﻿Wrightstown,﻿WI,,44.32866133,-88.16569876,,,"﻿Visited either monthly, or, for want of priests, occasionally",,,,,,,,,,,1870.0,GreenBay
+﻿gre.wi.0077,﻿station,not recorded,English,,,,,,﻿Zwamp,,﻿WI,,44.65501805,-87.66925925,,,"﻿Visited either monthly, or, for want of priests, occasionally",,,,,,,,,,,1870.0,GreenBay
+﻿gre.wi.0078,﻿convent,﻿St. Mary,English,,,,,,﻿Green Bay,﻿Green Bay,﻿WI,,44.46464279999999,-88.0417563,,,,,,﻿Sister,﻿Mary Bruno,,﻿Superior,,,,﻿Sisters of Notre Dame,1870.0,GreenBay
+﻿gre.wi.0079,"﻿convent, academy",﻿Ursuline Convent and Academy,English,,,,,,﻿Green Bay,﻿Green Bay,﻿WI,,44.51331879999999,-88.0132958,,,,,,﻿Mother,﻿Mary Ann Mayer,,﻿Superior,,,,,1870.0,GreenBay
+﻿gre.wi.0080,﻿convent,not recorded,English,,,,,,﻿Oshkosh,﻿Oshkosh,﻿WI,,44.024706200000004,-88.5426136,,,,,,﻿Sister,﻿Thomasina,,﻿Superior,,,,﻿Sisters of the Third Order of St. Dominic,1870.0,GreenBay
+﻿gre.wi.0081,﻿convent,not recorded,English,,,,,,﻿Portage City,﻿Portage,﻿WI,,43.539148600000004,-89.4626202,,,,,,﻿Sister,﻿M. Agnes,,﻿Superior,,,,﻿Sisters of the Third Order of St. Dominic,1870.0,GreenBay
+﻿gre.wi.0082,﻿convent,not recorded,English,,,,,,﻿Menasha,﻿Menasha,﻿WI,,44.202208399999996,-88.4464973,,,,,,,,,,,,,﻿Sisters of the Third Order of St. Francis,1870.0,GreenBay
+﻿gre.wi.0083,﻿convent,not recorded,English,,,,,,﻿Little Chute,﻿Little Chute,﻿WI,,44.2799872,-88.3184394,,,,,,,,,,,,,﻿Sisters of St. Agnes,1870.0,GreenBay
+﻿gre.wi.0084,﻿convent,not recorded,English,,,,,,﻿Wequiock,﻿Wequiock,﻿WI,,44.5674935,-87.88121059999999,,,,,,,,,,,,,﻿Sisters of the Third Order of St. Francis,1870.0,GreenBay

@@ -1,0 +1,5 @@
+check city_reg before importing data (1869 blank)
+
+ric.va.0014, 1867, small church but has a pastor?
+
+add a new column of diocese

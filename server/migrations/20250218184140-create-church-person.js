@@ -10,7 +10,7 @@ module.exports = {
         type: Sequelize.INTEGER
       },
       instID: {
-        type: Sequelize.STRING
+        type: Sequelize.STRING,
       },
       instName: {
         type: Sequelize.STRING
@@ -19,7 +19,7 @@ module.exports = {
         type: Sequelize.INTEGER
       },
       persID: {
-        type: Sequelize.STRING
+        type: Sequelize.STRING,
       },
       persName: {
         type: Sequelize.STRING

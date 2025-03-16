@@ -1,0 +1,34 @@
+﻿instID,church_type,instName,language,instNote,placeName,region,county_orig,county_reg,city_orig,city_reg,state_orig,state_reg,latitude,longitude,attendingInstID,attendingChurch,attendingChurchFrequency,attendingChurchNote,persID,persTitle,persName,persSuffix,persRole,persNote,memberType,member,affiliated,year,diocese
+﻿nash.tn.0001,﻿cathedral,not recorded,English,,﻿Cathedral,,,,﻿Nashville,﻿Nashville,﻿TN,,36.1596597,-86.783051,,,,,﻿p_a_feehan_001,﻿Right Rev.,﻿P. A. Feehan,,,,,,,1868.0,Nashville
+﻿nash.tn.0001,﻿cathedral,not recorded,English,,﻿Cathedral,,,,﻿Nashville,﻿Nashville,﻿TN,,36.1596597,-86.783051,,,,,,﻿Rev.,﻿M. Duggan,,,,,,,1868.0,Nashville
+﻿nash.tn.0001,﻿cathedral,not recorded,English,,﻿Cathedral,,,,﻿Nashville,﻿Nashville,﻿TN,,36.1596597,-86.783051,,,,,,﻿Rev.,﻿P. F. Coyle,,,,,,,1868.0,Nashville
+﻿nash.tn.0003,﻿church,﻿Church of the Assumption,﻿German,,,,,,,﻿Nashville,﻿TN,,36.175432,-86.7915037,,,,,﻿w_j_revis_001,﻿Rev.,﻿W. J. Revis,,,,,,,1868.0,Nashville
+﻿nash.tn.0002,﻿church,﻿St. John's,English,,﻿Edgefield,,,,,﻿Nashville,﻿TN,,36.178443200000004,-86.6791636,﻿nash.tn.0001,﻿attended from the cathedral,,,,,,,,,,,,1868.0,Nashville
+﻿nash.tn.0039,﻿academy,﻿St. Cecilia's Academy,English,,,,,,﻿Nashville,﻿Nashville,﻿TN,,36.1318756,-86.8412955,,,,,,﻿Rev.,﻿J. F. Jarboe,﻿O.S.D,,,,,,1868.0,Nashville
+﻿nash.tn.0004,﻿church,﻿St. Peter's,English,,,,,,﻿Memphis,﻿Memphis,﻿TN,,35.071573,-90.00336999999999,,,,,,﻿Rev.,﻿T. L. Power,﻿O.P.,﻿Pastor,,,,,1868.0,Nashville
+﻿nash.tn.0004,﻿church,﻿St. Peter's,English,,,,,,﻿Memphis,﻿Memphis,﻿TN,,35.071573,-90.00336999999999,,,,,,﻿Rev.,﻿M. D. Lilly,﻿O.P.,,,,,,1868.0,Nashville
+﻿nash.tn.0004,﻿church,﻿St. Peter's,English,,,,,,﻿Memphis,﻿Memphis,﻿TN,,35.071573,-90.00336999999999,,,,,,﻿Rev.,﻿J. V. Edelen,﻿O.P.,,,,,,1868.0,Nashville
+﻿nash.tn.0004,﻿church,﻿St. Peter's,English,,,,,,﻿Memphis,﻿Memphis,﻿TN,,35.071573,-90.00336999999999,,,,,,﻿Rev.,﻿J. A. Rochford,﻿O.P.,,,,,,1868.0,Nashville
+﻿nash.tn.0006,﻿church,﻿St. Mary's,﻿German,,,,,,﻿Memphis,﻿Memphis,﻿TN,,35.151352,-90.0477468,,,,,,﻿Rev.,﻿F. Schneider,,﻿Pastor,,,,,1868.0,Nashville
+﻿nash.tn.0005,﻿church,﻿St. Patrick's,English,,,,,,﻿Memphis,﻿Memphis,﻿TN,,35.1370078,-90.0500392,,,,,﻿m_riordan_001,﻿Rev.,﻿M. Riordan,,﻿Pastor,,,,,1868.0,Nashville
+﻿nash.tn.0005,﻿church,﻿St. Patrick's,English,,,,,,﻿Memphis,﻿Memphis,﻿TN,,35.1370078,-90.0500392,,,,,﻿m_walsh_001,﻿Rev.,﻿M. Walsh,,,,,,,1868.0,Nashville
+﻿nash.tn.0007,﻿church,﻿St. Mary's,English,,,,﻿Montgomery County,,﻿Clarksville,﻿Clarksville,﻿TN,,36.5297706,-87.3594528,,,,,,﻿Rev.,﻿C. Thoma,,﻿Pastor,,,,,1868.0,Nashville
+﻿nash.tn.0008,﻿church,﻿St. Michael's,English,,,,﻿Robertson County,,,,﻿TN,,36.5250666,-86.8621827,﻿nash.tn.0007,﻿Attended from Clarksville,,,,,,,,,,,,1868.0,Nashville
+﻿nash.tn.0008,﻿church,﻿St. Michael's,English,,,,﻿Robertson County,,﻿Springfield,,﻿TN,,36.5250666,-86.8621827,﻿nash.tn.0007,﻿Attended from Clarksville,,,,,,,,,,,,1868.0,Nashville
+﻿nash.tn.0010,﻿church,﻿St. Patrick's,English,,﻿State Line,,,,,,﻿TN,,36.5250666,-86.8621827,﻿nash.tn.0007,﻿Attended from Clarksville,,,,,,,,,,,,1868.0,Nashville
+﻿nash.tn.0010,﻿church,﻿St. Patrick's,English,,﻿State Line,,﻿Sumner County,,﻿Gallatin,,﻿TN,,36.5250666,-86.8621827,﻿nash.tn.0007,﻿Attended from Clarksville,,,,,,,,,,,,1868.0,Nashville
+﻿nash.tn.0010,﻿church,﻿St. Patrick's,English,,﻿State Line,,﻿Sumner County,,﻿Edgefield Junction,,﻿TN,,36.5250666,-86.8621827,﻿nash.tn.0007,﻿Attended from Clarksville,,,,,,,,,,,,1868.0,Nashville
+﻿nash.tn.0011,﻿church,not recorded,English,,,,﻿Henry County,,﻿Paris,﻿Paris,﻿TN,,36.301111,-88.313889,﻿nash.tn.0007,﻿Attended from Clarksville,,,,,,,,,,,,1868.0,Nashville
+﻿nash.tn.0026,﻿church,﻿Immaculate Conception,English,,,,﻿Knox County,,﻿Knoxville,﻿Knoxville,﻿TN,,35.96063839999999,-83.9207392,,,,,,﻿Rev.,﻿James S. Keane,,﻿Pastor,,,,,1868.0,Nashville
+﻿nash.tn.0027,﻿church,not recorded,English,,,,﻿Knox County,,﻿McMillen's,﻿McMillan,﻿TN,,36.0436954,-83.7912918,﻿nash.tn.0026,﻿Attended from Knoxville,,,,,,,,,,,,1868.0,Nashville
+﻿nash.tn.0028,﻿church,not recorded,English,,,,﻿Jefferson County,﻿Hamblen County,﻿Morristown,﻿Morristown,﻿TN,,36.2139814,-83.2948922,﻿nash.tn.0026,﻿Attended from Knoxville,,,,,,,,,,,,1868.0,Nashville
+﻿nash.tn.0029,﻿church,not recorded,English,,,,﻿Hawkins County,,﻿Rogersville,﻿Rogersville,﻿TN,,36.407317,-83.0054423,﻿nash.tn.0026,﻿Attended from Knoxville,,,,,,,,,,,,1868.0,Nashville
+﻿nash.tn.0030,﻿church,not recorded,English,,,,﻿Green County,﻿Greene County,﻿Greenville,﻿Greenville,﻿TN,,36.163157399999996,-82.83098609999999,﻿nash.tn.0026,﻿Attended from Knoxville,,,,,,,,,,,,1868.0,Nashville
+﻿nash.tn.0031,﻿church,not recorded,English,,,,﻿Washington County,,﻿Jonesboro,﻿Jonesborough,﻿TN,,36.2942722,-82.4734787,﻿nash.tn.0026,﻿Attended from Knoxville,,,,,,,,,,,,1868.0,Nashville
+﻿nash.tn.0032,﻿church,not recorded,English,,,,﻿Hamilton County,,﻿Chattanooga,﻿Chattanooga,﻿TN,,35.0457984,-85.3093995,,,,,﻿h_v_brown_001,﻿Rev.,﻿H. V. Brown,,﻿Pastor,,,,,1868.0,Nashville
+﻿nash.tn.0032,﻿church,not recorded,English,,,,﻿Hamilton County,,﻿Chattanooga,﻿Chattanooga,﻿TN,,35.0457984,-85.3093995,,,,,,﻿Rev.,﻿A. J. Ryan,,,,,,,1868.0,Nashville
+﻿nash.tn.0033,﻿church,not recorded,English,,,,﻿Marion County,﻿Marion County,﻿Etna,﻿Whiteside,﻿TN,,34.987221999999996,-85.497778,﻿nash.tn.0032,﻿Attended from Chattanooga,,,,,,,,,,,,1868.0,Nashville
+﻿nash.tn.0034,﻿church,not recorded,English,,,,﻿Miles County,﻿Overton County,﻿Alpine,﻿Alpine,﻿TN,,36.394721999999994,-85.216944,﻿nash.tn.0032,﻿Attended from Chattanooga,,,,,,,,,,,,1868.0,Nashville
+﻿nash.tn.0035,﻿church,not recorded,English,,,,﻿Bradley County,,﻿Cleveland,﻿Cleveland,﻿TN,,35.1595182,-84.8766115,﻿nash.tn.0032,﻿Attended from Chattanooga,,,,,,,,,,,,1868.0,Nashville
+﻿nash.tn.0018,﻿church,﻿St. Patrick's,English,,,,﻿Humphries County,﻿Humphreys County,﻿McEwen's,﻿McEwen,﻿TN,,36.1078375,-87.6330745,,,,,﻿p_obrien_001,﻿Rev.,﻿L. Orengo,﻿O.P.,,,,,,1868.0,Nashville
+﻿nash.tn.0019,﻿church,not recorded,English,,,,,﻿Davidson County,﻿Newsom's Station,﻿Nashville,﻿TN,,36.07985142,-86.99603359,,﻿Attended by Rev. L. Orengo,,,,,,,,,,,,1868.0,Nashville

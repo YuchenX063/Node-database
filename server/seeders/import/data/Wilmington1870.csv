@@ -1,0 +1,40 @@
+﻿instID,church_type,instName,language,instNote,placeName,region,county_orig,county_reg,city_orig,city_reg,state_orig,state_reg,latitude,longitude,attendingInstID,attendingChurch,attendingChurchFrequency,attendingChurchNote,persID,persTitle,persName,persSuffix,persRole,persNote,memberType,member,affiliated,year,diocese
+﻿wil.de.0001,﻿cathedral,﻿St. Peter's Pro-Cathedral,English,,﻿north-east corner of Sixth and West streets,,,,﻿Wilmington,﻿Wilmington,﻿DE,,39.744655,-75.54839090000002,,,,,﻿mat_a_mcgrane_001,﻿Rev.,﻿Matthew A. McGrane,,﻿Pastor,,,,,1870.0,Wilmington
+﻿wil.de.0001,﻿cathedral,﻿St. Peter's Pro-Cathedral,English,,﻿north-east corner of Sixth and West streets,,,,﻿Wilmington,﻿Wilmington,﻿DE,,39.744655,-75.54839090000002,,,,,﻿p_mcgrane_001,﻿Rev.,﻿P. McGrane,,﻿Assistant,,,,,1870.0,Wilmington
+﻿wil.de.0002,﻿church,﻿St. Mary of the Immaculate Conception,English,,,,,,﻿Wilmington,﻿Wilmington,﻿DE,,39.744655,-75.54839090000002,,,,,﻿pat_reilly_001,﻿Rev.,﻿Patrick Reilly,,﻿Pastor,,,,,1870.0,Wilmington
+﻿wil.de.0003,﻿church,﻿St. Paul's,English,﻿a new church,﻿corner of Fourth and Jackson streets,,,,﻿Wilmington,﻿Wilmington,﻿DE,,39.744655,-75.54839090000002,,,,,﻿mx_fallon_001,﻿Rev.,﻿M.X. Fallon,,﻿Pastor,,,,,1870.0,Wilmington
+﻿wil.de.0003,﻿church,﻿St. Paul's,English,﻿residence of Bishop,﻿corner of Fourth and Jackson streets,,,,﻿Wilmington,﻿Wilmington,﻿DE,,39.744655,-75.54839090000002,,,,,﻿tho_a_becker_001,﻿Rt. Rev.,﻿Thomas A. Becker,﻿D.D.,,,,,,1870.0,Wilmington
+﻿wil.de.0004,﻿church,﻿St. James',English,﻿A new church and school,﻿at Ridale's Banks,,,,﻿Wilmington,﻿Wilmington,﻿DE,,39.744655,-75.54839090000002,,﻿Attended by city clergy,,,,,,,,,,,,1870.0,Wilmington
+﻿wil.de.0005,﻿church,﻿St. Joseph's,English,,﻿Henry Clay P.O.,,,,﻿Brandywine,﻿Brandywine,﻿DE,,39.82955629999999,-75.5343681,,,,,﻿geo_j_kelly_001,﻿Rev.,﻿George J. Kelly,,﻿Pastor,,,,,1870.0,Wilmington
+﻿wil.de.0006,﻿church,﻿St. Mary's,English,,﻿Coffee Run,,,,﻿Coffee Run,﻿Hockessin,﻿DE,,39.7690811,-75.6616973,,﻿Attended from Brandywine,,,,,,,,,,,,1870.0,Wilmington
+﻿wil.de.0007,﻿church,﻿St. Peter's,English,,,,,,﻿New Castle,﻿New Castle,﻿DE,,39.6625154,-75.5646843,,,,,﻿joh_daly_003,﻿Rev.,﻿John Daly,,﻿Pastor,,,,,1870.0,Wilmington
+﻿wil.de.0008,﻿church,﻿St. Paul's,English,,,,,,﻿Delaware City,﻿Delaware City,﻿DE,,39.57615,-75.5922806,,﻿Attended from New Castle,,,,,,,,,,,,1870.0,Wilmington
+﻿wil.de.0009,﻿church,﻿St. Patrick's,English,,,,,,﻿Newark,﻿Newark,﻿DE,,39.6644193,-75.7273694,,"﻿Attended from Elkton, MD by Rev. F.J. Blake",,,,,,,,,,,,1870.0,Wilmington
+﻿wil.de.0010,﻿church,not recorded,English,,,,,,﻿Dover,﻿Dover,﻿DE,,39.158167999999996,-75.5243682,,﻿Visited from New Castle,,,,,,,,,,,,1870.0,Wilmington
+﻿wil.de.0011,﻿church,not recorded,English,,,,,,﻿Smyrna,﻿Smyrna,﻿DE,,39.299833899999996,-75.6046494,,﻿Visited from New Castle,,,,,,,,,,,,1870.0,Wilmington
+﻿wil.de.0012,﻿church,﻿St. Francis Xavier's,English,,﻿Warwick P.O.,,﻿Cecil County,,﻿Bohemia Manor,﻿Chesapeake City,﻿MD,,39.530946,-75.80743670000001,,,,,﻿geo_villiger_001,﻿Rev.,﻿George Villiger,﻿S.J.,,,,,,1870.0,Wilmington
+﻿wil.de.0013,﻿church,﻿St. Patrick's,English,,,,﻿Cecil County,,﻿Conowingo,﻿Conowingo,﻿MD,,39.67792670000001,-76.1590765,,﻿Attended from Havre de Grace,,,,,,,,,,,,1870.0,Wilmington
+﻿wil.de.0014,﻿church,﻿Immaculate Conception,English,,,,﻿Cecil County,,﻿Elkton,﻿Elkton,﻿MD,,39.6148047,-75.8314811,,,,,﻿fj_blake_001,﻿Rev.,﻿F.J. Blake,,﻿Pastor,,,,,1870.0,Wilmington
+﻿wil.de.0015,﻿church,﻿St. Teresa's,English,,,,﻿Cecil County,,﻿Port Deposit,﻿Port Deposit,﻿MD,,39.609619099999996,-76.1203574,,﻿Attended from Havre de Grace,,,,,,,,,,,,1870.0,Wilmington
+﻿wil.de.0016,﻿church,﻿St. Joseph's,English,,,,﻿Talbot County,,﻿Wye Mills,﻿Wye Mills,﻿MD,,38.9400842,-76.08110970000001,,,,,﻿edw_henchy_001,﻿Rev.,﻿Edward Henchy,﻿S.J.,,,,,,1870.0,Wilmington
+﻿wil.de.0016,﻿church,﻿St. Joseph's,English,,,,﻿Talbot County,,﻿Wye Mills,﻿Wye Mills,﻿MD,,38.9400842,-76.08110970000001,,,,,﻿joh_b_meurer_001,﻿Rev.,﻿John B. Meurer,﻿S.J.,,,,,,1870.0,Wilmington
+﻿wil.de.0017,﻿church,﻿SS. Peter and Paul,English,,,,﻿Talbot County,,﻿Easton,﻿Easton,﻿MD,,38.7443991,-76.0689624,,﻿Attended from Wye Mills,,,,,,,,,,,,1870.0,Wilmington
+﻿wil.de.0018,﻿church,﻿St. Peter's,English,,,,﻿Queen Anne County,,﻿Queenstown,﻿Queenstown,﻿MD,,38.9906679,-76.15772679999999,,﻿Attended from Wye Mills,,,,,,,,,,,,1870.0,Wilmington
+﻿wil.de.0019,﻿church,﻿St. Denis',English,,,,﻿Kent County,,﻿Georgetown Cross Roads,﻿Galena,﻿MD,,39.346150200000004,-75.8792727,,﻿Attended from Bohemia,,,,,,,,,,,,1870.0,Wilmington
+﻿wil.de.0020,﻿church,not recorded,English,,﻿at Benett Wilson's,,﻿Kent County,,﻿Eastern Neck,﻿Eastern Neck Island,﻿MD,,39.0303894,-76.2277309,,﻿Attended from Bohemia,,,,,,,,,,,,1870.0,Wilmington
+﻿wil.de.0021,﻿church,not recorded,English,,﻿at Thomas Dixon's,,﻿Kent County,,﻿Chestertown,﻿Chestertown,﻿MD,,39.2121948,-76.0762451,,﻿Attended from Bohemia,,,,,,,,,,,,1870.0,Wilmington
+﻿wil.de.0022,﻿church,﻿St. Elizabeth's,English,,,,﻿Caroline County,,﻿Denton,﻿Denton,﻿MD,,38.8852883,-75.834971,,﻿Attended from Wye Mills,,,,,,,,,,,,1870.0,Wilmington
+﻿wil.de.0023,﻿church,﻿St. Mary's,English,,,,﻿Wicomico County,,﻿Salisbury,﻿Salisbury,﻿MD,,38.3739821,-75.57276440000001,,"﻿Visited from Wilmington, DE",,,,,,,,,,,,1870.0,Wilmington
+﻿wil.de.0024,﻿church,﻿St. Mary's,English,,,,﻿Dorchester County,,﻿Meekin's Neck,﻿Meekin's Neck,﻿MD,,38.3915114,-76.2671674,,﻿Visited from Wye Mills,,,,,,,,,,,,1870.0,Wilmington
+﻿wil.de.0025,﻿church,not recorded,English,,,,﻿Northampton County,,﻿Eastville,﻿Eastville,﻿VA,﻿VA,37.3526369,-75.94576500000001,,﻿Visited from Norfolk,﻿occasionally,,,,,,,,,,,1870.0,Wilmington
+﻿wil.de.0026,﻿asylum,﻿Female Orphan Asylum,English,,﻿corner of Sixth and West streets,,,,﻿Wilmington,﻿Wilmington,﻿DE,,39.7615867,-75.52670340000002,,,,,,﻿Sister,﻿M. Stanislaus Kostka,﻿Sister-Servant,,,﻿sister,"﻿Number of sisters, 8",,1870.0,Wilmington
+﻿wil.de.0026,﻿asylum,﻿Female Orphan Asylum,English,,﻿corner of Sixth and West streets,,,,﻿Wilmington,﻿Wilmington,﻿DE,,39.7615867,-75.52670340000002,,,,,,,,,,,﻿orphan,"﻿orphans, 33",﻿under the charge of the Sisters of Charity,1870.0,Wilmington
+﻿wil.de.0027,﻿academy,﻿Academy of the Visitation B.V.M.,English,"﻿The building formerly known as St. Mary's College has been opened by the Sisters as a boarding and day-school. Address, for terms, Mother Superior, Academy of the Visitation, Wilmington, Delaware",,,,,﻿Wilmington,﻿Wilmington,﻿DE,,39.744655,-75.54839090000002,,,,,,,,,,,,,,1870.0,Wilmington
+﻿wil.de.0028,﻿school,﻿St. Peter's,English,,,,,,﻿Wilmington,﻿Wilmington,﻿DE,,39.744655,-75.54839090000002,,,,,,,,,,,﻿lay teacher,﻿three lay teachers,,1870.0,Wilmington
+﻿wil.de.0028,﻿school,﻿St. Peter's,English,,,,,,﻿Wilmington,﻿Wilmington,﻿DE,,39.744655,-75.54839090000002,,,,,,,,,,,﻿boy,"﻿boys, 250",,1870.0,Wilmington
+﻿wil.de.0029,﻿school,﻿St. Peter's,English,,,,,,﻿Wilmington,﻿Wilmington,﻿DE,,39.744655,-75.54839090000002,,,,,,,,,,,﻿girl,"﻿girls, 300",﻿Sisters of Charity,1870.0,Wilmington
+﻿wil.de.0030,﻿school,﻿St. Mary's,English,,,,,,﻿Wilmington,﻿Wilmington,﻿DE,,39.738830799999995,-75.54418270000001,,,,,,,,,,,﻿boy,"﻿boys, 220",,1870.0,Wilmington
+﻿wil.de.0030,﻿school,﻿St. Mary's,English,,,,,,﻿Wilmington,﻿Wilmington,﻿DE,,39.738830799999995,-75.54418270000001,,,,,,,,,,,﻿girl,"﻿girls, 240",,1870.0,Wilmington
+﻿wil.de.0030,﻿school,﻿St. Mary's,English,,,,,,﻿Wilmington,﻿Wilmington,﻿DE,,39.738830799999995,-75.54418270000001,,,,,,,,,,,﻿lay teacher,﻿lay teachers,,1870.0,Wilmington
+﻿wil.de.0031,﻿school,﻿St. Joseph's,English,,,,,,﻿Brandywine,﻿Brandywine,﻿DE,,39.772141600000005,-75.58931609999999,,,,,,,,,,,﻿lay teacher,﻿two lay teachers,,1870.0,Wilmington
+﻿wil.de.0031,﻿school,﻿St. Joseph's,English,,,,,,﻿Brandywine,﻿Brandywine,﻿DE,,39.772141600000005,-75.58931609999999,,,,,,,,,,,﻿children,"﻿children, 300",,1870.0,Wilmington

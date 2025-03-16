@@ -1,0 +1,54 @@
+﻿instID,church_type,instName,language,instNote,placeName,region,county_orig,county_reg,city_orig,city_reg,state_orig,state_reg,latitude,longitude,attendingInstID,attendingChurch,attendingChurchFrequency,attendingChurchNote,persID,persTitle,persName,persSuffix,persRole,persNote,memberType,member,affiliated,year,diocese
+﻿nash.tn.0001,﻿cathedral,not recorded,English,,﻿Cathedral,,,,﻿Nashville,﻿Nashville,﻿TN,,36.1596597,-86.783051,,,,,﻿p_a_feehan_001,﻿Right Rev.,﻿P. A. Feehan,,,,,,,1869.0,Nashville
+﻿nash.tn.0001,﻿cathedral,not recorded,English,,﻿Cathedral,,,,﻿Nashville,﻿Nashville,﻿TN,,36.1596597,-86.783051,,,,,﻿j_t_jarboe_001,﻿Very Rev.,﻿J. T. Jarboe,﻿O.P.,﻿V.G.,,,,,1869.0,Nashville
+﻿nash.tn.0001,﻿cathedral,not recorded,English,,﻿Cathedral,,,,﻿Nashville,﻿Nashville,﻿TN,,36.1596597,-86.783051,,,,,﻿m_meagher_001,﻿Rev.,﻿M. Meagher,,,,,,,1869.0,Nashville
+﻿nash.tn.0001,﻿cathedral,not recorded,English,,﻿Cathedral,,,,﻿Nashville,﻿Nashville,﻿TN,,36.1596597,-86.783051,,,,,﻿p_f_coyle_001,﻿Rev.,﻿P. F. Coyle,,,,,,,1869.0,Nashville
+﻿nash.tn.0001,﻿cathedral,not recorded,English,,﻿Cathedral,,,,﻿Nashville,﻿Nashville,﻿TN,,36.1596597,-86.783051,,,,,﻿m_j_lyons_001,﻿Rev.,﻿M. J. Lyons,,,,,,,1869.0,Nashville
+﻿nash.tn.0003,﻿church,﻿Church of the Assumption,﻿German,,,,,,﻿Nashville,﻿Nashville,﻿TN,,36.175432,-86.7915037,,,,,﻿w_j_revis_001,﻿Rev.,﻿W. J. Revis,,,,,,,1869.0,Nashville
+﻿nash.tn.0002,﻿church,﻿St. John's,English,,﻿Edgefield,,,,,﻿Nashville,﻿TN,,36.178443200000004,-86.6791636,﻿nash.tn.0001,﻿attended from the cathedral,,,,,,,,,,,,1869.0,Nashville
+﻿nash.tn.0004,﻿church,﻿St. Peter's,English,,,,,,﻿Memphis,﻿Memphis,﻿TN,,35.071573,-90.00336999999999,,,,,﻿j_a_kelly_001,﻿Rev.,﻿J. A. Kelly,﻿O.P.,,,,,,1869.0,Nashville
+﻿nash.tn.0004,﻿church,﻿St. Peter's,English,,,,,,﻿Memphis,﻿Memphis,﻿TN,,35.071573,-90.00336999999999,,,,,﻿m_b_fortune_001,﻿Rev.,﻿M. B. Fortune,﻿O.P.,,,,,,1869.0,Nashville
+﻿nash.tn.0004,﻿church,﻿St. Peter's,English,,,,,,﻿Memphis,﻿Memphis,﻿TN,,35.071573,-90.00336999999999,,,,,﻿f_obrien_002,﻿Rev.,﻿F. O'Brien,﻿O.P.,,,,,,1869.0,Nashville
+﻿nash.tn.0004,﻿church,﻿St. Peter's,English,,,,,,﻿Memphis,﻿Memphis,﻿TN,,35.071573,-90.00336999999999,,,,,﻿j_h_lynch_001,﻿Rev.,﻿J. H. Lynch,﻿O.P.,,,,,,1869.0,Nashville
+﻿nash.tn.0005,﻿church,﻿St. Patrick's,English,,,,,,﻿Memphis,﻿Memphis,﻿TN,,35.1370078,-90.0500392,,,,,﻿m_riordan_001,﻿Very Rev.,﻿M. Riordan,,﻿V.G.,,,,,1869.0,Nashville
+﻿nash.tn.0005,﻿church,﻿St. Patrick's,English,,,,,,﻿Memphis,﻿Memphis,﻿TN,,35.1370078,-90.0500392,,,,,﻿m_walsh_001,﻿Rev.,﻿M. Walsh,,,,,,,1869.0,Nashville
+﻿nash.tn.0006,﻿church,﻿St. Mary's,﻿German,,,,,,﻿Memphis,﻿Memphis,﻿TN,,35.151352,-90.0477468,,,,,,﻿Rev.,﻿F. Schneider,,,,,,,1869.0,Nashville
+﻿nash.tn.0007,﻿church,﻿St. Mary's,English,,,,﻿Montgomery County,,﻿Clarksville,﻿Clarksville,﻿TN,,36.5297706,-87.3594528,,,,,﻿p_ryan_001,﻿Rev.,﻿J. Molloy,,,,,,,1869.0,Nashville
+﻿nash.tn.0008,﻿church,﻿St. Michael's,English,,,,﻿Robertson County,,,,﻿TN,,36.5250666,-86.8621827,﻿nash.tn.0007,﻿Attended from Clarksville,,,,,,,,,,,,1869.0,Nashville
+﻿nash.tn.0008,﻿church,﻿St. Michael's,English,,,,﻿Robertson County,,﻿Springfield,,﻿TN,,36.5250666,-86.8621827,﻿nash.tn.0007,﻿Attended from Clarksville,,,,,,,,,,,,1869.0,Nashville
+﻿nash.tn.0010,﻿church,﻿St. Patrick's,English,,﻿State Line,,,,,,﻿TN,,36.5250666,-86.8621827,﻿nash.tn.0007,﻿Attended from Clarksville,,,,,,,,,,,,1869.0,Nashville
+﻿nash.tn.0011,﻿church,not recorded,English,,,,﻿Henry County,,﻿Paris,﻿Paris,﻿TN,,36.301111,-88.313889,﻿nash.tn.0007,﻿Attended from Clarksville,,,,,,,,,,,,1869.0,Nashville
+﻿nash.tn.0026,﻿church,﻿Immaculate Conception,English,,,,﻿Knox County,,﻿Knoxville,﻿Knoxville,﻿TN,,35.96063839999999,-83.9207392,,,,,﻿m_j_finnegan_001,﻿Rev.,﻿M. J. Finnegan,,,,,,,1869.0,Nashville
+﻿nash.tn.0027,﻿church,not recorded,English,,,,﻿Knox County,,﻿McMillan,﻿McMillan,﻿TN,,36.0436954,-83.7912918,﻿nash.tn.0026,﻿Visited from Knoxville,,,,,,,,,,,,1869.0,Nashville
+﻿nash.tn.0028,﻿church,not recorded,English,,,,﻿Jefferson County,﻿Hamblen County,﻿Morristown,﻿Morristown,﻿TN,,36.2139814,-83.2948922,﻿nash.tn.0026,﻿Visited from Knoxville,,,,,,,,,,,,1869.0,Nashville
+﻿nash.tn.0029,﻿church,not recorded,English,,,,﻿Hawkins County,,﻿Rogersville,﻿Rogersville,﻿TN,,36.407317,-83.0054423,﻿nash.tn.0026,﻿Visited from Knoxville,,,,,,,,,,,,1869.0,Nashville
+﻿nash.tn.0030,﻿church,not recorded,English,,,,﻿Green County,﻿Greene County,﻿Greenville,﻿Greenville,﻿TN,,36.163157399999996,-82.83098609999999,﻿nash.tn.0026,﻿Visited from Knoxville,,,,,,,,,,,,1869.0,Nashville
+﻿nash.tn.0031,﻿church,not recorded,English,,,,﻿Washington County,,﻿Jonesboro,﻿Jonesborough,﻿TN,,36.2942722,-82.4734787,﻿nash.tn.0026,﻿Visited from Knoxville,,,,,,,,,,,,1869.0,Nashville
+﻿nash.tn.0032,﻿church,not recorded,English,,,,﻿Hamilton County,,﻿Chattanooga,﻿Chattanooga,﻿TN,,35.0457984,-85.3093995,,,,,﻿h_v_brown_001,﻿Rev.,﻿H. V. Brown,,,,,,,1869.0,Nashville
+﻿nash.tn.0033,﻿church,not recorded,English,,,,﻿Marine County,﻿Marion County,﻿Etna,﻿Whiteside,﻿TN,,34.987221999999996,-85.497778,﻿nash.tn.0032,﻿Visited from Chattanooga,,,,,,,,,,,,1869.0,Nashville
+﻿nash.tn.0034,﻿church,not recorded,English,,,,﻿Miles County,﻿Overton County,﻿Alpine,﻿Alpine,﻿TN,,36.394721999999994,-85.216944,﻿nash.tn.0032,﻿Visited from Chattanooga,,,,,,,,,,,,1869.0,Nashville
+﻿nash.tn.0035,﻿church,not recorded,English,,,,﻿Bradley County,,﻿Cleveland,﻿Cleveland,﻿TN,,35.1595182,-84.8766115,﻿nash.tn.0032,﻿Visited from Chattanooga,,,,,,,,,,,,1869.0,Nashville
+﻿nash.tn.0018,﻿church,﻿St. Patrick's,English,,,,﻿Humphreys County,,﻿McEwen's,﻿McEwen,﻿TN,,36.1078375,-87.6330745,,,,,﻿p_obrien_001,﻿Rev.,﻿L. Orengo,,,,,,,1869.0,Nashville
+﻿nash.tn.0019,﻿church,not recorded,English,,,,,﻿Davidson County,﻿Newsom's Station,﻿Nashville,﻿TN,,36.07985142,-86.99603359,,﻿Visited by Rev. L. Orengo,,,,,,,,,,,,1869.0,Nashville
+﻿nash.tn.0020,﻿church,not recorded,English,,,,,,﻿Waverley,﻿Waverley,﻿TN,,36.0839489,-87.794747,,﻿Visited by Rev. L. Orengo,,,,,,,,,,,,1869.0,Nashville
+﻿nash.tn.0020,﻿church,not recorded,English,,,,﻿Sumner County,,﻿Gallatin,﻿Waverley,﻿TN,,36.0839489,-87.794747,,﻿Visited by Rev. L. Orengo,,,,,,,,,,,,1869.0,Nashville
+﻿nash.tn.0021,﻿church,not recorded,English,,,,,,﻿Johnsonville,﻿New Johnsonville,﻿TN,,36.019087,-87.967619,,﻿Visited by Rev. L. Orengo,,,,,,,,,,,,1869.0,Nashville
+﻿nash.tn.0023,﻿church,﻿Church of St. Dominick,English,,,,,﻿Maury County,﻿Columbia,﻿Columbia,﻿TN,,35.6150716,-87.03528309999999,,﻿Visited by Rev. L. Orengo,,,,,,,,,,,,1869.0,Nashville
+﻿nash.tn.0024,﻿church,not recorded,English,,,,﻿Giles County,,﻿Pulaski,﻿Pulaski,﻿TN,,35.1998023,-87.0308412,,﻿Visited by Rev. L. Orengo,,,,,,,,,,,,1869.0,Nashville
+﻿nash.tn.0025,﻿church,not recorded,English,,,,﻿Benton County,﻿Williamson County(?),﻿Franklin,﻿Franklin,﻿TN,,35.9250637,-86.86888990000001,,﻿Visited by Rev. L. Orengo,,,,,,,,,,,,1869.0,Nashville
+﻿nash.tn.0036,﻿church,﻿St. Joseph's,English,,,,,﻿Bedford County,﻿Shelbyville,﻿Shelbyville,﻿TN,,35.483406,-86.4602717,,﻿Visited by Rev. L. Orengo,,,,,,,,,,,,1869.0,Nashville
+﻿nash.tn.0037,﻿church,not recorded,English,,,,,﻿Rutherford County,﻿Murfreesboro,﻿Murfreesboro,﻿TN,,35.8456213,-86.39027,,﻿Visited by Rev. L. Orengo,,,,,,,,,,,,1869.0,Nashville
+﻿nash.tn.0038,﻿church,not recorded,English,,,,,﻿Grundy County,﻿Tracy City,﻿Tracy City,﻿TN,,35.2603569,-85.7360833,,﻿Visited by Rev. L. Orengo,,,,,,,,,,,,1869.0,Nashville
+﻿nash.tn.0014,﻿church,﻿Church of Our Lady,English,,,,﻿Madison County,,﻿Jackson,﻿Jackson,﻿TN,,35.6145169,-88.8139469,,,,,﻿l_orengo_001,﻿Rev.,﻿L. Orengo,﻿O.P.,,,,,,1869.0,Nashville
+﻿nash.tn.0014,﻿church,﻿Church of Our Lady,English,,,,﻿Gibson County,,﻿Humboldt,﻿Jackson,﻿TN,,35.6145169,-88.8139469,﻿nash.tn.0014,﻿Visited from Jackson,,,,,,,,,,,,1869.0,Nashville
+﻿nash.tn.0015,﻿church,not recorded,English,,,,﻿Hardiman County,﻿Hardeman County,﻿Bolivar,﻿Bolivar,﻿TN,,35.256193700000004,-88.98783890000001,﻿nash.tn.0014,﻿Visited from Jackson,,,,,,,,,,,,1869.0,Nashville
+﻿nash.tn.0016,﻿church,not recorded,English,,,,﻿Haywood County,,﻿Brownsville,﻿Brownsville,﻿TN,,35.6513888,-89.3226954,﻿nash.tn.0014,﻿Visited from Jackson,,,,,,,,,,,,1869.0,Nashville
+﻿nash.tn.0017,﻿church,not recorded,English,,,,,﻿Hardeman County,﻿Grand Junction,﻿Grand Junction,﻿TN,,35.048023,-89.190177,﻿nash.tn.0014,﻿Visited from Jackson,,,,,,,,,,,,1869.0,Nashville
+﻿nash.tn.0039,﻿academy,﻿St. Cecilia's Academy,English,,,,,,﻿Nashville,﻿Nashville,﻿TN,,36.1318756,-86.8412955,,,,,,﻿Mother,﻿Anne Hanlon,,﻿Superior,,,,,1869.0,Nashville
+﻿nash.tn.0040,﻿academy,﻿St. Bernard's Academy,English,,,,,,,﻿Nashville,﻿TN,,36.132225,-86.805141,,,,,,﻿Mother,﻿M. Clare,,﻿Superior,,﻿pupil,﻿100 pupils,,1869.0,Nashville
+﻿nash.tn.0041,﻿school,﻿St. Mary's Parochial School,English,,,,,,,﻿Nashville,﻿TN,,36.2084018,-86.8234592,,,,,,,,,,,﻿pupil,﻿400 pupils,,1869.0,Nashville
+﻿nash.tn.0042,﻿school,﻿English and Classical School,English,﻿For boys,,,,,,﻿Nashville,﻿TN,,36.1626638,-86.78160159999999,,,,,﻿joh_d_smith_001,,﻿John D. Smith,,﻿Principal,,,,,1869.0,Nashville
+﻿nash.tn.0043,﻿academy,﻿St. Agnes' Academy,English,,,,,,﻿Memphis,﻿Memphis,﻿TN,,35.1320804,-89.9005692,,,,,,﻿Mother,﻿Mary Joseph,,﻿Superior,,,,﻿Dominican Sisters,1869.0,Nashville
+﻿nash.tn.0044,﻿school,﻿Notre Dame de La Salette,English,﻿Select school,,,,,﻿Memphis,﻿Memphis,﻿TN,,35.1495343,-90.0489801,,,,,,,,,,,,,﻿Dominican Sisters,1869.0,Nashville
+﻿nash.tn.0048,﻿asylum,﻿St. Mary's Orphan Asylum,English,,,,,,﻿Nashville,﻿Nashville,﻿TN,,36.1657393,-86.7813041,,,,,,,,,,,,,﻿In charge of Dominican Sisters,1869.0,Nashville
+﻿nash.tn.0049,﻿asylum,﻿St. Peter's Orphan Asylum,English,,,,,,﻿Memphis,﻿Memphis,﻿TN,,35.1495343,-90.0489801,,,,,,,,,,,,,﻿In charge of Dominican Sisters,1869.0,Nashville

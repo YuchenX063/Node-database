@@ -1,0 +1,60 @@
+﻿instID,church_type,instName,language,instNote,placeName,region,county_orig,county_reg,city_orig,city_reg,state_orig,state_reg,latitude,longitude,attendingInstID,attendingChurch,attendingChurchFrequency,attendingChurchNote,persID,persTitle,persName,persSuffix,persRole,persNote,memberType,member,affiliated,year,diocese
+﻿stj.mo.0001,﻿church,not recorded,English,,,,﻿Gentry County,﻿Gentry County,﻿Albany,﻿Albany,﻿MO,,40.2486069,-94.331068,,,,,,,,,,,,,,1870.0,StJoseph
+﻿stj.mo.0002,﻿church,﻿Church of Immaculate Conception,English,,,,﻿Linn County,﻿Linn County,﻿Brookfield,﻿Brookfield,﻿MO,,39.784468700000005,-93.0735348,,,,,﻿tha_brogan_001,﻿Rev.,﻿Thaddeus Brogan,,,,,,,1870.0,StJoseph
+﻿stj.mo.0003,﻿church,﻿St. Bridget's,English,,,,﻿Linn County,﻿Linn County,﻿Bucklin,﻿Bucklin,﻿MO,,39.7816934,-92.8901965,,,,,,,,,,,,,,1870.0,StJoseph
+﻿stj.mo.0004,﻿church,not recorded,English,,,,﻿Daviess County,﻿Daviess County,﻿Bancroft,﻿Bancroft,﻿MO,,40.1181156,-93.8580919,,,,,,,,,,,,,,1870.0,StJoseph
+﻿stj.mo.0005,﻿church,not recorded,English,,,,﻿Harrison County,﻿Harrison County,﻿Bethany,﻿Bethany,﻿MO,,40.2683344,-94.02828609999999,,,,,,,,,,,,,,1870.0,StJoseph
+﻿stj.mo.0006,﻿church,not recorded,English,,,,﻿Caldwell County,﻿Caldwell County,﻿Breckenridge,﻿Breckenridge,﻿MO,,39.7622337,-93.8043822,,,,,﻿pm_mcginnis_001,﻿Rev.,﻿P.M. McGinnis,,,,,,,1870.0,StJoseph
+﻿stj.mo.0007,﻿church,not recorded,English,,,,﻿Chariton County,﻿Chariton County,﻿Brunswick,﻿Brunswick,﻿MO,,39.4233576,-93.1304782,,,,,,,,,,,,,,1870.0,StJoseph
+﻿stj.mo.0008,﻿church,﻿St. Mary's,English,,,,﻿Carroll County,﻿Carroll County,﻿Carrollton,﻿Carrollton,﻿MO,,39.355838899999995,-93.49318459999999,,,,,﻿j_doherty_001,﻿Rev.,﻿J. Doherty,,,,,,,1870.0,StJoseph
+﻿stj.mo.0009,﻿church,not recorded,English,,,,﻿Atcheson County,﻿Holt County,﻿Craig,﻿Craig,﻿MO,,40.194719299999996,-95.37109029999999,,,,,,,,,,,,,,1870.0,StJoseph
+﻿stj.mo.0010,﻿church,﻿St. Columbanus',English,,,,﻿Livingston County,﻿Livingston County,﻿Chillicothe,﻿Chillicothe,﻿MO,,39.798696500000005,-93.5490194,,,,,,,,,,,,,,1870.0,StJoseph
+﻿stj.mo.0011,﻿church,﻿St. Munchin's,English,,,,﻿Clinton County,﻿Clinton County,﻿Cameron,﻿Cameron,﻿MO,,39.74028010000001,-94.241057,,,,,,,,,,,,,,1870.0,StJoseph
+﻿stj.mo.0012,﻿church,﻿St. Columba's,English,,,,﻿Nodaway County,﻿Nodaway County,﻿Conception,﻿Conception,﻿MO,,40.2907281,-94.81059549999999,,,,,﻿geo_tuerk_001,﻿Rev.,﻿George Tuerk,,,,,,,1870.0,StJoseph
+﻿stj.mo.0013,﻿church,not recorded,English,,,,﻿Putnam County,,﻿Clarksburg,,﻿MO,,40.40511192,-93.03105107,,,,,,,,,,,,,,1870.0,StJoseph
+﻿stj.mo.0014,﻿church,﻿St. Joseph's,English,,,,﻿Buchanan County,﻿Buchanan County,﻿Easton,﻿Easton,﻿MO,,39.7189357,-94.70048390000001,,,,,,,,,,,,,,1870.0,StJoseph
+﻿stj.mo.0015,﻿church,not recorded,English,,,,﻿Harrison County,﻿Harrison County,﻿Eagleville,﻿Eagleville,﻿MO,,40.4691664,-93.98717359999999,,,,,,,,,,,,,,1870.0,StJoseph
+﻿stj.mo.0016,﻿church,not recorded,English,,,,﻿Grundy County,﻿Grundy County,﻿Edinburgh,﻿Edinburg,﻿MO,,40.081902,-93.69500699999999,,,,,,,,,,,,,,1870.0,StJoseph
+﻿stj.mo.0017,﻿church,﻿St. Bridget's,English,,,,﻿Holt County,﻿Holt County,﻿Forest City,﻿Forest City,﻿MO,,39.9824969,-95.1919204,,,,,﻿tho_walsh_003,﻿Rev.,﻿Thomas Walsh,,,,,,,1870.0,StJoseph
+﻿stj.mo.0018,﻿church,not recorded,English,,,,﻿Chariton County,,﻿Hickory Branch,,﻿MO,,39.58383384,-93.09952209,,,,,,,,,,,,,,1870.0,StJoseph
+﻿stj.mo.0019,﻿church,not recorded,English,,,,﻿Caldwell County,﻿Caldwell County,﻿Hamilton,﻿Hamilton,﻿MO,,39.7436184,-93.9982743,,,,,,,,,,,,,,1870.0,StJoseph
+﻿stj.mo.0020,﻿church,not recorded,English,,,,﻿Clay County,﻿Clay County,﻿Harlem,﻿Kansas City,﻿MO,,39.317618599999996,-94.47997600000001,,,,,,,,,,,,,,1870.0,StJoseph
+﻿stj.mo.0021,﻿church,not recorded,English,,,,﻿Caldwell County,﻿Caldwell County,﻿Kingston,﻿Kingston,﻿MO,,39.6441742,-94.0385517,,,,,,,,,,,,,,1870.0,StJoseph
+﻿stj.mo.0022,﻿church,not recorded,English,,,,﻿Caldwell County,﻿Caldwell County,﻿Kidder,﻿Kidder,﻿MO,,39.78028270000001,-94.1024439,,,,,,,,,,,,,,1870.0,StJoseph
+﻿stj.mo.0023,﻿church,not recorded,English,,,,﻿Clinton County,﻿Clinton County,﻿Lathrop,﻿Lathrop,﻿MO,,39.5483354,-94.32994609999999,,,,,,,,,,,,,,1870.0,StJoseph
+﻿stj.mo.0024,﻿church,﻿St. James',English,,,,﻿Clay County,﻿Clay County,﻿Liberty,﻿Liberty,﻿MO,,39.240762700000005,-94.45489,,,,,﻿tho_ledwith_001,﻿Rev.,﻿Thomas Ledwith,,,,,,,1870.0,StJoseph
+﻿stj.mo.0025,﻿church,﻿St. Mary's,﻿German,,,,﻿Nodaway County,﻿Nodaway County,﻿Maryville,﻿Maryville,﻿MO,,40.346101700000006,-94.87247059999999,,,,,﻿c_herguerether_001,﻿Rev.,﻿C. Herguerether,,,,,,,1870.0,StJoseph
+﻿stj.mo.0026,﻿church,not recorded,English,,,,﻿Sullivan County,﻿Sullivan County,﻿Milan,﻿Milan,﻿MO,,40.2022408,-93.125209,,,,,,,,,,,,,,1870.0,StJoseph
+﻿stj.mo.0027,﻿church,﻿St. Patrick's,English,,,,﻿Andrew County,﻿Andrew County,﻿Nodaway Island,﻿Nodaway,﻿MO,,39.942387200000006,-94.8313257,,,,,,,,,,,,,,1870.0,StJoseph
+﻿stj.mo.0028,﻿church,not recorded,English,,,,﻿Macon County,﻿Macon County,﻿New Cambria,﻿New Cambria,﻿MO,,39.775306799999996,-92.7504708,,,,,,,,,,,,,,1870.0,StJoseph
+﻿stj.mo.0029,﻿church,not recorded,English,,,,﻿Mercer County,﻿Mercer County,﻿Princeton,﻿Princeton,﻿MO,,40.400842600000004,-93.5804988,,,,,,,,,,,,,,1870.0,StJoseph
+﻿stj.mo.0030,﻿church,﻿St. Michael's,English,,,,﻿Clinton County,﻿Clinton County,﻿Plattsburg,﻿Plattsburg,﻿MO,,39.5655549,-94.4480059,,,,,﻿fra_oreilly_001,﻿Rev.,﻿Francis O'Reilly,,,,,,,1870.0,StJoseph
+﻿stj.mo.0031,﻿church,not recorded,English,,,,﻿Platte County,﻿Platte County,﻿Parkville,﻿Parkville,﻿MO,,39.1950029,-94.6821806,,,,,,,,,,,,,,1870.0,StJoseph
+﻿stj.mo.0032,﻿church,not recorded,English,,,,﻿Platte County,﻿Platte County,﻿Platte City,﻿Platte City,﻿MO,,39.3702773,-94.7824609,,,,,,,,,,,,,,1870.0,StJoseph
+﻿stj.mo.0033,﻿church,not recorded,English,,,,﻿Ray County,﻿Ray County,﻿Richmond,﻿Richmond,﻿MO,,39.278622,-93.9768876,,,,,,,,,,,,,,1870.0,StJoseph
+﻿stj.mo.0034,﻿church,not recorded,English,,,,﻿Andrew County,﻿Andrew County,﻿Rochester,﻿Rochester,﻿MO,,39.912216799999996,-94.6846845,,,,,,,,,,,,,,1870.0,StJoseph
+﻿stj.mo.0035,﻿church,not recorded,English,,,,﻿Andrew County,﻿Andrew County,﻿Savannah,﻿Savannah,﻿MO,,39.941660600000006,-94.83024509999998,,,,,,,,,,,,,,1870.0,StJoseph
+﻿stj.mo.0036,﻿cathedral,﻿St. Joseph's Cathedral,English,,,,﻿Buchanan County,﻿Buchanan County,﻿St. Joseph,﻿St. Joseph,﻿MO,,39.77078534,-94.84809929,,,,,﻿jj_hogan_001,﻿Rt. Rev.,﻿J.J. Hogan,﻿D.D.,﻿Bishop,,,,,1870.0,StJoseph
+﻿stj.mo.0036,﻿cathedral,﻿St. Joseph's Cathedral,English,,,,﻿Buchanan County,﻿Buchanan County,﻿St. Joseph,﻿St. Joseph,﻿MO,,39.77078534,-94.84809929,,,,,﻿jam_d_powers_001,﻿Rev.,﻿James D. Powers,,,,,,,1870.0,StJoseph
+﻿stj.mo.0036,﻿cathedral,﻿St. Joseph's Cathedral,English,,,,﻿Buchanan County,﻿Buchanan County,﻿St. Joseph,﻿St. Joseph,﻿MO,,39.77078534,-94.84809929,,,,,﻿aj_abel_001,﻿Rev.,﻿A.J. Abel,,,,,,,1870.0,StJoseph
+﻿stj.mo.0037,﻿church,﻿Immaculate Conception,﻿German,,,,﻿Buchanan County,﻿Buchanan County,﻿St. Joseph,﻿St. Joseph,﻿MO,,39.762494399999994,-94.8474655,,,,,﻿cha_linnenkamp_001,﻿Very Rev.,﻿Charles Linnenkamp,,﻿V.G.,,,,,1870.0,StJoseph
+﻿stj.mo.0037,﻿church,﻿Immaculate Conception,﻿German,,,,﻿Buchanan County,﻿Buchanan County,﻿St. Joseph,﻿St. Joseph,﻿MO,,39.762494399999994,-94.8474655,,,,,﻿jn_vernich_001,﻿Rev.,﻿J.N. Vernich,,,,,,,1870.0,StJoseph
+﻿stj.mo.0038,﻿church,﻿St. Patrick's,English,,,,﻿Buchanan County,﻿Buchanan County,﻿St. Joseph,,﻿MO,,39.75094079,-94.84515497,,,,,﻿eug_kelly_001,﻿Rev.,﻿Eugene Kelly,,,,,,,1870.0,StJoseph
+﻿stj.mo.0039,﻿church,﻿St. Roch's,﻿French,,,,﻿Buchanan County,﻿Buchanan County,﻿St. Joseph,﻿St. Joseph,﻿MO,,39.767457799999995,-94.846681,,,,,﻿m_haly_001,﻿Rev.,﻿M. Haly,,,,,,,1870.0,StJoseph
+﻿stj.mo.0040,﻿chapel,﻿Chapel of St. Joseph's Hospital,English,,﻿St. Joseph's Hospital,,﻿Buchanan County,﻿Buchanan County,﻿St. Joseph,﻿St. Joseph,﻿MO,,39.767457799999995,-94.846681,,,,,﻿rs_tucker_001,﻿Rev.,﻿R.S. Tucker,,,,,,,1870.0,StJoseph
+﻿stj.mo.0041,﻿chapel,﻿Chapel of Sacred Heart Convent,English,,﻿Sacred Heart Convent,,﻿Buchanan County,﻿Buchanan County,﻿St. Joseph,﻿St. Joseph,﻿MO,,39.767457799999995,-94.846681,,,,,﻿aj_abel_001,﻿Rev.,﻿A.J. Abel,,,,,,,1870.0,StJoseph
+﻿stj.mo.0042,﻿chapel,﻿Chapel of St. Joseph's College,English,,﻿St. Joseph's College,,﻿Buchanan County,﻿Buchanan County,﻿St. Joseph,﻿St. Joseph,﻿MO,,39.6349791,-94.81059549999999,,,,,﻿m_haly_001,﻿Rev.,﻿M. Haly,,,,,,,1870.0,StJoseph
+﻿stj.mo.0043,﻿church,﻿St. John the Baptist,﻿German,,,,﻿Atcheson County,﻿Atchison County,﻿Sonora,﻿Sonora,﻿MO,,40.423896,-95.4777811,,,,,,,,,,,,,,1870.0,StJoseph
+﻿stj.mo.0044,﻿church,not recorded,English,,,,﻿De Kalb County,﻿DeKalb County,﻿Stewartsville,﻿Stewartsville,﻿MO,,39.75083060000001,-94.4966199,,,,,,,,,,,,,,1870.0,StJoseph
+﻿stj.mo.0045,﻿church,not recorded,﻿German,,,,,﻿Livingston County,﻿Utica,﻿Utica,﻿MO,,39.74362670000001,-93.62660240000001,,,,,,,,,,,,,,1870.0,StJoseph
+﻿stj.mo.0046,﻿church,not recorded,English,,,,﻿Putnam County,﻿Putnam County,﻿Unionville,﻿Unionville,﻿MO,,40.47701459,-92.99688002,,,,,,,,,,,,,,1870.0,StJoseph
+﻿stj.mo.0047,﻿church,﻿Holy Trinity,﻿German,,,,﻿Platte County,﻿Platte County,﻿Weston,﻿Weston,﻿MO,,39.4111092,-94.9016298,,,,,﻿phi_voss_001,﻿Rev.,﻿Philip Voss,,,,,,,1870.0,StJoseph
+﻿stj.mo.0047,﻿church,﻿Holy Trinity,﻿German,,,,﻿Platte County,﻿Platte County,﻿Weston,﻿Weston,﻿MO,,39.4111092,-94.9016298,,,,,﻿geo_hartman_001,﻿Rev.,﻿George Hartman,,,﻿Absent in ill health,,,,1870.0,StJoseph
+﻿stj.mo.0048,﻿convent,﻿Convent of the Sacred Heart,English,,,,,,,﻿St. Joseph,﻿MO,,39.347564899999995,-94.76915859999998,,,,,﻿wall_001,﻿Madame,﻿Wall,,﻿Superior,,﻿pupil,"﻿Pupils, 100",,1870.0,StJoseph
+﻿stj.mo.0049,﻿school,﻿Parochial School,English,,,,,,,﻿St. Joseph,﻿MO,,39.767457799999995,-94.846681,,,,,,,,,,,﻿pupil,"﻿Pupils, 120",﻿Ladies of the Sacred Heart,1870.0,StJoseph
+﻿stj.mo.0050,﻿college,﻿St. Joseph's College,English,,,,,,,﻿St. Joseph,﻿MO,,39.347564899999995,-94.76915859999998,,,,,,﻿Brother,﻿Agatho,,﻿Director,,﻿pupil,"﻿Pupils, 200",,1870.0,StJoseph
+﻿stj.mo.0050,﻿college,﻿St. Joseph's College,English,,,,,,,﻿St. Joseph,﻿MO,,39.347564899999995,-94.76915859999998,,,,,,,,,,,﻿pupil,"﻿Pupils, 200",﻿Christian Brothers,1870.0,StJoseph
+﻿stj.mo.0051,﻿school,﻿St. Patrick's Parochial School,English,,,,,,,﻿St. Joseph,﻿MO,,39.767457799999995,-94.846681,,,,,,﻿Brother,﻿Leo,,﻿Director,,﻿pupil,"﻿Pupils, 150",,1870.0,StJoseph
+﻿stj.mo.0051,﻿school,﻿St. Patrick's Parochial School,English,,,,,,,﻿St. Joseph,﻿MO,,39.767457799999995,-94.846681,,,,,,,,,,,﻿pupil,"﻿Pupils, 150",﻿Christian Brothers,1870.0,StJoseph
+﻿stj.mo.0052,﻿hospital,﻿St. Joseph's Hospital,English,,,,,,,﻿St. Joseph,﻿MO,,39.767457799999995,-94.846681,,,,,,﻿Sister,﻿Mary Louisa,,﻿Superior,,,,,1870.0,StJoseph
+﻿stj.mo.0052,﻿hospital,﻿St. Joseph's Hospital,English,,,,,,,﻿St. Joseph,﻿MO,,39.767457799999995,-94.846681,,,,,,,,,,,,,﻿Sisters of Charity,1870.0,StJoseph

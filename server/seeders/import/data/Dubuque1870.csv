@@ -1,0 +1,204 @@
+﻿instID,church_type,instName,language,instNote,placeName,region,county_orig,county_reg,city_orig,city_reg,state_orig,state_reg,latitude,longitude,attendingInstID,attendingChurch,attendingChurchFrequency,attendingChurchNote,persID,persTitle,persName,persSuffix,persRole,persNote,memberType,member,affiliated,year,diocese
+﻿dub.ia.0001,﻿cathedral,﻿St. Raphael's,English,﻿Residence of Rt. Rev. Bishop and Rev. Clergy adjoining the Cathedral.,﻿corner of Bluff and Second streets,,,,﻿Dubuque City,,﻿IA,,42.495194700000006,-90.6668325,,,,,﻿joh_hennessy_001,﻿Rt. Rev.,﻿John Hennessy,﻿D.D.,,,,,,1870.0,Dubuque
+﻿dub.ia.0001,﻿cathedral,﻿St. Raphael's,English,﻿Residence of Rt. Rev. Bishop and Rev. Clergy adjoining the Cathedral.,﻿corner of Bluff and Second streets,,,,﻿Dubuque City,,﻿IA,,42.495194700000006,-90.6668325,,,,,﻿tho_oreily_001,﻿Very Rev.,﻿Thomas O'Reily,,,,,,,1870.0,Dubuque
+﻿dub.ia.0001,﻿cathedral,﻿St. Raphael's,English,﻿Residence of Rt. Rev. Bishop and Rev. Clergy adjoining the Cathedral.,﻿corner of Bluff and Second streets,,,,﻿Dubuque City,,﻿IA,,42.495194700000006,-90.6668325,,,,,﻿r_ryan_001,﻿Rev.,﻿R. Ryan,,,,,,,1870.0,Dubuque
+﻿dub.ia.0001,﻿cathedral,﻿St. Raphael's,English,﻿Residence of Rt. Rev. Bishop and Rev. Clergy adjoining the Cathedral.,﻿corner of Bluff and Second streets,,,,﻿Dubuque City,,﻿IA,,42.495194700000006,-90.6668325,,,,,﻿mar_lee_001,﻿Rev.,﻿Martin Lee,,,,,,,1870.0,Dubuque
+﻿dub.ia.0001,﻿cathedral,﻿St. Raphael's,English,﻿Residence of Rt. Rev. Bishop and Rev. Clergy adjoining the Cathedral.,﻿corner of Bluff and Second streets,,,,﻿Dubuque City,,﻿IA,,42.495194700000006,-90.6668325,,,,,﻿pet_odowd_001,﻿Rev.,﻿Peter O'Dowd,,,,,,,1870.0,Dubuque
+﻿dub.ia.0002,﻿church,﻿St. Patrick's,English,﻿Residence adjoining,﻿corner of Fourteenth and Iowa streets.,,,,﻿Dubuque City,,﻿IA,,42.506691,-90.6692977,,,,,﻿pet_bumenshankel_001,﻿Rev.,﻿Peter Bumenshankel,,,,,,,1870.0,Dubuque
+﻿dub.ia.0002,﻿church,﻿St. Patrick's,English,﻿Residence adjoining,﻿corner of Fourteenth and Iowa streets.,,,,﻿Dubuque City,,﻿IA,,42.506691,-90.6692977,,,,,﻿ryan_001,﻿Rev. Mr.,﻿Ryan,,,,,,,1870.0,Dubuque
+﻿dub.ia.0003,﻿church,﻿St. Mary's,﻿German,﻿Residence adjoining,﻿corner of Fifteenth and White streets,,,,﻿Dubuque City,,﻿IA,,42.50767966,-90.66700683,,,,,﻿a_meiss_001,﻿Rev.,﻿A. Meiss,,,,,,,1870.0,Dubuque
+﻿dub.ia.0003,﻿church,﻿St. Mary's,﻿German,﻿Residence adjoining,﻿corner of Fifteenth and White streets,,,,﻿Dubuque City,,﻿IA,,42.50767966,-90.66700683,,,,,﻿aug_sauter_001,﻿Rev.,﻿Augustin Sauter,,,,,,,1870.0,Dubuque
+﻿dub.ia.0004,﻿church,﻿St. Joseph's,English,﻿church in process of erection,,,﻿Dubuque,,,,﻿IA,,42.5831975,-90.8836303,,,,,﻿a_f_moynihan_001,﻿Rev.,﻿A. F. Moynihan,,﻿assistant,,,,,1870.0,Dubuque
+﻿dub.ia.0005,﻿church,﻿St. Catherine's,English,,,,﻿Dubuque,,,,﻿IA,,42.4059085,-90.5919455,,,,,,﻿Rev.,﻿---,,,,,,,1870.0,Dubuque
+﻿dub.ia.0006,﻿church,﻿St. Donatus,﻿German,,,,﻿Dubuque,,,,﻿IA,,42.3608433,-90.53929509999999,,,,,﻿m_flamang_001,﻿Rev.,﻿M. Flamang,,,,,,,1870.0,Dubuque
+﻿dub.ia.0007,﻿church,﻿St. Theresa,English,,,,﻿Dubuque,,,,﻿IA,,42.4694679,-90.8294002,,﻿attended from Burns' Settlement,,,,,,,,,,,,1870.0,Dubuque
+﻿dub.ia.0008,﻿church,﻿St. Philomena's,English,,,,﻿Dubuque,,,,﻿IA,,42.4694679,-90.8294002,,,﻿vacant,,,,,,,,,,,1870.0,Dubuque
+﻿dub.ia.0009,﻿church,﻿St. Joseph's,English,,,,﻿Jackson,,﻿Bellevue,,﻿IA,,42.259487899999996,-90.4282878,,,,,﻿t_shiffmacher_001,﻿Rev.,﻿T. Shiffmacher,,,,,,,1870.0,Dubuque
+﻿dub.ia.0010,﻿church,﻿St. Peter's,English,,﻿near Spring Brook,,,,,,﻿IA,,42.16380883,-90.47490323,,﻿attended from Bellevue,,,,,,,,,,,,1870.0,Dubuque
+﻿dub.ia.0011,﻿church,﻿St. Sabula's,English,,,,,,,,﻿IA,,42.0711347,-90.17401690000001,,﻿attended from Bellevue,,,,,,,,,,,,1870.0,Dubuque
+﻿dub.ia.0012,﻿church,﻿St. Paul's,English,,,,﻿Des Moines,,﻿Burlington,,﻿IA,,40.81205870000001,-91.10304920000002,,,,,﻿jam_b_donelan_001,﻿Rev.,﻿James B. Donelan,,,,,,,1870.0,Dubuque
+﻿dub.ia.0013,﻿church,﻿German Church,﻿German,,,,﻿Des Moines,,﻿Burlington,,﻿IA,,40.8119141,-91.1066396,,,,,﻿ber_herderer_001,﻿Rev.,﻿Bernard Herderer,,,,,,,1870.0,Dubuque
+﻿dub.ia.0014,﻿church,not recorded,English,,,,﻿Boone,,﻿Boonesboro,,﻿IA,,42.059704700000005,-93.88022729999999,,,,,﻿joh_delancy_001,﻿Rev.,﻿John Delancy,,,,,,,1870.0,Dubuque
+﻿dub.ia.0015,﻿church,﻿St. Lawrence,English,,﻿P.O. Otter Creek,,﻿Jackson,,﻿Burns' Settlement,,﻿IA,,42.24100729,-90.69554102,,,,,﻿j_b_gaffney_001,﻿Rev.,﻿J. B. Gaffney,,,,,,,1870.0,Dubuque
+﻿dub.ia.0016,﻿church,﻿St. Mathias,﻿English,,,,﻿Dubuque,,﻿Cascade,,﻿IA,,42.299374,-91.0184421,,,,,﻿m_lynch_001,﻿Rev.,﻿M. Lynch,,,,,,,1870.0,Dubuque
+﻿dub.ia.0017,﻿church,﻿St. Mary's of the Annunciation,﻿German,,,,﻿Dubuque,,﻿Cascade,,﻿IA,,42.29899558,-91.02352782,,,,,﻿m_lynch_001,﻿Rev.,﻿M. Lynch,,,,,,,1870.0,Dubuque
+﻿dub.ia.0018,﻿church,﻿St. Peter's,English,,,,﻿Jones,,﻿Temple Hill,,﻿IA,,42.22583,-90.97610999999999,,﻿attended from Cascade,,,,,,,,,,,,1870.0,Dubuque
+﻿dub.ia.0019,﻿church,﻿St. Patrick's,English,,,,﻿Black Hawk,,﻿Cedar Falls,,﻿IA,,42.532806799999996,-92.4472039,,,,,﻿tho_gunn_001,﻿Rev.,﻿Thomas Gunn,,,,,,,1870.0,Dubuque
+﻿dub.ia.0020,﻿church,﻿St. Mary's,English,,,,﻿Franklin,,﻿New Hartford,,﻿IA,,42.56650346,-92.62263677,,﻿attended from Cedar Falls,,,,,,,,,,,,1870.0,Dubuque
+﻿dub.ia.0021,﻿church,not recorded,English,,,,﻿Franklin,,﻿Aplington,,﻿IA,,42.582032899999994,-92.8845695,,﻿attended from Cedar Falls,,,,,,,,,,,,1870.0,Dubuque
+﻿dub.ia.0022,﻿church,not recorded,English,,,,﻿Franklin,,﻿Ackley,,﻿IA,,42.555534,-93.0529775,,﻿attended from Cedar Falls,,,,,,,,,,,,1870.0,Dubuque
+﻿dub.ia.0023,﻿church,not recorded,English,,,,﻿Franklin,,﻿Iowa Falls,,﻿IA,,42.519886799999995,-93.26457409999999,,﻿attended from Cedar Falls,,,,,,,,,,,,1870.0,Dubuque
+﻿dub.ia.0024,﻿church,not recorded,English,,,,﻿Franklin,,﻿Eldora,,﻿IA,,42.3656359,-93.10691463,,﻿attended from Cedar Falls,,,,,,,,,,,,1870.0,Dubuque
+﻿dub.ia.0025,﻿church,﻿St. Alexander's,English,﻿in course of erection,,,﻿Linn,,﻿Cedar Rapids,,﻿IA,,41.9662138,-91.727935,,,,,﻿cle_lowry_001,﻿Rev.,﻿Clement Lowry,,,,,,,1870.0,Dubuque
+﻿dub.ia.0026,﻿church,not recorded,English,,,,﻿Linn,,﻿Marion,,﻿IA,,42.033279,-91.5968958,,﻿attended from Cedar Rapids,,,,,,,,,,,,1870.0,Dubuque
+﻿dub.ia.0027,﻿church,not recorded,English,,,,﻿Linn,,﻿Fairfax,,﻿IA,,41.9194471,-91.7810132,,﻿attended from Cedar Rapids,,,,,,,,,,,,1870.0,Dubuque
+﻿dub.ia.0028,﻿church,not recorded,English,,,,﻿Linn,,﻿Lisbon,,﻿IA,,41.9211198,-91.3854466,,﻿attended from Cedar Rapids,,,,,,,,,,,,1870.0,Dubuque
+﻿dub.ia.0029,﻿church,not recorded,English,,,,﻿Jones,,﻿Anamosa,,﻿IA,,42.10833710000001,-91.2851594,,﻿attended from Cedar Rapids,,,,,,,,,,,,1870.0,Dubuque
+﻿dub.ia.0030,﻿church,not recorded,English,,,,﻿Floyd,,﻿Charles City,,﻿IA,,43.0663612,-92.67241120000001,,,,,﻿f_urbani_001,﻿Rev.,﻿F. Urbani,,,,,,,1870.0,Dubuque
+﻿dub.ia.0031,﻿church,not recorded,English,,,,﻿Clinton,,﻿Clinton,,﻿IA,,41.8444735,-90.1887379,,,,,﻿p_v_mclaughlin_001,﻿Rev.,﻿P. V. McLaughlin,,,,,,,1870.0,Dubuque
+﻿dub.ia.0032,﻿church,﻿new church built,English,,,,﻿Howard,,﻿Cresco,,﻿IA,,43.3813568,-92.1140547,,,,,﻿jam_harding_001,﻿Rev.,﻿James Harding,,,,,,,1870.0,Dubuque
+﻿dub.ia.0033,﻿station,not recorded,English,,,,,,﻿Crane Creek,,﻿IA,,41.8780025,-93.097702,,﻿attended from Cresco,,,,,,,,,,,,1870.0,Dubuque
+﻿dub.ia.0034,﻿station,not recorded,English,,,,﻿Howard,,﻿Lime Springs,,﻿IA,,43.4488554,-92.2807251,,﻿attended from Cresco,,,,,,,,,,,,1870.0,Dubuque
+﻿dub.ia.0035,﻿station,not recorded,English,,,,﻿Winneshiek,,﻿Ossion,,﻿IA,,43.145809,-91.7632108,,﻿attended from Cresco,,,,,,,,,,,,1870.0,Dubuque
+﻿dub.ia.0036,﻿church,not recorded,English,,,,﻿Alamakee,,﻿Castelia,,﻿IA,,43.11285875,-91.67681461,,,,,,,,,,,,,,1870.0,Dubuque
+﻿dub.ia.0037,﻿church,not recorded,English,,,,﻿Howard,,﻿St. Kearns,,﻿IA,,43.381949600000006,-92.38136209999999,,,,,,,,,,,,,,1870.0,Dubuque
+﻿dub.ia.0038,﻿church,﻿St. Kearnsville,English,﻿new church,,,,,,,﻿IA,,41.2581489,-95.85074588,,,,,,,,,,,,,,1870.0,Dubuque
+﻿dub.ia.0039,﻿church,﻿St. Francis Xavier,English,,,,﻿Potawatamie,,﻿Council Bluffs,,﻿IA,,41.8780025,-93.097702,,,,,﻿bp_mcmenomy_001,﻿Rev.,﻿B.P. McMenomy,,,,,,,1870.0,Dubuque
+﻿dub.ia.0040,﻿church,﻿St. Boniface,English,,,,,,,,﻿IA,,41.5239995,-90.5752912,,﻿attended from Council Bluffs,,,,,,,,,,,,1870.0,Dubuque
+﻿dub.ia.0041,﻿church,﻿St. Anthony's,English,,,,﻿Scott,,﻿Davenport,,﻿IA,,41.52536844,-90.59467524,,,,,﻿mau_flavin_001,﻿Rev.,﻿Maurice Flavin,,,,,,,1870.0,Dubuque
+﻿dub.ia.0042,﻿church,﻿St. Mary's Church,English,﻿lately dedicated,,,﻿Scott,,﻿Davenport,,﻿IA,,41.53019893,-90.56904835,,﻿attended from St. Anthony's,,,,,,,,,,,,1870.0,Dubuque
+﻿dub.ia.0043,﻿church,﻿St. Margaret's,English,,,,﻿Scott,,﻿Davenport,,﻿IA,,41.52583463,-90.59053241,,,,,﻿h_cosgrove_001,﻿Rev.,﻿H. Cosgrove,,,,,,,1870.0,Dubuque
+﻿dub.ia.0044,﻿church,﻿German Church,﻿German,,,,﻿Scott,,﻿Davenport,,﻿IA,,41.46586822,-90.66126170000001,,,,,﻿ant_nierman_001,﻿Rev.,﻿Anthony Nierman,,,,,,,1870.0,Dubuque
+﻿dub.ia.0045,﻿church,not recorded,English,,,,﻿Scott,,﻿Walnut Grove,,﻿IA,,43.30248213,-91.78000207,,"﻿attended from St. Anthony's, Davenport",,,,,,,,,,,,1870.0,Dubuque
+﻿dub.ia.0046,﻿church,﻿St. Benedict's,English,,,,﻿Winneshiek,,﻿Decorah,,﻿IA,,43.45721803,-91.96342916,,,,,﻿tho_lenehan_001,﻿Rev.,﻿Thomas Lenehan,,,,,,,1870.0,Dubuque
+﻿dub.ia.0047,﻿church,﻿St. Agnes,English,﻿new church in the process of erection,,,,,﻿Plymouth Rock,,﻿IA,,41.58881470000001,-93.6258836,,﻿attended from Decorah,,,,,,,,,,,,1870.0,Dubuque
+﻿dub.ia.0048,﻿church,﻿St. Ambrose,English,,,,﻿Polk,,﻿Des Moines,,﻿IA,,41.58881470000001,-93.6258836,,,,,﻿joh_brazill_001,﻿Very Rev.,﻿John Brazill,,,,,,,1870.0,Dubuque
+﻿dub.ia.0048,﻿church,﻿St. Ambrose,English,,,,﻿Polk,,﻿Des Moines,,﻿IA,,41.77258784,-93.50231738,,,,,﻿b_cannon_001,﻿Rev.,﻿B. Cannon,,﻿V.G.,,,,,1870.0,Dubuque
+﻿dub.ia.0049,﻿station,not recorded,English,,,,﻿Polk,,﻿Ottawa,,﻿IA,,41.691653499999994,-94.3630215,,﻿attended from Des Moines,,,,,,,﻿Assistant,,,,,1870.0,Dubuque
+﻿dub.ia.0050,﻿station,﻿new church in process of erection,English,,,,﻿Guthrie,,﻿Panora,,﻿IA,,41.7033177,-93.05735329999999,,﻿attended from Des Moines,,,,,,,,,,,,1870.0,Dubuque
+﻿dub.ia.0051,﻿station,not recorded,English,,,,﻿Jasper,,﻿Newton,,﻿IA,,41.42751192,-93.79277736,,﻿attended from Des Moines,,,,,,,,,,,,1870.0,Dubuque
+﻿dub.ia.0052,﻿station,﻿church in process of erection,English,,﻿Irish settlement,,﻿Madison,,,,﻿IA,,41.823995200000006,-90.5389662,,﻿attended from Des Moines,,,,,,,,,,,,1870.0,Dubuque
+﻿dub.ia.0053,﻿church,﻿St. Simeon's,English,,,,﻿Clinton,,﻿De Witt,,﻿IA,,41.99092896,-90.37971148,,,,,﻿jam_scallan_001,﻿Rev.,﻿James Scallan,,,,,,,1870.0,Dubuque
+﻿dub.ia.0054,﻿church,not recorded,English,,,,,,﻿Deep Creek,,﻿IA,,42.48409294,-91.12617571,,﻿attended from De Witt,,,,,,,,,,,,1870.0,Dubuque
+﻿dub.ia.0055,﻿church,﻿St. Francis Xavier's,English,,,,﻿Dubuque,,﻿Dyersville,,﻿IA,,42.396387700000005,-91.11986170000002,,,,,﻿s_kortenkamp_001,﻿Rev.,﻿S. Kortenkamp,,,,,,,1870.0,Dubuque
+﻿dub.ia.0056,﻿church,﻿church in process of erection,English,,,,,,﻿Worthington,,﻿IA,,42.85149776,-91.40372071,,﻿attended from Dyersville,,,,,,,,,,,,1870.0,Dubuque
+﻿dub.ia.0057,﻿church,﻿St. Joseph's,English,,,,﻿Clayton,,﻿El Kader,,﻿IA,,42.46885277,-91.73154385,,,,,﻿joh_quigley_001,﻿Rev.,﻿John Quigley,,,,,,,1870.0,Dubuque
+﻿dub.ia.0058,﻿church,﻿St. Patrick's,English,,﻿Erin and Buffalo,,﻿Buchanan,,,,﻿IA,,42.4297143,-91.3309789,,,,,﻿h_malone_001,﻿Rev.,﻿H. Malone,,,,,,,1870.0,Dubuque
+﻿dub.ia.0059,﻿church,﻿new church built,English,,,,﻿Delaware,,﻿Delhi,,﻿IA,,42.4794303,-91.5912668,,﻿attended from Erin and Buffalo,,,,,,,,,,,,1870.0,Dubuque
+﻿dub.ia.0060,﻿church,not recorded,English,,,,,,﻿Masonville,,﻿IA,,42.4733189,-91.73433270000001,,﻿attended from Erin and Buffalo,,,,,,,,,,,,1870.0,Dubuque
+﻿dub.ia.0061,﻿church,not recorded,English,,,,,,﻿Winthrop,,﻿IA,,40.629763399999995,-91.31453499999999,,﻿attended from Erin and Buffalo,,,,,,,,,,,,1870.0,Dubuque
+﻿dub.ia.0062,﻿church,﻿St. James,English,,,,﻿Lee,,﻿Fort Madison,,﻿IA,,42.49746939999999,-94.16801579999999,,,,,﻿mat_j_orth_001,﻿Rev.,﻿Mathias John Michael Orth,,,,,,,1870.0,Dubuque
+﻿dub.ia.0063,﻿church,not recorded,English,,,,﻿Webster,,﻿Fort Dodge,,﻿IA,,43.12033499,-91.86552979,,,,,﻿f_butler_001,﻿Rev.,﻿F. Butler,,,,,,,1870.0,Dubuque
+﻿dub.ia.0064,﻿church,﻿Our Lady of the Seven Dolors,English,,,,﻿Winneshiek,,﻿Festina,,﻿IA,,43.06591991,-91.93024940000001,,,,,﻿con_schulte_001,﻿Rev.,﻿Conrad Schulte,,,,,,,1870.0,Dubuque
+﻿dub.ia.0065,﻿church,﻿St. Luke's,English,,,,﻿Fayette,,,,﻿IA,,42.448476299999996,-90.99604079999999,,﻿attended from Festina,,,,,,,,,,,,1870.0,Dubuque
+﻿dub.ia.0066,﻿church,﻿St. Joseph's,English,,,,﻿Dubuque,,﻿Farley,,﻿IA,,42.51862172,-90.96190177,,,,,﻿cha_j_mcgauran_001,﻿Rev.,﻿Charles Joseph McGauran,,,,,,,1870.0,Dubuque
+﻿dub.ia.0067,﻿church,﻿St. Clement's,English,,,,,,﻿Banxton Settlement,,﻿IA,,42.2846715,-90.846469,,﻿attended from Farley,,,,,,,,,,,,1870.0,Dubuque
+﻿dub.ia.0068,﻿church,﻿St. Patrick's,English,,,,﻿Jackson,,﻿Garryowen,,﻿IA,,42.60108451,-90.9970882,,,,,﻿m_kinsella_001,﻿Rev.,﻿M. Kinsella,,,,,,,1870.0,Dubuque
+﻿dub.ia.0069,﻿church,﻿Holy Cross,English,,﻿P.O. Pin Oak,,﻿Dubuque,,﻿Glassnevin,,﻿IA,,42.5831975,-90.8836303,,,,,﻿dan_maloney_001,﻿Rev.,﻿Daniel Maloney,,,,,,,1870.0,Dubuque
+﻿dub.ia.0070,﻿church,﻿St. Joseph's,English,,,,﻿Dubuque,,,,﻿IA,,42.63729709,-91.20373366,,"﻿attended from Holy Cross, Glassnevin",,,,,,,,,,,,1870.0,Dubuque
+﻿dub.ia.0071,﻿church,﻿St. Patrick's,English,,,,﻿Delaware,,﻿Colesburg,,﻿IA,,41.01381097,-92.95568514,,"﻿attended from Holy Cross, Glassnevin",,,,,,,,,,,,1870.0,Dubuque
+﻿dub.ia.0072,﻿church,﻿St. Patrick's,English,,,,﻿Monroe,,﻿Georgetown,,﻿IA,,41.08830735,-92.67805642,,,,,﻿mr_malone_001,﻿Rev.,﻿Mr. Malone,,,,,,,1870.0,Dubuque
+﻿dub.ia.0073,﻿church,not recorded,English,,,,﻿Monroe,,﻿Frederick,,﻿IA,,41.0300078,-92.811307,,﻿attended from Georgetown,,,,,,,,,,,,1870.0,Dubuque
+﻿dub.ia.0074,﻿church,not recorded,English,,,,﻿Monroe,,﻿Albia,,﻿IA,,40.9749527,-93.0494741,,﻿attended from Georgetown,,,,,,,,,,,,1870.0,Dubuque
+﻿dub.ia.0075,﻿church,not recorded,English,,,,﻿Monroe,,﻿Melrose,,﻿IA,,41.019999600000006,-93.3140985,,﻿attended from Georgetown,,,,,,,,,,,,1870.0,Dubuque
+﻿dub.ia.0076,﻿church,not recorded,English,,,,﻿Lucas,,﻿Chareton,,﻿IA,,41.20350358,-93.30828593,,﻿attended from Georgetown,,,,,,,,,,,,1870.0,Dubuque
+﻿dub.ia.0077,﻿church,﻿St. Joseph's,English,,,,﻿Marion,,﻿Newbern,,﻿IA,,40.82632209,-93.97054737,,﻿attended from Georgetown,,,,,,,,,,,,1870.0,Dubuque
+﻿dub.ia.0078,﻿church,﻿St. Patrick's,English,,﻿near Leon,,﻿Decatur,,,,﻿IA,,41.034261799999996,-93.766759,,﻿attended from Georgetown,,,,,,,,,,,,1870.0,Dubuque
+﻿dub.ia.0079,﻿church,not recorded,English,,,,﻿Clarke,,﻿Osceola,,﻿IA,,41.0284183,-94.1975786,,﻿attended from Georgetown,,,,,,,,,,,,1870.0,Dubuque
+﻿dub.ia.0080,﻿church,not recorded,English,,,,﻿Union,,﻿Afton,,﻿IA,,40.9869306,-94.7335843,,﻿attended from Georgetown,,,,,,,,,,,,1870.0,Dubuque
+﻿dub.ia.0081,﻿church,not recorded,English,,,,﻿Adams,,﻿Corning,,﻿IA,,41.017093700000004,-95.22144770000001,,﻿attended from Georgetown,,,,,,,,,,,,1870.0,Dubuque
+﻿dub.ia.0082,﻿church,not recorded,English,,,,﻿Montgomery,,﻿Red Oak,,﻿IA,,40.71471470000001,-94.235232,,﻿attended from Georgetown,,,,,,,,,,,,1870.0,Dubuque
+﻿dub.ia.0083,﻿church,not recorded,English,,,,﻿Ringgold,,﻿Mount Ayr,,﻿IA,,42.78998970000001,-91.1029068,,﻿attended from Georgetown,,,,,,,,,,,,1870.0,Dubuque
+﻿dub.ia.0084,﻿church,﻿Holy Trinity,English,,,,﻿Clayton,,﻿Guttenberg,,﻿IA,,42.47006257,-91.89009739,,,,,﻿ste_maajost_001,﻿Rev.,﻿Stephen Maajost,,,,,,,1870.0,Dubuque
+﻿dub.ia.0085,﻿church,﻿St. John Evangelist,English,,,,﻿Buchanan,,﻿Independence,,﻿IA,,42.63915120000001,-92.0471199,,,,,﻿joh_gosker_001,﻿Rev.,﻿John Gosker,,,,,,,1870.0,Dubuque
+﻿dub.ia.0086,﻿station,﻿new church in the process of erection,English,,,,﻿Buchanan,,﻿Fairbanks,,﻿IA,,42.51584262,-92.14529431,,﻿attended from Independence,,,,,,,,,,,,1870.0,Dubuque
+﻿dub.ia.0087,﻿station,﻿St. John Baptist,English,,,,﻿Black Hawk,,﻿Barkley,,﻿IA,,41.657825700000004,-91.53461690000002,,﻿attended from Independence,,,,,,,,,,,,1870.0,Dubuque
+﻿dub.ia.0088,﻿church,not recorded,English,,,,﻿Johnson,,﻿Iowa City,,﻿IA,,42.0659844,-91.67606909999999,,,,,﻿wil_emmonds_001,﻿Rev.,﻿William Emmonds,,,,,,,1870.0,Dubuque
+﻿dub.ia.0089,﻿church,not recorded,English,,,,﻿Linn,,﻿Irish Valley,,﻿IA,,40.404473100000004,-91.39639659999999,,﻿attended from Iowa City,,,,,,,,,,,,1870.0,Dubuque
+﻿dub.ia.0090,﻿church,not recorded,English,,,,﻿Lee,,﻿Keokuk,,﻿IA,,40.404473100000004,-91.39639659999999,,,,,﻿ant_trevis_001,﻿Rev.,﻿Anthony Trevis,,,,,,,1870.0,Dubuque
+﻿dub.ia.0090,﻿church,not recorded,English,,,,﻿Lee,,﻿Keokuk,,﻿IA,,40.40217765,-91.39160399,,,,,﻿vin_hayes_001,﻿Rev.,﻿Vincent Hayes,,,,,,,1870.0,Dubuque
+﻿dub.ia.0091,﻿church,﻿St. Mary's,﻿German,,,,﻿Lee,,﻿Keokuk,,﻿IA,,43.3609053,-91.21876800000001,,,,,﻿jos_weikman_001,﻿Rev.,﻿Joseph Weikman,,﻿Assistant,,,,,1870.0,Dubuque
+﻿dub.ia.0092,﻿church,not recorded,English,,,,﻿Alamakee,,﻿Lansing,,﻿IA,,41.9055544,-92.1799056,,,,,﻿f_jacobi_001,﻿Rev.,﻿F. Jacobi,,,,,,,1870.0,Dubuque
+﻿dub.ia.0093,﻿church,﻿Holy Cross,English,﻿with one other priest and two lay brothers,,,﻿Benton,,﻿Luzerne,,﻿IA,,41.8781949,-90.17737599,,,,,﻿pau_e_gillen_001,﻿Rev.,﻿Paul E. Gillen,﻿SS.C.,,,,,,1870.0,Dubuque
+﻿dub.ia.0094,﻿church,﻿St. Irenaeus,English,,,,﻿Clinton,,﻿Lyons,,﻿IA,,41.89690024,-90.18435887,,,,,﻿fre_jean_001,﻿Rev.,﻿Frederick Jean,,,,,,,1870.0,Dubuque
+﻿dub.ia.0095,﻿church,﻿St. Boniface,﻿German,,,,﻿Clinton,,﻿Lyons,,﻿IA,,41.59512441,-91.95808966,,,,,﻿s_f_wieland_001,﻿Rev.,﻿S. F. Wieland,,,,,,,1870.0,Dubuque
+﻿dub.ia.0096,﻿church,not recorded,English,,,,﻿Iowa,,﻿Lytle City,,﻿IA,,42.0494674,-92.9080375,,,,,﻿pet_sullivan_001,﻿Rev.,﻿Peter Sullivan,,,,,,,1870.0,Dubuque
+﻿dub.ia.0097,﻿church,﻿Immaculate Conception,English,,,,﻿Marshal,,﻿Marshaltown,,﻿IA,,41.9086563,-92.08451190000001,,,,,﻿walsh_001,﻿Rev. Father,﻿Walsh,,,,,,,1870.0,Dubuque
+﻿dub.ia.0098,﻿station,not recorded,English,,,,,,﻿Blairstown,,﻿IA,,41.7315717,-92.4453638,,﻿attended from Marshaltown,,,,,,,,,,,,1870.0,Dubuque
+﻿dub.ia.0099,﻿station,not recorded,English,,,,,,﻿Brooklin,,﻿IA,,41.8955529,-92.2757404,,﻿attended from Marshaltown,,,,,,,,,,,,1870.0,Dubuque
+﻿dub.ia.0100,﻿station,not recorded,English,,,,,,﻿Belle Plain,,﻿IA,,42.01494513,-93.16521164,,﻿attended from Marshaltown,,,,,,,,,,,,1870.0,Dubuque
+﻿dub.ia.0101,﻿station,not recorded,English,,,,,,﻿State Centre,,﻿IA,,42.24495491,-91.19637472,,﻿attended from Marshaltown,,,,,,,,,,,,1870.0,Dubuque
+﻿dub.ia.0102,﻿church,﻿Church of Sacred Heart,English,,,,,,﻿Monticello,,﻿IA,,40.96103896,-91.55742233,,,,,﻿dj_cogan_001,﻿Rev.,﻿D.J. Cogan,,,,,,,1870.0,Dubuque
+﻿dub.ia.0103,﻿church,﻿St. Alphonsus',English,,,,﻿Henry,,﻿Mount Pleasant,,﻿IA,,41.0076114,-91.96369140000002,,,,,﻿f_walsh_001,﻿Rev.,﻿F. Walsh,,,,,,,1870.0,Dubuque
+﻿dub.ia.0104,﻿church,not recorded,English,,,,﻿Jefferson,,﻿Fairfield,,﻿IA,,43.01829474,-91.18274621,,﻿attended from Mount Pleasant,﻿once a month,,,,,,,,,,,1870.0,Dubuque
+﻿dub.ia.0105,﻿church,﻿St. Mary's,English,,,,﻿Clayton,,﻿McGregor,,﻿IA,,43.04941302,-91.38558359,,,,,﻿b_c_lenehan_001,﻿Very Rev.,﻿B. C. Lenehan,,,,,,,1870.0,Dubuque
+﻿dub.ia.0106,﻿church,﻿St. Richard's,English,,,,﻿Clayton,,﻿Monroe,,﻿IA,,43.084702,-91.5682015,,﻿attended from McGregor,,,,,,,,,,,,1870.0,Dubuque
+﻿dub.ia.0107,﻿church,not recorded,English,,,,﻿Alamakee,,﻿Postville,,﻿IA,,41.42581099,-91.05289512,,﻿attended from McGregor,,,,,,,,,,,,1870.0,Dubuque
+﻿dub.ia.0108,﻿church,﻿St. Mathias,English,,,,﻿Muscatine,,﻿Muscatine,,﻿IA,,41.39100414,-91.19526253,,,,,﻿phi_laurent_001,﻿Rev.,﻿Philip Laurent,,,,,,,1870.0,Dubuque
+﻿dub.ia.0109,﻿church,﻿St. Malachy's,English,,,,,,,,﻿IA,,42.38966789,-90.80879199,,﻿attended from Muscatine,,,,,,,,,,,,1870.0,Dubuque
+﻿dub.ia.0110,﻿church,﻿St. Bernard's,English,,,,﻿Dubuque,,﻿New Melleray,,﻿IA,,42.550641600000006,-91.11471209999999,,,,,﻿ber_mccaffery_001,﻿Very Rev.,﻿Bernard McCaffery,,,,,,,1870.0,Dubuque
+﻿dub.ia.0111,﻿church,﻿St. Boniface,English,,,,﻿Dubuque,,﻿New Vienna,,﻿IA,,42.554992299999995,-91.2131917,,,,,﻿j_b_weikman_001,﻿Rev.,﻿J. B. Weikman,,,,,,,1870.0,Dubuque
+﻿dub.ia.0112,﻿church,﻿St. Peter's,English,,,,﻿Delaware,,﻿Petersburg,,﻿IA,,43.12409736,-91.90216195,,﻿attended from New Vienna,,,,,,,,,,,,1870.0,Dubuque
+﻿dub.ia.0113,﻿church,not recorded,English,,,,﻿Winneshiek,,﻿Old Mission,,﻿IA,,41.29472039,-92.6418045,,,,,﻿fre_hannach_001,﻿Rev.,﻿Frederick Hannach,,,,,,,1870.0,Dubuque
+﻿dub.ia.0114,﻿church,﻿St. Mary's,English,,,,﻿Mahaska,,﻿Oscaloosa,,﻿IA,,41.29472039,-92.6418045,,,,,﻿d_j_cogan_001,﻿Rev.,﻿D. J. Cogan,,,,,,,1870.0,Dubuque
+﻿dub.ia.0115,﻿station,not recorded,English,,,,,,,,﻿IA,,41.5208256,-93.10381290000001,,﻿attended from Oscaloosa,,,,,,,,,,,,1870.0,Dubuque
+﻿dub.ia.0116,﻿station,﻿new church in process of erection,English,,,,﻿Jasper,,﻿Monroe,,﻿IA,,41.5208256,-93.10381290000001,,﻿attended from Oscaloosa,,,,,,,,,,,,1870.0,Dubuque
+﻿dub.ia.0117,﻿church,﻿St. Boniface's,English,﻿new church in process of erection,,,,,,,﻿IA,,41.1605646,-92.6313031,,﻿attended from Oscaloosa,,,,,,,,,,,,1870.0,Dubuque
+﻿dub.ia.0118,﻿station,﻿St. John's,English,,,,,,﻿Eddyville,,﻿IA,,41.02149376,-92.41074297,,﻿attended from Oscaloosa,,,,,,,,,,,,1870.0,Dubuque
+﻿dub.ia.0119,﻿church,﻿Visitation of B.V.M.,English,,,,﻿Wapello,,﻿Ottumwa,,﻿IA,,40.6403124,-91.7429429,,,,,﻿joh_krekel_001,﻿Rev.,﻿John Krekel,,,,,,,1870.0,Dubuque
+﻿dub.ia.0120,﻿church,not recorded,English,,,,﻿Van Buren,,﻿Farmington,,﻿IA,,40.6403124,-91.7429429,,﻿attended from Ottumwa,,,,,,,,,,,,1870.0,Dubuque
+﻿dub.ia.0121,﻿church,﻿St. Boniface,English,,,,,,,,﻿IA,,40.6980874,-91.8032228,,﻿attended from Ottumwa,,,,,,,,,,,,1870.0,Dubuque
+﻿dub.ia.0122,﻿church,not recorded,English,,,,﻿Van Buren,,﻿Bonaparte,,﻿IA,,40.78568202,-91.92855383,,﻿attended from Ottumwa,,,,,,,,,,,,1870.0,Dubuque
+﻿dub.ia.0123,﻿church,not recorded,English,,,,﻿Van Buren,,﻿Summit,,﻿IA,,40.756040000000006,-92.411254,,﻿attended from Ottumwa,,,,,,,,,,,,1870.0,Dubuque
+﻿dub.ia.0124,﻿church,not recorded,English,,,,﻿Davis,,﻿Bloomington,,﻿IA,,41.086327000000004,-92.5287502,,﻿attended from Ottumwa,,,,,,,,,,,,1870.0,Dubuque
+﻿dub.ia.0125,﻿church,not recorded,English,,,,﻿Wapello,,﻿Chillicothe,,﻿IA,,41.44826917,-91.70421148,,﻿attended from Ottumwa,,,,,,,,,,,,1870.0,Dubuque
+﻿dub.ia.0126,﻿church,not recorded,English,,,,﻿Washington,,﻿Richmond,,﻿IA,,42.60287552,-90.78281697,,,,,﻿joh_fendricks_001,﻿Rev.,﻿John Fendricks,,,,,,,1870.0,Dubuque
+﻿dub.ia.0127,﻿church,﻿SS. Peter and Paul,English,,,,﻿Dubuque,,﻿Shirlo's Mound,,﻿IA,,42.63788518,-90.86898613,,,,,﻿tho_fraunhofer_001,﻿Rev.,﻿Thomas Fraunhofer,,,,,,,1870.0,Dubuque
+﻿dub.ia.0128,﻿church,not recorded,English,,,,,,﻿Ballstown Settlement,,﻿IA,,42.63788518,-90.86898613,,﻿attended from Shirlo's Mound,,,,,,,,,,,,1870.0,Dubuque
+﻿dub.ia.0129,﻿church,not recorded,English,,,,,,﻿Lugwart's Settlement,,﻿IA,,42.478330799999995,-96.3605752,,﻿attended from Shirlo's Mound,,,,,,,,,,,,1870.0,Dubuque
+﻿dub.ia.0130,﻿church,﻿Immaculate Conception,English,,,,﻿Woodbury,,﻿Sioux City,,﻿IA,,42.229157,-95.9308434,,,,,﻿joh_a_hayes_001,﻿Rev.,﻿John A. Hayes,,,,,,,1870.0,Dubuque
+﻿dub.ia.0131,﻿church,not recorded,English,,,,,,﻿Smithland,,﻿IA,,40.706866299999994,-91.443469,,﻿attended from Sioux City,,,,,,,,,,,,1870.0,Dubuque
+﻿dub.ia.0132,﻿church,not recorded,English,,,,﻿Lee,,﻿Sugar Creek,,﻿IA,,40.71513639,-91.45396632,,﻿attended by Rev. L. Wieland of Lyons,,,﻿mat_mitchel_001,﻿Rev.,﻿Mathias Mitchel,,,,,,,1870.0,Dubuque
+﻿dub.ia.0133,﻿church,﻿Assumption of B. V. M.,English,,,,﻿Lee,,﻿West Point,,﻿IA,,43.37300079,-91.22460712,,,,,﻿c_johannes_001,﻿Rev.,﻿C. Johannes,,,,,,,1870.0,Dubuque
+﻿dub.ia.0134,﻿church,﻿Immaculate Conception,English,,﻿P.O. Harper's Ferry,,﻿Alamakee,,﻿Wexford,,﻿IA,,43.16724291,-91.28046109,,,,,﻿jas_mcgowan_001,﻿Rev.,﻿Jas. McGowan,,,,,,,1870.0,Dubuque
+﻿dub.ia.0135,﻿church,﻿St. Pius,English,,,,﻿Alamakee,,﻿Cherry Mount,,﻿IA,,43.17953825,-91.19181075,,﻿attended from Wexford,,,,,,,,,,,,1870.0,Dubuque
+﻿dub.ia.0136,﻿church,﻿St. Patrick's,English,,,,﻿Alamakee,,﻿Paint Rock,,﻿IA,,43.2005358,-91.15318520000001,,﻿attended from Wexford,,,,,,,,,,,,1870.0,Dubuque
+﻿dub.ia.0137,﻿church,not recorded,English,,,,﻿Alamakee,,﻿Harper's Ferry,,﻿IA,,43.2005358,-91.15318520000001,,﻿attended from Wexford,,,,,,,,,,,,1870.0,Dubuque
+﻿dub.ia.0138,﻿church,not recorded,English,,,,﻿Bremer,,﻿Waterloo,,﻿IA,,43.2694208,-91.475695,,,,,﻿n_scallan_001,﻿Rev.,﻿N. Scallan,,,,,,,1870.0,Dubuque
+﻿dub.ia.0139,﻿church,not recorded,English,,,,﻿Alamakee,,﻿Waukon,,﻿IA,,41.5879866,-91.0079068,,,,,﻿jam_mcgowan_001,﻿Rev.,﻿James McGowan,,,,,,,1870.0,Dubuque
+﻿dub.ia.0140,﻿church,﻿St. Mary's,English,,,,﻿Muscatine,,﻿Wilton Junction,,﻿IA,,42.7272032,-92.4668511,,,,,﻿p_a_mccabe_001,﻿Rev.,﻿P. A. McCabe,,,,,,,1870.0,Dubuque
+﻿dub.ia.0141,﻿church,﻿Immaculate Conception,English,,,,﻿Bremer,,﻿Waverley,,﻿IA,,42.492785999999995,-92.3425775,,,,,﻿p_j_murphy_001,﻿Rev.,﻿P. J. R. Murphy,,,,,,,1870.0,Dubuque
+﻿dub.ia.0142,﻿church,not recorded,English,,,,﻿Black Hawk,,﻿Waterloo,,﻿IA,,41.8780025,-93.097702,,﻿attended from Waverley,,,,,,,,,,,,1870.0,Dubuque
+﻿dub.ia.0143,﻿church,﻿St. Joseph's,English,,,,,,﻿Eagletown,,﻿IA,,42.9522221,-92.5386382,,﻿attended from Waverley,,,,,,,,,,,,1870.0,Dubuque
+﻿dub.ia.0144,﻿church,﻿St. Patrick's,English,,,,﻿Chickasaw,,﻿Nashua,,﻿IA,,42.92149301,-93.03630811,,﻿attended from Waverley,,,,,,,,,,,,1870.0,Dubuque
+﻿dub.ia.0145,﻿church,﻿St. Michael's,English,,,,﻿Cerro Gordo,,﻿Doherty's Settlement,,﻿IA,,43.14800586,-93.19560957,,﻿attended from Waverley,,,,,,,,,,,,1870.0,Dubuque
+﻿dub.ia.0146,﻿church,﻿St. Columban's,English,,,,,,﻿Mason City,,﻿IA,,42.7502186,-92.8577105,,﻿attended from Waverley,,,,,,,,,,,,1870.0,Dubuque
+﻿dub.ia.0147,﻿church,﻿St. Mary's of the Assumption,English,,,,﻿Butler,,﻿Hagerty's Settlement,,﻿IA,,41.8780025,-93.097702,,﻿attended from Waverley,,,,,,,,,,,,1870.0,Dubuque
+﻿dub.ia.0148,﻿church,﻿St. Lawrence O'Toole's,English,,,,,,﻿Coyle's Settlement,,﻿IA,,41.8780025,-93.097702,,﻿attended from Waverley,,,,,,,,,,,,1870.0,Dubuque
+﻿dub.ia.0149,﻿church,﻿St. Malachy's,English,,,,,,,,﻿IA,,43.056086,-92.0332254,,﻿attended from Waverley,,,,,,,,,,,,1870.0,Dubuque
+﻿dub.ia.0150,﻿church,﻿St. Rose's,English,,,,﻿Fayette,,﻿Waukoma,,﻿IA,,43.15555477,-92.1805512,,,,,﻿p_f_harrison_001,﻿Rev.,﻿P. F. Harrison,,,,,,,1870.0,Dubuque
+﻿dub.ia.0151,﻿church,﻿St. Ignatius,English,,,,﻿Chickasaw,,,,﻿IA,,43.0592724,-92.317864,,﻿attended from Waukoma,,,,,,,,,,,,1870.0,Dubuque
+﻿dub.ia.0152,﻿church,not recorded,English,,,,﻿Chickasaw,,﻿New Hampton,,﻿IA,,42.1646477,-92.01856509999999,,﻿attended from Waukoma,,,,,,,,,,,,1870.0,Dubuque
+﻿dub.ia.0153,﻿church,not recorded,English,,,,﻿Benton,,﻿Vinton,,﻿IA,,42.389423799999996,-90.8088684,,,,,﻿a_urban_001,﻿Rev.,﻿A. Urban,,,,,,,1870.0,Dubuque
+﻿dub.ia.0154,﻿abbey,﻿New Melleray Abbey,English,﻿The spiritual wants of a large congregation of seculars attended to by the Fathers of the abbey. A new abbey in course of erection,﻿situated about 12 miles from Dubuque,,,,,,﻿IA,,42.389423799999996,-90.8088684,,,,,﻿eph_mcdonald_001,﻿Right Rev.,﻿Ephrem McDonald,﻿priest,﻿Abbot,,,,,1870.0,Dubuque
+﻿dub.ia.0154,﻿abbey,﻿New Melleray Abbey,English,﻿The spiritual wants of a large congregation of seculars attended to by the Fathers of the abbey. A new abbey in course of erection,﻿situated about 12 miles from Dubuque,,,,,,﻿IA,,42.47517979999999,-90.6562173,,,,,﻿ber_mccaffery_001,﻿Very Rev.,﻿Bernard McCaffery,,﻿Prior,,,,,1870.0,Dubuque
+﻿dub.ia.0155,﻿convent,﻿St. Joseph's Convent and Novitiate of the Sisters of Charity of the B.V.M.,English,﻿Established 1833.,,,,,﻿Dubuque,,﻿IA,,42.47517979999999,-90.6562173,,,,,,﻿Mother,﻿Mary Francis Clarke,,﻿Superior,,﻿professed sister,"﻿Professed sisters, 34",,1870.0,Dubuque
+﻿dub.ia.0155,﻿convent,﻿St. Joseph's Convent and Novitiate of the Sisters of Charity of the B.V.M.,English,﻿Established 1833.,,,,,﻿Dubuque,,﻿IA,,42.47517979999999,-90.6562173,,,,,,,,,,,﻿novice,"﻿novices, 14",,1870.0,Dubuque
+﻿dub.ia.0155,﻿convent,﻿St. Joseph's Convent and Novitiate of the Sisters of Charity of the B.V.M.,English,﻿Established 1833.,,,,,﻿Dubuque,,﻿IA,,42.47517979999999,-90.6562173,,,,,,,,,,,﻿postulant,"﻿postulants, 12",,1870.0,Dubuque
+﻿dub.ia.0156,﻿convent,﻿St. Mary's Convent of the Sisters of the B.V.M.,English,,,,,,﻿Dubuque,,﻿IA,,42.50552658,-90.66728102,,,,,,﻿Sister,﻿M. Ildefohnso,,﻿Superior,,﻿professed sister,"﻿professed sisters, 10",,1870.0,Dubuque
+﻿dub.ia.0157,﻿convent,﻿St. Joseph's Convent of the Sisters of the B.V.M.,English,,﻿13th street,,,,﻿Dubuque,,﻿IA,,41.52809352,-90.57489604,,,,,,﻿Sister,﻿Mary Margaret,,﻿Superior,,﻿professed sister,"﻿Professed sisters, 11",,1870.0,Dubuque
+﻿dub.ia.0158,﻿convent,﻿Convent of the Immaculate Conception of the B.V.M.,English,,"﻿Eighth street, between Brady and Main streets",,,,﻿Davenport,,﻿IA,,41.66269033,-91.53332741,,,,,,﻿Sister,﻿Mary Alphonse,,﻿Superior,,﻿professed religious,"﻿professed religious, 30",,1870.0,Dubuque
+﻿dub.ia.0159,﻿convent,﻿St. Agatha's Convent of the Sisters of Charity of the B.V.M.,English,,,,,,﻿Iowa City,,﻿IA,,41.5868417,-93.6249522,,,,,,﻿Sister,﻿M. McLaughlin,,﻿Superior,,﻿professed sister,"﻿Professed sisters, 7",,1870.0,Dubuque
+﻿dub.ia.0160,﻿convent,﻿St. Ambrose's Convent of the Sisters of Charity of the B.V.M.,English,,,,,,﻿Des Moines,,﻿IA,,41.424473,-91.0432051,,,,,,﻿Sister,﻿Mary Michael,,﻿Superior,,﻿professed sister,"﻿Professed sisters, 8",,1870.0,Dubuque
+﻿dub.ia.0161,﻿convent,﻿Convent of the Sisters of Charity at Muscatine,English,,,,,,﻿Muscatine,,﻿IA,,41.823995200000006,-90.5389662,,,,,,﻿Sister,﻿Mary Felicitas,,﻿Superior,,﻿professed sister,"﻿Professed sisters, 7",,1870.0,Dubuque
+﻿dub.ia.0162,﻿convent,﻿St. Joseph's Convent of the Sisters of Mercy,English,,,,,,﻿De Witt,,﻿IA,,41.823995200000006,-90.5389662,,,,,,﻿Mother,﻿Boromeo Johnson,,﻿Superior,,﻿professed sister,"﻿Professed sisters, 10",,1870.0,Dubuque
+﻿dub.ia.0162,﻿convent,﻿St. Joseph's Convent of the Sisters of Mercy,English,,,,,,﻿De Witt,,﻿IA,,41.823995200000006,-90.5389662,,,,,,,,,,,﻿novice,"﻿novices, 4",,1870.0,Dubuque
+﻿dub.ia.0162,﻿convent,﻿St. Joseph's Convent of the Sisters of Mercy,English,,,,,,﻿De Witt,,﻿IA,,41.01602929999999,-92.4083022,,,,,,,,,,,﻿postulant,"﻿postulants, 4",,1870.0,Dubuque
+﻿dub.ia.0163,﻿convent,﻿St. Mary's Convent of the Visitation,English,,,,,,﻿Ottumwa,,﻿IA,,42.499587,-90.66902809999999,,,,,,﻿Mother,﻿Mary Stanislaus Scott,,﻿Superior,,﻿religious,"﻿Number of religious, 16",,1870.0,Dubuque
+﻿dub.ia.0164,﻿academy,﻿St. Mary's Academy,English,,﻿Bluff street,,,,﻿Dubuque,,﻿IA,,42.506225799999996,-90.6648335,,,,,,,,,,,﻿pupil,"﻿Number of pupils, 110",﻿conducted by the Sisters of Charity of the B.V.M.,1870.0,Dubuque
+﻿dub.ia.0165,﻿academy,﻿St. Joseph's Academy,English,,﻿13th street,,,,﻿Dubuque,,﻿IA,,42.506225799999996,-90.6648335,,,,,,,,,,,﻿boarder,"﻿Boarders, 50",﻿conducted by the Sisters of Charity of the B.V.M.,1870.0,Dubuque
+﻿dub.ia.0165,﻿academy,﻿St. Joseph's Academy,English,,﻿13th street,,,,﻿Dubuque,,﻿IA,,41.5273975,-90.5885292,,,,,,,,,,,﻿day scholar,"﻿day scholars, about 50",﻿conducted by the Sisters of Charity of the B.V.M.,1870.0,Dubuque
+﻿dub.ia.0166,﻿academy,﻿Academy of the Immaculate Conception,English,,﻿Eighth street,,,,﻿Davenport,,﻿IA,,41.8198257,-90.5396182,,,,,,,,,,,﻿pupil,"﻿number of pupils, 300",﻿conducted by the Sisters of Charity of the B.V.M.,1870.0,Dubuque
+﻿dub.ia.0167,"﻿academy, school",﻿St. Joseph's Academy,English,﻿Select school for girls,,,,,﻿De Witt,,﻿IA,,41.8198257,-90.5396182,,,,,,,,,,,﻿boarder,"﻿Boarders, 40",﻿by the Sisters of Mercy.,1870.0,Dubuque
+﻿dub.ia.0167,"﻿academy, school",﻿St. Joseph's Academy,English,﻿Select school for girls,,,,,﻿De Witt,,﻿IA,,41.01602929999999,-92.4083022,,,,,,,,,,,﻿pupil,"﻿pupils, 30",﻿by the Sisters of Mercy.,1870.0,Dubuque
+﻿dub.ia.0168,﻿academy,﻿Academy of the Visitation,English,,,,,,﻿Ottumwa,,﻿IA,,41.657825700000004,-91.53461690000002,,,,,,,,,,,﻿boarder,"﻿Number of boarders, 100",,1870.0,Dubuque
+﻿dub.ia.0169,﻿school,﻿St. Agatha's Select School,English,,,,,,﻿Iowa City,,﻿IA,,41.5868417,-93.6249522,,,,,,,,,,,﻿pupil,"﻿number, about 500",﻿conducted by the Sisters of Charity of the B.V.M.,1870.0,Dubuque
+﻿dub.ia.0170,﻿school,not recorded,English,﻿A Select School.,,,,,﻿Des Moines,,﻿IA,,40.404473100000004,-91.39639659999999,,,,,,,,,,,﻿pupil,"﻿Number of pupils, 300",﻿conducted by the Sisters of Charity of the B.V.M,1870.0,Dubuque
+﻿dub.ia.0171,﻿school,not recorded,English,﻿A Select School.,,,,,﻿Keokuk,,﻿IA,,42.495194700000006,-90.6668325,,,,,,,,,,,﻿pupil,﻿Number of pupils about 60,﻿conducted by the Sisters of Charity of the B.V.M,1870.0,Dubuque
+﻿dub.ia.0172,﻿school,﻿St. Raphael's,English,"﻿Taught by the Sisters of Charity, and three lay teachers. Pupils, about 240 between the schools",,,,,﻿Dubuque,,﻿IA,,42.495194700000006,-90.6668325,,,,,,,,,,,,,﻿Taught by the Sisters of Charity,1870.0,Dubuque
+﻿dub.ia.0173,﻿school,﻿St. Raphael's,English,"﻿Taught by the Sisters of Charity, and three lay teachers. Pupils, about 240 between the schools",,,,,﻿Dubuque,,﻿IA,,42.506691,-90.6692977,,,,,,,,,,,,,﻿Taught by the Sisters of Charity,1870.0,Dubuque
+﻿dub.ia.0174,﻿school,﻿St. Patrick's,English,﻿Conducted by two lay teachers,,,,,﻿Dubuque,,﻿IA,,42.4951674,-90.6683407,,,,,,,,,,,﻿pupil,"﻿Pupils, 100",,1870.0,Dubuque
+﻿dub.ia.0175,﻿school,﻿St. Mary's,English,﻿Conducted by lay teachers,,,,,﻿Dubuque,,﻿IA,,41.5236437,-90.57763670000001,,,,,,,,,,,﻿pupil,"﻿Pupils, about 400",,1870.0,Dubuque
+﻿dub.ia.0176,﻿school,﻿St. Peter's,English,﻿Conducted by two Sisters of Charity and three lay teachers,,,,,﻿Davenport,,﻿IA,,40.404473100000004,-91.39639659999999,,,,,,,,,,,﻿pupil,"﻿Number of pupils, about 500",﻿Sisters of Charity,1870.0,Dubuque
+﻿dub.ia.0177,﻿school,﻿St. Peter's,English,"﻿for boys, taught by lay teachers. Number of pupils across 3 schools, 480",,,,,﻿Keokuk,,﻿IA,,40.404473100000004,-91.39639659999999,,,,,,,,,,,,,,1870.0,Dubuque
+﻿dub.ia.0178,﻿school,﻿St. Peter's,English,"﻿for boys, taught by lay teachers. Number of pupils across 3 schools, 480",,,,,﻿Keokuk,,﻿IA,,40.404473100000004,-91.39639659999999,,,,,,,,,,,,,,1870.0,Dubuque
+﻿dub.ia.0179,﻿school,﻿St. Peter's,English,"﻿for boys, taught by lay teachers. Number of pupils across 3 schools, 480",,,,,﻿Keokuk,,﻿IA,,40.404473100000004,-91.39639659999999,,,,,,,,,,,,,,1870.0,Dubuque
+﻿dub.ia.0180,﻿school,﻿St. Peter's,English,"﻿for girls, taught by the Sisters of Charity from Emmitsburgh. Number of pupils across the 3 schools, 200",,,,,﻿Keokuk,,﻿IA,,40.404473100000004,-91.39639659999999,,,,,,,,,,,,,﻿Sisters of Charity,1870.0,Dubuque
+﻿dub.ia.0181,﻿school,﻿St. Peter's,English,"﻿for girls, taught by the Sisters of Charity from Emmitsburgh. Number of pupils across the 3 schools, 200",,,,,﻿Keokuk,,﻿IA,,40.404473100000004,-91.39639659999999,,,,,,,,,,,,,﻿Sisters of Charity,1870.0,Dubuque
+﻿dub.ia.0182,﻿school,﻿St. Peter's,English,"﻿for girls, taught by the Sisters of Charity from Emmitsburgh. Number of pupils across the 3 schools, 200",,,,,﻿Keokuk,,﻿IA,,40.404473100000004,-91.39639659999999,,,,,,,,,,,,,﻿Sisters of Charity,1870.0,Dubuque
+﻿dub.ia.0183,﻿school,﻿St. Mary's,﻿German,﻿taught by lay teachers,,,,,﻿Keokuk,,﻿IA,,40.404473100000004,-91.39639659999999,,,,,,,,,,,﻿boy,"﻿Boys, 40",,1870.0,Dubuque
+﻿dub.ia.0184,﻿school,﻿St. Mary's,﻿German,﻿taught by lay teachers,,,,,﻿Keokuk,,﻿IA,,40.7167039,-91.4501542,,,,,,,,,,,﻿girl,"﻿girls, 50",,1870.0,Dubuque
+﻿dub.ia.0185,﻿school,﻿Annunciation,English,,,,,,﻿West Point,,﻿IA,,40.7167039,-91.4501542,,,,,,,,,,,,,﻿conducted by the Sisters of Notre Dame,1870.0,Dubuque
+﻿dub.ia.0186,﻿school,﻿Annunciation,English,,,,,,﻿West Point,,﻿IA,,42.2981422,-91.0160924,,,,,,,,,,,,,﻿conducted by the Sisters of Notre Dame,1870.0,Dubuque
+﻿dub.ia.0187,﻿school,not recorded,English,"﻿parochial school conducted by the Sisters of Charity, 175 pupils across 2 schools",,,,,﻿Cascade,,﻿IA,,42.2981422,-91.0160924,,,,,,,,,,,,,﻿Sisters of Charity,1870.0,Dubuque
+﻿dub.ia.0188,﻿school,not recorded,English,"﻿parochial school conducted by the Sisters of Charity, 175 pupils across 2 schools",,,,,﻿Cascade,,﻿IA,,42.2981422,-91.0160924,,,,,,,,,,,,,﻿Sisters of Charity,1870.0,Dubuque

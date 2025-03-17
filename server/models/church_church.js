@@ -16,17 +16,15 @@ module.exports = (sequelize, DataTypes) => {
     }
   }
   Church_Church.init({
-    instID: DataTypes.STRING,
-    instYear: DataTypes.INTEGER,
-    attendingInstID: DataTypes.STRING,
-    attendingInstYear: DataTypes.INTEGER
+    uniqueInstID: DataTypes.STRING,
+    uniqueAttendingInstID: DataTypes.STRING,
   }, {
     sequelize,
     modelName: 'Church_Church',
     indexes: [
       {
         unique: true,
-        fields: ['instID', 'instYear', 'attendingInstID', 'attendingInstYear']
+        fields: ['uniqueInstID', 'uniqueAttendingInstID']
       }
     ]
   });

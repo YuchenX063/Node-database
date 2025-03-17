@@ -24,11 +24,8 @@ describe('The relationship between church and person', () => {
         const res3 = await requestWithSupertest.post('/api/church_person')
             .send([{
                 instID: 'test-inst1',
-                instName: 'test-church1',
-                instYear: 1870,
                 persID: 'test-pers1',
-                persName: 'test-person1',
-                persYear: 1870
+                year: 1870
         }]);
         expect(res3.status).toEqual(200);
         const res4 = await requestWithSupertest.post('/api/church')
@@ -58,11 +55,11 @@ describe('The relationship between church and person', () => {
 
     it('should get a church through a person', async () => {
         const res = await requestWithSupertest.get('/api/person/test-pers1');
-        console.log(res.body);
+        //console.log(res.body);
         const temp = await requestWithSupertest.get('/api/church/test-inst1');
-        console.log(temp.body);
+        //console.log(temp.body);
         const t = await requestWithSupertest.get('/api/church_person');
-        console.log(t.body);
+        //console.log(t.body);
         expect(res.status).toEqual(200);
         expect(res.body).toHaveProperty('persID');
         expect(res.body).toHaveProperty('persName');

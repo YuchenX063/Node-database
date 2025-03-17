@@ -4,28 +4,19 @@ module.exports = {
   async up(queryInterface, Sequelize) {
     await queryInterface.createTable('Church_People', {
       id: {
-        allowNull: false,
+        type: Sequelize.INTEGER,
         autoIncrement: true,
-        primaryKey: true,
-        type: Sequelize.INTEGER
+        primaryKey: true
       },
-      instID: {
+      uniqueInstID: {
         type: Sequelize.STRING,
+        allowNull: false,
+        primaryKey: true
       },
-      instName: {
-        type: Sequelize.STRING
-      },
-      instYear: {
-        type: Sequelize.INTEGER
-      },
-      persID: {
+      uniquePersID: {
         type: Sequelize.STRING,
-      },
-      persName: {
-        type: Sequelize.STRING
-      },
-      persYear: {
-        type: Sequelize.INTEGER
+        allowNull: false,
+        primaryKey: true
       },
       createdAt: {
         allowNull: false,
@@ -38,9 +29,9 @@ module.exports = {
     });
 
     await queryInterface.addConstraint('Church_People', {
-      fields: ['instID', 'persID', 'instYear', 'persYear'],
+      fields: ['uniqueInstID', 'uniquePersID'],
       type: 'unique',
-      name: 'unique_church_person'
+      name: 'unique_church_person_constraint'
     });
   },
   async down(queryInterface, Sequelize) {

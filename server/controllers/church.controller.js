@@ -8,7 +8,17 @@ const Church_Person = db.Church_Person;
 
 exports.create = (req, res) => {
     const churches = req.body;
-    Church.bulkCreate(churches)
+
+    const processedChurches = churches.map(church => {
+        const uniqueInstID = `${church.instYear}-${church.instID}`;
+        const uniqueAttendingInstID = church.uniqueAttendingInstID ? `${church.instYear}-${church.attendingInstID}` : null;
+        return {
+            ...church,
+            uniqueInstID: uniqueInstID,
+            uniqueAttendingInstID: uniqueAttendingInstID
+        }});
+
+    Church.bulkCreate(processedChurches)
     .then(data => {
         res.send(data);
     })
@@ -67,10 +77,50 @@ exports.findAll = (req, res) => {
     });
 };
 
+exports.findByID = (req, res) => {
+    const id = req.params.instID;
+    Church.findAll({
+        where: { instID: id },
+        attributes: ['instID', 'instName', 'instYear', 'language', 'church_type', 'instNote', 'city_reg', 'state_orig', 'diocese', 'attendingInstID', 'attendingChurch', 'attendingChurchFrequency'],
+        include: [{
+            model: Person,
+            as: 'people',
+            attributes: ['persID', 'persName', 'persYear', 'persSuffix', 'persNote'],
+            through: {
+                attributes: []
+            }},{
+                model: Church,
+                as: 'attendingChurches',
+                attributes: ['instID', 'instName', 'instYear'],
+                through: {
+                    attributes: []
+            }},{
+                model: Church,
+                as: 'attendedBy',
+                attributes: ['instID', 'instName', 'instYear'],
+                through: {
+                    attributes: []
+            }
+        }]
+    }).then(data => {
+        if (!data) {
+            res.status(404).send({
+                message: `Cannot find Church with id=${id}.`
+            });
+        } else {
+            res.send(data);
+        }
+    }).catch(err => {
+        res.status(500).send({
+            message: "Error retrieving Church with id=" + id
+        });
+    });
+};
+
 exports.findOne = (req, res) => {
     const id = req.params.instID;
     Church.findOne({
-        where: { instID: id },
+        where: { instID: id, instYear: req.params.instYear },
         attributes: ['instID', 'instName', 'instYear', 'language', 'church_type', 'instNote', 'city_reg', 'state_orig', 'diocese', 'attendingInstID', 'attendingChurch', 'attendingChurchFrequency'],
         include: [{
             model: Person,

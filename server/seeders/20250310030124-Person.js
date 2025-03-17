@@ -10,11 +10,9 @@ const{ loadData } = require('../utils/data-preprocess');
 /** @type {import('sequelize-cli').Migration} */
 module.exports = {
   async up (queryInterface, Sequelize) {
-    if (process.env.NODE_ENV != 'test') {
-      const data = await loadData(__dirname);
-      for (const file of data) {
-        await importData(file);
-      }
+    const data = await loadData(__dirname);
+    for (const file of data) {
+      await importData(file);
     }},
 
   async down (queryInterface, Sequelize) {
@@ -24,10 +22,9 @@ module.exports = {
 
 async function importData(data) {
 
-  const personKeys = ['persID', 'persYear', 'persTitle', 'persName', 'persSuffix', 'persNote'];
+  const personKeys = ['uniquePersID', 'persID', 'persYear', 'persTitle', 'persName', 'persSuffix', 'persNote'];
 
   const personInfo = data
-    .filter(row => personKeys.every(key => key in row))
     .map(row => {
       const filteredRow = {};
       personKeys.forEach(key => {
@@ -38,14 +35,18 @@ async function importData(data) {
   
   //console.log(personInfo[0]);
 
-  const uniquePersonInfo = Array.from(new Map(personInfo.map(item => [item.persID, item])).values());
+  const uniquePersonInfo = Array.from(new Map(personInfo.map(item => [item.uniquePersID, item])).values());
 
   //console.log(uniquePersonInfo[0]);
   
   for (const item of uniquePersonInfo) {
-    if (item.persID) {
-      await Person.create(item);
-      //console.log(`Created person: ${item.persID}`);
+    if (item.uniquePersID) {
+      try {
+        await Person.create(item);
+        //console.log(`Created person: ${item.persID}`);
+      } catch (error) {
+        console.error(`Error creating person: ${JSON.stringify(item)}`, error);
+      }
     }
   };
 

@@ -7,7 +7,17 @@ const Church_Person = db.Church_Person;
 
 exports.create = (req, res) => {
     const church_persons = req.body;
-    Church_Person.bulkCreate(church_persons)
+    const processedChurch_Persons = church_persons.map(church_person => {
+        const uniqueInstID = `${church_person.year}-${church_person.instID}`;
+        const uniquePersID = `${church_person.year}-${church_person.persID}`;
+        delete church_person.year;
+        return {
+            ...church_person,
+            uniqueInstID: uniqueInstID,
+            uniquePersID: uniquePersID
+        };});
+
+    Church_Person.bulkCreate(processedChurch_Persons)
     .then(data => {
         res.send(data);
     })

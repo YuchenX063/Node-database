@@ -11,30 +11,26 @@ module.exports = (sequelize, DataTypes) => {
      */
     static associate(models) {
       // define association here
-      Church_Person.belongsTo(models.Church, { foreignKey: 'instID', as: 'church'});
-      Church_Person.belongsTo(models.Person, { foreignKey: 'persID', as: 'person'});
+      Church_Person.belongsTo(models.Church, { foreignKey: 'uniqueInstID', as: 'church'});
+      Church_Person.belongsTo(models.Person, { foreignKey: 'uniquePersID', as: 'person'});
     }
   }
   Church_Person.init({
-    instID: {
+    uniqueInstID: {
       type: DataTypes.STRING,
       allowNull: false,
     },
-    instName: DataTypes.STRING,
-    instYear: DataTypes.INTEGER,
-    persID: {
+    uniquePersID: {
       type: DataTypes.STRING,
       allowNull: false,
     },
-    persName: DataTypes.STRING,
-    persYear: DataTypes.INTEGER,
   }, {
     sequelize,
     modelName: 'Church_Person',
     indexes: [
       {
         unique: true,
-        fields: ['instID', 'persID', 'instYear', 'persYear']
+        fields: ['uniqueInstID', 'uniquePersID']
       }
     ]
     }

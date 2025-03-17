@@ -10,11 +10,9 @@ const{ loadData } = require('../utils/data-preprocess');
 /** @type {import('sequelize-cli').Migration} */
 module.exports = {
   async up (queryInterface, Sequelize) {
-    if (process.env.NODE_ENV != 'test') {
-      const data = await loadData(__dirname);
-      for (const file of data) {
-        await importData(file);
-      }
+    const data = await loadData(__dirname);
+    for (const file of data) {
+      await importData(file);
     }},
 
   async down (queryInterface, Sequelize) {
@@ -24,12 +22,11 @@ module.exports = {
 
 async function importData(data) {
 
-  const churchChurchKeys = ['instID', 'attendingInstID', 'instYear', 'attendingInstYear'];
+  const churchChurchKeys = ['uniqueInstID', 'uniqueAttendingInstID'];
 
   //console.log(data[0]);
 
   const churchChurchInfo = data
-    .filter(row => churchChurchKeys.every(key => key in row))
     .map(row => {
       const filteredRow = {};
       churchChurchKeys.forEach(key => {
@@ -40,14 +37,18 @@ async function importData(data) {
   
   //console.log(churchChurchInfo[0]);
 
-  const uniqueChurchChurchInfo = Array.from(new Map(churchChurchInfo.map(item => [`${item.instID}-${item.attendingInstID}`, item])).values());
+  const uniqueChurchChurchInfo = Array.from(new Map(churchChurchInfo.map(item => [`${item.uniqueInstID}-${item.uniqueAttendingInstID}`, item])).values());
 
   //console.log(uniqueChurchChurchInfo[0]);
   
   for (const item of uniqueChurchChurchInfo) {
-    if (item.instID && item.attendingInstID) {
-      await Church_Church.create(item);
+    if (item.uniqueInstID && item.uniqueAttendingInstID) {
+      try {
+        await Church_Church.create(item);
       //console.log(`Created church_church:${item.instID}, ${item.attendingInstID}`);
+      } catch (error) {
+        console.error(`Error creating church_church: ${JSON.stringify(item)}`, error);
+      }
     }
   };
 

@@ -3,7 +3,8 @@ module.exports = app => {
     var router = require('express').Router();
     router.post('/', controller.create);
     router.get('/', controller.findAll);
-    router.get('/:instID', controller.findOne);
+    router.get('/:instID', controller.findByID);
+    router.get('/:instID/:instYear', controller.findOne);
     router.delete('/:instID', controller.delete);
     app.use('/api/church', router);
 }

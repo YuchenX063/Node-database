@@ -10,7 +10,15 @@ const Church_Person = db.Church_Person;
 
 exports.create = (req, res) => {
     const persons = req.body;
-    Person.bulkCreate(persons)
+
+    const processedPersons = persons.map(person => {
+        const uniquePersID = `${person.persYear}-${person.persID}`;
+        return {
+            ...person,
+            uniquePersID: uniquePersID
+        };});
+
+    Person.bulkCreate(processedPersons)
     .then(data => {
         res.send(data);
     })
@@ -59,9 +67,9 @@ exports.findAll = (req, res) => {
     });
 };
 
-exports.findOne = (req, res) => {
+exports.findByID = (req, res) => {
     const id = req.params.persID;
-    Person.findOne({
+    Person.findAll({
         where: { persID: id },
         attributes: ['persID', 'persName', 'persYear', 'persTitle', 'persSuffix', 'persNote'],
         include: [
@@ -88,6 +96,37 @@ exports.findOne = (req, res) => {
         });
     });
 };
+
+exports.findOne = (req, res) => {
+    const id = req.params.persID;
+    Person.findOne({
+        where: { persID: id, persYear: req.params.persYear },
+        attributes: ['persID', 'persName', 'persYear', 'persTitle', 'persSuffix', 'persNote'],
+        include: [
+            {
+                model: Church,
+                as: 'churches',
+                attributes: ['instID', 'instName', 'instYear', 'language', 'church_type', 'instNote', 'city_reg', 'state_orig', 'diocese'],
+                through: {
+                    attributes: []
+                }
+            }
+        ]
+    }).then(data => {
+        if (!data) {
+            res.status(404).send({
+                message: `Cannot find Person with id=${id}.`
+            });
+        } else {
+            res.send(data);
+        }
+    }).catch(err => {
+        res.status(500).send({
+            message: "Error retrieving Person with id=" + id
+        });
+    });
+};
+
 
 exports.delete = (req, res) => {
     const id = req.params.persID;

@@ -9,17 +9,13 @@ module.exports = {
         primaryKey: true,
         type: Sequelize.INTEGER
       },
-      instID: {
-        type: Sequelize.STRING
+      uniqueInstID: {
+        type: Sequelize.STRING,
+        allowNull: false
       },
-      instYear: {
-        type: Sequelize.INTEGER
-      },
-      attendingInstID: {
-        type: Sequelize.STRING
-      },
-      attendingInstYear: {
-        type: Sequelize.INTEGER
+      uniqueAttendingInstID: {
+        type: Sequelize.STRING,
+        allowNull: false
       },
       createdAt: {
         allowNull: true,
@@ -32,9 +28,9 @@ module.exports = {
     });
 
     await queryInterface.addConstraint('Church_Churches', {
-      fields: ['instID', 'instYear', 'attendingInstID', 'attendingInstYear'],
+      fields: ['uniqueInstID', 'uniqueAttendingInstID'],
       type: 'unique',
-      name: 'unique_church_church'
+      name: 'unique_church_church_constraint'
     });
   },
   async down(queryInterface, Sequelize) {

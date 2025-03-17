@@ -12,9 +12,8 @@ describe('CREATE methods for the ChurchChurch model', () => {
         const res = await requestWithSupertest.post('/api/church_church')
             .send([{
                 instID: 'test-inst1',
-                instYear: 1870,
                 attendingInstID: 'test-attendingInst1',
-                attendingInstYear: 1870
+                year: 1870,
         }]);
         expect(res.status).toEqual(200);
         expect(res.body[0]).toHaveProperty('instID');
@@ -33,9 +32,8 @@ describe('CREATE methods for the ChurchChurch model', () => {
         const res = await requestWithSupertest.post('/api/church_church')
             .send([{
                 instID: 'test-inst1',
-                instYear: 1870,
                 attendingInstID: 'test-attendingInst1',
-                attendingInstYear: 1870
+                year: 1870,
         }]);
         expect(res.status).toEqual(500);
     });
@@ -44,9 +42,8 @@ describe('CREATE methods for the ChurchChurch model', () => {
         const res = await requestWithSupertest.post('/api/church_church')
             .send([{
                 instID: 'test-inst2',
-                instYear: 1870,
                 attendingInstID: 'test-attendingInst1',
-                attendingInstYear: 1870
+                year: 1870,
         }]);
     });
 

@@ -3,10 +3,14 @@
 module.exports = {
   async up(queryInterface, Sequelize) {
     await queryInterface.createTable('People', {
-      persID: {
+      uniquePersID: {
         type: Sequelize.STRING,
         allowNull: false,
         primaryKey: true
+      },
+      persID: {
+        type: Sequelize.STRING,
+        allowNull: false,
       },
       persName: {
         type: Sequelize.STRING,
@@ -16,7 +20,6 @@ module.exports = {
       persYear: {
         type: Sequelize.INTEGER,
         allowNull: false,
-        primaryKey: true
       },
       persTitle: {
         type: Sequelize.STRING
@@ -35,12 +38,6 @@ module.exports = {
         allowNull: true,
         type: Sequelize.DATE
       }
-    });
-
-    await queryInterface.addConstraint('People', {
-      fields: ['persID', 'persYear'],
-      type: 'unique',
-      name: 'unique_person'
     });
   },
   async down(queryInterface, Sequelize) {

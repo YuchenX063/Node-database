@@ -30,26 +30,48 @@ async function preprocessCSV(filePath) {
         }
     
         if(row['year']) {
-          row['instYear'] = row['year'];
-          row['persYear'] = row['year'];
-          row['attendingInstYear'] = row['year'];
+          row['instYear'] = parseInt(row['year']);
+          row['persYear'] = parseInt(row['year']);
+          row['attendingInstYear'] = parseInt(row['year']);
           delete row['year'];
+        }
+
+        if(row['instID'] && row['instYear']) {
+          row['uniqueInstID'] = `${row['instYear']}_${row['instID']}`;
+        } else {
+          row['uniqueInstID'] = '';
+        }
+
+        if(row['persID'] && row['persYear']) {
+          row['uniquePersID'] = `${row['persYear']}_${row['persID']}`;
+        } else {
+          row['uniquePersID'] = '';
+        }
+
+        if(row['attendingInstID'] && row['attendingInstYear']) {
+          row['uniqueAttendingInstID'] = `${row['attendingInstYear']}_${row['attendingInstID']}`;
+        } else {
+          row['uniqueAttendingInstID'] = '';
         }
       };
     return data;
 }
 
 async function loadData(directoryPath) {
-  if (process.env.NODE_ENV != 'test') {
-    const csvFilePath = path.join(directoryPath, 'import', 'data');
-    const files = fs.readdirSync(csvFilePath).filter(file => file.endsWith('.csv'));
-    let data = [];
-    for (const file of files) {
-      const filePath = path.join(csvFilePath, file);
-      data.push(await preprocessCSV(filePath));
-    }
-    return data;
+  let csvFilePath;
+  if (process.env.NODE_ENV === 'test') {
+    csvFilePath = path.join(directoryPath, 'import', 'test-data');
   }
+  else {
+    csvFilePath = path.join(directoryPath, 'import', 'data');
+  }
+  const files = fs.readdirSync(csvFilePath).filter(file => file.endsWith('.csv'));
+  let data = [];
+  for (const file of files) {
+    const filePath = path.join(csvFilePath, file);
+    data.push(await preprocessCSV(filePath));
+  }
+  return data;
 }
 
 module.exports = {

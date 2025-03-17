@@ -3,10 +3,14 @@
 module.exports = {
   async up(queryInterface, Sequelize) {
     await queryInterface.createTable('Churches', {
-      instID: {
+      uniqueInstID:{
         type: Sequelize.STRING,
         allowNull: false,
         primaryKey: true
+      },
+      instID: {
+        type: Sequelize.STRING,
+        allowNull: false,
       },
       instName: {
         type: Sequelize.STRING,
@@ -16,7 +20,6 @@ module.exports = {
       instYear: {
         type: Sequelize.INTEGER,
         allowNull: false,
-        primaryKey: true
       },
       church_type: {
         type: Sequelize.STRING,
@@ -66,6 +69,10 @@ module.exports = {
         type: Sequelize.STRING,
         allowNull: true
       },
+      uniqueAttendingInstID: {
+        type: Sequelize.STRING,
+        allowNull: true
+      },
       createdAt: {
         allowNull: true,
         type: Sequelize.DATE
@@ -74,12 +81,6 @@ module.exports = {
         allowNull: true,
         type: Sequelize.DATE
       }
-    });
-
-    await queryInterface.addConstraint('Churches', {
-      fields: ['instID', 'instYear'],
-      type: 'unique',
-      name: 'unique_church'
     });
   },
   async down(queryInterface, Sequelize) {

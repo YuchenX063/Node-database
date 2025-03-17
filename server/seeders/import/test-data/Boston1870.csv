@@ -1,0 +1,343 @@
+﻿instID,church_type,instName,language,instNote,placeName,region,county_orig,county_reg,city_orig,city_reg,state_orig,state_reg,latitude,longitude,attendingInstID,attendingChurch,attendingChurchFrequency,attendingChurchNote,persID,persTitle,persName,persSuffix,persRole,persNote,memberType,member,affiliated,year,diocese
+﻿bos.ma.0001,﻿cathedral,﻿Cathedral Chapel of the Holy Cross,English,﻿(new cathedral building),,,,,﻿Boston,﻿Boston,﻿MA,,42.360082500000004,-71.0588801,,,,,﻿joh_j_williams_001,﻿Right Rev.,﻿John J. Williams,﻿D.D.,,,,,,1870.0,Boston
+﻿bos.ma.0001,﻿cathedral,﻿Cathedral Chapel of the Holy Cross,English,﻿(new cathedral building),,,,,﻿Boston,﻿Boston,﻿MA,,42.360082500000004,-71.0588801,,,,,﻿pf_lyndon_001,﻿Very Rev.,﻿P.F. Lyndon,,"﻿V.G., Rector",,,,,1870.0,Boston
+﻿bos.ma.0001,﻿cathedral,﻿Cathedral Chapel of the Holy Cross,English,﻿(new cathedral building),,,,,﻿Boston,﻿Boston,﻿MA,,42.360082500000004,-71.0588801,,,,,﻿wil_byrne_001,﻿Rev.,﻿William Byrne,,﻿Chancellor,,,,,1870.0,Boston
+﻿bos.ma.0001,﻿cathedral,﻿Cathedral Chapel of the Holy Cross,English,﻿(new cathedral building),,,,,﻿Boston,﻿Boston,﻿MA,,42.360082500000004,-71.0588801,,,,,﻿hil_tucker_001,﻿Rev.,﻿Hilary Tucker,,,,,,,1870.0,Boston
+﻿bos.ma.0001,﻿cathedral,﻿Cathedral Chapel of the Holy Cross,English,﻿(new cathedral building),,,,,﻿Boston,﻿Boston,﻿MA,,42.360082500000004,-71.0588801,,,,,﻿jb_purcell_001,﻿Rev.,﻿J.B. Purcell,,,,,,,1870.0,Boston
+﻿bos.ma.0001,﻿cathedral,﻿Cathedral Chapel of the Holy Cross,English,﻿(new cathedral building),,,,,﻿Boston,﻿Boston,﻿MA,,42.360082500000004,-71.0588801,,,,,﻿jam_donegan_001,﻿Rev.,﻿James Donegan,,,,,,,1870.0,Boston
+﻿bos.ma.0001,﻿cathedral,﻿Cathedral Chapel of the Holy Cross,English,﻿(new cathedral building),,,,,﻿Boston,﻿Boston,﻿MA,,42.360082500000004,-71.0588801,,,,,﻿a_s_healy_001,﻿Rev.,﻿A. Sherwood Healy,,,,,,,1870.0,Boston
+﻿bos.ma.0002,﻿church,﻿St. Mary's,English,,﻿Endicott street,,,,﻿Boston,﻿Boston,﻿MA,,42.3653068,-71.0574069,,,,,﻿den_okane_001,﻿Rev.,﻿Dennis O'Kane,﻿S.J.,,,,,,1870.0,Boston
+﻿bos.ma.0002,﻿church,﻿St. Mary's,English,,﻿Endicott street,,,,﻿Boston,﻿Boston,﻿MA,,42.3653068,-71.0574069,,,,,﻿pb_mcdermott_001,﻿Rev.,﻿P.B. McDermott,﻿S.J.,,,,,,1870.0,Boston
+﻿bos.ma.0002,﻿church,﻿St. Mary's,English,,﻿Endicott street,,,,﻿Boston,﻿Boston,﻿MA,,42.3653068,-71.0574069,,,,,﻿jam_t_tehan_001,﻿Rev.,﻿James T. Tehan,﻿S.J.,,,,,,1870.0,Boston
+﻿bos.ma.0002,﻿church,﻿St. Mary's,English,,﻿Endicott street,,,,﻿Boston,﻿Boston,﻿MA,,42.3653068,-71.0574069,,,,,﻿fr_dompieri_001,﻿Rev.,﻿Fr. Dompieri,﻿S.J.,,,,,,1870.0,Boston
+﻿bos.ma.0003,﻿church,﻿St. Patrick's,English,,,,,,﻿Boston,﻿Boston,﻿MA,,42.360082500000004,-71.0588801,,,,,﻿tho_lynch_001,﻿Rev.,﻿Thomas Lynch,,,,,,,1870.0,Boston
+﻿bos.ma.0003,﻿church,﻿St. Patrick's,English,,,,,,﻿Boston,﻿Boston,﻿MA,,42.360082500000004,-71.0588801,,,,,﻿jos_h_galligher_001,﻿Rev.,﻿Jos. H. Galligher,,,,,,,1870.0,Boston
+﻿bos.ma.0004,﻿church,﻿St. James',English,,,,,,﻿Boston,﻿Boston,﻿MA,,42.326829499999995,-71.08681170000001,,,,,﻿jam_a_healy_001,﻿Rev.,﻿James A. Healy,,,,,,,1870.0,Boston
+﻿bos.ma.0004,﻿church,﻿St. James',English,,,,,,﻿Boston,﻿Boston,﻿MA,,42.326829499999995,-71.08681170000001,,,,,﻿wj_corcoran_001,﻿Rev.,﻿W.J. Corcoran,,,,,,,1870.0,Boston
+﻿bos.ma.0004,﻿church,﻿St. James',English,,,,,,﻿Boston,﻿Boston,﻿MA,,42.326829499999995,-71.08681170000001,,,,,﻿mj_flatley_001,﻿Rev.,﻿M.J. Flatley,,,,,,,1870.0,Boston
+﻿bos.ma.0005,﻿church,﻿Holy Trinity,English,,,,,,﻿Boston,﻿Boston,﻿MA,,42.360082500000004,-71.0588801,,,,,﻿ern_reiter_001,﻿Rev.,﻿Ernest Reiter,﻿S.J.,,,,,,1870.0,Boston
+﻿bos.ma.0005,﻿church,﻿Holy Trinity,English,,,,,,﻿Boston,﻿Boston,﻿MA,,42.360082500000004,-71.0588801,,,,,﻿hug_praessar_001,﻿Rev.,﻿Hugo Praessar,﻿S.J.,,,,,,1870.0,Boston
+﻿bos.ma.0006,﻿church,﻿St. Vincent's,English,,,,,,﻿Boston,﻿Boston,﻿MA,,42.3676619,-71.0911235,,,,,﻿ej_sheridan_001,﻿Rev.,﻿E.J. Sheridan,,,,,,,1870.0,Boston
+﻿bos.ma.0006,﻿church,﻿St. Vincent's,English,,,,,,﻿Boston,﻿Boston,﻿MA,,42.3676619,-71.0911235,,,,,﻿j_murphy_001,﻿Rev.,﻿J. Murphy,,,,,,,1870.0,Boston
+﻿bos.ma.0006,﻿church,﻿St. Vincent's,English,,,,,,﻿Boston,﻿Boston,﻿MA,,42.3676619,-71.0911235,,,,,﻿p_menietti_001,﻿Rev.,﻿P. Menietti,,,,,,,1870.0,Boston
+﻿bos.ma.0007,﻿church,﻿St. Stephen's,English,,,,,,﻿Boston,﻿Boston,﻿MA,,42.34038579999999,-71.0737797,,,,,﻿geo_f_haskins_001,﻿Rev.,﻿George F. Haskins,,,,,,,1870.0,Boston
+﻿bos.ma.0007,﻿church,﻿St. Stephen's,English,,,,,,﻿Boston,﻿Boston,﻿MA,,42.34038579999999,-71.0737797,,,,,﻿rj_quinlan_001,﻿Rev.,﻿R.J. Quinlan,,,,,,,1870.0,Boston
+﻿bos.ma.0007,﻿church,﻿St. Stephen's,English,,,,,,﻿Boston,﻿Boston,﻿MA,,42.34038579999999,-71.0737797,,,,,﻿ant_molinari_001,﻿Rev.,﻿Antonio Molinari,,,,,,,1870.0,Boston
+﻿bos.ma.0008,﻿church,﻿Immaculate Conception,English,,,,,,﻿Boston,﻿Boston,﻿MA,,42.3368175,-71.07317459999999,,,,,﻿rw_brady_001,﻿Rev.,﻿R.W. Brady,﻿S.J.,,,,,,1870.0,Boston
+﻿bos.ma.0008,﻿church,﻿Immaculate Conception,English,,,,,,﻿Boston,﻿Boston,﻿MA,,42.3368175,-71.07317459999999,,,,,﻿eh_welch_001,﻿Rev.,﻿E.H. Welch,﻿S.J.,,,,,,1870.0,Boston
+﻿bos.ma.0008,﻿church,﻿Immaculate Conception,English,,,,,,﻿Boston,﻿Boston,﻿MA,,42.3368175,-71.07317459999999,,,,,﻿rob_fulton_001,﻿Rev.,﻿Robert Fulton,﻿S.J.,,,,,,1870.0,Boston
+﻿bos.ma.0008,﻿church,﻿Immaculate Conception,English,,,,,,﻿Boston,﻿Boston,﻿MA,,42.3368175,-71.07317459999999,,,,,﻿alp_charlier_001,﻿Rev.,﻿Alphonsus Charlier,﻿S.J.,,,,,,1870.0,Boston
+﻿bos.ma.0008,﻿church,﻿Immaculate Conception,English,,,,,,﻿Boston,﻿Boston,﻿MA,,42.3368175,-71.07317459999999,,,,,﻿al_hitzelberger_001,﻿Rev.,﻿A.L. Hitzelberger,﻿S.J.,,,,,,1870.0,Boston
+﻿bos.ma.0008,﻿church,﻿Immaculate Conception,English,,,,,,﻿Boston,﻿Boston,﻿MA,,42.3368175,-71.07317459999999,,,,,﻿e_mcnerhany_001,﻿Rev.,﻿E. McNerhany,﻿S.J.,,,,,,1870.0,Boston
+﻿bos.ma.0008,﻿church,﻿Immaculate Conception,English,,,,,,﻿Boston,﻿Boston,﻿MA,,42.3368175,-71.07317459999999,,,,,﻿s_buteux_001,﻿Rev.,﻿S. Buteux,,,,,,,1870.0,Boston
+﻿bos.ma.0009,﻿church,﻿St. Joseph's,English,,,,,,﻿Boston,﻿Boston,﻿MA,,42.3665655,-71.05256800000001,,,,,﻿ber_oreilly_001,﻿Rev.,﻿Bernard O'Reilly,,,,,,,1870.0,Boston
+﻿bos.ma.0009,﻿church,﻿St. Joseph's,English,,,,,,﻿Boston,﻿Boston,﻿MA,,42.3665655,-71.05256800000001,,,,,﻿dan_healy_001,﻿Rev.,﻿Daniel Healy,,,,,,,1870.0,Boston
+﻿bos.ma.0010,﻿church,﻿SS. Peter and Paul,English,,,,,,﻿Boston,﻿Boston,﻿MA,,42.3665655,-71.05256800000001,,,,,﻿wil_a_blenkinsop_001,﻿Rev.,﻿William A. Blenkinsop,,,,,,,1870.0,Boston
+﻿bos.ma.0010,﻿church,﻿SS. Peter and Paul,English,,,,,,﻿Boston,﻿Boston,﻿MA,,42.3665655,-71.05256800000001,,,,,﻿mic_dolan_001,﻿Rev.,﻿Michael Dolan,,,,,,,1870.0,Boston
+﻿bos.ma.0010,﻿church,﻿SS. Peter and Paul,English,,,,,,﻿Boston,﻿Boston,﻿MA,,42.3665655,-71.05256800000001,,,,,﻿mic_lane_001,﻿Rev.,﻿Michael Lane,,,,,,,1870.0,Boston
+﻿bos.ma.0011,﻿church,﻿Gate of Heaven,English,,﻿City Point,,,,﻿Boston,﻿Boston,﻿MA,,42.335555299999996,-71.03043290000001,,,,,﻿emi_gerbi_001,﻿Rev.,﻿Emiliano Gerbi,﻿O.S.F.,,,,,,1870.0,Boston
+﻿bos.ma.0011,﻿church,﻿Gate of Heaven,English,,﻿City Point,,,,﻿Boston,﻿Boston,﻿MA,,42.335555299999996,-71.03043290000001,,,,,﻿aj_conterno_001,﻿Rev.,﻿A.J. Conterno,﻿O.S.F.,,,,,,1870.0,Boston
+﻿bos.ma.0011,﻿church,﻿Gate of Heaven,English,,﻿City Point,,,,﻿Boston,﻿Boston,﻿MA,,42.335555299999996,-71.03043290000001,,,,,﻿vf_borgialli_001,﻿Rev.,﻿V.F. Borgialli,﻿O.S.F.,,,,,,1870.0,Boston
+﻿bos.ma.0012,﻿church,﻿St. Augustine's,English,,﻿(new church building),,,,﻿Boston,﻿Boston,﻿MA,,42.3354844,-71.0304939,,,,,﻿den_ocallaghan_001,﻿Rev.,﻿Denis O'Callaghan,,,,,,,1870.0,Boston
+﻿bos.ma.0013,﻿church,﻿Most Holy Redeemer,English,,,,,,﻿Boston,﻿Boston,﻿MA,,42.371486600000004,-71.0403364,,,,,﻿jam_fitton_001,﻿Rev.,﻿James Fitton,,,,,,,1870.0,Boston
+﻿bos.ma.0013,﻿church,﻿Most Holy Redeemer,English,,,,,,﻿Boston,﻿Boston,﻿MA,,42.371486600000004,-71.0403364,,,,,﻿jos_h_cassin_001,﻿Rev.,﻿Joseph H. Cassin,,,,,,,1870.0,Boston
+﻿bos.ma.0013,﻿church,﻿Most Holy Redeemer,English,,,,,,﻿Boston,﻿Boston,﻿MA,,42.371486600000004,-71.0403364,,,,,﻿pet_lamb_001,﻿Rev.,﻿Peter Lamb,,,,,,,1870.0,Boston
+﻿bos.ma.0014,﻿church,﻿Our Lady of the Assumption,English,,﻿(church building),,,,﻿Boston,﻿Boston,﻿MA,,42.371486600000004,-71.0403364,﻿bos.ma.0013,﻿Attended by Rev. Joseph H. Cassin,,,,,,,,,,,,1870.0,Boston
+﻿bos.ma.0015,﻿church,﻿St. Joseph's,English,,﻿Boston Highlands,,,,﻿Boston,﻿Boston,﻿MA,,42.371486600000004,-71.0403364,,,,,﻿p_obeirne_001,﻿Rev.,﻿P. O'Beirne,,,,,,,1870.0,Boston
+﻿bos.ma.0015,﻿church,﻿St. Joseph's,English,,﻿Boston Highlands,,,,﻿Boston,﻿Boston,﻿MA,,42.371486600000004,-71.0403364,,,,,﻿joh_p_ryan_001,﻿Rev.,﻿John P. Ryan,,,,,,,1870.0,Boston
+﻿bos.ma.0016,﻿church,﻿St. Francis de Sales,English,,﻿Boston Highlands,,,,﻿Boston,﻿Boston,﻿MA,,42.371486600000004,-71.0403364,,,,,﻿jam_griffin_001,﻿Rev.,﻿James Griffin,,,,,,,1870.0,Boston
+﻿bos.ma.0016,﻿church,﻿St. Francis de Sales,English,,﻿Boston Highlands,,,,﻿Boston,﻿Boston,﻿MA,,42.371486600000004,-71.0403364,,,,,﻿tho_coyle_001,﻿Rev.,﻿Thos. Coyle,,,,,,,1870.0,Boston
+﻿bos.ma.0017,﻿church,﻿St. Gregory,English,,﻿Dorchester,,,,﻿Boston,﻿Boston,﻿MA,,42.2757334,-71.06961020000001,,,,,﻿tho_r_mcnulty_001,﻿Rev.,﻿Thos. R. McNulty,,,,,,,1870.0,Boston
+﻿bos.ma.0018,﻿church,﻿Star of the Sea,English,,﻿East Boston,,,,﻿Boston,﻿Boston,﻿MA,,42.380007899999995,-71.0254241,﻿bos.ma.0013,﻿Attended from the Church of the Most Holy Redeemer,,,,,,,,,,,,1870.0,Boston
+﻿bos.ma.0019,﻿chapel,﻿Chapel of the Blessed Virgin,English,,,,,,﻿Boston,﻿Boston,﻿MA,,42.360082500000004,-71.0588801,﻿bos.ma.0007,﻿Attended from St. Stephen's,,,,,,,,,,,,1870.0,Boston
+﻿bos.ma.0020,﻿chapel,﻿St. Joseph's Chapel,English,,,,,,﻿Boston,﻿Boston,﻿MA,,42.3333975,-71.1739862,﻿bos.ma.0021,﻿Attended from St. Mary's,,,,,,,,,,,,1870.0,Boston
+﻿bos.ma.0021,﻿chapel,﻿St. Mary's Chapel for the Italians,English,,,,,,﻿Boston,﻿Boston,﻿MA,,42.360082500000004,-71.0588801,,,,,﻿dompieri_001,﻿Rev. Father,﻿Dompieri,﻿S.J.,﻿Pastor,,,,,1870.0,Boston
+﻿bos.ma.0022,﻿chapel,﻿Chapel of the New Cathedral,English,,﻿corner of Washington and Union Park street,,,,﻿Boston,﻿Boston,﻿MA,,42.342802299999995,-71.0667677,,﻿Attended from the Episcopal residence,,,,,,,,,,,,1870.0,Boston
+﻿bos.ma.0023,﻿chapel,﻿Chapel of Berkeley Street Academy,English,,,,,,﻿Boston,﻿Boston,﻿MA,,42.3504407,-71.0726605,﻿bos.ma.0021,﻿Attended from St. Mary's,,,,,,,,,,,,1870.0,Boston
+﻿bos.ma.0024,﻿chapel,﻿Guardian Angel Chapel,English,,,,,,﻿Boston,﻿Boston,﻿MA,,42.360082500000004,-71.0588801,﻿bos.ma.0007,﻿Attended by Rev. G.F. Haskins,,,,,,,,,,,,1870.0,Boston
+﻿bos.ma.0025,﻿chapel,﻿Chapel of the Good Shepherd,English,,,,,,﻿Boston,﻿Boston,﻿MA,,42.360082500000004,-71.0588801,﻿bos.ma.0001,﻿Attended from the Cathedral,,,,,,,,,,,,1870.0,Boston
+﻿bos.ma.0026,﻿chapel,﻿St. Mary's Chapel,English,,,,,,﻿Boston,﻿Boston,﻿MA,,42.337096100000004,-71.17052659999999,﻿bos.ma.0021,﻿Attended from St. Mary's Church,,,,,,,,,,,,1870.0,Boston
+﻿bos.ma.0027,﻿church,﻿St. Bridget's,English,,,,,,﻿Abington,﻿Abington,﻿MA,,42.1163123,-70.93712909999999,,,,,﻿al_roche_001,﻿Rev.,﻿A.L. Roche,,,,,,,1870.0,Boston
+﻿bos.ma.0028,﻿church,﻿St. Francis,English,,,,,,﻿North Adams,﻿North Adams,﻿MA,,42.700915,-73.10871479999999,,,,,﻿cha_lynch_001,﻿Rev.,﻿Charles Lynch,,,,,,,1870.0,Boston
+﻿bos.ma.0028,﻿church,﻿St. Francis,English,,,,,,﻿North Adams,﻿North Adams,﻿MA,,42.700915,-73.10871479999999,,,,,﻿j_keily_001,﻿Rev.,﻿J. Keily,,,,,,,1870.0,Boston
+﻿bos.ma.0029,﻿church,﻿new church,English,,,,,,﻿South Adams,﻿South Adams,﻿MA,,42.6242251,-73.11743440000001,﻿bos.ma.0028,﻿Attended from North Adams,,,,,,,,,,,,1870.0,Boston
+﻿bos.ma.0030,﻿church,﻿St. Joseph's,English,,,,,,﻿Amesbury,﻿Amesbury,﻿MA,,42.842245899999995,-70.9338355,,,,,﻿joh_brady_001,﻿Rev.,﻿John Brady,,,,,,,1870.0,Boston
+﻿bos.ma.0031,﻿church,﻿St. Augustine's,English,,,,,,﻿Andover,﻿Andover,﻿MA,,42.6533265,-71.14093659999999,,,,,﻿a_mullen_001,﻿Rev.,﻿A. Mullen,﻿O.S.A.,,,,,,1870.0,Boston
+﻿bos.ma.0032,﻿church,﻿(church building),English,,,,,,﻿North Andover,﻿North Andover,﻿MA,,42.69975720000001,-71.1272438,﻿bos.ma.0101,"﻿Attended from the Church of the Immaculate Conception, Lawrence",,,,,,,,,,,,1870.0,Boston
+﻿bos.ma.0033,﻿church,﻿(church building),English,,,,,,﻿Arlington,﻿Arlington,﻿MA,,42.415392499999996,-71.15647290000001,﻿bos.ma.0051,"﻿Attended from St. Peter's, Cambridge",,,,,,,,,,,,1870.0,Boston
+﻿bos.ma.0034,﻿church,not recorded,English,,,,,,﻿Amherst,﻿Amherst,﻿MA,,42.3732216,-72.5198537,﻿bos.ma.0134,﻿Attended from Northampton,,,,,,,,,,,,1870.0,Boston
+﻿bos.ma.0035,﻿church,﻿St. Bridget's,English,,,,,,﻿Assabet,﻿Assabet,﻿MA,,42.4072107,-71.3824374,﻿bos.ma.0117,﻿Attended from Marlboro,,,,,,,,,,,,1870.0,Boston
+﻿bos.ma.0036,﻿church,﻿St. Catharine's,English,,,,,,﻿Athol,﻿Athol,﻿MA,,42.5601474,-72.245275,﻿bos.ma.0136,﻿Attended from Otter River,,,,,,,,,,,,1870.0,Boston
+﻿bos.ma.0037,﻿church,﻿St. Mary's,English,,,,,,﻿Attleboro,﻿Attleboro,﻿MA,,41.9445441,-71.2856082,,,,,﻿phi_gillick_001,﻿Rev.,﻿Philip Gillick,,,,,,,1870.0,Boston
+﻿bos.ma.0038,﻿church,not recorded,English,,,,,,﻿Barnstable,﻿Barnstable,﻿MA,,41.7003208,-70.3002024,﻿bos.ma.0154,﻿Attended from Sandwich,,,,,,,,,,,,1870.0,Boston
+﻿bos.ma.0039,﻿church,﻿St. Joseph's,English,,,,,,﻿Barre,﻿Barre,﻿MA,,42.4213896,-72.1046822,﻿bos.ma.0049,﻿Attended from North Brookfield,,,,,,,,,,,,1870.0,Boston
+﻿bos.ma.0040,﻿church,not recorded,English,,,,,,﻿Becket,﻿Becket,﻿MA,,42.331990399999995,-73.0829366,﻿bos.ma.0089,﻿Attended from Hinsdale,,,,,,,,,,,,1870.0,Boston
+﻿bos.ma.0041,﻿church,not recorded,English,,,,,,﻿Beverly,﻿Beverly,﻿MA,,42.5584283,-70.880049,﻿bos.ma.0151,﻿Attended from Salem,,,,,,,,,,,,1870.0,Boston
+﻿bos.ma.0042,﻿church,﻿St. Andrew's,English,,,,,,﻿Billerica,﻿Billerica,﻿MA,,42.5584218,-71.2689461,,﻿Attended by The Oblate Fathers of Lowell,,,,,,,,,,,,1870.0,Boston
+﻿bos.ma.0043,﻿church,﻿St. Paul's,English,,,,,,﻿Blackstone,﻿Blackstone,﻿MA,,42.014854299999996,-71.538262,,,,,﻿tho_h_bannon_001,﻿Rev.,﻿Thos. H. Bannon,,,,,,,1870.0,Boston
+﻿bos.ma.0044,﻿church,﻿St. Luke's,English,,,,,,﻿West Boyleston,﻿West Boylston,﻿MA,,42.3667589,-71.785627,﻿bos.ma.0061,﻿Attended from Clinton,,,,,,,,,,,,1870.0,Boston
+﻿bos.ma.0045,﻿church,not recorded,English,,,,,,﻿Braintree,﻿Braintree,﻿MA,,42.20790170000001,-71.0040013,﻿bos.ma.0146,﻿Attended from Quincy,,,,,,,,,,,,1870.0,Boston
+﻿bos.ma.0046,﻿church,﻿St. Patrick's,English,,,,,,﻿North Bridgewater,﻿North Bridgewater,﻿MA,,41.9903519,-70.9750541,,,,,﻿tb_mcnulty_001,﻿Rev.,﻿T.B. McNulty,,,,,,,1870.0,Boston
+﻿bos.ma.0047,﻿church,﻿St. Thomas Aquinas',English,,,,,,﻿South Bridgewater,﻿South Bridgewater,﻿MA,,41.99762379999999,-70.9882017,,,,,﻿joh_a_conlin_001,﻿Rev.,﻿John A. Conlin,,,,,,,1870.0,Boston
+﻿bos.ma.0048,﻿church,﻿St. Columba,English,,,,,,﻿Brighton,﻿Brighton,﻿MA,,42.3489143,-71.16049190000001,﻿bos.ma.0050,﻿Attended from Brookline,,,,,,,,,,,,1870.0,Boston
+﻿bos.ma.0049,﻿church,﻿St. Joseph's,English,,,,,,﻿North Brookfield,﻿North Brookfield,﻿MA,,42.2801208,-72.0916984,,,,,﻿hen_m_smyth_001,﻿Rev.,﻿Henry M. Smyth,,,,,,,1870.0,Boston
+﻿bos.ma.0050,﻿church,﻿Assumption,English,,,,,,﻿Brookline,﻿Brookline,﻿MA,,42.3317642,-71.1211635,,,,,﻿jos_m_finotti_001,﻿Rev.,﻿Jos. M. Finotti,,,,,,,1870.0,Boston
+﻿bos.ma.0050,﻿church,﻿Assumption,English,,,,,,﻿Brookline,﻿Brookline,﻿MA,,42.3317642,-71.1211635,,,,,﻿jas_c_murphy_001,﻿Rev.,﻿Jas. C. Murphy,,,,,,,1870.0,Boston
+﻿bos.ma.0051,﻿church,﻿St. Peter's,English,,,,,,﻿Cambridge,﻿Cambridge,﻿MA,,42.3815709,-71.1300768,,,,,﻿mp_dougherty_001,﻿Rev.,﻿M.P. Dougherty,,,,,,,1870.0,Boston
+﻿bos.ma.0051,﻿church,﻿St. Peter's,English,,,,,,﻿Cambridge,﻿Cambridge,﻿MA,,42.3815709,-71.1300768,,,,,﻿tho_m_lane_001,﻿Rev.,﻿Thos. M. Lane,,,,,,,1870.0,Boston
+﻿bos.ma.0052,﻿church,﻿St. John's,English,,﻿East Cambridge,,,,﻿Cambridge,﻿Cambridge,﻿MA,,42.368604299999994,-71.0773939,,,,,﻿jw_donahoe_001,﻿Rev.,﻿J.W. Donahoe,,,,,,,1870.0,Boston
+﻿bos.ma.0052,﻿church,﻿St. John's,English,,﻿East Cambridge,,,,﻿Cambridge,﻿Cambridge,﻿MA,,42.368604299999994,-71.0773939,,,,,﻿m_oreilly_001,﻿Rev.,﻿M. O'Reilly,,,,,,,1870.0,Boston
+﻿bos.ma.0053,﻿church,﻿St. Mary's,English,,﻿Cambridgeport,,,,﻿Cambridge,﻿Cambridge,﻿MA,,42.371418299999995,-71.10198890000001,,,,,﻿tho_scully_001,﻿Rev.,﻿Thos. Scully,,,,,,,1870.0,Boston
+﻿bos.ma.0053,﻿church,﻿St. Mary's,English,,﻿Cambridgeport,,,,﻿Cambridge,﻿Cambridge,﻿MA,,42.371418299999995,-71.10198890000001,,,,,﻿tim_brosnahan_001,﻿Rev.,﻿Timothy Brosnahan,,,,,,,1870.0,Boston
+﻿bos.ma.0054,﻿church,﻿St. Mary's,English,,,,,,﻿Canton,﻿Canton,﻿MA,,42.158432399999995,-71.1447732,,,,,﻿joh_flattelly_001,﻿Rev.,﻿John Flattelly,,,,,,,1870.0,Boston
+﻿bos.ma.0055,﻿church,﻿St. Mary's,English,,,,,,﻿Charlestown,﻿Charlestown,﻿MA,,42.373967,-71.061543,,,,,﻿ga_hamilton_001,﻿Rev.,﻿G.A. Hamilton,,,,,,,1870.0,Boston
+﻿bos.ma.0055,﻿church,﻿St. Mary's,English,,,,,,﻿Charlestown,﻿Charlestown,﻿MA,,42.373967,-71.061543,,,,,﻿joh_obrien_001,﻿Rev.,﻿John O'Brien,,,,,,,1870.0,Boston
+﻿bos.ma.0056,﻿church,﻿St. Francis de Sales,English,,,,,,﻿Charlestown,﻿Charlestown,﻿MA,,42.3812526,-71.06653680000001,,,,,﻿mic_supple_001,﻿Rev.,﻿Michael Supple,,,,,,,1870.0,Boston
+﻿bos.ma.0056,﻿church,﻿St. Francis de Sales,English,,,,,,﻿Charlestown,﻿Charlestown,﻿MA,,42.3812526,-71.06653680000001,,,,,﻿mic_green_001,﻿Rev.,﻿Mich'l Green,,,,,,,1870.0,Boston
+﻿bos.ma.0057,﻿church,﻿St. John the Evangelist,English,,,,,,﻿Chelmsford,﻿Chelmsford,﻿MA,,42.635479700000005,-71.3732491,﻿bos.ma.0084,﻿Attended from Groton Junction,,,,,,,,,,,,1870.0,Boston
+﻿bos.ma.0058,﻿church,﻿St. Rose,English,,,,,,﻿Chelsea,﻿Chelsea,﻿MA,,42.394432200000004,-71.03195809999998,,,,,﻿jam_mcglew_001,﻿Rev.,﻿James McGlew,,,,,,,1870.0,Boston
+﻿bos.ma.0059,﻿church,﻿Assumption,English,,,,,,﻿Cheshire,﻿Cheshire,﻿MA,,42.562027799999996,-73.162881,﻿bos.ma.0141,﻿Attended from Pittsfield,,,,,,,,,,,,1870.0,Boston
+﻿bos.ma.0060,﻿church,﻿Most Holy Name of Jesus,English,,,,,,﻿Chicopee,﻿Chicopee,﻿MA,,42.1464197,-72.6055811,,,,,﻿pat_healy_001,﻿Rev.,﻿Patrick Healy,,,,,,,1870.0,Boston
+﻿bos.ma.0060,﻿church,﻿Most Holy Name of Jesus,English,,,,,,﻿Chicopee,﻿Chicopee,﻿MA,,42.1464197,-72.6055811,,,,,﻿p_mcmanus_001,﻿Rev.,﻿P. McManus,,,,,,,1870.0,Boston
+﻿bos.ma.0061,﻿church,﻿St. John's,English,,,,,,﻿Clinton,﻿Clinton,﻿MA,,42.4164766,-71.68628050000001,,,,,﻿rj_patterson_001,﻿Rev.,﻿R.J. Patterson,,,,,,,1870.0,Boston
+﻿bos.ma.0062,﻿church,not recorded,English,,,,,,﻿Cohasset,﻿Cohasset,﻿MA,,42.2417675,-70.80365440000001,﻿bos.ma.0187,﻿Attended from Weymouth,,,,,,,,,,,,1870.0,Boston
+﻿bos.ma.0063,﻿church,﻿St. Bernard's,English,,,,,,﻿Concord,﻿Concord,﻿MA,,42.4603719,-71.34894840000001,﻿bos.ma.0107,﻿Attended from East Lexington,,,,,,,,,,,,1870.0,Boston
+﻿bos.ma.0064,﻿church,﻿Visitation,English,,,,,,﻿Danvers,﻿Danvers,﻿MA,,42.5750009,-70.93212199999999,,,,,﻿cha_rainoni_001,﻿Rev.,﻿Chas. Rainoni,,,,,,,1870.0,Boston
+﻿bos.ma.0065,﻿church,not recorded,English,,,,,,﻿Dartmouth,﻿Dartmouth,﻿MA,,41.6130323,-70.9704787,﻿bos.ma.0129,﻿Attended from New Bedford,,,,,,,,,,,,1870.0,Boston
+﻿bos.ma.0066,﻿church,﻿St. Mary's,English,,,,,,﻿Dedham,﻿Dedham,﻿MA,,42.248221799999996,-71.1666804,,,,,﻿joh_brennan_001,﻿Rev.,﻿John Brennan,,,,,,,1870.0,Boston
+﻿bos.ma.0067,﻿church,﻿St. Catharine's,English,,,,,,﻿South Dedham,﻿Dedham,﻿MA,,42.2436085,-71.1676536,,,,,﻿joh_brennan_001,﻿Rev.,﻿John Brennan,,,,,,,1870.0,Boston
+﻿bos.ma.0068,﻿church,not recorded,English,,,,,,﻿Deerfield,﻿Deerfield,﻿MA,,42.5445588,-72.6056435,﻿bos.ma.0083,﻿Attended from Greenfield,,,,,,,,,,,,1870.0,Boston
+﻿bos.ma.0069,﻿church,not recorded,English,,,,,,﻿Dighton,﻿Dighton,﻿MA,,41.843859,-71.1567344,﻿bos.ma.0135,﻿Attended from Taunton,,,,,,,,,,,,1870.0,Boston
+﻿bos.ma.0070,﻿church,﻿St. Patrick's,English,,,,,,﻿Douglas,﻿Douglas,﻿MA,,42.0543449,-71.739379,﻿bos.ma.0175,﻿Attended from Uxbridge,,,,,,,,,,,,1870.0,Boston
+﻿bos.ma.0071,﻿church,﻿Immaculate Conception,English,,,,,,﻿North Easton,﻿Easton,﻿MA,,42.0245442,-71.1286594,﻿bos.ma.0046,﻿Attended from North Bridgewater,,,,,,,,,,,,1870.0,Boston
+﻿bos.ma.0072,﻿church,not recorded,English,,,,,,﻿Enfield,﻿Quabban Reservoir,﻿MA,,42.3830198,-72.31335290000001,﻿bos.ma.0180,﻿Attended from Ware,,,,,,,,,,,,1870.0,Boston
+﻿bos.ma.0073,﻿church,not recorded,English,,,,,,﻿East Hampton,﻿Easthampton,﻿MA,,42.266757,-72.66898,﻿bos.ma.0134,﻿Attended from Northampton,,,,,,,,,,,,1870.0,Boston
+﻿bos.ma.0074,﻿church,﻿St. Mary's,English,,,,,,﻿Fall River,﻿Fall River,﻿MA,,41.6989912,-71.1575452,,,,,﻿edw_murphy_001,﻿Rev.,﻿Edward Murphy,,,,,,,1870.0,Boston
+﻿bos.ma.0074,﻿church,﻿St. Mary's,English,,,,,,﻿Fall River,﻿Fall River,﻿MA,,41.6989912,-71.1575452,,,,,﻿mic_moran_001,﻿Rev.,﻿Michael Moran,,,,,,,1870.0,Boston
+﻿bos.ma.0074,﻿church,﻿St. Mary's,English,,,,,,﻿Fall River,﻿Fall River,﻿MA,,41.6989912,-71.1575452,,,,,﻿e_murphy_001,﻿Rev.,﻿E. Murphy,,,,,,,1870.0,Boston
+﻿bos.ma.0074,﻿church,﻿St. Mary's,English,,,,,,﻿Fall River,﻿Fall River,﻿MA,,41.6989912,-71.1575452,,,,,﻿a_d_montaubricq_001,﻿Rev.,﻿A. De Montaubricq,,,,,,,1870.0,Boston
+﻿bos.ma.0074,﻿church,﻿St. Mary's,English,,,,,,﻿Fall River,﻿Fall River,﻿MA,,41.6989912,-71.1575452,,,,,﻿mf_l_breton_001,﻿Rev.,﻿M.F. Le Breton,,,,,,,1870.0,Boston
+﻿bos.ma.0075,﻿church,﻿St. Bernard's,English,,﻿(new church building),,,,﻿Fitchburg,﻿Fitchburg,﻿MA,,42.5773499,-71.7844948,,,,,﻿cor_m_foley_001,﻿Rev.,﻿Cornelius M. Foley,,,,,,,1870.0,Boston
+﻿bos.ma.0075,﻿church,﻿St. Bernard's,English,,﻿(new church building),,,,﻿Fitchburg,﻿Fitchburg,﻿MA,,42.5773499,-71.7844948,,,,,﻿joh_m_kremman_001,﻿Rev.,﻿John M. Kremman,,,,,,,1870.0,Boston
+﻿bos.ma.0076,﻿church,﻿(church building),English,,,,,,﻿Foxboro,﻿Foxboro,﻿MA,,42.0607458,-71.2481706,﻿bos.ma.0037,﻿Attended from Attleboro,,,,,,,,,,,,1870.0,Boston
+﻿bos.ma.0077,﻿church,not recorded,English,,,,,,﻿Framingham,﻿Framingham,﻿MA,,42.279286,-71.4161565,﻿bos.ma.0127,﻿Attended from Natick,,,,,,,,,,,,1870.0,Boston
+﻿bos.ma.0078,﻿church,not recorded,English,,,,,,﻿Franklin,﻿Franklin,﻿MA,,42.083431299999994,-71.396725,﻿bos.ma.0037,﻿Attended from Attleboro,,,,,,,,,,,,1870.0,Boston
+﻿bos.ma.0079,﻿church,not recorded,English,,,,,,﻿Gardner,﻿Gardner,﻿MA,,42.5750883,-71.998133,﻿bos.ma.0136,﻿Attended from Otter River,,,,,,,,,,,,1870.0,Boston
+﻿bos.ma.0080,﻿church,﻿St. Ann's,English,,,,,,﻿Gloucester,﻿Gloucester,﻿MA,,42.615934,-70.6630684,,,,,﻿lui_acquarone_001,﻿Rev.,﻿Luigi Acquarone,,,,,,,1870.0,Boston
+﻿bos.ma.0081,﻿church,﻿St. Philip's,English,,,,,,﻿Grafton,﻿Grafton,﻿MA,,42.204838099999996,-71.6889377,,,,,﻿mj_doherty_001,﻿Rev.,﻿M.J. Doherty,,,,,,,1870.0,Boston
+﻿bos.ma.0082,﻿church,﻿St. Peter's,English,,,,,,﻿Great Barrington,﻿Great Barrington,﻿MA,,42.19656810000001,-73.3605323,,,,,﻿cha_grace_001,﻿Rev.,﻿Charles Grace,,,,,,,1870.0,Boston
+﻿bos.ma.0083,﻿church,not recorded,English,,,,,,﻿Greenfield,﻿Greenfield,﻿MA,,42.587915,-72.59941040000001,,,,,﻿hl_robinson_001,﻿Rev.,﻿H.L. Robinson,,,,,,,1870.0,Boston
+﻿bos.ma.0084,﻿church,﻿St. Mary's,English,,,,,,﻿Groton Junction,﻿Groton,﻿MA,,42.611201799999996,-71.5745152,,,,,﻿jn_baratta_001,﻿Rev.,﻿J.N. Baratta,,,,,,,1870.0,Boston
+﻿bos.ma.0085,﻿church,﻿St. Patrick's,English,,,,,,﻿South Hadley,﻿South Hadley,﻿MA,,42.215555,-72.597414,﻿bos.ma.0092,﻿Attended from Holyoke,,,,,,,,,,,,1870.0,Boston
+﻿bos.ma.0086,﻿church,﻿Holy Trinity,English,,,,,,﻿Harwich,﻿Harwich,﻿Ma,,41.6696277,-70.1002968,,,,,﻿cor_oconnor_001,﻿Rev.,﻿Cornelius O'Connor,,,,,,,1870.0,Boston
+﻿bos.ma.0087,﻿church,﻿St. Gregory's,English,,,,,,﻿Haverhill,﻿Haverhill,﻿MA,,42.7803453,-71.08582840000001,,,,,﻿jt_mcdonnell_001,﻿Rev.,﻿J.T. McDonnell,﻿O.S.D.,,,,,,1870.0,Boston
+﻿bos.ma.0087,﻿church,﻿St. Gregory's,English,,,,,,﻿Haverhill,﻿Haverhill,﻿MA,,42.7803453,-71.08582840000001,,,,,﻿ric_cummins_001,﻿Rev.,﻿Richard Cummins,,,,,,,1870.0,Boston
+﻿bos.ma.0087,﻿church,﻿St. Gregory's,English,,,,,,﻿Haverhill,﻿Haverhill,﻿MA,,42.7803453,-71.08582840000001,,,,,﻿tho_cummins_001,﻿Rev.,﻿Thos. Cummins,,,,,,,1870.0,Boston
+﻿bos.ma.0088,﻿church,not recorded,English,,,,,,﻿Hingham,﻿Hingham,﻿MA,,42.2418172,-70.889759,﻿bos.ma.0187,﻿Attended from Weymouth,,,,,,,,,,,,1870.0,Boston
+﻿bos.ma.0089,﻿church,﻿St. Patrick's,English,,,,,,﻿Hinsdale,﻿Hinsdale,﻿MA,,42.4533984,-73.13668,,,,,﻿ant_romana_001,﻿Rev.,﻿Antony Romana,,,,,,,1870.0,Boston
+﻿bos.ma.0090,﻿church,﻿St. Mary's,English,,,,,,﻿Holden,﻿Holden,﻿MA,,42.3637195,-71.88066009999999,﻿bos.ma.0191,"﻿Attended from St. John's, Worcester",,,,,,,,,,,,1870.0,Boston
+﻿bos.ma.0091,﻿church,﻿(new church),English,,,,,,﻿Holliston,﻿Holliston,﻿MA,,42.2012626,-71.4247176,﻿bos.ma.0122,﻿Attended from Milford,,,,,,,,,,,,1870.0,Boston
+﻿bos.ma.0092,﻿church,﻿St. Jerome's,English,,,,,,﻿Holyoke,﻿Holyoke,﻿MA,,42.2096607,-72.6082792,,,,,﻿pj_harkins_001,﻿Rev.,﻿P.J. Harkins,,,,,,,1870.0,Boston
+﻿bos.ma.0092,﻿church,﻿St. Jerome's,English,,,,,,﻿Holyoke,﻿Holyoke,﻿MA,,42.2096607,-72.6082792,,,,,﻿fj_lyncg_001,﻿Rev.,﻿F.J. Lyncg,,,,,,,1870.0,Boston
+﻿bos.ma.0093,﻿church,not recorded,English,﻿Canadian congregation,,,,,﻿Holyoke,﻿Holyoke,﻿MA,,42.2042586,-72.61620090000001,,﻿Attended by Rev. A. B. Dufresne,,,,,,,,,,,,1870.0,Boston
+﻿bos.ma.0094,﻿church,﻿St. Mary's,English,,,,,,﻿Haydenville,﻿Haydenville,﻿MA,,42.3774516,-72.7038047,﻿bos.ma.0134,﻿Attended from Northampton,,,,,,,,,,,,1870.0,Boston
+﻿bos.ma.0095,﻿church,﻿St. Malachi's,English,,,,,,﻿Hopkinton,﻿Hopkinton,﻿MA,,42.2286954,-71.5225646,,,,,﻿tho_barry_001,﻿Rev.,﻿Thomas Barry,,,,,,,1870.0,Boston
+﻿bos.ma.0095,﻿church,﻿St. Malachi's,English,,,,,,﻿Hopkinton,﻿Hopkinton,﻿MA,,42.2286954,-71.5225646,,,,,﻿dj_ofarrell_001,﻿Rev.,﻿D.J. O'Farrell,,,,,,,1870.0,Boston
+﻿bos.ma.0096,﻿church,not recorded,English,,﻿Hyde Park,,,,﻿Hyde Park,﻿Boston,﻿MA,,42.2556619,-71.1255855,,﻿Attended from Milton Lower Mills,,,,,,,,,,,,1870.0,Boston
+﻿bos.ma.0097,﻿church,﻿(church building),English,,,,,,﻿Hudson,﻿Hudson,﻿MA,,42.3931939,-71.56690079999998,﻿bos.ma.0117,﻿Attended from Marlboro,,,,,,,,,,,,1870.0,Boston
+﻿bos.ma.0098,﻿church,﻿St. Matthew's,English,,,,,,﻿Indian Orchard,﻿Springfield,﻿MA,,42.138485700000004,-72.60136,﻿bos.ma.0204,﻿Attended from Chicopee,,,,,,,,,,,,1870.0,Boston
+﻿bos.ma.0099,﻿church,not recorded,English,,,,,,﻿Ipswich,﻿Ipswich,﻿MA,,42.679183200000004,-70.8411558,﻿bos.ma.0131,﻿Attended from Newburyport,,,,,,,,,,,,1870.0,Boston
+﻿bos.ma.0100,﻿church,﻿(church building),English,,﻿Roxbury,,,,﻿Jamaica Plain,﻿Jamaica Plain,﻿MA,,42.313241399999995,-71.1141118,,,,,﻿tl_maginness_001,﻿Rev.,﻿T.L. Maginness,,,,,,,1870.0,Boston
+﻿bos.ma.0101,﻿church,﻿Immaculate Conception,English,,,,,,﻿Lawrence,﻿Lawrence,﻿MA,,42.7070354,-71.1631137,,,,,﻿wil_orr_001,﻿Rev.,﻿William Orr,,,,,,,1870.0,Boston
+﻿bos.ma.0101,﻿church,﻿Immaculate Conception,English,,,,,,﻿Lawrence,﻿Lawrence,﻿MA,,42.7070354,-71.1631137,,,,,﻿chr_mcgrath_001,﻿Rev.,﻿Christopher McGrath,,,,,,,1870.0,Boston
+﻿bos.ma.0101,﻿church,﻿Immaculate Conception,English,,,,,,﻿Lawrence,﻿Lawrence,﻿MA,,42.7070354,-71.1631137,,,,,﻿wil_j_coughlan_001,﻿Rev.,﻿William J. Coughlan,,,,,,,1870.0,Boston
+﻿bos.ma.0102,﻿church,﻿St. Mary's,English,,﻿(new church building),,,,﻿Lawrence,﻿Lawrence,﻿MA,,42.7070354,-71.1631137,,,,,﻿lou_m_edge_001,﻿Rev.,﻿Louis M. Edge,﻿O.S.A.,,,,,,1870.0,Boston
+﻿bos.ma.0102,﻿church,﻿St. Mary's,English,,﻿(new church building),,,,﻿Lawrence,﻿Lawrence,﻿MA,,42.7070354,-71.1631137,,,,,﻿w_harnett_001,﻿Rev.,﻿W. Harnett,﻿O.S.A.,,,,,,1870.0,Boston
+﻿bos.ma.0102,﻿church,﻿St. Mary's,English,,﻿(new church building),,,,﻿Lawrence,﻿Lawrence,﻿MA,,42.7070354,-71.1631137,,,,,﻿joh_p_gilmore_001,﻿Rev.,﻿John P. Gilmore,﻿O.S.A.,,,,,,1870.0,Boston
+﻿bos.ma.0103,﻿church,﻿St. Mary's,English,,,,,,﻿Lee,﻿Lee,﻿MA,,42.307455499999996,-73.24322009999999,,,,,﻿geo_h_brennan_001,﻿Rev.,﻿George H. Brennan,,,,,,,1870.0,Boston
+﻿bos.ma.0103,﻿church,﻿St. Mary's,English,,,,,,﻿Lee,﻿Lee,﻿MA,,42.307455499999996,-73.24322009999999,,,,,﻿fra_brennan_001,﻿Rev.,﻿Francis Brennan,,,,,,,1870.0,Boston
+﻿bos.ma.0104,﻿church,﻿St. Polycarp's,English,,,,,,﻿Leicester,﻿Leicester,﻿MA,,42.245926000000004,-71.9086843,﻿bos.ma.0197,﻿Attended from Holy Cross College,,,,,,,,,,,,1870.0,Boston
+﻿bos.ma.0105,﻿church,not recorded,English,,,,,,﻿Lenox,﻿Lenox,﻿MA,,42.3564609,-73.2848762,﻿bos.ma.0103,﻿Attended from Lee,,,,,,,,,,,,1870.0,Boston
+﻿bos.ma.0106,﻿church,﻿St. Leo,English,,,,,,﻿Leominster,﻿Leominster,﻿MA,,42.529686600000005,-71.757858,﻿bos.ma.0075,﻿Attended from Fitchburgh,,,,,,,,,,,,1870.0,Boston
+﻿bos.ma.0107,﻿church,﻿St. Bridget's,English,,,,,,﻿East Lexington,﻿East Lexington,﻿MA,,42.4273179,-71.20366640000002,,,,,﻿pj_canny_001,﻿Rev.,﻿P.J. Canny,,,,,,,1870.0,Boston
+﻿bos.ma.0108,﻿church,﻿St. Peter's,English,,,,,,﻿Lowell,﻿Lowell,﻿MA,,42.633424700000006,-71.3161718,,,,,﻿pet_crudden_001,﻿Rev.,﻿Peter Crudden,,,,,,,1870.0,Boston
+﻿bos.ma.0108,﻿church,﻿St. Peter's,English,,,,,,﻿Lowell,﻿Lowell,﻿MA,,42.633424700000006,-71.3161718,,,,,﻿tho_norris_001,﻿Rev.,﻿Thomas Norris,,,,,,,1870.0,Boston
+﻿bos.ma.0109,﻿church,﻿St. Patrick's,English,,,,,,﻿Lowell,﻿Lowell,﻿MA,,42.645245200000005,-71.3177625,,,,,﻿joh_obrien_001,﻿Rev.,﻿John O'Brien,,,,,,,1870.0,Boston
+﻿bos.ma.0109,﻿church,﻿St. Patrick's,English,,,,,,﻿Lowell,﻿Lowell,﻿MA,,42.645245200000005,-71.3177625,,,,,﻿mic_obrien_001,﻿Rev.,﻿Michael O'Brien,,,,,,,1870.0,Boston
+﻿bos.ma.0109,﻿church,﻿St. Patrick's,English,,,,,,﻿Lowell,﻿Lowell,﻿MA,,42.645245200000005,-71.3177625,,,,,﻿aj_teeling_001,﻿Rev.,﻿A.J. Teeling,,,,,,,1870.0,Boston
+﻿bos.ma.0110,﻿church,﻿St. Mary's,English,,,,,,﻿Lowell,﻿Lowell,﻿MA,,42.633424700000006,-71.3161718,﻿bos.ma.0109,﻿Attended from St. Patrick's,,,,,,,,,,,,1870.0,Boston
+﻿bos.ma.0111,﻿church,﻿St. Joseph's,English,,,,,,﻿Lowell,﻿Lowell,﻿MA,,42.654861600000004,-71.33245009999999,,,,,﻿am_garin_001,﻿Rev.,﻿A.M. Garin,﻿O.M.I.,,,,,,1870.0,Boston
+﻿bos.ma.0111,﻿church,﻿St. Joseph's,English,,,,,,﻿Lowell,﻿Lowell,﻿MA,,42.654861600000004,-71.33245009999999,,,,,﻿jos_guillard_001,﻿Rev.,﻿Jos. Guillard,﻿O.M.I.,,,,,,1870.0,Boston
+﻿bos.ma.0111,﻿church,﻿St. Joseph's,English,,,,,,﻿Lowell,﻿Lowell,﻿MA,,42.654861600000004,-71.33245009999999,,,,,﻿lou_lebret_001,﻿Rev.,﻿Louis Lebret,﻿O.M.I.,,,,,,1870.0,Boston
+﻿bos.ma.0111,﻿church,﻿St. Joseph's,English,,,,,,﻿Lowell,﻿Lowell,﻿MA,,42.654861600000004,-71.33245009999999,,,,,﻿l_bourke_001,﻿Rev.,﻿L. Bourke,﻿O.M.I.,,,,,,1870.0,Boston
+﻿bos.ma.0112,﻿chapel,﻿St. John's Chapel,English,,,,,,﻿Lowell,﻿Lowell,﻿MA,,42.6382667,-71.30851379999999,﻿bos.ma.0218,﻿Attended by the Chaplain of St. John's Hospital,,,,,,,,,,,﻿At present in charge of the Oblate Fathers,1870.0,Boston
+﻿bos.ma.0113,﻿church,﻿St. Mary's,English,,,,,,﻿Lynn,﻿Lynn,﻿MA,,42.462988700000004,-70.9507025,,,,,﻿p_strain_001,﻿Rev.,﻿P. Strain,,,,,,,1870.0,Boston
+﻿bos.ma.0114,﻿church,﻿Immacultate Conception,English,,,,,,﻿Malden,﻿Malden,﻿MA,,42.4247646,-71.0874735,,,,,﻿tho_g_thomas gleesonb   _001,﻿Rev.,"﻿Thomas Gleeson,b",,,,,,,1870.0,Boston
+﻿bos.ma.0115,﻿church,not recorded,English,,,,,,﻿Mansfield,﻿Mansfield,﻿MA,,42.0334565,-71.2190578,﻿bos.ma.0037,﻿Attended from Attleboro,,,,,,,,,,,,1870.0,Boston
+﻿bos.ma.0116,﻿church,﻿Star of the Sea,English,,,,,,﻿Marblehead,﻿Marblehead,﻿MA,,42.4972713,-70.85843349999999,﻿bos.ma.0064,﻿Attended from Danvers,,,,,,,,,,,,1870.0,Boston
+﻿bos.ma.0117,﻿church,﻿Immaculate Conception,English,,,,,,﻿Marlboro,﻿Marlboro,﻿MA,,42.347628,-71.54997359999999,,,,,﻿mt_maguire_001,﻿Rev.,﻿M.T. Maguire,,,,,,,1870.0,Boston
+﻿bos.ma.0117,﻿church,﻿Immaculate Conception,English,,,,,,﻿Marlboro,﻿Marlboro,﻿MA,,42.347628,-71.54997359999999,,,,,﻿jul_cosson_001,﻿Rev.,﻿Julius Cosson,,,,,,,1870.0,Boston
+﻿bos.ma.0118,﻿church,not recorded,English,,,,,,﻿Medford,﻿Medford,﻿MA,,42.4184296,-71.10616390000001,﻿bos.ma.0114,﻿Attended from Malden,,,,,,,,,,,,1870.0,Boston
+﻿bos.ma.0119,﻿church,﻿(new church),English,,,,,,﻿Medway,﻿Medway,﻿MA,,42.4184296,-71.10616390000001,﻿bos.ma.0122,﻿Attended from Milford,,,,,,,,,,,,1870.0,Boston
+﻿bos.ma.0120,﻿church,not recorded,English,,,,,,﻿Methuen,﻿Methuen,﻿MA,,42.7262016,-71.19089240000001,﻿bos.ma.0031,﻿Attended from Andover,,,,,,,,,,,,1870.0,Boston
+﻿bos.ma.0121,﻿church,not recorded,English,,,,,,﻿Middleboro,﻿Middleborough,﻿MA,,41.892994200000004,-70.9107708,﻿bos.ma.0047,﻿Attended from South Bridgewater,,,,,,,,,,,,1870.0,Boston
+﻿bos.ma.0122,﻿church,﻿St. Mary's,English,,﻿(new church building),,,,﻿Milford,﻿Milford,﻿MA,,42.13985770000001,-71.51630490000001,,,,,﻿p_cuddihy_001,﻿Rev.,﻿P. Cuddihy,,,,,,,1870.0,Boston
+﻿bos.ma.0122,﻿church,﻿St. Mary's,English,,﻿(new church building),,,,﻿Milford,﻿Milford,﻿MA,,42.13985770000001,-71.51630490000001,,,,,﻿jam_mcdermott_001,﻿Rev.,﻿James McDermott,,,,,,,1870.0,Boston
+﻿bos.ma.0123,﻿church,﻿St. Bridget's,English,,,,,,﻿Millbury,﻿Millbury,﻿MA,,42.192071899999995,-71.761522,,,,,﻿mj_doherty_001,﻿Rev.,﻿M.J. Doherty,,,,,,,1870.0,Boston
+﻿bos.ma.0124,﻿church,﻿St. Patrick's,English,,,,,,﻿Monson,﻿Monson,﻿MA,,42.0947379,-72.31293409999999,﻿bos.ma.0138,﻿Attended from Palmer,,,,,,,,,,,,1870.0,Boston
+﻿bos.ma.0125,﻿church,not recorded,English,,,,,,﻿Nahant,﻿Nahant,﻿MA,,42.4265633,-70.922279,﻿bos.ma.0113,﻿Attended from Lynn,,,,,,,,,,,,1870.0,Boston
+﻿bos.ma.0126,﻿church,not recorded,English,,,,,,﻿Nantucket,﻿Nantucket,﻿MA,,41.28394,-70.09998909999999,﻿bos.ma.0144,﻿Attended from Provincetown,,,,,,,,,,,,1870.0,Boston
+﻿bos.ma.0127,﻿church,﻿St. Patrick's,English,,,,,,﻿Natick,﻿Natick,﻿MA,,42.284797499999996,-71.3439518,,,,,﻿joh_walsh_002,﻿Rev.,﻿John Walsh,,,,,,,1870.0,Boston
+﻿bos.ma.0127,﻿church,﻿St. Patrick's,English,,,,,,﻿Natick,﻿Natick,﻿MA,,42.284797499999996,-71.3439518,,,,,﻿mic_walsh_001,﻿Rev.,﻿Mich. Walsh,,,,,,,1870.0,Boston
+﻿bos.ma.0128,﻿church,not recorded,English,,,,,,﻿Needham,﻿Needham,﻿MA,,42.280928499999995,-71.23775479999999,﻿bos.ma.0127,﻿Attended from Natick,,,,,,,,,,,,1870.0,Boston
+﻿bos.ma.0129,﻿church,﻿St. Mary's,English,,﻿(new church building),,,,﻿New Bedford,﻿New Bedford,﻿MA,,41.6362152,-70.934205,,,,,﻿ls_mcmahon_001,﻿Rev.,﻿L.S. McMahon,,,,,,,1870.0,Boston
+﻿bos.ma.0129,﻿church,﻿St. Mary's,English,,﻿(new church building),,,,﻿New Bedford,﻿New Bedford,﻿MA,,41.6362152,-70.934205,,,,,﻿pet_ronan_001,﻿Rev.,﻿Peter Ronan,,,,,,,1870.0,Boston
+﻿bos.ma.0129,﻿church,﻿St. Mary's,English,,﻿(new church building),,,,﻿New Bedford,﻿New Bedford,﻿MA,,41.6362152,-70.934205,,,,,﻿joh_i_incarnacione_001,﻿Rev.,﻿John I. De Incarnacione,,,,,,,1870.0,Boston
+﻿bos.ma.0130,﻿church,not recorded,English,,,,,,﻿West Newbury,﻿West Newbury,﻿MA,,42.8014795,-70.989778,﻿bos.ma.0030,﻿Attended from Amesbury,,,,,,,,,,,,1870.0,Boston
+﻿bos.ma.0131,﻿church,﻿St. Mary's,English,,,,,,﻿Newburyport,﻿Newburyport,﻿MA,,42.8220853,-70.90840990000001,,,,,﻿hen_lennon_001,﻿Rev.,﻿Henry Lennon,,,,,,,1870.0,Boston
+﻿bos.ma.0131,﻿church,﻿St. Mary's,English,,,,,,﻿Newburyport,﻿Newburyport,﻿MA,,42.8220853,-70.90840990000001,,,,,﻿p_hally_001,﻿Rev.,﻿P. Hally,,,,,,,1870.0,Boston
+﻿bos.ma.0132,﻿church,﻿St. Mary's,English,,,,,,﻿Newton Upper Falls,﻿Newton Upper Falls,﻿MA,,42.312179799999996,-71.22059809999999,﻿bos.ma.0183,﻿Attended from Watertown,,,,,,,,,,,,1870.0,Boston
+﻿bos.ma.0133,﻿church,not recorded,English,,,,,,﻿West Newton,﻿West Newton,﻿MA,,42.3497948,-71.2250533,﻿bos.ma.0179,﻿Attended from Waltham,,,,,,,,,,,,1870.0,Boston
+﻿bos.ma.0134,﻿church,﻿St. Mary's,English,,,,,,﻿Northampton,﻿Northampton,﻿MA,,42.3373356,-72.6521968,,,,,﻿pv_moyce_001,﻿Rev.,﻿P.V. Moyce,,,,,,,1870.0,Boston
+﻿bos.ma.0134,﻿church,﻿St. Mary's,English,,,,,,﻿Northampton,﻿Northampton,﻿MA,,42.3373356,-72.6521968,,,,,﻿cha_mcmanus_001,﻿Rev.,﻿Chas. McManus,,,,,,,1870.0,Boston
+﻿bos.ma.0135,﻿church,not recorded,English,,,,,,﻿Norton,﻿Norton,﻿MA,,41.9667703,-71.1869963,﻿bos.ma.0170,﻿Attended from Taunton,,,,,,,,,,,,1870.0,Boston
+﻿bos.ma.0136,﻿church,not recorded,English,,,,,,﻿Otter River,﻿Otter River,﻿MA,,42.6127433,-72.06903554,,,,,﻿rj_donovan_001,﻿Rev.,﻿R.J. Donovan,,,,,,,1870.0,Boston
+﻿bos.ma.0137,﻿church,﻿St. Roch's,English,,,,,,﻿Oxford,﻿Oxford,﻿MA,,42.11868629999999,-71.86412259999999,﻿bos.ma.0184,﻿Attended from Webster,,,,,,,,,,,,1870.0,Boston
+﻿bos.ma.0138,﻿church,not recorded,English,,,,,,﻿Palmer,﻿Palmer,﻿MA,,42.15841029999999,-72.32868690000001,,,,,﻿ant_rossi_001,﻿Rev.,﻿Antonio Rossi,,,,,,,1870.0,Boston
+﻿bos.ma.0139,﻿church,not recorded,English,,,,,,﻿Peabody,﻿Peabody,﻿MA,,42.5278731,-70.92866090000001,﻿bos.ma.0151,﻿Attended from Salem,,,,,,,,,,,,1870.0,Boston
+﻿bos.ma.0140,﻿church,not recorded,English,,,,,,﻿Pembroke,﻿Pembroke,﻿MA,,42.0714925,-70.8092,﻿bos.ma.0027,﻿Attended from Abington,,,,,,,,,,,,1870.0,Boston
+﻿bos.ma.0141,﻿church,﻿St. Joseph's,English,,,,,,﻿Pittsfield,﻿Pittsfield,﻿MA,,42.4545161,-73.2508765,,,,,﻿e_purcell_001,﻿Rev.,﻿E. Purcell,,,,,,,1870.0,Boston
+﻿bos.ma.0141,﻿church,﻿St. Joseph's,English,,,,,,﻿Pittsfield,﻿Pittsfield,﻿MA,,42.4545161,-73.2508765,,,,,﻿jas_e_obrien_001,﻿Rev.,﻿Jas. E O'Brien,,,,,,,1870.0,Boston
+﻿bos.ma.0142,﻿church,not recorded,English,﻿Canadian Congregation,,,,,﻿Pittsfield,﻿Pittsfield,﻿MA,,42.450084499999996,-73.2453824,,﻿Attended by Rev. Anthony Derbuel,,,,,,,,,,,,1870.0,Boston
+﻿bos.ma.0143,﻿church,not recorded,English,,,,,,﻿Plymouth,﻿Plymouth,﻿MA,,41.958445700000006,-70.66726209999999,﻿bos.ma.0154,﻿Attended from Sandwich,,,,,,,,,,,,1870.0,Boston
+﻿bos.ma.0144,﻿church,﻿Our Lady of Refuge,English,,,,,,﻿Provincetown,﻿Provincetown,﻿MA,,42.0547136,-70.1846012,,,,,﻿cor_oconnor_001,﻿Rev.,﻿Cornelius O'Connor,,,,,,,1870.0,Boston
+﻿bos.ma.0145,﻿church,﻿St. John's,English,,,,,,﻿Quincy,﻿Quincy,﻿MA,,42.244293299999995,-71.001448,,,,,﻿jam_f_sullivan_001,﻿Rev.,﻿James F. Sullivan,,,,,,,1870.0,Boston
+﻿bos.ma.0145,﻿church,﻿St. John's,English,,,,,,﻿Quincy,﻿Quincy,﻿MA,,42.244293299999995,-71.001448,,,,,﻿fra_friguglietti_001,﻿Rev.,﻿Francis Friguglietti,,,,,,,1870.0,Boston
+﻿bos.ma.0146,﻿church,﻿St. Mary's,English,,,,,,﻿Quincy,﻿Quincy,﻿MA,,42.2462941,-71.02878390000001,,,,,,,,,,,,,,1870.0,Boston
+﻿bos.ma.0147,﻿church,﻿St. Mary's,English,,,,,,﻿Randolph,﻿Randolph,﻿MA,,42.16871079999999,-71.03254759999999,,,,,﻿wjj_denvir_001,﻿Rev.,﻿W.J.J. Denvir,,,,,,,1870.0,Boston
+﻿bos.ma.0147,﻿church,﻿St. Mary's,English,,,,,,﻿Randolph,﻿Randolph,﻿MA,,42.16871079999999,-71.03254759999999,,,,,﻿gouesse_001,﻿Rev. Father,﻿Gouesse,,,,,,,1870.0,Boston
+﻿bos.ma.0148,﻿church,not recorded,English,,,,,,﻿Reading,﻿Reading,﻿MA,,42.523556400000004,-71.1029921,﻿bos.ma.0165,﻿Attended from Stoneham,,,,,,,,,,,,1870.0,Boston
+﻿bos.ma.0149,﻿church,﻿St. Joachim's,English,,,,,,﻿Rockport,﻿Rockport,﻿MA,,42.6554893,-70.6220368,﻿bos.ma.0080,﻿Attended from Gloucester,,,,,,,,,,,,1870.0,Boston
+﻿bos.ma.0150,﻿church,﻿(church building),English,,,,,,﻿West Roxbury,﻿West Roxbury,﻿MA,,42.278237299999994,-71.1599757,,,,,﻿tl_maginness_001,﻿Rev.,﻿T.L. Maginness,,,,,,,1870.0,Boston
+﻿bos.ma.0151,﻿church,﻿St. James',English,,,,,,﻿Salem,﻿Salem,﻿MA,,42.5205117,-70.90513229999999,,,,,﻿joh_gray_001,﻿Rev.,﻿John Gray,,,,,,,1870.0,Boston
+﻿bos.ma.0151,﻿church,﻿St. James',English,,,,,,﻿Salem,﻿Salem,﻿MA,,42.5205117,-70.90513229999999,,,,,﻿jj_healy_001,﻿Rev.,﻿J.J. Healy,,,,,,,1870.0,Boston
+﻿bos.ma.0152,﻿church,﻿Immaculate Conception,English,,,,,,﻿Salem,﻿Salem,﻿MA,,42.5197473,-70.89546259999999,,,,,﻿wil_halley_001,﻿Rev.,﻿William Halley,,,,,,,1870.0,Boston
+﻿bos.ma.0152,﻿church,﻿Immaculate Conception,English,,,,,,﻿Salem,﻿Salem,﻿MA,,42.5197473,-70.89546259999999,,,,,﻿t_delahunty_001,﻿Rev.,﻿T. Delahunty,,,,,,,1870.0,Boston
+﻿bos.ma.0152,﻿church,﻿Immaculate Conception,English,,,,,,﻿Salem,﻿Salem,﻿MA,,42.5197473,-70.89546259999999,,,,,﻿m_f_higgins_001,﻿Rev.,﻿M. F. Higgins,,,,,,,1870.0,Boston
+﻿bos.ma.0153,﻿church,not recorded,English,,,,,,﻿Salisbury,﻿Salisbury,﻿MA,,42.841722999999995,-70.86059820000001,﻿bos.ma.0131,﻿Attended from Newburyport,,,,,,,,,,,,1870.0,Boston
+﻿bos.ma.0154,﻿church,﻿St. Peter's,English,,,,,,﻿Sandwich,﻿Sandwich,﻿MA,,41.7501584,-70.5085348,,,,,﻿pet_bertoldi_001,﻿Rev.,﻿Peter Bertoldi,,,,,,,1870.0,Boston
+﻿bos.ma.0155,﻿church,not recorded,English,,,,,,﻿Saugus,﻿Saugus,﻿MA,,42.4651421,-71.0110473,﻿bos.ma.0113,﻿Attended from Lynn,,,,,,,,,,,,1870.0,Boston
+﻿bos.ma.0156,﻿church,not recorded,English,,,,,,﻿Scituate,﻿Scituate,﻿MA,,42.195929,-70.72586329999999,﻿bos.ma.0187,﻿Attended from Weymouth,,,,,,,,,,,,1870.0,Boston
+﻿bos.ma.0157,﻿church,not recorded,English,,,,,,﻿Sheffield,﻿Sheffield,﻿MA,,42.1099885,-73.3551436,﻿bos.ma.0082,﻿Attended from Great Barrington,,,,,,,,,,,,1870.0,Boston
+﻿bos.ma.0158,﻿church,not recorded,English,,,,,,﻿Shelburne Falls,﻿Shelburne Falls,﻿MA,,42.604251399999995,-72.7392588,﻿bos.ma.0083,﻿Attended from Greenfield,,,,,,,,,,,,1870.0,Boston
+﻿bos.ma.0159,﻿church,not recorded,English,,,,,,﻿Shrewsbury,﻿Shrewsbury,﻿MA,,42.2959267,-71.71284709999999,﻿bos.ma.0191,"﻿Attended from St. John's, Worcester",,,,,,,,,,,,1870.0,Boston
+﻿bos.ma.0160,﻿church,not recorded,English,,,,,,﻿Somerville,﻿Somerville,﻿MA,,42.3875968,-71.0994968,﻿bos.ma.0051,﻿Attended from Cambridge and Charlestown,,,,,,,,,,,,1870.0,Boston
+﻿bos.ma.0161,﻿church,﻿St. Peter's,English,,,,,,﻿Southbridge,﻿Southbridge,﻿MA,,42.0751065,-72.0333905,,,,,﻿am_baret_001,﻿Rev.,﻿A.M. Baret,,,,,,,1870.0,Boston
+﻿bos.ma.0162,﻿church,﻿St. Mary's,English,,,,,,﻿Spencer,﻿Spencer,﻿MA,,42.243968200000005,-71.99228670000001,﻿bos.ma.0197,﻿Attended from Holy Cross College,,,,,,,,,,,,1870.0,Boston
+﻿bos.ma.0163,﻿church,﻿St. Michael's,English,,,,,,﻿Springfield,﻿Springfield,﻿MA,,42.094454,-72.538942,,,,,﻿p_healy_002,﻿Rev.,﻿P. Healy,,,,,,,1870.0,Boston
+﻿bos.ma.0163,﻿church,﻿St. Michael's,English,,,,,,﻿Springfield,﻿Springfield,﻿MA,,42.094454,-72.538942,,,,,﻿tho_osullivan_001,﻿Rev.,﻿Thomas O'Sullivan,,,,,,,1870.0,Boston
+﻿bos.ma.0163,﻿church,﻿St. Michael's,English,,,,,,﻿Springfield,﻿Springfield,﻿MA,,42.094454,-72.538942,,,,,﻿me_barry_001,﻿Rev.,﻿M.E. Barry,,,,,,,1870.0,Boston
+﻿bos.ma.0163,﻿church,﻿St. Michael's,English,,,,,,﻿Springfield,﻿Springfield,﻿MA,,42.094454,-72.538942,,,,,﻿pj_power_001,﻿Rev.,﻿P.J. Power,,,,,,,1870.0,Boston
+﻿bos.ma.0163,﻿church,﻿St. Michael's,English,,,,,,﻿Springfield,﻿Springfield,﻿MA,,42.094454,-72.538942,,,,,﻿fm_turcotte_001,﻿Rev.,﻿F.M. Turcotte,,,,,,,1870.0,Boston
+﻿bos.ma.0164,﻿church,﻿Annunciation,English,,,,,,﻿Stockbridge,﻿Stockbridge,﻿MA,,42.2875874,-73.3203862,﻿bos.ma.0103,﻿Attended from Lee,,,,,,,,,,,,1870.0,Boston
+﻿bos.ma.0165,﻿church,﻿St. Patrick's,English,,,,,,﻿Stoneham,﻿Stoneham,﻿MA,,42.482806200000006,-71.09868940000001,,,,,﻿wh_fitzpatrick_001,﻿Rev.,﻿W.H. Fitzpatrick,,,,,,,1870.0,Boston
+﻿bos.ma.0166,﻿church,﻿(church building),English,,,,,,﻿Stoneville,﻿Stoneville,﻿MA,,42.5960161,-72.38341240000001,﻿bos.ma.0191,"﻿Attended from St. John's, Worcester",,,,,,,,,,,,1870.0,Boston
+﻿bos.ma.0167,﻿church,﻿Immaculate Conception,English,,,,,,﻿Stoughton,﻿Stoughton,﻿MA,,42.1254771,-71.1085252,﻿bos.ma.0054,﻿Attended from Canton,,,,,,,,,,,,1870.0,Boston
+﻿bos.ma.0168,﻿church,﻿St. George's,English,,,,,,﻿Saxonville,﻿Saxonville,﻿MA,,42.3264843,-71.399505,﻿bos.ma.0127,﻿Attended from Natick,,,,,,,,,,,,1870.0,Boston
+﻿bos.ma.0169,﻿church,﻿Holy Family,English,,,,,,﻿Squabetty,﻿Raynham,﻿MA,,41.94870770000001,-71.0731162,﻿bos.ma.0170,﻿Attended from Taunton,,,,,,,,,,,,1870.0,Boston
+﻿bos.ma.0170,﻿church,﻿St. Mary's,English,,,,,,﻿Taunton,﻿Taunton,﻿MA,,41.9069693,-71.09265040000001,,,,,﻿tho_shahan_001,﻿Rev.,﻿Thos. Shahan,,,,,,,1870.0,Boston
+﻿bos.ma.0170,﻿church,﻿St. Mary's,English,,,,,,﻿Taunton,﻿Taunton,﻿MA,,41.9069693,-71.09265040000001,,,,,﻿mj_burns_001,﻿Rev.,﻿M.J. Burns,,,,,,,1870.0,Boston
+﻿bos.ma.0170,﻿church,﻿St. Mary's,English,,,,,,﻿Taunton,﻿Taunton,﻿MA,,41.9069693,-71.09265040000001,,,,,﻿fj_quinn_001,﻿Rev.,﻿F.J. Quinn,,,,,,,1870.0,Boston
+﻿bos.ma.0171,﻿church,﻿St. Martin's,English,,,,,,﻿Templeton,﻿Templeton,﻿MA,,42.5984507,-72.0524517,,,,,﻿rj_donovan_001,﻿Rev.,﻿R.J. Donovan,,,,,,,1870.0,Boston
+﻿bos.ma.0172,﻿church,not recorded,English,,,,,,﻿Tewksbury,﻿Tewksbury,﻿MA,,42.610647799999995,-71.2342248,,﻿Attended by the Oblate Fathers of Lowell,,,,,,,,,,,,1870.0,Boston
+﻿bos.ma.0173,﻿church,not recorded,English,,﻿Martha's Vineyard,,,,﻿Tisbury,﻿Tisbury,﻿MA,,41.4556409,-70.6005596,﻿bos.ma.0129,﻿Attended from New Bedford,,,,,,,,,,,,1870.0,Boston
+﻿bos.ma.0174,﻿church,﻿St. Ann's,English,,,,,,﻿Thorndyke,﻿Palmer,﻿MA,,42.15841029999999,-72.32868690000001,﻿bos.ma.0138,﻿Attended from Palmer,,,,,,,,,,,,1870.0,Boston
+﻿bos.ma.0175,﻿church,﻿St. Mary's,English,,,,,,﻿Uxbridge,﻿Uxbridge,﻿MA,,42.0779986,-71.6250145,,,,,﻿den_moran_001,﻿Rev.,﻿Dennis Moran,,,,,,,1870.0,Boston
+﻿bos.ma.0176,﻿church,not recorded,English,,,,,,﻿Upton,﻿Upton,﻿MA,,42.174487799999994,-71.6022583,﻿bos.ma.0122,﻿Attended from Milford,,,,,,,,,,,,1870.0,Boston
+﻿bos.ma.0177,﻿church,﻿St. Mary's,English,,,,,,﻿Wakefield,﻿Wakefield,﻿MA,,42.501830700000006,-71.0750488,﻿bos.ma.0165,﻿Attended from Stoneham,,,,,,,,,,,,1870.0,Boston
+﻿bos.ma.0178,﻿church,not recorded,English,,,,,,﻿Walpole,﻿Walpole,﻿MA,,42.147085100000005,-71.2517835,﻿bos.ma.0037,﻿Attended from Attleboro,,,,,,,,,,,,1870.0,Boston
+﻿bos.ma.0179,﻿church,﻿St. Mary's,English,,,,,,﻿Waltham,﻿Waltham,﻿MA,,42.3794214,-71.2378511,,,,,﻿ber_flood_001,﻿Rev.,﻿Bernard Flood,,,,,,,1870.0,Boston
+﻿bos.ma.0179,﻿church,﻿St. Mary's,English,,,,,,﻿Waltham,﻿Waltham,﻿MA,,42.3794214,-71.2378511,,,,,﻿lj_morris_001,﻿Rev.,﻿L.J. Morris,,,,,,,1870.0,Boston
+﻿bos.ma.0180,﻿church,﻿St. William's,English,,,,,,﻿Ware,﻿Ware,﻿MA,,42.25984570000001,-72.2398566,,,,,﻿wil_moran_001,﻿Rev.,﻿William Moran,,,,,,,1870.0,Boston
+﻿bos.ma.0181,﻿church,﻿St. Patrick's,English,,,,,,﻿Wareham,﻿Wareham,﻿MA,,41.757061,-70.71683270000001,﻿bos.ma.0154,﻿Attended from Sandwich,,,,,,,,,,,,1870.0,Boston
+﻿bos.ma.0182,﻿church,not recorded,English,,,,,,﻿Warren,﻿Warren,﻿MA,,42.212542299999996,-72.191185,﻿bos.ma.0180,﻿Attended from Ware,,,,,,,,,,,,1870.0,Boston
+﻿bos.ma.0183,﻿church,﻿St. Patrick's,English,,,,,,﻿Watertown,﻿Watertown,﻿MA,,42.367813700000006,-71.18933879999999,,,,,﻿joh_mccarthy_001,﻿Rev.,﻿John McCarthy,,,,,,,1870.0,Boston
+﻿bos.ma.0184,﻿church,﻿St. Louis',English,,,,,,﻿Webster,﻿Webster,﻿MA,,42.0492817,-71.87791999999999,,,,,﻿jam_quan_001,﻿Rev.,﻿James Quan,,,,,,,1870.0,Boston
+﻿bos.ma.0185,﻿church,﻿(new church),English,,,,,,﻿Westboro,﻿Westboro,﻿MA,,42.2691823,-71.61846159999999,﻿bos.ma.0095,﻿Attended from Hopkinton,,,,,,,,,,,,1870.0,Boston
+﻿bos.ma.0186,﻿church,﻿St. Mary's,English,,,,,,﻿Westfield,﻿Westfield,﻿MA,,42.12458970000001,-72.7462771,,,,,﻿dom_miglionico_001,﻿Rev.,﻿Dominic Miglionico,,,,,,,1870.0,Boston
+﻿bos.ma.0187,﻿church,﻿St. Francis Xavier's,English,,,,,,﻿Weymouth,﻿Weymouth,﻿MA,,42.2180724,-70.94103559999999,,,,,﻿hp_smyth_001,﻿Rev.,﻿H.P. Smyth,,,,,,,1870.0,Boston
+﻿bos.ma.0188,﻿church,not recorded,English,,,,,,﻿Wilbraham,﻿Wilbraham,﻿MA,,42.1237206,-72.431586,﻿bos.ma.0138,﻿Attended from Palmer,,,,,,,,,,,,1870.0,Boston
+﻿bos.ma.0189,﻿church,not recorded,English,,,,,,﻿Winchendon,﻿Winchendon,﻿MA,,42.6871009,-72.04395290000001,﻿bos.ma.0136,﻿Attended from Otter River,,,,,,,,,,,,1870.0,Boston
+﻿bos.ma.0190,﻿church,﻿St. Charles',English,,,,,,﻿Woburn,﻿Woburn,﻿MA,,42.476601099999996,-71.1509813,,,,,﻿joh_qualy_001,﻿Rev.,﻿John Qualy,,,,,,,1870.0,Boston
+﻿bos.ma.0190,﻿church,﻿St. Charles',English,,,,,,﻿Woburn,﻿Woburn,﻿MA,,42.476601099999996,-71.1509813,,,,,﻿tho_h_kenny_001,﻿Rev.,﻿Thos. H. Kenny,,,,,,,1870.0,Boston
+﻿bos.ma.0191,﻿church,﻿St. John's,English,,,,,,﻿Worcester,﻿Worcester,﻿MA,,42.244161,-71.82983670000002,,,,,﻿pt_oreilly_001,﻿Rev.,﻿P.T. O'Reilly,,,,,,,1870.0,Boston
+﻿bos.ma.0191,﻿church,﻿St. John's,English,,,,,,﻿Worcester,﻿Worcester,﻿MA,,42.244161,-71.82983670000002,,,,,﻿tho_griffin_001,﻿Rev.,﻿Thomas Griffin,,,,,,,1870.0,Boston
+﻿bos.ma.0192,﻿church,﻿St. Ann's,English,,,,,,﻿Worcester,﻿Worcester,﻿MA,,42.157506,-71.88220179999999,,,,,﻿joh_j_power_001,﻿Rev.,﻿John J. Power,,,,,,,1870.0,Boston
+﻿bos.ma.0192,﻿church,﻿St. Ann's,English,,,,,,﻿Worcester,﻿Worcester,﻿MA,,42.157506,-71.88220179999999,,,,,﻿wa_power_001,﻿Rev.,﻿W.A. Power,,,,,,,1870.0,Boston
+﻿bos.ma.0193,﻿church,﻿St. Paul's,English,,﻿(church building),,,,﻿Worcester,﻿Worcester,﻿MA,,42.262593200000005,-71.8022934,﻿bos.ma.0203,﻿Attended from St. Ann's,,,,,,,,,,,,1870.0,Boston
+﻿bos.ma.0194,﻿church,not recorded,English,﻿Canadian congregation,,,,,﻿Worcester,﻿Worcester,﻿MA,,42.262593200000005,-71.8022934,,﻿Attended by Rev. J. B. Primeau,,,,,,,,,,,,1870.0,Boston
+﻿bos.ma.0195,﻿church,not recorded,English,,,,,,﻿Wrentham,﻿Wrentham,﻿MA,,42.0667652,-71.32811140000001,﻿bos.ma.0037,﻿Attended from Attleboro,,,,,,,,,,,,1870.0,Boston
+﻿bos.ma.0196,﻿church,not recorded,English,,,,,,﻿Yarmouth,﻿Yarmouth,﻿MA,,41.7056291,-70.2286681,﻿bos.ma.0086,﻿Attended from Harwich,,,,,,,,,,,,1870.0,Boston
+﻿bos.ma.0197,﻿college,﻿College of the Holy Cross,English,﻿The course of studies is the same as that usually pursued in colleges of the Order.,,,,,﻿Worcester,﻿Worcester,﻿MA,,42.2392391,-71.8079608,,,,,﻿af_ciampi_001,﻿Rev.,﻿A.F. Ciampi,﻿S.J.,﻿President and Treasurer,,,,﻿under the direction of the Fathers of the Society of Jesus,1870.0,Boston
+﻿bos.ma.0197,﻿college,﻿College of the Holy Cross,English,﻿The course of studies is the same as that usually pursued in colleges of the Order.,,,,,﻿Worcester,﻿Worcester,﻿MA,,42.2392391,-71.8079608,,,,,﻿jam_pinasco_001,﻿Rev.,﻿James Pinasco,﻿S.J.,,,,,﻿under the direction of the Fathers of the Society of Jesus,1870.0,Boston
+﻿bos.ma.0197,﻿college,﻿College of the Holy Cross,English,﻿The course of studies is the same as that usually pursued in colleges of the Order.,,,,,﻿Worcester,﻿Worcester,﻿MA,,42.2392391,-71.8079608,,,,,﻿jam_major_001,﻿Rev.,﻿James Major,﻿S.J.,,,,,﻿under the direction of the Fathers of the Society of Jesus,1870.0,Boston
+﻿bos.ma.0197,﻿college,﻿College of the Holy Cross,English,﻿The course of studies is the same as that usually pursued in colleges of the Order.,,,,,﻿Worcester,﻿Worcester,﻿MA,,42.2392391,-71.8079608,,,,,﻿alb_peters_001,﻿Rev.,﻿Albert Peters,﻿S.J.,,,,,﻿under the direction of the Fathers of the Society of Jesus,1870.0,Boston
+﻿bos.ma.0197,﻿college,﻿College of the Holy Cross,English,﻿The course of studies is the same as that usually pursued in colleges of the Order.,,,,,﻿Worcester,﻿Worcester,﻿MA,,42.2392391,-71.8079608,,,,,﻿leo_nota_001,﻿Rev.,﻿Leonard Nota,﻿S.J.,,,,,﻿under the direction of the Fathers of the Society of Jesus,1870.0,Boston
+﻿bos.ma.0197,﻿college,﻿College of the Holy Cross,English,﻿The course of studies is the same as that usually pursued in colleges of the Order.,,,,,﻿Worcester,﻿Worcester,﻿MA,,42.2392391,-71.8079608,,,,,﻿jam_mcguigan_001,﻿Rev.,﻿James McGuigan,﻿S.J.,,,,,﻿under the direction of the Fathers of the Society of Jesus,1870.0,Boston
+﻿bos.ma.0197,﻿college,﻿College of the Holy Cross,English,﻿The course of studies is the same as that usually pursued in colleges of the Order.,,,,,﻿Worcester,﻿Worcester,﻿MA,,42.2392391,-71.8079608,,,,,﻿jos_b_ohagan_001,﻿Rev.,﻿Jos. B O'Hagan,﻿S.J.,,,,,﻿under the direction of the Fathers of the Society of Jesus,1870.0,Boston
+﻿bos.ma.0197,﻿college,﻿College of the Holy Cross,English,﻿The course of studies is the same as that usually pursued in colleges of the Order.,,,,,﻿Worcester,﻿Worcester,﻿MA,,42.2392391,-71.8079608,,,,,﻿l_vigilante_001,﻿Rev.,﻿L. Vigilante,﻿S.J.,,,,,﻿under the direction of the Fathers of the Society of Jesus,1870.0,Boston
+﻿bos.ma.0197,﻿college,﻿College of the Holy Cross,English,﻿The course of studies is the same as that usually pursued in colleges of the Order.,,,,,﻿Worcester,﻿Worcester,﻿MA,,42.2392391,-71.8079608,,,,,﻿cha_h_fulmer_001,﻿Rev.,﻿Chas. H. Fulmer,﻿S.J.,,,,,﻿under the direction of the Fathers of the Society of Jesus,1870.0,Boston
+﻿bos.ma.0198,﻿college,﻿Boston College,English,﻿for day-scholars only,"﻿Harrison Avenue, near the Church of the Immaculate Conception",,,,﻿Boston,﻿Boston,﻿MA,,42.3368175,-71.07317459999999,,,,,﻿rw_brady_001,﻿Rev.,﻿R.W. Brady,﻿S.J.,﻿Rector,,﻿teacher,﻿7 teachers,,1870.0,Boston
+﻿bos.ma.0198,﻿college,﻿Boston College,English,﻿for day-scholars only,"﻿Harrison Avenue, near the Church of the Immaculate Conception",,,,﻿Boston,﻿Boston,﻿MA,,42.3368175,-71.07317459999999,,,,,﻿rob_fulton_001,﻿Rev.,﻿Robert Fulton,﻿S.J.,﻿Prefect of schools,,﻿pupil,﻿115 pupils,,1870.0,Boston
+﻿bos.ma.0199,"﻿academy, school",﻿Notre Dame Academy and Boarding-School,English,,,,,,﻿Boston Highlands,﻿Boston Highlands,﻿MA,,42.360082500000004,-71.0588801,,,,,,﻿Sister,﻿Aloysius,,﻿Sister-Superior,,,,﻿in charge of the Sisters of Notre Dame,1870.0,Boston
+﻿bos.ma.0200,﻿academy,﻿Academy of Notre Dame d'Esperance,English,﻿for day scholars,﻿Berkeley street,,,,﻿Boston,﻿Boston,﻿MA,,42.3504407,-71.0726605,,,,,,,,,,,,,,1870.0,Boston
+﻿bos.ma.0201,﻿academy,﻿St. Patrick's Academy,English,,,,,,﻿Lowell,﻿Lowell,﻿MA,,42.633424700000006,-71.3161718,,,,,,﻿Sister,﻿Desire,,﻿Sister-Superior,,,,﻿conducted by the Sisters of Notre Dame,1870.0,Boston
+﻿bos.ma.0202,﻿school,﻿St. Joseph's Select School,English,,,,,,﻿Cambridgeport,﻿Cambridgeport,﻿MA,,42.358302,-71.1095995,,,,,,﻿Sister,﻿St. Hilary,,﻿Superior,,﻿pupil,﻿250 pupils,﻿7 Sisters of the Congregation of Notre Dame of Montreal,1870.0,Boston
+﻿bos.ma.0202,﻿school,﻿St. Joseph's Select School,English,,,,,,﻿Cambridgeport,﻿Cambridgeport,﻿MA,,42.358302,-71.1095995,,,,,,,,,,,﻿scholar,"﻿Evening school for young women, 125 scholars",﻿7 Sisters of the Congregation of Notre Dame of Montreal,1870.0,Boston
+﻿bos.ma.0203,﻿convent,﻿St. Ann's Convent,English,"﻿the Sisters of Mercy who reside in this Convent have charge of the Sunday-schools, night-schools, and a hospital for females.",,,,,﻿Worcester,﻿Worcester,﻿MA,,42.157506,-71.88220179999999,,,,,,﻿Sister,﻿Mary Jerome,,﻿Superior,,﻿professed sister,"﻿Professed sisters, 4",﻿Sisters of Mercy,1870.0,Boston
+﻿bos.ma.0203,﻿convent,﻿St. Ann's Convent,English,"﻿the Sisters of Mercy who reside in this Convent have charge of the Sunday-schools, night-schools, and a hospital for females.",,,,,﻿Worcester,﻿Worcester,﻿MA,,42.157506,-71.88220179999999,,,,,,,,,,,﻿novice,"﻿novices, 3",﻿Sisters of Mercy,1870.0,Boston
+﻿bos.ma.0203,﻿convent,﻿St. Ann's Convent,English,"﻿the Sisters of Mercy who reside in this Convent have charge of the Sunday-schools, night-schools, and a hospital for females.",,,,,﻿Worcester,﻿Worcester,﻿MA,,42.157506,-71.88220179999999,,,,,,,,,,,﻿postulant,"﻿postulants, 2",﻿Sisters of Mercy,1870.0,Boston
+﻿bos.ma.0204,﻿convent,﻿Convent of the Sacred Heart of Mary,English,,,,,,﻿Chicopee,﻿Chicopee,﻿MA,,42.14870429999999,-72.6078672,,,,,,,,,,,,,"﻿Sisters of Notre Dame, who have charge of the parochial school and the Sunday-school",1870.0,Boston
+﻿bos.ma.0205,﻿convent,﻿St. Mary's Convent,English,,,,,,﻿Salem,﻿Salem,﻿MA,,42.5217266,-70.889781,,,,,,,,,,,,,"﻿Sisters of Notre Dame, who have charge of the parochial schools",1870.0,Boston
+﻿bos.ma.0206,﻿convent,﻿St. Mary's Convent,English,,,,,,﻿Lawrence,﻿Lawrence,﻿MA,,42.710085799999995,-71.16650820000001,,,,,,,,,,,,,"﻿Sisters of Notre Dame, who have charge of the parochial schools",1870.0,Boston
+﻿bos.ma.0207,﻿convent,﻿St. Joseph's Convent,English,,﻿South Boston,,,,﻿Boston,﻿Boston,﻿MA,,42.3345816,-71.0371981,,,,,,,,,,,,,"﻿Sisters of Notre Dame, who have charge of the parochial schools and the Sunday-school",1870.0,Boston
+﻿bos.ma.0208,﻿convent,﻿St. Aloysius' Convent,English,,﻿East Boston,,,,﻿Boston,﻿Boston,﻿MA,,42.380007899999995,-71.0254241,,,,,,,,,,,,,"﻿Sisters of Notre Dame, who have charge of the parochial schools",1870.0,Boston
+﻿bos.ma.0209,﻿convent,﻿St. Joseph's Convent,English,,,,,,﻿Cambridgeport,﻿Cambridgeport,﻿MA,,42.358302,-71.1095995,,,,,,,,,,,,,"﻿7 Sisters of the Congregation of Notre Dame, who have charge of a select school, evening school, and sodality",1870.0,Boston
+﻿bos.ma.0210,﻿convent,﻿Convent of the Immaculate Conception of Notre Dame,English,,,,,,﻿Holyoke,﻿Holyoke,﻿MA,,42.2042586,-72.61620090000001,,,,,,,,,,,,,,1870.0,Boston
+﻿bos.ma.0211,﻿asylum,﻿St. Vincent's Orphan Asylum,English,﻿for girls,﻿Camden street,,,,﻿Boston,﻿Boston,﻿MA,,42.3383401,-71.0818672,,,,,,﻿Sister,﻿Ann Alexis,,﻿Sister-Servant,,,,﻿in charge of the Sisters of Charity,1870.0,Boston
+﻿bos.ma.0212,﻿house,﻿House of the Angel Guardian,English,"﻿This institution receives orphans, homeless, friendless, or wayward boys",,,,,﻿Boston Highlands,﻿Boston Highlands,﻿MA,,42.360082500000004,-71.0588801,,,,,﻿geo_f_haskins_001,﻿Rev.,﻿George F. Haskins,,﻿Rector,,,,,1870.0,Boston
+﻿bos.ma.0213,﻿asylum,﻿Looby Asylum,English,﻿for orphans and destitute children.,,,,,﻿Salem,﻿Salem,﻿MA,,42.5197473,-70.89546259999999,,,,,,,,,,,,,﻿In charge of the Gray Nuns,1870.0,Boston
+﻿bos.ma.0214,﻿house,﻿Home for Destitute Roman Catholic Children,English,"﻿(new Home to be built on Harrison Avenue). This is a temporary home for destitute or deserted children, from which they are soon adopted into good Catholic families. In charge of 3 Sisters of Charity",﻿No. 10 Common street,,,,﻿Boston,﻿Boston,﻿MA,,42.3738605,-71.060156,,,,,,﻿Sister,﻿Almida,,﻿Sister-Servant,,,,,1870.0,Boston
+﻿bos.ma.0215,﻿asylum,﻿St. Patrick's Orphan Asylum,English,,,,,,﻿Lawrence,﻿Lawrence,﻿MA,,42.7070354,-71.1631137,,,,,,,,,,,,,﻿In charge of the Gray Nuns,1870.0,Boston
+﻿bos.ma.0216,﻿house,﻿House of the Good Shepherd,English,,﻿Shirly street,,,,﻿Boston Highlands,﻿Boston Highlands,﻿MA,,42.324657,-71.0696571,,,,,,﻿Mother,﻿Mary of St. Aloysius,,﻿Superior,,,,,1870.0,Boston
+﻿bos.ma.0217,﻿hospital,﻿Carney Hospital,English,,﻿South Boston,,,,﻿Boston,﻿Boston,﻿MA,,42.2780642,-71.065935,,,,,,﻿Sister,﻿Simplicia,,﻿Sister-Servant,,,,﻿attended by the Sisters of Charity,1870.0,Boston
+﻿bos.ma.0218,﻿hospital,﻿St. John's Hospital,English,,﻿High Street square,,,,﻿Lowell,﻿Lowell,﻿MA,,42.633424700000006,-71.3161718,,,,,,﻿Sister,﻿Rose Noyland,,﻿Superior,,,,﻿under the direction of the Sisters of Charity,1870.0,Boston
+﻿bos.ma.0219,﻿hospital,﻿St. Elizabeth's Hospital for Females,English,,﻿No. 28 Hanson street,,,,﻿Boston,﻿Boston,﻿MA,,42.343737899999994,-71.07052159999999,,,,,,,,,,,,,﻿Conducted by the Sisters of the Third Order of St. Francis,1870.0,Boston
+﻿bos.ma.0220,﻿hospital,﻿St. Ann's Hospital,English,,,,,,﻿Worcester,﻿Worcester,﻿MA,,42.262593200000005,-71.8022934,,,,,,,,,,,,,﻿in charge of the Sisters of Mercy,1870.0,Boston
+﻿bos.ma.0221,﻿house,﻿St. Joseph's Home,English,﻿This is a temporary home for girls out of place or sick,﻿No. 45 E. Brookline street,,,,﻿Boston,﻿Boston,﻿MA,,42.3384749,-71.0711348,,,,,,,,,,,,,﻿conducted by the Sisters of the Third Order of St. Francis,1870.0,Boston
+﻿bos.ma.0222,﻿school,﻿St. Mary's Parochial School for Boys,English,,,,,,﻿Boston,﻿Boston,﻿MA,,42.3459602,-71.1071639,,,,,,,,,,,﻿teacher,﻿8 teacher,,1870.0,Boston
+﻿bos.ma.0222,﻿school,﻿St. Mary's Parochial School for Boys,English,,,,,,﻿Boston,﻿Boston,﻿MA,,42.3459602,-71.1071639,,,,,,,,,,,﻿boy,﻿500 boys,,1870.0,Boston
+﻿bos.ma.0223,﻿school,﻿St. Mary's Parochial School for Girls,English,,,,,,,,﻿MA,,42.4072107,-71.3824374,,,,,,,,,,,﻿pupil,﻿650 pupils,﻿under the charge of 10 Sisters of Notre Dame,1870.0,Boston
+﻿bos.ma.0224,﻿school,﻿German Catholic School for Boys,English,,﻿Church of the Holy Trinity,,,,﻿Boston,﻿Boston,﻿MA,,42.360082500000004,-71.0588801,,,,,,,,,,,﻿teacher,﻿3 teachers,,1870.0,Boston
+﻿bos.ma.0224,﻿school,﻿German Catholic School for Boys,English,,﻿Church of the Holy Trinity,,,,﻿Boston,﻿Boston,﻿MA,,42.360082500000004,-71.0588801,,,,,,,,,,,﻿pupil,﻿230 pupils,,1870.0,Boston
+﻿bos.ma.0225,﻿school,﻿German Catholic School for Girls,English,,,,,,,,﻿MA,,42.360082500000004,-71.0588801,,,,,,,,,,,﻿sister,﻿3 Sisters of Notre Dame,﻿Sisters of Notre Dame,1870.0,Boston
+﻿bos.ma.0225,﻿school,﻿German Catholic School for Girls,English,,,,,,,,﻿MA,,42.360082500000004,-71.0588801,,,,,,,,,,,﻿pupil,﻿220 pupils,﻿Sisters of Notre Dame,1870.0,Boston
+﻿bos.ma.0226,﻿school,﻿Parochial School for Girls,English,,﻿South Boston,,,,﻿Boston,﻿Boston,﻿MA,,42.335482899999995,-71.04567349999999,,,,,,,,,,,﻿sister,﻿23 Sisters of Notre Dame,﻿Sisters of Notre Dame,1870.0,Boston
+﻿bos.ma.0226,﻿school,﻿Parochial School for Girls,English,,﻿South Boston,,,,﻿Boston,﻿Boston,﻿MA,,42.335482899999995,-71.04567349999999,,,,,,,,,,,﻿pupil,﻿1000 pupils,﻿Sisters of Notre Dame,1870.0,Boston
+﻿bos.ma.0227,﻿school,﻿Parochial School for Girls,English,,﻿East Boston,,,,﻿Boston,﻿Boston,﻿MA,,42.380007899999995,-71.0254241,,,,,,,,,,,﻿sister,﻿12 Sisters of Notre Dame,﻿Sisters of Notre Dame,1870.0,Boston
+﻿bos.ma.0227,﻿school,﻿Parochial School for Girls,English,,﻿East Boston,,,,﻿Boston,﻿Boston,﻿MA,,42.380007899999995,-71.0254241,,,,,,,,,,,﻿pupil,﻿650 pupils,﻿Sisters of Notre Dame,1870.0,Boston
+﻿bos.ma.0228,﻿school,﻿St. Joseph's Free School,English,,,,,,﻿Boston Highlands,﻿Boston Highlands,﻿MA,,42.360082500000004,-71.0588801,,,,,,,,,,,﻿scholar,﻿175 scholars,﻿Attended by the Sisters of Notre Dame,1870.0,Boston
+﻿bos.ma.0229,﻿school,﻿Parochial School for Boys,English,,﻿St. James' Church,,,,﻿Salem,﻿Salem,﻿MA,,42.5205117,-70.90513229999999,,,,,,,,,,,﻿lay teacher,﻿3 lay teachers,,1870.0,Boston
+﻿bos.ma.0229,﻿school,﻿Parochial School for Boys,English,,﻿St. James' Church,,,,﻿Salem,﻿Salem,﻿MA,,42.5205117,-70.90513229999999,,,,,,,,,,,﻿pupil,﻿300 pupils,,1870.0,Boston
+﻿bos.ma.0230,﻿school,﻿Parochial School for Girls,English,,﻿St. James' Church,,,,﻿Salem,﻿Salem,﻿MA,,42.5205117,-70.90513229999999,,,,,,,,,,,﻿sister,﻿5 Sisters of Notre Dame,﻿Sisters of Notre Dame,1870.0,Boston
+﻿bos.ma.0230,﻿school,﻿Parochial School for Girls,English,,﻿St. James' Church,,,,﻿Salem,﻿Salem,﻿MA,,42.5205117,-70.90513229999999,,,,,,,,,,,﻿pupil,﻿400 pupils,﻿Sisters of Notre Dame,1870.0,Boston
+﻿bos.ma.0231,﻿school,﻿Parochial School for Girls,English,,﻿Church of the Immaculate Conception,,,,﻿Salem,﻿Salem,﻿MA,,42.5197473,-70.89546259999999,,,,,,,,,,,﻿sister,﻿14 Sisters of Notre Dame,﻿Sisters of Notre Dame,1870.0,Boston
+﻿bos.ma.0231,﻿school,﻿Parochial School for Girls,English,,﻿Church of the Immaculate Conception,,,,﻿Salem,﻿Salem,﻿MA,,42.5197473,-70.89546259999999,,,,,,,,,,,﻿pupil,﻿400 pupils,﻿Sisters of Notre Dame,1870.0,Boston
+﻿bos.ma.0232,﻿school,﻿Parochial School for Girls,English,,﻿St. Mary's Church,,,,﻿Lawrence,﻿Lawrence,﻿MA,,42.7070354,-71.1631137,,,,,,,,,,,﻿sister,﻿13 Sisters of Notre Dame,﻿Sisters of Notre Dame,1870.0,Boston
+﻿bos.ma.0232,﻿school,﻿Parochial School for Girls,English,,﻿St. Mary's Church,,,,﻿Lawrence,﻿Lawrence,﻿MA,,42.7070354,-71.1631137,,,,,,,,,,,﻿day-scholar,﻿500 day-scholars,﻿Sisters of Notre Dame,1870.0,Boston
+﻿bos.ma.0232,﻿school,﻿Parochial School for Girls,English,,﻿St. Mary's Church,,,,﻿Lawrence,﻿Lawrence,﻿MA,,42.7070354,-71.1631137,,,,,,,,,,,﻿pupil,﻿100 pupils of the evening school,﻿Sisters of Notre Dame,1870.0,Boston
+﻿bos.ma.0232,﻿school,﻿Parochial School for Girls,English,,﻿St. Mary's Church,,,,﻿Lawrence,﻿Lawrence,﻿MA,,42.7070354,-71.1631137,,,,,,,,,,,﻿pupil,"﻿Day-school for boys, 200 pupils",﻿Sisters of Notre Dame,1870.0,Boston
+﻿bos.ma.0233,﻿school,﻿Parochial School for Girls,English,,"﻿City Point, South Boston",,,,﻿Boston,﻿Boston,﻿MA,,42.33854,-71.03118,,,,,,,,,,,﻿pupil,﻿235 pupils,﻿Sisters of Notre Dame,1870.0,Boston
+﻿bos.ma.0234,﻿school,﻿Parochial School for Girls,English,,,,,,﻿Chicopee,﻿Chicopee,﻿MA,,42.14870429999999,-72.6078672,,,,,,,,,,,﻿pupil,﻿350 pupils,﻿Sisters of Notre Dame,1870.0,Boston
+﻿bos.ma.0235,﻿school,﻿Parochial School for Girls,English,,,,,,﻿Holyoke,﻿Holyoke,﻿MA,,42.2042586,-72.61620090000001,,,,,,,,,,,﻿sister,﻿5 Sisters of Notre Dame,﻿Sisters of Notre Dame,1870.0,Boston
+﻿bos.ma.0235,﻿school,﻿Parochial School for Girls,English,,,,,,﻿Holyoke,﻿Holyoke,﻿MA,,42.2042586,-72.61620090000001,,,,,,,,,,,﻿pupil,﻿300 pupils,﻿Sisters of Notre Dame,1870.0,Boston

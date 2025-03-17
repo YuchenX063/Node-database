@@ -24,9 +24,8 @@ describe('The relationship between church and small_church', () => {
         const res3 = await requestWithSupertest.post('/api/church_church')
             .send([{
                 instID: 'test-small_church1',
-                instYear: 1870,
                 attendingInstID: 'test-inst1',
-                attendingInstYear: 1870
+                year: 1870
         }]);
         expect(res3.status).toEqual(200);
         const res4 = await requestWithSupertest.post('/api/church')

@@ -11,31 +11,24 @@ module.exports = (sequelize, DataTypes) => {
      */
     static associate(models) {
       // define association here
-      Person.belongsToMany(models.Church, { through: models.Church_Person, foreignKey: 'persID', as: 'churches'});
+      Person.belongsToMany(models.Church, { through: models.Church_Person, foreignKey: 'uniquePersID', as: 'churches'});
     }
   }
   Person.init({
-    persID: {
+    uniquePersID: {
       type: DataTypes.STRING,
+      allowNull: false,
       primaryKey: true
     },
+    persID: DataTypes.STRING,
     persName: DataTypes.STRING,
-    persYear: {
-      type: DataTypes.INTEGER,
-      primaryKey: true
-    },
+    persYear: DataTypes.INTEGER,
     persTitle: DataTypes.STRING,
     persSuffix: DataTypes.STRING,
     persNote: DataTypes.STRING,
   }, {
     sequelize,
     modelName: 'Person',
-    indexes: [
-      {
-        unique: true,
-        fields: ['persID', 'persYear']
-      }
-    ]
   });
   return Person;
 };

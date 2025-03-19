@@ -42,16 +42,18 @@ async function preprocessCSV(filePath) {
           row['uniqueInstID'] = '';
         }
 
-        if(row['persID'] && row['persYear']) {
-          row['uniquePersID'] = `${row['persYear']}_${row['persID']}`;
-        } else {
-          row['uniquePersID'] = '';
-        }
-
         if(row['attendingInstID'] && row['attendingInstYear']) {
           row['uniqueAttendingInstID'] = `${row['attendingInstYear']}_${row['attendingInstID']}`;
         } else {
           row['uniqueAttendingInstID'] = '';
+        }
+
+        if (row['persID'] && row['persID'].startsWith('‒')) {
+          row['persID'] = row['persID'].substring(1);
+        }
+
+        if (row['persName'] && row['persName'].startsWith('‒ ')) {
+          row['persName'] = row['persName'].substring(2);
         }
       };
     return data;

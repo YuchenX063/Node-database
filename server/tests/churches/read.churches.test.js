@@ -3,7 +3,7 @@ const supertest = require('supertest');
 const requestWithSupertest = supertest(app);
 
 describe(
-    'GET methods for the Church model', () => {
+    'GET methods for the churchInYear model', () => {
 
         let createdId = '';
 
@@ -33,7 +33,7 @@ describe(
             }
         });
 
-        it('should get a Church by instID', async () => {
+        it('should get a churchInYear by instID', async () => {
             const res = await requestWithSupertest.get('/api/church/test-inst1');
             expect(res.status).toEqual(200);
             expect(res.body).toHaveProperty('instID');

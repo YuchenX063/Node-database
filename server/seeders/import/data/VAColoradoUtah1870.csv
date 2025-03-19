@@ -17,7 +17,7 @@
 ﻿den.co.0014,﻿church,﻿church building,English,,,,﻿Pueblo County,﻿Pueblo County,﻿Pueblo City,﻿Pueblo,﻿CO,﻿CO,38.270599600000004,-104.61010329999999,﻿den.co.0001,﻿Attended from Denver,,,,,,,,,,,,1870.0,VAColoradoUtah
 ﻿den.co.0015,﻿church,not recorded,English,,,,﻿Weld County,,﻿Smith's Settlement,,﻿CO,﻿CO,40.5265766,-104.4723301,﻿den.co.0001,﻿Attended from Denver,,,,,,,,,,,,1870.0,VAColoradoUtah
 ﻿den.co.0016,﻿church,﻿Church of St. Patrick,English,,,,﻿Gilpin County,﻿Gilpin County,﻿Central City,﻿Central City,﻿CO,﻿CO,39.8019,-105.5142,,,,,﻿far_garassau_001,﻿Rev.,﻿F.A.R. Garassau,,,,,,,1870.0,VAColoradoUtah
-﻿den.co.0016,﻿church,﻿Church of St. Patrick,English,,,,﻿,﻿Gilpin County,﻿Central City,﻿Central City,﻿CO,,39.8019,-105.5142,,,,,,﻿Rev.,﻿— Percevault,,,,,,,1870.0,VAColoradoUtah
+﻿den.co.0016,﻿church,﻿Church of St. Patrick,English,,,,﻿,﻿Gilpin County,﻿Central City,﻿Central City,﻿CO,,39.8019,-105.5142,,,,,﻿percevault_001,﻿Rev.,﻿— Percevault,,,,,,,1870.0,VAColoradoUtah
 ﻿den.co.0017,﻿church,not recorded,English,,,,﻿Gilpin County,﻿Gilpin County,﻿Black Hawk,﻿Black Hawk,﻿CO,﻿CO,39.8038,-105.4952,﻿den.co.0016,﻿Attended from Central City,,,,,,,,,,,,1870.0,VAColoradoUtah
 ﻿den.co.0018,﻿church,not recorded,English,,,,﻿Boulder County,,﻿Columbia City,,﻿CO,﻿CO,39.05620293,-106.3473354,﻿den.co.0016,﻿Attended from Central City,,,,,,,,,,,,1870.0,VAColoradoUtah
 ﻿den.co.0019,﻿church,not recorded,English,,,,﻿Clearcreek County,﻿Clear Creek County,﻿Empire,﻿Empire,﻿CO,﻿CO,39.761376299999995,-105.68444790000001,﻿den.co.0016,﻿Attended from Central City,,,,,,,,,,,,1870.0,VAColoradoUtah
@@ -40,7 +40,7 @@
 ﻿den.co.0035,﻿chapel,﻿Chapel of Del Santo Nino,English,,,,﻿Conejos County,,﻿Los Rincones,,﻿CO,﻿CO,37.15187863,-105.8848598,﻿den.co.0031,﻿Attended from Los Conejos,,,,,,,,,,,,1870.0,VAColoradoUtah
 ﻿den.co.0036,﻿chapel,﻿chapel building,English,,,,﻿Conejos County,,﻿Los Sauces,﻿Los Sauces,﻿CO,﻿CO,37.26660648,-105.7464202,﻿den.co.0031,﻿Attended from Los Conejos,,,,,,,,,,,,1870.0,VAColoradoUtah
 ﻿den.co.0037,﻿church,﻿Church of the Holy Trinity,English,,,,﻿Animas County,﻿Las Animas County,﻿Trinidad City,﻿Trinidad,﻿CO,﻿CO,37.1768015,-104.5210196,,,,,﻿pj_munnecom_001,﻿Rev.,﻿P.J. Munnecom,,,,,,,1870.0,VAColoradoUtah
-﻿den.co.0037,﻿church,﻿Church of the Holy Trinity,English,,,,﻿,﻿Las Animas County,﻿Trinidad City,﻿Trinidad,﻿CO,,37.1768015,-104.5210196,,,,,,﻿Rev.,﻿— Guyot,,,,,,,1870.0,VAColoradoUtah
+﻿den.co.0037,﻿church,﻿Church of the Holy Trinity,English,,,,﻿,﻿Las Animas County,﻿Trinidad City,﻿Trinidad,﻿CO,,37.1768015,-104.5210196,,,,,﻿guyot_001,﻿Rev.,﻿— Guyot,,,,,,,1870.0,VAColoradoUtah
 ﻿den.co.0038,﻿chapel,﻿chapel building,English,,,,﻿Animas County,﻿Huerfano County,﻿Apishipa,﻿Aguilar,﻿CO,﻿CO,37.62252725,-104.78009240000002,﻿den.co.0037,﻿Attended from Trinidad,,,,,,,,,,,,1870.0,VAColoradoUtah
 ﻿den.co.0039,﻿church,not recorded,English,,,,﻿Animas County,﻿Las Animas County,﻿Chillilli,,﻿CO,﻿CO,37.21140168,-104.4618205,﻿den.co.0037,﻿Attended from Trinidad,,,,,,,,,,,,1870.0,VAColoradoUtah
 ﻿den.co.0040,﻿church,not recorded,English,,,,﻿Animas County,﻿Montrose County,﻿Cimarron,﻿Cimarron,﻿CO,﻿CO,38.44323843,-107.5552739,﻿den.co.0037,﻿Attended from Trinidad,,,,,,,,,,,,1870.0,VAColoradoUtah

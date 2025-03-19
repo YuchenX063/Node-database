@@ -65,7 +65,7 @@
 ﻿scr.pa.0055,﻿church,not recorded,English,,,,﻿Bradford County,,﻿Pond Hill,,﻿PA,,41.80539661,-76.40263046,﻿scr.pa.0058,﻿Attended from Troy,﻿every six weeks,,,,,,,,,,,1870.0,Scranton
 ﻿scr.pa.0056,﻿church,not recorded,English,,,,﻿Bradford County,,﻿State Road,,﻿PA,,41.758124,-76.2767675,﻿scr.pa.0058,﻿Attended from Troy,﻿every six weeks,,,,,,,,,,,1870.0,Scranton
 ﻿scr.pa.0057,﻿church,not recorded,English,,,,﻿Bradford County,﻿Bradford County,﻿Windham,﻿Windham,﻿PA,,41.9717411,-76.29132299999999,﻿scr.pa.0051,﻿Attended from Athens,,,,,,,,,,,,1870.0,Scranton
-﻿scr.pa.0058,﻿church,﻿St. John Nepomucene,English,,,,﻿Bradford County,﻿Bradford County,﻿Troy,﻿Troy,﻿PA,,41.7859079,-76.7880114,,,,,﻿mr_l_marque_001,﻿Rev.,﻿Mr. La Marque,,,,,,,1870.0,Scranton
+﻿scr.pa.0058,﻿church,﻿St. John Nepomucene,English,,,,﻿Bradford County,﻿Bradford County,﻿Troy,﻿Troy,﻿PA,,41.7859079,-76.7880114,,,,,﻿mr_la-marque_001,﻿Rev.,﻿Mr. La Marque,,,,,,,1870.0,Scranton
 ﻿scr.pa.0059,﻿church,not recorded,English,,,,﻿Bradford County,﻿Bradford County,﻿Canton,﻿Canton,﻿PA,,41.656464,-76.8532927,﻿scr.pa.0058,﻿Attended from Troy,,,,,,,,,,,,1870.0,Scranton
 ﻿scr.pa.0060,﻿church,﻿St. Philips' and St. James',English,,,,﻿Bradford County,﻿Bradford County,﻿Sugar Ridge,,﻿PA,,41.56293875,-76.54971239,﻿scr.pa.0079,﻿Visited from Dushore,﻿monthly,,,,,,,,,,,1870.0,Scranton
 ﻿scr.pa.0061,﻿church,﻿St. Francis',English,,,,﻿Bradford County,,﻿Paine Road,,﻿PA,,41.8362502,-76.5488232,﻿scr.pa.0079,﻿Attended from Dushore,,,,,,,,,,,,1870.0,Scranton
@@ -106,9 +106,9 @@
 ﻿scr.pa.0095,﻿church,not recorded,English,,,,﻿Wyoming County,﻿Wyoming County,﻿Brier Ridge,,﻿PA,,41.6415527,-76.0201615,﻿scr.pa.0088,"﻿Attended from Friendsville, Susquehanna Co.",﻿four times a year,,,,,,,,,,,1870.0,Scranton
 ﻿scr.pa.0096,﻿church,﻿St. Patrick's,English,,,,﻿Wyoming County,﻿Wyoming County,﻿Nicholson,﻿Nicholson,﻿PA,,41.6261882,-75.7804699,﻿scr.pa.0098,﻿Attended from Susquehanna,﻿every other Sunday,,,,,,,,,,,1870.0,Scranton
 ﻿scr.pa.0097,﻿convent,﻿Convent of the Sisters,English,,,,﻿Luzerne County,,﻿Pittston,﻿Pittston,﻿PA,,41.3259134,-75.7893604,,,,,,﻿Sister,﻿M. —,,,﻿Superior,,,,1870.0,Scranton
-﻿scr.pa.0097,﻿convent,﻿Convent of the Sisters,English,,,,﻿Luzerne County,,﻿Pittston,﻿Pittston,﻿PA,,41.3259134,-75.7893604,,,,,﻿ser_o_mary_001,,,,,,,,﻿Servants of the Immaculate Heart of Mary,1870.0,Scranton
+﻿scr.pa.0097,﻿convent,﻿Convent of the Sisters,English,,,,﻿Luzerne County,,﻿Pittston,﻿Pittston,﻿PA,,41.3259134,-75.7893604,,,,,,,,,,,,,﻿Servants of the Immaculate Heart of Mary,1870.0,Scranton
 ﻿scr.pa.0098,﻿convent,﻿Convent of the Sisters,English,,,,﻿Susquehanna County,,﻿Susquehanna Depot,﻿Susquehanna,﻿PA,,41.9436071,-75.59917890000001,,,,,,﻿Sister,﻿M. Anastasia,,,﻿Superior,,,,1870.0,Scranton
-﻿scr.pa.0098,﻿convent,﻿Convent of the Sisters,English,,,,﻿Susquehanna County,,﻿Susquehanna Depot,﻿Susquehanna,﻿PA,,41.9436071,-75.59917890000001,,,,,﻿ser_o_mary_001,,,,,,,,﻿Servants of the Immaculate Heart of Mary,1870.0,Scranton
+﻿scr.pa.0098,﻿convent,﻿Convent of the Sisters,English,,,,﻿Susquehanna County,,﻿Susquehanna Depot,﻿Susquehanna,﻿PA,,41.9436071,-75.59917890000001,,,,,,,,,,,,,﻿Servants of the Immaculate Heart of Mary,1870.0,Scranton
 ﻿scr.pa.0099,﻿academy,﻿Academy of Immaculate Heart of Mary,English,,,,,,﻿Pittston,﻿Pittston,﻿PA,,41.3259134,-75.7893604,,,,,,﻿Sister,﻿M. —,,,﻿Superior,﻿scholar,"﻿Number of scholars, —",,1870.0,Scranton
 ﻿scr.pa.0100,﻿academy,﻿Laurel Hill Academy,English,,,,﻿Susquehanna County,,﻿Susquehanna Depot,﻿Susquehanna,﻿PA,,41.7701516,-75.7138103,,,,,,﻿Sister,﻿M. Anastasia,,,﻿Superior,﻿scholar,"﻿Number of scholars, —",,1870.0,Scranton
 ﻿scr.pa.0101,﻿school,not recorded,English,,﻿St. Vincent's Church,,,,﻿Scranton,﻿Scranton,﻿PA,,41.408969,-75.66241219999999,,,,,,,,,,,﻿boy,"﻿boys, 80",,1870.0,Scranton

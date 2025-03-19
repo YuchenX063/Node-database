@@ -4,7 +4,7 @@ const requestWithSupertest = supertest(app);
 
 describe('The relationship between church and person', () => {
 
-    // create church, person, and church_person
+    // create church, person, and churchPerson
     beforeAll( async () => {
         const res = await requestWithSupertest.post('/api/church')
             .send([{
@@ -21,7 +21,7 @@ describe('The relationship between church and person', () => {
                 persTitle: 'test-title1'
         }]);
         expect(res2.status).toEqual(200);
-        const res3 = await requestWithSupertest.post('/api/church_person')
+        const res3 = await requestWithSupertest.post('/api/churchPerson')
             .send([{
                 instID: 'test-inst1',
                 persID: 'test-pers1',
@@ -48,7 +48,7 @@ describe('The relationship between church and person', () => {
     afterAll( async () => {
         await requestWithSupertest.delete('/api/church/test-inst1');
         await requestWithSupertest.delete('/api/person/test-pers1');
-        await requestWithSupertest.delete('/api/church_person/test-inst1/test-pers1');
+        await requestWithSupertest.delete('/api/churchPerson/test-inst1/test-pers1');
         await requestWithSupertest.delete('/api/church/test-inst2');
         await requestWithSupertest.delete('/api/person/test-pers2');
     });
@@ -58,7 +58,7 @@ describe('The relationship between church and person', () => {
         //console.log(res.body);
         const temp = await requestWithSupertest.get('/api/church/test-inst1');
         //console.log(temp.body);
-        const t = await requestWithSupertest.get('/api/church_person');
+        const t = await requestWithSupertest.get('/api/churchPerson');
         //console.log(t.body);
         expect(res.status).toEqual(200);
         expect(res.body).toHaveProperty('persID');

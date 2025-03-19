@@ -5,11 +5,11 @@ const requestWithSupertest = supertest(app);
 describe('CREATE methods for the ChurchPerson model', () => {
 
     afterAll( async() => {
-        await requestWithSupertest.delete('/api/church_person/test-inst1/test-pers1');
+        await requestWithSupertest.delete('/api/churchPerson/test-inst1/test-pers1');
     });
 
     it('should create a new ChurchPerson', async () => {
-        const res = await requestWithSupertest.post('/api/church_person')
+        const res = await requestWithSupertest.post('/api/churchPerson')
             .send([{
                 instID: 'test-inst1',
                 persID: 'test-pers1',
@@ -27,7 +27,7 @@ describe('CREATE methods for the ChurchPerson model', () => {
     });
 
     it('should not create a new ChurchPerson with the same instID and persID', async () => {
-        const res = await requestWithSupertest.post('/api/church_person')
+        const res = await requestWithSupertest.post('/api/churchPerson')
             .send([{
                 instID: 'test-inst1',
                 persID: 'test-pers1',

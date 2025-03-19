@@ -1,34 +1,29 @@
+// The unique identifier for a person across all churches: persID
+
 'use strict';
 const {
   Model
 } = require('sequelize');
 module.exports = (sequelize, DataTypes) => {
-  class Person extends Model {
+  class person extends Model {
     /**
      * Helper method for defining associations.
      * This method is not a part of Sequelize lifecycle.
      * The `models/index` file will call this method automatically.
      */
     static associate(models) {
-      // define association here
-      Person.belongsToMany(models.Church, { through: models.Church_Person, foreignKey: 'uniquePersID', as: 'churches'});
+      person.belongsToMany(models.churchInYear, { through: models.churchPerson, foreignKey: 'persID', as: 'church' });
     }
   }
-  Person.init({
-    uniquePersID: {
+  person.init({
+    persID: {
       type: DataTypes.STRING,
       allowNull: false,
       primaryKey: true
-    },
-    persID: DataTypes.STRING,
-    persName: DataTypes.STRING,
-    persYear: DataTypes.INTEGER,
-    persTitle: DataTypes.STRING,
-    persSuffix: DataTypes.STRING,
-    persNote: DataTypes.STRING,
+    }
   }, {
     sequelize,
-    modelName: 'Person',
+    modelName: 'person',
   });
-  return Person;
+  return person;
 };

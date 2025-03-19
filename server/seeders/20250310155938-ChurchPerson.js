@@ -4,7 +4,7 @@
 const fs = require('fs');
 const path = require('path');
 const csv = require('csv-parser');
-const{ Church_Person } = require('../models');
+const{ churchPerson } = require('../models');
 const{ loadData } = require('../utils/data-preprocess');
 
 /** @type {import('sequelize-cli').Migration} */
@@ -16,13 +16,13 @@ module.exports = {
     }},
 
   async down (queryInterface, Sequelize) {
-    await queryInterface.bulkDelete('Churche_People', null, {});
+    await queryInterface.bulkDelete('churchPeople', null, {});
   }
 };
 
 async function importData(data) {
 
-  const churchPersonKeys = ['uniqueInstID','uniquePersID'];
+  const churchPersonKeys = ['uniqueInstID','persID', 'persYear', 'persTitle', 'persName', 'persSuffix', 'persNote'];
 
   //console.log(data[0]);
 
@@ -37,21 +37,24 @@ async function importData(data) {
   
   //console.log(churchPersonInfo[0]);
 
-  const uniqueChurchPersonInfo = Array.from(new Map(churchPersonInfo.map(item => [`${item.uniqueInstID}-${item.uniquePersID}`, item])).values());
+  const uniqueChurchPersonInfo = Array.from(new Map(churchPersonInfo.map(item => [`${item.uniqueInstID}-${item.persID}`, item])).values());
 
   //console.log(uniqueChurchPersonInfo[0]);
   
   for (const item of uniqueChurchPersonInfo) {
-    if (item.uniqueInstID && item.uniquePersID.length) {
+    if (item.uniqueInstID && item.persID) {
       try {
-        await Church_Person.create(item);
-      //console.log(`Created church_person:${item.instID}, ${item.persID}`);
+        await churchPerson.findOrCreate({
+          where: { uniqueInstID: item.uniqueInstID, persID: item.persID },
+          defaults: item,
+        });
+      //console.log(`Created churchPerson:${item.instID}, ${item.persID}`);
       } catch (error) {
-        console.error(`Error creating church_person: ${JSON.stringify(item)}`, error);
+        console.error(`Error creating churchPerson: ${JSON.stringify(item)}`, error);
       }
     }
   };
 
-  console.log(`Finished processing church_persons`);
+  console.log(`Finished processing churchPersons`);
 
 };

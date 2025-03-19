@@ -1,0 +1,30 @@
+﻿instID,church_type,instName,language,instNote,placeName,region,county_orig,county_reg,city_orig,city_reg,state_orig,state_reg,latitude,longitude,attendingInstID,attendingChurch,attendingChurchFrequency,attendingChurchNote,persID,persTitle,persName,persSuffix,persRole,persNote,memberType,member,affiliated,year,diocese
+﻿oma.ne.0001,﻿church,﻿Church of St. Philomena,English,,,,,,﻿Omaha,﻿Omaha,﻿NE,﻿NE,,,,,,,﻿jam_ogorman_001,﻿Rt. Rev.,﻿J.M. O'Gorman,,,,,,,1866.0,VANebraska
+﻿oma.ne.0001,﻿church,﻿Church of St. Philomena,English,,,,,,﻿Omaha,﻿Omaha,﻿NE,,,,,,,,﻿joh_curtis_001,﻿Rev.,﻿John Curtis,,﻿Pastor,,,,,1866.0,VANebraska
+﻿oma.ne.0001,﻿church,﻿Church of St. Philomena,English,,,,,,﻿Omaha,﻿Omaha,﻿NE,,,,,,,,﻿f_bean_001,﻿Rev.,﻿F. Bean,,﻿Assistant Pastor,,,,,1866.0,VANebraska
+﻿oma.ne.0004,﻿church,not recorded,English,,,,﻿Platte County,,﻿Columbus,﻿Columbus,﻿NE,﻿NE,,,,,,,﻿j_erlock_001,﻿Rev.,﻿John Erlock,,,,,,,1866.0,VANebraska
+﻿oma.ne.0003,﻿church,not recorded,English,,,,﻿Otoe County,,﻿Nebraska City,﻿Nebraska City,﻿NE,﻿NE,,,,,,,﻿ema_hartig_001,﻿Rev.,﻿Eml. Hartig,﻿O.S.B.,,,,,,1866.0,VANebraska
+﻿oma.ne.0003,﻿church,﻿St. John's,English,,,,﻿Otoe County,,﻿St. Patrick's Settlement,﻿Nebraska City,﻿NE,,,,,,,,﻿t_ryan_002,﻿Rev.,﻿T. Ryan,,﻿Pastor,,,,,1866.0,VANebraska
+﻿oma.ne.0006,﻿church,not recorded,English,,,,﻿Richardson County,,﻿Rulo,﻿Rulo,﻿NE,﻿NE,,,,,,,﻿wil_kelly_002,﻿Rev.,﻿Wm. Kelly,,﻿Pastor,,,,,1866.0,VANebraska
+﻿oma.ne.0025,﻿mission,not recorded,English,,,,﻿Cass County,,﻿Plattsmouth,﻿Plattsmouth,﻿NE,﻿NE,,,,,,,﻿ema_hartig_001,﻿Rev.,﻿E. Hartig,,,,,,,1866.0,VANebraska
+﻿oma.ne.0037,﻿mission,not recorded,English,,,,,,﻿Salt Creek,,﻿NE,,,,﻿oma.ne.0003,﻿Visited from Nebraska City,,,,,,,,,,,,1866.0,VANebraska
+﻿oma.ne.0007,﻿mission,not recorded,English,﻿an Irish settlement,,,,,﻿Forest City,,﻿NE,﻿NE,,,,,,,﻿t_curtis_001,﻿Rev.,﻿T. Curtis,,,,,,,1866.0,VANebraska
+﻿oma.ne.0010,﻿mission,not recorded,English,﻿german settlement,,,,,﻿St. Helena,﻿St. Helena,,﻿NE,,,,,,,﻿f_bean_001,﻿Rev.,﻿F. Bean,,,,,,,1866.0,VANebraska
+﻿oma.ne.0008,﻿mission,not recorded,English,﻿german settlement,,,,,﻿West-Point,﻿West Point,﻿NE,﻿NE,,,,,,,﻿j_erlock_001,﻿Rev.,﻿T. Erlock,,,,,,,1866.0,VANebraska
+﻿oma.ne.0014,﻿mission,not recorded,English,,,,,,﻿Fort Kearney,﻿Kearney,﻿NE,﻿NE,,,﻿oma.ne.0004,﻿attended from Columbus,,,,,,,,,,,,1866.0,VANebraska
+﻿sio.sd.0005,﻿mission,not recorded,English,,,,,,﻿Fort Randall,,﻿NE,﻿SD,,,,﻿attended from St. John's,,,,,,,,,,,,1866.0,VANebraska
+﻿oma.ne.0024,﻿mission,not recorded,English,,,,,,﻿Punka,﻿Punka,﻿NE,﻿NE,,,,﻿attended from St. John's,,,,,,,,,,,,1866.0,VANebraska
+﻿dub.ia.0130,﻿church,not recorded,English,,,,,,﻿Sioux City,﻿Sioux City,﻿IA,,,,,,,,﻿t_ryan_002,﻿Rev.,﻿T. Ryan,,,,,,,1866.0,VANebraska
+﻿oma.ne.0015,﻿church,not recorded,English,﻿german settlement,,,,,﻿Cottonwood Springs,,﻿NE,﻿NE,,,﻿oma.ne.0004,﻿attended from Columbus,,,,,,,,,,,,1866.0,VANebraska
+﻿oma.ne.0013,﻿church,not recorded,English,,,,,,﻿Brownsville,﻿Brownsville,﻿NE,﻿NE,,,﻿oma.ne.0006,﻿Attended from Rulo,,,,,,,,,,,,1866.0,VANebraska
+﻿oma.ne.0011,﻿church,not recorded,English,,,,,,﻿Arago,﻿Arago,﻿NE,﻿NE,,,﻿oma.ne.0006,﻿Attended from Rulo,,,,,,,,,,,,1866.0,VANebraska
+﻿hel.mt.0016,﻿mission,﻿Indian Missions of the Rocky Mountains,English,,﻿in the Rocky Mountains,,,,,,,,,,,﻿attended by the Jesuit Fathers,,,﻿j_diorga_001,﻿Rev.,﻿J. Diorga,,﻿Superior,,,,,1866.0,VANebraska
+﻿dub.ia.0039,﻿church,not recorded,English,,,,,,﻿Council Bluffs,,﻿NE,﻿NE,,,,,,,﻿joh_daxacher_001,﻿Rev.,﻿J. Daxacher,,﻿Pastor,,,,,1866.0,VANebraska
+﻿oma.ne.0032,﻿school,﻿The Male and Female Schools of St. Philip Neri,English,,,,,,﻿Omaha,﻿Omaha,﻿NE,﻿NE,,,,,,,,,﻿Conducted by Sisters of Mercy,,,,,,,1866.0,VANebraska
+﻿oma.ne.0032,﻿school,﻿The Male and Female Schools of St. Philip Neri,English,,,,,,﻿Omaha,﻿Omaha,﻿NE,,,,,,,,﻿56_girls_001,﻿pupil,﻿56 girls,,,,,,,1866.0,VANebraska
+﻿oma.ne.0032,﻿school,﻿The Male and Female Schools of St. Philip Neri,English,,,,,,﻿Omaha,﻿Omaha,﻿NE,,,,,,,,﻿63_boys_001,﻿pupil,﻿63 boys,,,,,,,1866.0,VANebraska
+﻿oma.ne.0030,﻿school,﻿The Academy of the Sister of Mercy,English,"﻿Flourishing institution, notwithstanding the efforts of a rival Protestant institution, and the prejudices of its locality, the majority of the community being dissenters",,,,,﻿Omaha,﻿Omaha,﻿NE,﻿NE,,,,,,,,,,,,,,,,1866.0,VANebraska
+﻿oma.ne.0033,﻿school,﻿Day School,English,,,,,,﻿Nebraska City,﻿Nebraska City,﻿NE,﻿NE,,,,,,,﻿ema_hartig_001,﻿Rev.,﻿E. Hartig,,﻿Pastor,,,,,1866.0,VANebraska
+﻿oma.ne.0033,﻿school,﻿Day School,English,,,,,,﻿Nebraska City,﻿Nebraska City,﻿NE,,,,,,,,,,,,﻿Sisters of the Benedictine Ordfer,,,,,1866.0,VANebraska
+﻿oma.ne.0031,﻿school,﻿Academy,English,,,,,,﻿Nebraska City,﻿Nebraska City,﻿NE,﻿NE,,,,,,,,﻿Mother,﻿Beatrice,,﻿Prioress,,,,,1866.0,VANebraska
+﻿oma.ne.0031,23,﻿Academy,English,,,,,,﻿Nebraska City,﻿Nebraska City,﻿NE,,,,,,,,,,,,﻿Sisters of the Benedictine Order,,,,,1866.0,VANebraska

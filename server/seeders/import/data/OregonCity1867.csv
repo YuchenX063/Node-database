@@ -12,12 +12,12 @@
 ﻿ore.or.0010,﻿church,not recorded,English,,,,,,﻿Mount Ranier,﻿Ranier,﻿OR,,46.0891348,-122.93597759999999,﻿ore.or.0001,﻿attended from Portland,,,,,,,,,,,,1867.0,OregonCity
 ﻿ore.or.0011,﻿church,not recorded,English,,,,,,﻿St. Helen,﻿St. Helen,﻿OR,,45.858963700000004,-122.8212297,﻿ore.or.0001,﻿attended from Portland,,,,,,,,,,,,1867.0,OregonCity
 ﻿ore.or.0012,﻿church,not recorded,English,,,,,,﻿Columbia Bottom,,﻿OR,,45.56986,-122.48664,﻿ore.or.0001,﻿attended from Portland,,,,,,,,,,,,1867.0,OregonCity
-﻿ore.or.0012,﻿church,not recorded,English,,,,,,﻿Cascades,﻿Cascades,﻿OR,,45.56986,-122.48664,,﻿attended from Portland,,,,,,,,,,,,1867.0,OregonCity
-﻿ore.or.0013,﻿church,﻿St. Louis's Church,English,,﻿French Prairie,,﻿Marion County,,,,﻿OR,,45.123680900000004,-122.94262420000001,,,,,﻿b_delorme_001,﻿Very Rev.,﻿B. Delorme,,﻿V.G. Pastor,,,,,1867.0,OregonCity
-﻿ore.or.0013,﻿church,﻿St. Louis's Church,English,,﻿French Prairie,,﻿Marion County,,,,﻿OR,,45.123680900000004,-122.94262420000001,,,,,﻿a_lebas_001,﻿Rev.,﻿A. Lebas,,﻿Assistant,,,,,1867.0,OregonCity
+﻿ore.or.0081,﻿church,not recorded,English,,,,,,﻿Cascades,﻿Cascades,﻿OR,,45.56986,-122.48664,,﻿attended from Portland,,,,,,,,,,,,1867.0,OregonCity
+﻿ore.or.0013,﻿church,﻿St. Louis's Church,English,,﻿French Prairie,,﻿Marion County,,,﻿Saint Louis,﻿OR,,45.12326666,-122.94263229999999,,,,,﻿bar_delorme_001,﻿Very Rev.,﻿B. Delorme,,﻿V.G. Pastor,,,,,1867.0,OregonCity
+﻿ore.or.0013,﻿church,﻿St. Louis's Church,English,,﻿French Prairie,,﻿Marion County,,,﻿Saint Louis,﻿OR,,45.12326666,-122.94263229999999,,,,,﻿a_libar_001,﻿Rev.,﻿A. Lebas,,﻿Assistant,,,,,1867.0,OregonCity
 ﻿ore.or.0005,﻿church,not recorded,English,,﻿Molala,,,,﻿Molala,﻿Molalla,﻿OR,,45.1475439,-122.5771264,﻿ore.or.0002,﻿attended from St. Louis,,,,,,,,,,,,1867.0,OregonCity
 ﻿ore.or.0015,﻿church,﻿St. Paul's,English,,﻿French Prairie,,﻿Marion County,,,,﻿OR,,45.2623415,-122.84037430000001,,,,,﻿joh_f_malo_001,﻿Rev.,﻿John F. Malo,,﻿Pastor,,,,,1867.0,OregonCity
-﻿ore.or.0015,﻿church,﻿St. Paul's,English,,﻿French Prairie,,﻿Marion County,,,,﻿OR,,45.2623415,-122.84037430000001,,,,,,﻿Rev.,﻿- Delahunty,,﻿Assistant,,,,,1867.0,OregonCity
+﻿ore.or.0015,﻿church,﻿St. Paul's,English,,﻿French Prairie,,﻿Marion County,,,,﻿OR,,45.2623415,-122.84037430000001,,,,,﻿cam_delahunty_001,﻿Rev.,﻿- Delahunty,,﻿Assistant,,,,,1867.0,OregonCity
 ﻿ore.or.0017,﻿church,﻿St. John the Evangelist,English,,,,,,﻿Salem,﻿Salem,﻿OR,,44.9428975,-123.03509629999999,,,,,﻿seb_goens_001,﻿Rev.,﻿Sebastian Goens,,﻿Pastor,,,,,1867.0,OregonCity
 ﻿ore.or.0025,﻿church,﻿St. Mary's Church,English,,,﻿Valley of Willamette,,,﻿Corvallis,﻿Corvallis,﻿OR,,44.572975899999996,-123.2784567,﻿ore.or.0025,﻿attended from Salem,,,,,,,﻿Pastor,,,,,1867.0,OregonCity
 ﻿ore.or.0026,﻿church,not recorded,English,,,﻿Valley of Willamette,,,﻿Albany,﻿Albany,﻿OR,,44.6365107,-123.10592820000001,﻿ore.or.0025,﻿attended from Salem,,,,,,,,,,,,1867.0,OregonCity
@@ -44,7 +44,7 @@
 ﻿ore.or.0048,﻿church,not recorded,English,,﻿Kerbyville,﻿Rogue River Valley,,,﻿Kerbyville,﻿Kerby,﻿OR,,42.440124600000004,-122.92615459999999,﻿ore.or.0045,﻿attended from Jacksonville,,,,,,,,,,,,1867.0,OregonCity
 ﻿ore.or.0049,﻿church,not recorded,English,,,﻿Rogue River Valley,﻿Josephine County,,﻿Williamsburgh,﻿Williams,﻿OR,,42.2187354,-123.2739548,﻿ore.or.0045,﻿attended from Jacksonville,,,,,,,,,,,,1867.0,OregonCity
 ﻿ore.or.0050,﻿church,not recorded,English,,,﻿Rogue River Valley,﻿Josephine County,,﻿Althouse,﻿Althouse,﻿OR,,42.344757200000004,-123.4568737,﻿ore.or.0045,﻿attended from Jacksonville,,,,,,,,,,,,1867.0,OregonCity
-﻿ore.or.0018,﻿church,﻿St. Michael's Church,English,"﻿Oct. 12, 1862",﻿Indian Reservation,,﻿Yamhill County,,﻿Grand Bend,﻿Grand Ronde,﻿OR,,45.060113,-123.6092771,,,,,﻿a_t_croquet_001,﻿Rev.,﻿A. T. Croquet,,﻿Pastor,,,,,1867.0,OregonCity
+﻿ore.or.0018,﻿church,﻿St. Michael's Church,English,"﻿Oct. 12, 1862",﻿Indian Reservation,,﻿Yamhill County,,﻿Grand Bend,﻿Grand Ronde,﻿OR,,45.060113,-123.6092771,,,,,﻿a_s_croquet_001,﻿Rev.,﻿A. T. Croquet,,﻿Pastor,,,,,1867.0,OregonCity
 ﻿ore.or.0019,﻿church,﻿St. Patrick's Church,English,,,,﻿Yamhill County,,,,﻿OR,,45.17719829999999,-123.23953030000001,﻿ore.or.0018,﻿attended from Grand Bend,,,,,,,,,,,,1867.0,OregonCity
 ﻿ore.or.0020,﻿church,not recorded,English,,,,,,﻿Lafeyette,﻿Lafeyette,﻿OR,,45.243472499999996,-123.11214820000001,﻿ore.or.0018,﻿attended from Grand Bend,,,,,,,,,,,,1867.0,OregonCity
 ﻿ore.or.0022,﻿church,not recorded,English,,,,,,﻿Dayton,﻿Dayton,﻿OR,,45.220824,-123.07557890000001,﻿ore.or.0018,﻿attended from Grand Bend,,,,,,,,,,,,1867.0,OregonCity
@@ -57,8 +57,8 @@
 ﻿ore.or.0062,﻿church,﻿St. Andrew's Church,English,﻿blessed October 1864,﻿on southern branch of John Day,,﻿Grant County,,﻿Canyon City,﻿Canyon City,﻿OR,,44.3895995,-118.9502315,,,,,﻿pat_mackin_001,﻿Rev.,﻿Patrick Mackin,,﻿Pastor,,,,,1867.0,OregonCity
 ﻿ore.or.0066,﻿church,not recorded,English,,﻿on John Day tributary,,,,﻿Olive Creek,﻿Olive Creek,﻿OR,,43.8041334,-120.55420120000001,﻿ore.or.0062,﻿attended from Canyon City,,,,,,,,,,,,1867.0,OregonCity
 ﻿ore.or.0067,﻿church,not recorded,English,,﻿on John Day tributary,,,,﻿Middle Fork,﻿Middle Creek,﻿OR,,44.5000956,-118.0880957,﻿ore.or.0062,﻿attended from Canyon City,,,,,,,,,,,,1867.0,OregonCity
-﻿ore.or.0068,﻿church,not recorded,English,,﻿on John Day tributary,,,,﻿Vincent Creek,﻿Vincent Creek,﻿OR,,44.114605,117.364349,﻿ore.or.0062,﻿attended from Canyon City,,,,,,,,,,,,1867.0,OregonCity
-﻿ore.or.0068,﻿church,not recorded,English,,﻿on John Day tributary,,,,﻿Independence,﻿Independence,﻿OR,,44.114605,117.364349,﻿ore.or.0062,﻿attended from Canyon City,,,,,,,,,,,,1867.0,OregonCity
+﻿ore.or.0087,﻿church,not recorded,English,,﻿on John Day tributary,,,,﻿Vincent Creek,﻿Vincent Creek,﻿OR,,43.792629999999996,-123.77728,﻿ore.or.0062,﻿attended from Canyon City,,,,,,,,,,,,1867.0,OregonCity
+﻿ore.or.0082,﻿church,not recorded,English,,﻿on John Day tributary,,,,﻿Independence,﻿Independence,﻿OR,,43.792629999999996,-123.77728,﻿ore.or.0062,﻿attended from Canyon City,,,,,,,,,,,,1867.0,OregonCity
 ﻿ore.or.0071,﻿church,not recorded,English,,﻿on John Day tributary,,,,﻿Granite Creek,﻿Granite Creek,﻿OR,,43.8041334,-120.55420120000001,﻿ore.or.0062,﻿attended from Canyon City,,,,,,,,,,,,1867.0,OregonCity
 ﻿ore.or.0060,﻿church,not recorded,English,,﻿on Powder River,,,,﻿Auburn,﻿Auburn,﻿OR,,44.69380375,-117.93185929999999,﻿ore.or.0058,﻿attended from Canyon City,,,,,,,,,,,,1867.0,OregonCity
 ﻿ore.or.0058,﻿mission,not recorded,English,﻿no chapel,﻿Umatilla Indian Reservation,﻿East of the Cascade Range,,,﻿Umatilla,﻿Umatilla,﻿OR,,45.6704084,-118.68359009999999,,,,,﻿g_a_vermersch_001,﻿Rev.,﻿G. Adolphe Vermersch,,﻿Pastor,,,,,1867.0,OregonCity
@@ -90,4 +90,4 @@
 ﻿ore.or.0075,﻿academy,﻿St. Mary's Academy,English,,,,,,﻿Dalles,﻿The Dalles,﻿OR,,45.602381799999996,-121.20215690000002,,,,,,,,,,,﻿sister,﻿4 sisters,,1867.0,OregonCity
 ﻿ore.or.0078,﻿school,not recorded,English,﻿for boys,,,,,﻿Portland,﻿Portland,﻿OR,,45.515232,-122.67838529999999,,,,,,,,,,,,,,1867.0,OregonCity
 ﻿ore.or.0079,﻿school,not recorded,English,﻿for boys,,,,,﻿St. Paul,﻿St. Paul,﻿OR,,45.2112295,-122.9767662,,,,,,,,,,,,,,1867.0,OregonCity
-﻿ore.or.0080,﻿school,not recorded,English,"﻿for boys.  two instructors brought from Canada, for a higher school for boys, at Portland",,,,,﻿St. Louis,﻿St. Louis,﻿OR,,45.2112295,-90.1994042,,,,,,,,,,,,,,1867.0,OregonCity
+﻿ore.or.0080,﻿school,not recorded,English,"﻿for boys.  two instructors brought from Canada, for a higher school for boys, at Portland",,,,,﻿St. Louis,﻿St. Louis,﻿OR,,45.12326666,-122.94263229999999,,,,,,,,,,,,,,1867.0,OregonCity

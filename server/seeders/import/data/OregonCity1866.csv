@@ -11,12 +11,12 @@
 ﻿ore.or.0010,﻿church,not recorded,English,,,,,,﻿Mount Rainier,﻿Rainier,﻿OR,,46.0891348,-122.93597759999999,﻿ore.or.0001,﻿attended from Portland,,,,,,,,,,,,1866.0,OregonCity
 ﻿ore.or.0011,﻿church,not recorded,English,,,,,,﻿St. Helen,﻿St. Helen,﻿OR,,45.858963700000004,-122.8212297,﻿ore.or.0001,﻿attended from Portland,,,,,,,,,,,,1866.0,OregonCity
 ﻿ore.or.0012,﻿church,not recorded,English,,,,,,﻿Columbia Bottom,,﻿OR,,45.56986,-122.48664,﻿ore.or.0001,﻿attended from Portland,,,,,,,,,,,,1866.0,OregonCity
-﻿ore.or.0012,﻿church,not recorded,English,,,,,,﻿Cascades,﻿Cascades,﻿OR,,45.56986,-122.48664,,﻿attended from Portland,,,,,,,,,,,,1866.0,OregonCity
-﻿ore.or.0013,﻿church,not recorded,English,,,﻿French Prairie,﻿Marion County,,﻿St. Louis,,﻿OR,,45.123680900000004,-122.94262420000001,,,,,﻿b_delorme_001,﻿Very Rev.,﻿B. Delorme,,﻿V.G. Pastor,,,,,1866.0,OregonCity
-﻿ore.or.0013,﻿church,not recorded,English,,,﻿French Prairie,﻿Marion County,,﻿St. Louis,,﻿OR,,45.123680900000004,-122.94262420000001,,,,,﻿a_lebas_001,﻿Rev.,﻿A. Lebas,,﻿Assistant,,,,,1866.0,OregonCity
+﻿ore.or.0081,﻿church,not recorded,English,,,,,,﻿Cascades,﻿Cascades,﻿OR,,45.56986,-122.48664,,﻿attended from Portland,,,,,,,,,,,,1866.0,OregonCity
+﻿ore.or.0013,﻿church,not recorded,English,,,﻿French Prairie,﻿Marion County,,﻿St. Louis,,﻿OR,,45.123680900000004,-122.94262420000001,,,,,﻿bar_delorme_001,﻿Very Rev.,﻿B. Delorme,,﻿V.G. Pastor,,,,,1866.0,OregonCity
+﻿ore.or.0013,﻿church,not recorded,English,,,﻿French Prairie,﻿Marion County,,﻿St. Louis,,﻿OR,,45.123680900000004,-122.94262420000001,,,,,﻿a_libar_001,﻿Rev.,﻿A. Lebas,,﻿Assistant,,,,,1866.0,OregonCity
 ﻿ore.or.0005,﻿church,not recorded,English,,,,,,﻿Molala,﻿Molalla,﻿OR,,45.2623415,-122.84037430000001,﻿ore.or.0002,﻿attended from St. Louis,,,,,,,,,,,,1866.0,OregonCity
 ﻿ore.or.0015,﻿church,not recorded,English,,,﻿French Prairie,﻿Marion County,,﻿St. Paul,,﻿OR,,45.2623415,-122.84037430000001,﻿ore.or.0014,,,,﻿joh_f_malo_001,﻿Rev.,﻿John F. Malo,,﻿Pastor,,,,,1866.0,OregonCity
-﻿ore.or.0015,﻿church,not recorded,English,,,﻿French Prairie,﻿Marion County,,﻿Butteville,﻿Butteville,﻿OR,,45.2623415,-122.84037430000001,,﻿attended from St. Paul,,,,,,,,,,,,1866.0,OregonCity
+﻿ore.or.0083,﻿church,not recorded,English,,,,,,﻿Butteville,﻿Butteville,﻿OR,,45.2623415,-122.84037430000001,,﻿attended from St. Paul,,,,,,,,,,,,1866.0,OregonCity
 ﻿ore.or.0017,﻿church,﻿St. John the Evangelist,English,"﻿blessed April 10, 1864",,,,,﻿Salem,﻿Salem,﻿OR,,44.9428975,-123.03509629999999,,,,,﻿seb_goens_001,﻿Rev.,﻿Sebastian Goens,,﻿Pastor,,,,,1866.0,OregonCity
 ﻿ore.or.0025,﻿church,﻿St. Mary's Church,English,,,,,,﻿Corvallis,﻿Corvallis,﻿OR,,45.060113,-123.6092771,,﻿attended from Salem,,,,,,,﻿Pastor,,,,,1866.0,OregonCity
 ﻿ore.or.0026,﻿church,not recorded,English,,,,,,﻿Albany,﻿Albany,﻿OR,,45.17719829999999,-123.23953030000001,﻿ore.or.0025,﻿attended from Salem,,,,,,,,,,,,1866.0,OregonCity
@@ -42,8 +42,8 @@
 ﻿ore.or.0047,﻿church,not recorded,English,,,,,,﻿Waldo,﻿Waldo,﻿OR,,43.3672213,-124.2131325,﻿ore.or.0045,﻿attended from Jacksonville,,,,,,,,,,,,1866.0,OregonCity
 ﻿ore.or.0049,﻿church,not recorded,English,,,,﻿Josephine County,,﻿Williamsburgh,﻿Williams,﻿OR,,43.51387385,-123.8040625,﻿ore.or.0045,﻿attended from Jacksonville,,,,,,,,,,,,1866.0,OregonCity
 ﻿ore.or.0050,﻿church,not recorded,English,,,,﻿Josephine County,,﻿Athhouse,﻿Althouse,﻿OR,,43.8041334,-120.55420120000001,﻿ore.or.0045,﻿attended from Jacksonville,,,,,,,,,,,,1866.0,OregonCity
-﻿ore.or.0050,﻿church,not recorded,English,,,,﻿Josephine County,,﻿Crescent City,﻿Crescent City,﻿CA,,43.8041334,-120.55420120000001,﻿ore.or.0045,﻿attended from Jacksonville,,,,,,,,,,,,1866.0,OregonCity
-﻿ore.or.0018,﻿church,﻿St. Michael's Church,English,,﻿Indian Reservation,,﻿Yamhill County,,﻿Grand Round,﻿Grand Ronde,﻿OR,,45.060113,-123.6092771,,,,,﻿a_t_croquet_001,﻿Rev.,﻿A. T. Croquet,,﻿Pastor,,,,,1866.0,OregonCity
+﻿ore.or.0084,﻿church,not recorded,English,,,,﻿Josephine County,,﻿Crescent City,﻿Crescent City,﻿CA,,43.8041334,-120.55420120000001,﻿ore.or.0045,﻿attended from Jacksonville,,,,,,,,,,,,1866.0,OregonCity
+﻿ore.or.0018,﻿church,﻿St. Michael's Church,English,,﻿Indian Reservation,,﻿Yamhill County,,﻿Grand Round,﻿Grand Ronde,﻿OR,,45.060113,-123.6092771,,,,,﻿a_s_croquet_001,﻿Rev.,﻿A. T. Croquet,,﻿Pastor,,,,,1866.0,OregonCity
 ﻿ore.or.0019,﻿church,﻿St. Patrick's Church,English,,,,﻿Yamhill County,,,,﻿OR,,42.344757200000004,-123.4568737,﻿ore.or.0018,﻿attended from St. Michael,,,,,,,,,,,,1866.0,OregonCity
 ﻿ore.or.0020,﻿church,not recorded,English,,,,,,﻿Lafeyette,﻿Lafeyette,﻿OR,,43.8041334,-120.55420120000001,﻿ore.or.0018,﻿attended from St. Michael,,,,,,,,,,,,1866.0,OregonCity
 ﻿ore.or.0022,﻿church,not recorded,English,,,,,,﻿Dayton,﻿Dayton,﻿OR,,42.440124600000004,-122.92615459999999,﻿ore.or.0018,﻿attended from St. Michael,,,,,,,,,,,,1866.0,OregonCity
@@ -57,13 +57,13 @@
 ﻿ore.or.0071,﻿church,not recorded,English,,,,,,﻿Granite City,﻿Granite City,﻿OR,,44.69380375,-117.93185929999999,﻿ore.or.0062,﻿attended from Canyon City,,,,,,,,,,,,1866.0,OregonCity
 ﻿ore.or.0067,﻿church,not recorded,English,,﻿Middle Fork,,,,,,﻿OR,,44.3895995,-118.9502315,﻿ore.or.0062,﻿attended from Canyon City,,,,,,,,,,,,1866.0,OregonCity
 ﻿ore.or.0066,﻿church,not recorded,English,,﻿Olive Creek,,,,,,﻿OR,,43.8041334,-120.55420120000001,﻿ore.or.0062,﻿attended from Canyon City,,,,,,,,,,,,1866.0,OregonCity
-﻿ore.or.0068,﻿church,not recorded,English,,﻿Vincent Creek,,,,,,﻿OR,,44.5000956,-118.0880957,﻿ore.or.0062,﻿attended from Canyon City,,,,,,,,,,,,1866.0,OregonCity
+﻿ore.or.0087,﻿church,not recorded,English,,﻿Vincent Creek,,,,,,﻿OR,,44.5000956,-118.0880957,﻿ore.or.0062,﻿attended from Canyon City,,,,,,,,,,,,1866.0,OregonCity
 ﻿ore.or.0070,﻿church,not recorded,English,,,﻿on Granite Creek,,,﻿Independence,,﻿OR,,44.114605,117.364349,﻿ore.or.0062,﻿attended from Canyon City,,,,,,,,,,,,1866.0,OregonCity
 ﻿ore.or.0060,﻿church,not recorded,English,,,﻿on Powder Creek,﻿Baker County,,﻿Auburn,﻿Auburn,﻿OR,,42.07777787,-119.9250797,﻿ore.or.0058,﻿attended from Canyon City,,,,,,,,,,,,1866.0,OregonCity
 ﻿ore.or.0058,﻿mission,not recorded,English,﻿no chapel,﻿Umatilla Indian Reservation,,,,,,﻿OR,,43.8041334,-120.55420120000001,,,,,﻿g_a_vermersch_001,﻿Rev.,﻿G. Adolphe Vermersch,,﻿Pastor,,,,,1866.0,OregonCity
 ﻿boi.id.0001,﻿church,﻿St. Joseph's,English,,﻿on Moore's Creek,,,,﻿Idaho City,﻿Idaho City,﻿ID,,43.8285046,-115.8345537,,,,,﻿g_a_vermersch_001,﻿Rev.,﻿G. Adolphe Vermersch,,﻿Pastor,﻿Listed as (idem) in Almanac,,,,1866.0,OregonCity
 ﻿boi.id.0002,﻿church,not recorded,English,,,,,,﻿Boise City,﻿Boise,﻿ID,,43.6150186,-116.2023137,,﻿attended from St. Joseph,,,,,,,,,,,,1866.0,OregonCity
-﻿boi.id.0005,﻿church,﻿St. Francis',English,"﻿Sep. 25, 1864",,,,,﻿Pioneer City,﻿Pioneerville,﻿ID,,43.9687833,-115.8467795,,,,,﻿s_mesplié_001,﻿Rev.,﻿S. Mesplié,,﻿Pastor,,,,,1866.0,OregonCity
+﻿boi.id.0005,﻿church,﻿St. Francis',English,"﻿Sep. 25, 1864",,,,,﻿Pioneer City,﻿Pioneerville,﻿ID,,43.9687833,-115.8467795,,,,,﻿t_mesplié_001,﻿Rev.,﻿S. Mesplié,,﻿Pastor,,,,,1866.0,OregonCity
 ﻿boi.id.0003,﻿church,﻿St. Thomas',English,"﻿Dec. 20, 1863",﻿Granite Creek,,,,﻿Placerville,﻿Placerville,﻿ID,,43.9432266,-115.94706000000001,,,,"﻿Not listed as being attended, but implied that the above Mesplié attends both Placerville and Centreville",,,,,,,,,,1866.0,OregonCity
 ﻿boi.id.0004,﻿church,﻿St. Dominick's,English,"﻿Dec. 25, 1863",﻿Grim's Creek,,,,﻿Centreville,﻿Centerville,﻿ID,,43.9126714,-115.89233529999998,,﻿attended from St. Francis',,,,,,,,,,,,1866.0,OregonCity
 ﻿boi.id.0010,﻿church,not recorded,English,,﻿on Salmon River,,,,﻿Florence,﻿Florence,﻿ID,,45.50111,-116.0275,,﻿attended from Idaho City,,,,,,,,,,,,1866.0,OregonCity
@@ -93,3 +93,4 @@
 ﻿ore.or.0078,﻿school,not recorded,English,﻿for boys,,,,,﻿Portland,,﻿OR,,45.515232,-122.67838529999999,,,,,,,,,,,,,,1866.0,OregonCity
 ﻿ore.or.0079,﻿school,not recorded,English,﻿for boys,,,,,﻿St. Paul,,﻿OR,,45.2112295,-122.9767662,,,,,,,,,,,,,,1866.0,OregonCity
 ﻿ore.or.0080,﻿school,not recorded,English,﻿for boys,,,,,﻿St. Louis,,﻿OR,,38.6270025,-90.1994042,,,,,,,,,,,,,,1866.0,OregonCity
+﻿ore.or.0080,79,not recorded,English,﻿for boys,,,,,﻿St. Louis,,﻿OR,,38.6270025,-90.1994042,,,,,,,,,,,,,,1866.0,OregonCity

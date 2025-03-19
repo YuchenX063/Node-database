@@ -1,6 +1,6 @@
 ﻿instID,church_type,instName,language,instNote,placeName,region,county_orig,county_reg,city_orig,city_reg,state_orig,state_reg,latitude,longitude,attendingInstID,attendingChurch,attendingChurchFrequency,attendingChurchNote,persID,persTitle,persName,persSuffix,persRole,persNote,memberType,member,affiliated,year,diocese
 ﻿por.me.0001,﻿cathedral,﻿Cathedral Chapel of the Immaculate Conception,English,,,,,,﻿Portland,﻿Portland,﻿ME,,44.8147712,-71.8803728,,,,,﻿d_w_bacon_001,﻿Rt. Rev.,﻿D. W. Bacon,﻿D.D.,,,,,,1870.0,Portland
-﻿por.me.0001,﻿cathedral,﻿Cathedral Chapel of the Immaculate Conception,English,,,,,,﻿Portland,﻿Portland,﻿ME,,44.8147712,-71.8803728,,,,,﻿joh_d_rose_001,﻿Rev.,﻿John De Rose,,,,,,,1870.0,Portland
+﻿por.me.0001,﻿cathedral,﻿Cathedral Chapel of the Immaculate Conception,English,,,,,,﻿Portland,﻿Portland,﻿ME,,44.8147712,-71.8803728,,,,,﻿joh_de-rose_001,﻿Rev.,﻿John De Rose,,,,,,,1870.0,Portland
 ﻿por.me.0001,﻿cathedral,﻿Cathedral Chapel of the Immaculate Conception,English,,,,,,﻿Portland,﻿Portland,﻿ME,,44.8147712,-71.8803728,,,,,﻿eug_ocallaghan_002,﻿Rev.,﻿Eugene O'Callaghan,,,,,,,1870.0,Portland
 ﻿por.me.0002,﻿church,﻿St. Dominick's Church,English,,,,,,﻿Portland,﻿Portland,﻿ME,,43.6503141,-70.26267292,,,,,﻿joh_murphy_001,﻿Rev.,﻿John Murphy,,,,,,,1870.0,Portland
 ﻿por.me.0003,﻿chapel,﻿Calvary Chapel,English,,,,,,﻿Portland,﻿Portland,﻿ME,,43.660720399999995,-70.2580778,﻿por.me.0002,﻿attended from St. Dominick's Church,,,﻿p_mcgreavey_001,﻿Rev.,﻿P. McGreavey,,,,,,,1870.0,Portland
@@ -21,7 +21,7 @@
 ﻿por.me.0015,﻿church,﻿St. Ann's,English,,,,,,﻿Calais,﻿Calais,﻿ME,,45.187368,-67.278382,,,,,﻿e_vetromile_001,﻿Rev.,﻿E. Vetromile,,,,,,,1870.0,Portland
 ﻿por.me.0016,﻿church,not recorded,English,,,,,,﻿Cherryfield,﻿Cherryfield,﻿ME,,44.607299100000006,-67.9258366,,,,,﻿wm_herbert_001,﻿Rev.,﻿Wm. Herbert,,,,,,,1870.0,Portland
 ﻿por.me.0017,﻿church,﻿St. Patrick's,English,,,,,,﻿Damariscotta,﻿Damariscotta,﻿ME,,44.0328765,-69.51888840000001,,,,,﻿jam_peterson_001,﻿Rev.,﻿James Peterson,,,,,,,1870.0,Portland
-﻿por.me.0018,﻿church,﻿St. Joseph's,English,,,,,,﻿Eastport,﻿Eastport,﻿ME,,44.9061906,-66.9899785,,,,,﻿eug_vetromile_001,﻿Rev.,﻿Eug. Vetromile,,,,,,,1870.0,Portland
+﻿por.me.0018,﻿church,﻿St. Joseph's,English,,,,,,﻿Eastport,﻿Eastport,﻿ME,,44.9061906,-66.9899785,,,,,﻿e_vetromile_001,﻿Rev.,﻿Eug. Vetromile,,,,,,,1870.0,Portland
 ﻿por.me.0019,﻿church,not recorded,English,,,,,,﻿Ellsworth,﻿Ellsworth,﻿ME,,44.543409499999996,-68.4194641,,,,,﻿wm_herbert_001,﻿Rev.,﻿Wm. Herbert,,,,,,,1870.0,Portland
 ﻿por.me.0020,﻿church,not recorded,English,,,,,,﻿Frankfort,﻿Frankfort,﻿ME,,44.60867329999999,-68.8744635,,,,,﻿wm_herbert_001,﻿Rev.,﻿Wm. Herbert,,,,,,,1870.0,Portland
 ﻿por.me.0021,﻿church,﻿St. Mary's,English,,,,,,﻿Gardiner,﻿Gardiner,﻿ME,,44.230069799999995,-69.7753222,,,,,﻿cha_egan_001,﻿Rev.,﻿Charles Egan,,,,,,,1870.0,Portland
@@ -76,7 +76,7 @@
 ﻿por.me.0067,﻿church,not recorded,English,,,,,,﻿Suncook,﻿Suncook,﻿NH,,43.130638,-71.4531241,,,,,﻿joh_barry_002,﻿Rev.,﻿John Barry,,,,,,,1870.0,Portland
 ﻿por.me.0068,﻿church,not recorded,English,,,,,,﻿Fisherville,﻿Fisherville,﻿NH,,43.2801927,-71.59909990000001,,,,,﻿joh_barry_002,﻿Rev.,﻿John Barry,,,,,,,1870.0,Portland
 ﻿por.me.0069,﻿church,not recorded,English,,,,,,﻿Wilton,﻿Wilton,﻿NH,,42.8433943,-71.7351077,,,,,﻿p_hoolahan_001,﻿Rev.,﻿P. Hoolahan,,,,,,,1870.0,Portland
-﻿por.me.0070,"﻿convent, academy",﻿Convent and Academy of the Ladies of the Congregation of Notre Dame,English,,,,,,﻿Portland,﻿Portland,﻿ME,,43.667720200000005,-70.2809152,,,,,﻿ste_josephine_001,﻿Madame,﻿Ste. Josephine,,﻿Lady Superior,,﻿religious,"﻿Number of religious, 14",,1870.0,Portland
+﻿por.me.0070,"﻿convent, academy",﻿Convent and Academy of the Ladies of the Congregation of Notre Dame,English,,,,,,﻿Portland,﻿Portland,﻿ME,,43.667720200000005,-70.2809152,,,,,,﻿Madame,﻿Ste. Josephine,,﻿Lady Superior,,﻿religious,"﻿Number of religious, 14",,1870.0,Portland
 ﻿por.me.0070,"﻿convent, academy",﻿Convent and Academy of the Ladies of the Congregation of Notre Dame,English,,,,,,﻿Portland,﻿Portland,﻿ME,,43.667720200000005,-70.2809152,,,,,,,,,,,﻿pupil,"﻿number of pupils, 80",,1870.0,Portland
 ﻿por.me.0071,﻿school,﻿Parochial School of the Cathedral,English,,,,,,﻿Portland,﻿Portland,﻿ME,,43.659099299999994,-70.2568189,,,,,,,,,,,﻿pupil,"﻿Number of pupils, about 460",﻿in charge of the Ladies of the Congregation of Notre Dame,1870.0,Portland
 ﻿por.me.0072,﻿school,not recorded,English,﻿Parochial School,,,,,﻿Portland,﻿Portland,﻿ME,,43.659099299999994,-70.2568189,,,,,,,,,,,﻿pupil,"﻿Number of pupils, about 375",﻿in charge of the Ladies of the Congregation of Notre Dame,1870.0,Portland

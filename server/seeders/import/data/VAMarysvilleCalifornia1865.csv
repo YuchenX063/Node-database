@@ -1,76 +1,68 @@
 ﻿instID,church_type,instName,language,instNote,placeName,region,county_orig,county_reg,city_orig,city_reg,state_orig,state_reg,latitude,longitude,attendingInstID,attendingChurch,attendingChurchFrequency,attendingChurchNote,persID,persTitle,persName,persSuffix,persRole,persNote,memberType,member,affiliated,year,diocese
-﻿gra.ca.0001,﻿church,not recorded,English,,,,,,﻿Marysville,,﻿CA,﻿CA,39.1429134,-121.58828179999999,,,,,﻿eug_oconnell_002,﻿Rt. Rev.,﻿Eugene O'Connell,﻿D.D.,,,,,,1865.0,VAMarysvilleCalifornia
-﻿gra.ca.0001,﻿church,not recorded,English,,,,,,﻿Marysville,,﻿CA,,39.1429134,-121.58828179999999,,,,,﻿joh_mcnulty_001,﻿Rev.,﻿Nugent,,,,,,,1865.0,VAMarysvilleCalifornia
-﻿gra.ca.0003,﻿church,not recorded,English,,,,﻿Sierra County,﻿Sierra County,﻿Alleghany Town,﻿Alleghany,﻿CA,﻿CA,39.1429134,-121.58828179999999,﻿gra.ca.0021,﻿church attended from Downiville,﻿once a month,,﻿ber_sheehan_001,,,,,,,,,1865.0,VAMarysvilleCalifornia
-﻿gra.ca.0057,﻿church,not recorded,English,,,,﻿Butte County,﻿Butte County,﻿Oroville,﻿Oroville,﻿CA,﻿CA,39.223240600000004,-123.7680598,﻿gra.ca.0001,﻿attended from Marysville,,,,,,,,,,,,1865.0,VAMarysvilleCalifornia
-﻿gra.ca.0067,﻿church,not recorded,English,,,,﻿Yuba County,﻿Yuba County,﻿Smartsville,﻿Smartsville,﻿CA,﻿CA,39.4692306,-120.8429926,﻿gra.ca.0001,﻿attended from Marysville,,,,,,,,,,,,1865.0,VAMarysvilleCalifornia
-﻿gra.ca.0018,﻿church,not recorded,English,,,,﻿Colusi County,﻿Colusa County,﻿Colusi,﻿Colusa,﻿CA,﻿CA,39.5500194,-123.438353,﻿gra.ca.0001,﻿visited from Marysville,,,,,,,,,,,,1865.0,VAMarysvilleCalifornia
-﻿gra.ca.0029,﻿church,not recorded,English,,,,﻿Yuba County,﻿Yuba County,﻿Foster's Bar,﻿found on map,﻿CA,﻿CA,40.74080463,-123.2074406,﻿gra.ca.0001,﻿attended from Marysville,,,,,,,,,,,,1865.0,VAMarysvilleCalifornia
-﻿gra.ca.0043,﻿church,not recorded,English,,,,﻿Yuba County,,﻿Johnston's Crossing of Bear River,,﻿CA,﻿CA,39.326896999999995,-121.142769,﻿gra.ca.0001,﻿attended from Marysville,,,,,,,,,,,,1865.0,VAMarysvilleCalifornia
-﻿gra.ca.0043,﻿church,not recorded,English,,,,﻿Yuba County,,﻿Long Bar,﻿Long Bar,﻿CA,﻿CA,39.326896999999995,-121.142769,,﻿attended from Marysville,,,,,,,,,,,,1865.0,VAMarysvilleCalifornia
-﻿gra.ca.0007,﻿church,not recorded,English,,,,﻿Yuba County,﻿Yuba County,﻿Brown's Valley,﻿Browns Valley,﻿CA,﻿CA,39.168056,-121.741,﻿gra.ca.0001,﻿attended from Marysville,,,,,,,,,,,,1865.0,VAMarysvilleCalifornia
-﻿gra.ca.0101,﻿church,﻿St. Mary of the Mountain,English,,,,﻿Storey County,﻿Storey County,﻿Virginia City,﻿Virginia City,﻿NV,﻿NV,41.309588399999996,-122.80141770000002,,,,,,﻿Rev.,﻿P. Manogue,,﻿pastor,,,,,1865.0,VAMarysvilleCalifornia
-﻿gra.ca.0021,﻿church,﻿Immaculate Conception,English,,,,﻿Sierra County,﻿Sierra County,﻿Downieville,﻿Downieville,﻿CA,﻿CA,40.83003745,-123.05337379999999,,,,,,﻿Very. Rev.,﻿Peter Magagnotto,,﻿pastor,,,,,1865.0,VAMarysvilleCalifornia
-﻿gra.ca.0072,﻿church,not recorded,English,,,,﻿Humboldt County,﻿Humboldt County,﻿Table Bluff,﻿Table Bluff,﻿CA,﻿CA,39.364922299999996,-123.8144752,,﻿attended by Rev. P. O'Reilly,,,,,,,,,,,,1865.0,VAMarysvilleCalifornia
-﻿gra.ca.0074,﻿church,not recorded,English,,,,﻿Trinity County,﻿Trinity County,﻿Trinity Centre,﻿Trinity Center,﻿CA,﻿CA,39.3700973,-121.1038655,,﻿attended by Rev. P. O'Reilly,,,,,,,,,,,,1865.0,VAMarysvilleCalifornia
-﻿gra.ca.0061,﻿church,not recorded,English,,,,﻿Tehama County,﻿Tehama County,﻿Red Bluff,﻿Red Bluff,﻿CA,﻿CA,39.1346666,-121.1710389,,﻿attended by Rev. P. O'Reilly,,,,,,,﻿pastor,,,,,1865.0,VAMarysvilleCalifornia
-﻿gra.ca.0061,﻿church,not recorded,English,,,,﻿Shasta County,﻿Shasta County,﻿Red Bluff,﻿Red Bluff,﻿CA,﻿CA,39.1346666,-121.1710389,,﻿attended by Rev. P. O'Reilly,,,,,,,,,,,,1865.0,VAMarysvilleCalifornia
-﻿gra.ca.0069,﻿church,not recorded,English,,,,﻿Sierra County,﻿Sierra County,﻿St. Louis,,﻿CA,﻿CA,39.7282839,-121.83799779999998,,,,,,﻿Rev.,﻿B. P. Morris,,﻿pastor,,,,,1865.0,VAMarysvilleCalifornia
-﻿gra.ca.0069,﻿church,not recorded,English,,,,﻿Sierra County,﻿Sierra County,﻿Downieville,﻿Downieville,﻿CA,﻿CA,39.7282839,-121.83799779999998,,,,,,﻿Rev.,﻿B. P. Morris,,﻿pastor,,,,,1865.0,VAMarysvilleCalifornia
-﻿gra.ca.0027,﻿church,not recorded,English,,,,﻿Placer County,﻿Placer County,﻿Forest Hill,﻿Foresthill,﻿CA,﻿CA,39.100729799999996,-120.95327590000001,,﻿attended by Rev. B. P. Morris,,,,,,,,,,,,1865.0,VAMarysvilleCalifornia
-﻿gra.ca.0027,﻿church,not recorded,English,,,,﻿Placer County,﻿Placer County,﻿Alleghany Town,﻿Alleghany Town,﻿CA,﻿CA,39.100729799999996,-120.95327590000001,,﻿attended by Rev. B. P. Morris,,,,,,,,,,,,1865.0,VAMarysvilleCalifornia
-﻿gra.ca.0027,﻿church,not recorded,English,,,,﻿Placer County,﻿Placer County,﻿La Porte,﻿La Porte,﻿CA,﻿CA,39.100729799999996,-120.95327590000001,,﻿attended by Rev. B. P. Morris,,,,,,,,,,,,1865.0,VAMarysvilleCalifornia
-﻿gra.ca.0035,﻿church,not recorded,English,,,,﻿Nevada County,﻿Nevada County,﻿Grass Valley,﻿Grass Valley,﻿CA,﻿CA,40.6518023,-122.9438195,,,,,,﻿Rev.,﻿John Griffin,,﻿pastor,,,,,1865.0,VAMarysvilleCalifornia
-﻿gra.ca.0035,﻿church,not recorded,English,,,,﻿Tlamath County,﻿Tlamath County,﻿Paradise,﻿Paradise,﻿CA,﻿CA,39.5595198,-120.8276966,,,,,﻿cha_m_lynch_002,﻿Rev.,﻿Florian Schweninger,﻿O.S.B.,﻿pastor,,,,,1865.0,VAMarysvilleCalifornia
-﻿gra.ca.0035,﻿station,not recorded,English,,,,﻿Del Norte County,﻿Del Norte County,﻿Paradise,﻿Paradise,﻿CA,,39.5595198,-120.8276966,,﻿attended by Rev. Florian Schweninger O.S.B.,,,,,,,,,,,,1865.0,VAMarysvilleCalifornia
-﻿gra.ca.0035,﻿station,not recorded,English,,,,﻿Siskiyou County,﻿Siskiyou County,﻿Paradise,﻿Paradise,﻿CA,,39.5595198,-120.8276966,,﻿attended by Rev. Florian Schweninger O.S.B.,,,﻿p_oreilly_002,,,,,,,,,1865.0,VAMarysvilleCalifornia
-﻿gra.ca.0105,﻿convent,﻿Convent of the Sisters of Notre Dame,English,,,,,,﻿Marysville,,,﻿CA,39.3820226,-120.65858909999999,,,,,,﻿Sister,﻿Mary Bernard Weber,,﻿Superior,,﻿sister,﻿15 Sisters,,1865.0,VAMarysvilleCalifornia
-﻿gra.ca.0106,﻿convent,﻿Convent of the Sisters of Mercy,English,,,,,,﻿Grass Valley,,,﻿CA,39.5171268,-121.26718249999999,,,,,,﻿Sister,﻿Mary Baptist,,﻿Superior,,﻿sister,﻿8 Sisters,,1865.0,VAMarysvilleCalifornia
-﻿gra.ca.0107,﻿convent,﻿Convent of the Sisters of Charity,English,,,,,,﻿Virginia City,,,﻿NV,39.490349,-120.849228,,,,,,﻿Sister,﻿Frederica,,﻿Superior,,﻿sister,﻿5 Sisters,,1865.0,VAMarysvilleCalifornia
-﻿gra.ca.0108,﻿academy,﻿Academy of Notre Dame,English,﻿Directed by the Sisters of Notre Dame.  For young ladies.,,,,,﻿Marysville,,,﻿CA,39.0201768,-120.81798909999998,,,,,﻿jam_j_callan_002,,,,,,﻿pupil,﻿35 pupils,,1865.0,VAMarysvilleCalifornia
-﻿gra.ca.0109,﻿school,﻿School for girls,English,﻿Conducted by the Sisters of Notre Dame.  For girls.,,,,,﻿Marysville,,,﻿CA,41.6076387,-122.84030990000002,,,,,,,,,,,﻿dayScholar,﻿81 day scholars,,1865.0,VAMarysvilleCalifornia
-﻿gra.ca.0109,﻿school,﻿School for girls,English,﻿Conducted by the Sisters of Notre Dame.  For girls.,,,,,﻿Marysville,,,,39.2547027,-121.39989950000002,,,,,,,,,,,﻿freeScholar,﻿69 free scholars,,1865.0,VAMarysvilleCalifornia
-﻿gra.ca.0110,﻿school,"﻿School for boys, at the St. Joseph's Church",English,﻿For boys,,,,,﻿Marysville,,,﻿CA,39.306003499999996,-121.16134450000001,,,,,,,,,,,﻿scholar,﻿About 90 scholars,,1865.0,VAMarysvilleCalifornia
-﻿gra.ca.0111,﻿school,﻿School for girls and small boys,English,﻿Conducted by the Sisters of Mercy.  For girls and small boys.,,,,,﻿Grass Valley,,,﻿CA,40.7007031,-122.63835120000002,,,,,,,,,,,﻿scholar,﻿150 scholars,,1865.0,VAMarysvilleCalifornia
-﻿gra.ca.0112,﻿school,﻿Catholic school,English,﻿Conducted by,,,,,﻿Forest Hill,,,﻿CA,39.1346666,-121.1710389,,,,,,﻿Mr.,﻿Nealan,﻿M.A.,,,,,,1865.0,VAMarysvilleCalifornia
-﻿gra.ca.0113,﻿school,﻿School for girls,English,﻿Conducted by the Sisters of Charity.  For girls.,,,,,﻿Virginia City,,,﻿NV,39.5421637,-120.88566850000001,,,,,,,,,,,﻿scholar,﻿150 scholars,,1865.0,VAMarysvilleCalifornia
-﻿gra.ca.0114,﻿school,﻿St. Mary's School for Boys,English,﻿For boys,,,,,﻿Virginia City,,,﻿NV,39.0660049,-121.8683024,,,,,,,,,,,﻿scholar,﻿50 scholars,,1865.0,VAMarysvilleCalifornia
-﻿gra.ca.0115,﻿asylum,﻿Orphan asylum,English,﻿Under the care of the Sisters of Mercy,,,,,﻿Grass Valley,,,﻿CA,39.213689200000005,-121.07334579999998,,,,"﻿This Institution, just commenced, consists of a substanial and fine building, erected at a cost of $30,000",﻿tho_j_dalton_002,,,,,,,,,1865.0,VAMarysvilleCalifornia
-﻿gra.ca.0115,﻿asylum,﻿Orphan asylum,English,﻿Under the care of the Sister of Charity,,,,,﻿Virginia City,,,﻿NV,39.213689200000005,-121.07334579999998,,,,,,,,,,,,,,1865.0,VAMarysvilleCalifornia
-﻿gra.ca.0115,﻿asylum,﻿Orphan asylum,English,﻿Under the care of the Sister of Charity,,,,,﻿Virginia City,,,,39.9926832,-120.80394740000001,,,,,,,,,,,,,,1865.0,VAMarysvilleCalifornia
-﻿gra.ca.0115,﻿asylum,﻿Orphan asylum,English,﻿Under the care of the Sister of Charity,,,,,﻿Virginia City,,,,41.8240206,-122.9969825,,,,,,,,,,,,,,1865.0,VAMarysvilleCalifornia
-﻿gra.ca.0115,﻿asylum,﻿Orphan asylum,English,﻿Under the care of the Sister of Charity,,,,,﻿Virginia City,,,,40.7908864,-121.84744930000001,,,,,,,,,,,,,,1865.0,VAMarysvilleCalifornia
-﻿gra.ca.0115,﻿asylum,﻿Orphan asylum,English,﻿Under the care of the Sister of Charity,,,,,﻿Virginia City,,,,39.0201768,-120.81798909999998,,,,,,,,,,,,,,1865.0,VAMarysvilleCalifornia
-﻿gra.ca.0115,﻿asylum,﻿Orphan asylum,English,﻿Under the care of the Sister of Charity,,,,,﻿Virginia City,,,,39.71538639,-120.8867932,,,,,,,,,,,,,,1865.0,VAMarysvilleCalifornia
-﻿gra.ca.0115,﻿asylum,﻿Orphan asylum,English,﻿Under the care of the Sister of Charity,,,,,﻿Virginia City,,,,40.5476338,-124.097272,,,,,,,,,,,,,,1865.0,VAMarysvilleCalifornia
-﻿gra.ca.0115,﻿asylum,﻿Orphan asylum,English,﻿Under the care of the Sister of Charity,,,,,﻿Virginia City,,,,39.1085091,-120.8593823,,,,,,,,,,,,,,1865.0,VAMarysvilleCalifornia
-﻿gra.ca.0115,﻿asylum,﻿Orphan asylum,English,﻿Under the care of the Sister of Charity,,,,,﻿Virginia City,,,,39.02754166,-121.3489057,,,,,,,,,,,,,,1865.0,VAMarysvilleCalifornia
-﻿gra.ca.0115,﻿asylum,﻿Orphan asylum,English,﻿Under the care of the Sister of Charity,,,,,﻿Virginia City,,,,37.839333200000006,-84.2700179,,,,,,,,,,,,,,1865.0,VAMarysvilleCalifornia
-﻿gra.ca.0115,﻿asylum,﻿Orphan asylum,English,﻿Under the care of the Sister of Charity,,,,,﻿Virginia City,,,,39.6821146,-120.9841206,,,,,,,,,,,,,,1865.0,VAMarysvilleCalifornia
-﻿gra.ca.0115,﻿asylum,﻿Orphan asylum,English,﻿Under the care of the Sister of Charity,,,,,﻿Virginia City,,,,39.127670200000004,-121.5507976,,,,,,,,,,,,,,1865.0,VAMarysvilleCalifornia
-﻿gra.ca.0115,﻿asylum,﻿Orphan asylum,English,﻿Under the care of the Sister of Charity,,,,,﻿Virginia City,,,,39.1346666,-121.1710389,,,,,,,,,,,,,,1865.0,VAMarysvilleCalifornia
-﻿gra.ca.0115,﻿asylum,﻿Orphan asylum,English,﻿Under the care of the Sister of Charity,,,,,﻿Virginia City,,,,39.3076744,-123.7994591,,,,,,,,,,,,,,1865.0,VAMarysvilleCalifornia
-﻿gra.ca.0115,﻿asylum,﻿Orphan asylum,English,﻿Under the care of the Sister of Charity,,,,,﻿Virginia City,,,,39.4191667,-120.85083329999999,,,,,,,,,,,,,,1865.0,VAMarysvilleCalifornia
-﻿gra.ca.0115,﻿asylum,﻿Orphan asylum,English,﻿Under the care of the Sister of Charity,,,,,﻿Virginia City,,,,41.5734702,-122.95170149999998,,,,,,,,,,,,,,1865.0,VAMarysvilleCalifornia
-﻿gra.ca.0115,﻿asylum,﻿Orphan asylum,English,﻿Under the care of the Sister of Charity,,,,,﻿Virginia City,,,,39.152721299999996,-123.54470049999999,,,,,,,,,,,,,,1865.0,VAMarysvilleCalifornia
-﻿gra.ca.0115,﻿asylum,﻿Orphan asylum,English,﻿Under the care of the Sister of Charity,,,,,﻿Virginia City,,,,39.257363299999994,-121.0285101,,,,,,,,,,,,,,1865.0,VAMarysvilleCalifornia
-﻿gra.ca.0115,﻿asylum,﻿Orphan asylum,English,﻿Under the care of the Sister of Charity,,,,,﻿Virginia City,,,,39.3700973,-121.1038655,,,,,,,,,,,,,,1865.0,VAMarysvilleCalifornia
-﻿gra.ca.0115,﻿asylum,﻿Orphan asylum,English,﻿Under the care of the Sister of Charity,,,,,﻿Virginia City,,,,39.3333299,-120.74833000000001,,,,,,,,,,,,,,1865.0,VAMarysvilleCalifornia
-﻿gra.ca.0115,﻿asylum,﻿Orphan asylum,English,﻿Under the care of the Sister of Charity,,,,,﻿Virginia City,,,,40.72375,-123.04142,,,,,,,,,,,,,,1865.0,VAMarysvilleCalifornia
-﻿gra.ca.0115,﻿asylum,﻿Orphan asylum,English,﻿Under the care of the Sister of Charity,,,,,﻿Virginia City,,,,39.5133153,-121.55770859999998,,,,,,,,,,,,,,1865.0,VAMarysvilleCalifornia
-﻿gra.ca.0115,﻿asylum,﻿Orphan asylum,English,﻿Under the care of the Sister of Charity,,,,,﻿Virginia City,,,,39.6932282,-120.8455034,,,,,,,,,,,,,,1865.0,VAMarysvilleCalifornia
-﻿gra.ca.0115,﻿asylum,﻿Orphan asylum,English,﻿Under the care of the Sister of Charity,,,,,﻿Virginia City,,,,39.66074056,-120.9500025,,,,,,,,,,,,,,1865.0,VAMarysvilleCalifornia
-﻿gra.ca.0115,﻿asylum,﻿Orphan asylum,English,﻿Under the care of the Sister of Charity,,,,,﻿Virginia City,,,,39.2165633,-120.89938659999999,,,,,,,,,,,,,,1865.0,VAMarysvilleCalifornia
-﻿gra.ca.0115,﻿asylum,﻿Orphan asylum,English,﻿Under the care of the Sister of Charity,,,,,﻿Virginia City,,,,40.1784886,-122.23583020000001,,,,,,,,,,,,,,1865.0,VAMarysvilleCalifornia
-﻿gra.ca.0115,﻿asylum,﻿Orphan asylum,English,﻿Under the care of the Sister of Charity,,,,,﻿Virginia City,,,,39.80537766,-120.9274062,,,,,,,,,,,,,,1865.0,VAMarysvilleCalifornia
-﻿gra.ca.0115,﻿asylum,﻿Orphan asylum,English,﻿Under the care of the Sister of Charity,,,,,﻿Virginia City,,,,39.2301507,-121.136075,,,,,,,,,,,,,,1865.0,VAMarysvilleCalifornia
-﻿gra.ca.0115,﻿asylum,﻿Orphan asylum,English,﻿Under the care of the Sister of Charity,,,,,﻿Virginia City,,,,41.2973586,-123.1303203,,,,,,,,,,,,,,1865.0,VAMarysvilleCalifornia
-﻿gra.ca.0115,﻿asylum,﻿Orphan asylum,English,﻿Under the care of the Sister of Charity,,,,,﻿Virginia City,,,,40.598119,-122.49075659999998,,,,,,,,,,,,,,1865.0,VAMarysvilleCalifornia
-﻿gra.ca.0115,﻿asylum,﻿Orphan asylum,English,﻿Under the care of the Sister of Charity,,,,,﻿Virginia City,,,,39.2077473,-121.2988335,,,,,,,,,,,,,,1865.0,VAMarysvilleCalifornia
-﻿gra.ca.0115,﻿asylum,﻿Orphan asylum,English,﻿Under the care of the Sister of Charity,,,,,﻿Virginia City,,,,39.0915751,-120.80394740000001,,,,,,,,,,,,,,1865.0,VAMarysvilleCalifornia
-﻿gra.ca.0115,﻿asylum,﻿Orphan asylum,English,﻿Under the care of the Sister of Charity,,,,,﻿Virginia City,,,,39.69868983,-120.92495509999999,,,,,,,,,,,,,,1865.0,VAMarysvilleCalifornia
-﻿gra.ca.0115,﻿asylum,﻿Orphan asylum,English,﻿Under the care of the Sister of Charity,,,,,﻿Virginia City,,,,40.8509386,-122.85181940000001,,,,,,,,,,,,,,1865.0,VAMarysvilleCalifornia
-﻿gra.ca.0115,﻿asylum,﻿Orphan asylum,English,﻿Under the care of the Sister of Charity,,,,,﻿Virginia City,,,,40.4162842,-120.6530063,,,,,,,,,,,,,,1865.0,VAMarysvilleCalifornia
-﻿gra.ca.0115,﻿asylum,﻿Orphan asylum,English,﻿Under the care of the Sister of Charity,,,,,﻿Virginia City,,,,40.658183799999996,-124.21644640000001,,,,,,,,,,,,,,1865.0,VAMarysvilleCalifornia
-﻿gra.ca.0115,﻿asylum,﻿Orphan asylum,English,﻿Under the care of the Sister of Charity,,,,,﻿Virginia City,,,,40.0754477,-120.83967520000002,,,,,,,,,,,,,,1865.0,VAMarysvilleCalifornia
-﻿gra.ca.0115,﻿asylum,﻿Orphan asylum,English,﻿Under the care of the Sister of Charity,,,,,﻿Virginia City,,,,40.9850816,-122.7059008,,,,,,,,,,,,,,1865.0,VAMarysvilleCalifornia
+﻿gra.ca.0001,﻿church,not recorded,English,,,,,﻿Yuba County,﻿Marysville,﻿Marysville,﻿CA,﻿CA,,,,,,,﻿eug_oconnell_001,﻿Rt. Rev.,﻿Eugene O'Connell,﻿D.D.,,,,,,1865.0,VAMarysvilleCalifornia
+﻿gra.ca.0001,﻿church,not recorded,English,,,,,﻿Yuba County,﻿Marysville,﻿Marysville,﻿CA,,,,,,,,﻿den_nugent_001,﻿Rev.,﻿Nugent,,,,,,,1865.0,VAMarysvilleCalifornia
+﻿gra.ca.0003,﻿church,not recorded,English,,,,﻿Sierra County,﻿Sierra County,﻿Alleghany Town,﻿Alleghany,﻿CA,﻿CA,,,﻿gra.ca.0021,﻿church attended from Downiville,﻿once a month,,,,,,,,,,,1865.0,VAMarysvilleCalifornia
+﻿gra.ca.0057,﻿church,not recorded,English,,,,﻿Butte County,﻿Butte County,﻿Oroville,﻿Oroville,﻿CA,﻿CA,,,﻿gra.ca.0001,﻿attended from Marysville,,,,,,,,,,,,1865.0,VAMarysvilleCalifornia
+﻿gra.ca.0067,﻿church,not recorded,English,,,,﻿Yuba County,﻿Yuba County,﻿Smartsville,﻿Smartsville,﻿CA,﻿CA,,,﻿gra.ca.0001,﻿attended from Marysville,,,,,,,,,,,,1865.0,VAMarysvilleCalifornia
+﻿gra.ca.0018,﻿church,not recorded,English,,,,﻿Colusi County,﻿Colusa County,﻿Colusi,﻿Colusa,﻿CA,﻿CA,,,﻿gra.ca.0001,﻿visited from Marysville,,,,,,,,,,,,1865.0,VAMarysvilleCalifornia
+﻿gra.ca.0029,﻿church,not recorded,English,,,,﻿Yuba County,﻿Yuba County,﻿Foster's Bar,﻿found on map,﻿CA,﻿CA,,,﻿gra.ca.0001,﻿attended from Marysville,,,,,,,,,,,,1865.0,VAMarysvilleCalifornia
+﻿gra.ca.0043,﻿church,not recorded,English,,,,﻿Yuba County,,﻿Johnston's Crossing of Bear River,,﻿CA,﻿CA,,,﻿gra.ca.0001,﻿attended from Marysville,,,,,,,,,,,,1865.0,VAMarysvilleCalifornia
+﻿gra.ca.0043,﻿church,not recorded,English,,,,﻿Yuba County,,﻿Long Bar,﻿Long Bar,﻿CA,﻿CA,,,,﻿attended from Marysville,,,,,,,,,,,,1865.0,VAMarysvilleCalifornia
+﻿gra.ca.0007,﻿church,not recorded,English,,,,﻿Yuba County,﻿Yuba County,﻿Brown's Valley,﻿Browns Valley,﻿CA,﻿CA,,,﻿gra.ca.0001,﻿attended from Marysville,,,,,,,,,,,,1865.0,VAMarysvilleCalifornia
+﻿gra.ca.0101,﻿church,﻿St. Mary of the Mountain,English,,,,﻿Storey County,﻿Storey County,﻿Virginia City,﻿Virginia City,﻿NV,﻿NV,,,,,,,﻿pat_manogue_001,﻿Rev.,﻿P. Manogue,,﻿pastor,,,,,1865.0,VAMarysvilleCalifornia
+﻿gra.ca.0101,﻿church,﻿Immaculate Conception,English,,,,﻿Storey County,﻿Storey County,﻿Virginia City,﻿Virginia City,﻿NV,﻿NV,,,,,,,﻿pet_magagnotto_001,﻿Very. Rev.,﻿Peter Magagnotto,,﻿pastor,,,,,1865.0,VAMarysvilleCalifornia
+﻿gra.ca.0072,﻿church,not recorded,English,,,,﻿Humboldt County,﻿Humboldt County,﻿Table Bluff,﻿Table Bluff,﻿NV,﻿CA,,,,﻿attended by Rev. P. O'Reilly,,,,,,,,,,,,1865.0,VAMarysvilleCalifornia
+﻿gra.ca.0074,﻿church,not recorded,English,,,,﻿Trinity County,﻿Trinity County,﻿Trinity Centre,﻿Trinity Center,﻿NV,﻿CA,,,,﻿attended by Rev. P. O'Reilly,,,,,,,,,,,,1865.0,VAMarysvilleCalifornia
+﻿gra.ca.0061,﻿church,not recorded,English,,,,﻿Shasta County,﻿Tehama County,﻿Red Bluff,﻿Red Bluff,﻿NV,﻿CA,,,,﻿attended by Rev. P. O'Reilly,,,,,,,﻿pastor,,,,,1865.0,VAMarysvilleCalifornia
+﻿gra.ca.0061,﻿church,not recorded,English,,,,﻿Tehama County,﻿Tehama County,﻿Red Bluff,﻿Red Bluff,﻿NV,﻿CA,,,,﻿attended by Rev. P. O'Reilly,,,,,,,,,,,,1865.0,VAMarysvilleCalifornia
+﻿gra.ca.0003,﻿church,not recorded,English,,,,﻿Sierra County,﻿Sierra County,﻿Alleghany Town,﻿Alleghany,﻿NV,﻿CA,,,,,,,﻿b_p_morris_001,﻿Rev.,﻿B. P. Morris,,﻿pastor,,,,,1865.0,VAMarysvilleCalifornia
+﻿gra.ca.0021,﻿church,﻿Immaculate Conception,English,,,,﻿Sierra County,﻿Sierra County,,﻿Downieville,﻿NV,﻿CA,,,,,,,﻿b_p_morris_001,﻿Rev.,﻿B. P. Morris,,﻿pastor,,,,,1865.0,VAMarysvilleCalifornia
+﻿gra.ca.0026,﻿church,not recorded,English,,,,﻿Sierra County,﻿Sierra County,,﻿Forest,﻿NV,﻿CA,,,,,,,﻿b_p_morris_001,﻿Rev.,﻿B. P. Morris,,﻿pastor,,,,,1865.0,VAMarysvilleCalifornia
+﻿gra.ca.0033,﻿church,not recorded,English,,,,﻿Sierra County,﻿Sierra County,,﻿Goodyear's Bar,﻿NV,﻿CA,,,,,,,﻿b_p_morris_001,﻿Rev.,﻿B. P. Morris,,﻿pastor,,,,,1865.0,VAMarysvilleCalifornia
+﻿gra.ca.0040,﻿church,not recorded,English,,,,﻿Sierra County,﻿Sierra County,,,﻿NV,﻿CA,,,,,,,﻿b_p_morris_001,﻿Rev.,﻿B. P. Morris,,﻿pastor,,,,,1865.0,VAMarysvilleCalifornia
+﻿gra.ca.0051,﻿church,not recorded,English,,,,﻿Sierra County,,,,﻿NV,﻿CA,,,,,,,﻿b_p_morris_001,﻿Rev.,﻿B. P. Morris,,﻿pastor,,,,,1865.0,VAMarysvilleCalifornia
+﻿gra.ca.0058,﻿church,not recorded,English,,,,﻿Sierra County,﻿Sierra County,,﻿Poker Flat,﻿NV,﻿CA,,,,,,,﻿b_p_morris_001,﻿Rev.,﻿B. P. Morris,,﻿pastor,,,,,1865.0,VAMarysvilleCalifornia
+﻿gra.ca.0059,﻿church,not recorded,English,,,,﻿Sierra County,﻿Sierra County,,,﻿NV,﻿CA,,,,,,,﻿b_p_morris_001,﻿Rev.,﻿B. P. Morris,,﻿pastor,,,,,1865.0,VAMarysvilleCalifornia
+﻿gra.ca.0117,﻿church,not recorded,English,,,,﻿Sierra County,﻿Sierra County,,﻿Rabbit Creek,﻿NV,﻿CA,,,,,,,﻿b_p_morris_001,﻿Rev.,﻿B. P. Morris,,﻿pastor,,,,,1865.0,VAMarysvilleCalifornia
+﻿gra.ca.0069,﻿church,not recorded,English,,,,﻿Sierra County,﻿Sierra County,,,﻿NV,﻿CA,,,,,,,﻿b_p_morris_001,﻿Rev.,﻿B. P. Morris,,﻿pastor,,,,,1865.0,VAMarysvilleCalifornia
+﻿gra.ca.0077,﻿church,not recorded,English,,,,﻿Sierra County,﻿Sierra County,,﻿Whiskey Diggings,﻿NV,﻿CA,,,,,,,﻿b_p_morris_001,﻿Rev.,﻿B. P. Morris,,﻿pastor,,,,,1865.0,VAMarysvilleCalifornia
+﻿gra.ca.0021,﻿church,not recorded,English,,,,﻿Sierra County,﻿Sierra County,﻿Downieville,﻿Downieville,﻿NV,﻿CA,,,,,,,﻿b_p_morris_001,﻿Rev.,﻿B. P. Morris,,﻿pastor,,,,,1865.0,VAMarysvilleCalifornia
+﻿gra.ca.0027,﻿church,not recorded,English,,,,﻿Placer County,﻿Placer County,﻿Forest Hill,﻿Foresthill,﻿NV,﻿CA,,,,﻿attended by Rev. B. P. Morris,,,,,,,,,,,,1865.0,VAMarysvilleCalifornia
+﻿gra.ca.0003,﻿church,not recorded,English,,,,﻿Sierra County,﻿Sierra County,﻿Alleghany Town,﻿Alleghany Town,﻿NV,﻿CA,,,,﻿attended by Rev. B. P. Morris,,,,,,,,,,,,1865.0,VAMarysvilleCalifornia
+﻿gra.ca.0003,﻿church,not recorded,English,,,,﻿Sierra County,﻿Sierra County,﻿La Porte,﻿La Porte,﻿NV,﻿CA,,,,﻿attended by Rev. B. P. Morris,,,,,,,,,,,,1865.0,VAMarysvilleCalifornia
+﻿gra.ca.0035,﻿church,not recorded,English,,,,﻿Nevada County,﻿Nevada County,﻿Grass Valley,﻿Grass Valley,﻿NV,﻿CA,,,,,,,﻿joh_griffin_001,﻿Rev.,﻿John Griffin,,﻿pastor,,,,,1865.0,VAMarysvilleCalifornia
+﻿gra.ca.0006,﻿church,not recorded,English,,,,﻿Nevada County,﻿Nevada County,,﻿Birchville,﻿NV,﻿CA,,,,,,,﻿joh_griffin_001,﻿Rev.,﻿John Griffin,,,,,,,1865.0,VAMarysvilleCalifornia
+﻿gra.ca.0013,﻿church,not recorded,English,,,,﻿Nevada County,﻿Nevada County,,﻿Cherokee,﻿NV,﻿CA,,,,,,,﻿joh_griffin_001,﻿Rev.,﻿John Griffin,,,,,,,1865.0,VAMarysvilleCalifornia
+﻿gra.ca.0016,﻿church,not recorded,English,,,,﻿Nevada County,﻿Washoe County,,,﻿NV,﻿NV,,,,,,,﻿joh_griffin_001,﻿Rev.,﻿John Griffin,,,,,,,1865.0,VAMarysvilleCalifornia
+﻿gra.ca.0024,﻿church,not recorded,English,,,,﻿Nevada County,,,,﻿NV,﻿CA,,,,,,,﻿joh_griffin_001,﻿Rev.,﻿John Griffin,,,,,,,1865.0,VAMarysvilleCalifornia
+﻿gra.ca.0030,﻿church,not recorded,English,,,,﻿Nevada County,﻿Nevada County,,﻿French Corral,﻿NV,﻿CA,,,,,,,﻿joh_griffin_001,﻿Rev.,﻿John Griffin,,,,,,,1865.0,VAMarysvilleCalifornia
+﻿gra.ca.0032,﻿church,not recorded,English,,,,﻿Nevada County,,,,﻿NV,﻿CA,,,,,,,﻿joh_griffin_001,﻿Rev.,﻿John Griffin,,,,,,,1865.0,VAMarysvilleCalifornia
+﻿gra.ca.0035,﻿church,not recorded,English,,,,﻿Nevada County,﻿Nevada County,﻿Grass Valley,﻿Grass Valley,﻿NV,﻿CA,,,,,,,﻿joh_griffin_001,﻿Rev.,﻿John Griffin,,﻿pastor,,,,,1865.0,VAMarysvilleCalifornia
+﻿gra.ca.0047,﻿church,not recorded,English,,,,﻿Nevada County,,,﻿found on map,﻿NV,﻿CA,,,,,,,﻿joh_griffin_001,﻿Rev.,﻿John Griffin,,,,,,,1865.0,VAMarysvilleCalifornia
+﻿gra.ca.0050,﻿church,not recorded,English,,,,﻿Nevada County,﻿Nevada County,,﻿Moores Flat,﻿NV,﻿CA,,,,,,,﻿joh_griffin_001,﻿Rev.,﻿John Griffin,,,,,,,1865.0,VAMarysvilleCalifornia
+﻿gra.ca.0053,﻿church,not recorded,English,,,,﻿Nevada County,﻿Nevada County,,﻿Nevada City,﻿NV,﻿CA,,,,,,,﻿joh_griffin_001,﻿Rev.,﻿John Griffin,,,,,,,1865.0,VAMarysvilleCalifornia
+﻿gra.ca.0054,﻿church,not recorded,English,,,,﻿Nevada County,﻿Nevada County,,﻿North San Juan,﻿NV,﻿CA,,,,,,,﻿joh_griffin_001,﻿Rev.,﻿John Griffin,,,,,,,1865.0,VAMarysvilleCalifornia
+﻿gra.ca.0055,﻿church,not recorded,English,,,,﻿Nevada County,﻿Nevada County,,﻿Omega,﻿NV,﻿CA,,,,,,,﻿joh_griffin_001,﻿Rev.,﻿John Griffin,,,,,,,1865.0,VAMarysvilleCalifornia
+﻿gra.ca.0060,﻿church,not recorded,English,,,,﻿Nevada County,﻿Nevada County,,﻿Red Dog,﻿NV,﻿CA,,,,,,,﻿joh_griffin_001,﻿Rev.,﻿John Griffin,,,,,,,1865.0,VAMarysvilleCalifornia
+﻿gra.ca.0064,﻿church,not recorded,English,,,,﻿Nevada County,﻿Nevada County,,﻿Rough and Ready,﻿NV,﻿CA,,,,,,,﻿joh_griffin_001,﻿Rev.,﻿John Griffin,,,,,,,1865.0,VAMarysvilleCalifornia
+﻿gra.ca.0075,﻿church,not recorded,English,,,,﻿Nevada County,﻿Nevada County,,﻿Washington,﻿NV,﻿CA,,,,,,,﻿joh_griffin_001,﻿Rev.,﻿John Griffin,,,,,,,1865.0,VAMarysvilleCalifornia
+﻿gra.ca.0019,﻿station,not recorded,English,,,,﻿Del Norte County,﻿Del Norte County,,﻿Crescent City,﻿NV,﻿CA,,,,,,,,,,,,,,,,1865.0,VAMarysvilleCalifornia
+﻿gra.ca.0019,﻿church,not recorded,English,,,,﻿Tlamath County,﻿Tlamath County,﻿Paradise,﻿Paradise,﻿NV,﻿CA,,,,,,,﻿flo_schweninger_001,﻿Rev.,﻿Florian Schweninger,﻿O.S.B.,﻿pastor,,,,,1865.0,VAMarysvilleCalifornia
+﻿gra.ca.0019,﻿station,not recorded,English,,,,﻿Del Norte County,﻿Del Norte County,﻿Paradise,﻿Crescent City,﻿CA,﻿CA,,,,﻿visited by Rev. Florian Schweninger O.S.B.,,,,,,,,,,,,1865.0,VAMarysvilleCalifornia
+﻿gra.ca.0019,﻿station,not recorded,English,,,,﻿Siskiyou County,﻿Siskiyou County,﻿Paradise,﻿Crescent City,﻿NV,,,,,﻿visited by Rev. Florian Schweninger O.S.B.,,,,,,,,,,,,1865.0,VAMarysvilleCalifornia
+﻿gra.ca.0009,﻿station,not recorded,English,,,,﻿Siskiyou County,﻿Siskiyou County,,﻿Callahan,﻿NV,﻿CA,,,,﻿visited by Rev. Florian Schweninger O.S.B.,,,,,,,,,,,,1865.0,VAMarysvilleCalifornia
+﻿gra.ca.0028,﻿station,not recorded,English,,,,﻿Siskiyou County,﻿Siskiyou County,,﻿Fort Jones,﻿NV,﻿CA,,,,﻿visited by Rev. Florian Schweninger O.S.B.,,,,,,,,,,,,1865.0,VAMarysvilleCalifornia
+﻿gra.ca.0079,﻿station,not recorded,English,,,,﻿Siskiyou County,﻿Siskiyou County,,﻿Yreka,﻿NV,﻿CA,,,,﻿visited by Rev. Florian Schweninger O.S.B.,,,﻿pat_farrelly_001,﻿Rev.,﻿Patrick Farrelly,,﻿pastor,,,,,1865.0,VAMarysvilleCalifornia
+﻿gra.ca.0105,﻿convent,﻿Convent of the Sisters of Notre Dame,English,,,,,,﻿Marysville,﻿Marysville,,﻿CA,,,,,,,,﻿Sister,﻿Mary Bernard Weber,,﻿Superior,,﻿sister,﻿15 Sisters,,1865.0,VAMarysvilleCalifornia
+﻿gra.ca.0106,﻿convent,﻿Convent of the Sisters of Mercy,English,,,,,,﻿Grass Valley,﻿Grass Valley,,﻿CA,,,,,,,,﻿Sister,﻿Mary Baptist,,﻿Superior,,﻿sister,﻿8 Sisters,,1865.0,VAMarysvilleCalifornia
+﻿gra.ca.0107,﻿convent,﻿Convent of the Sisters of Charity,English,,,,,,﻿Virginia City,﻿Virginia City,,﻿NV,,,,,,,,﻿Sister,﻿Frederica,,﻿Superior,,﻿sister,﻿5 Sisters,,1865.0,VAMarysvilleCalifornia
+﻿gra.ca.0108,﻿academy,﻿Academy of Notre Dame,English,﻿For young ladies.,,,,,﻿Marysville,﻿Marysville,,﻿CA,,,,,,,,,,,,,﻿student,﻿35 pupils,﻿Directed by the Sisters of Notre Dame.,1865.0,VAMarysvilleCalifornia
+﻿gra.ca.0109,﻿school,﻿School for girls,English,﻿For girls.,,,,,﻿Marysville,﻿Marysville,,﻿CA,,,,,,,,,,,,,﻿student,﻿81 day scholars,﻿Conducted by the Sisters of Notre Dame.,1865.0,VAMarysvilleCalifornia
+﻿gra.ca.0109,﻿school,﻿School for girls,English,﻿For girls.,,,,,﻿Marysville,﻿Marysville,,,,,,,,,,,,,,,﻿student,﻿69 free scholars,﻿Conducted by the Sisters of Notre Dame.,1865.0,VAMarysvilleCalifornia
+﻿gra.ca.0110,﻿school,"﻿School for boys, at the St. Joseph's Church",English,﻿For boys,﻿the St. Joseph's Church,,,,﻿Marysville,﻿Marysville,,﻿CA,,,,,,,,,,,,,﻿student,﻿About 90 scholars,,1865.0,VAMarysvilleCalifornia
+﻿gra.ca.0111,﻿school,﻿School for girls and small boys,English,﻿For girls and small boys.,,,,,﻿Grass Valley,﻿Grass Valley,,﻿CA,,,,,,,,,,,,,﻿student,﻿150 scholars,﻿Conducted by the Sisters of Mercy.,1865.0,VAMarysvilleCalifornia
+﻿gra.ca.0112,﻿school,﻿Catholic school,English,﻿Conducted by,,,,,﻿Forest Hill,﻿Foresthill,,﻿CA,,,,,,,﻿nealan_001,﻿Mr.,﻿Nealan,﻿M.A.,,,,,,1865.0,VAMarysvilleCalifornia
+﻿gra.ca.0113,﻿school,﻿School for girls,English,﻿For girls.,,,,,﻿Virginia City,﻿Virginia City,,﻿NV,,,,,,,,,,,,,﻿student,﻿150 scholars,﻿Conducted by the Sisters of Charity.,1865.0,VAMarysvilleCalifornia
+﻿gra.ca.0114,﻿school,﻿St. Mary's School for Boys,English,﻿For boys,,,,,﻿Virginia City,﻿Virginia City,,﻿NV,,,,,,,,,,,,,﻿student,﻿50 scholars,,1865.0,VAMarysvilleCalifornia
+﻿gra.ca.0115,﻿asylum,﻿Orphan asylum,English,,,,,,﻿Grass Valley,﻿Grass Valley,,﻿CA,,,,,,"﻿This Institution, just commenced, consists of a substanial and fine building, erected at a cost of $30,000",,,,,,,,,﻿Under the care of the Sisters of Mercy,1865.0,VAMarysvilleCalifornia
+﻿gra.ca.0115,﻿asylum,﻿Orphan asylum,English,,,,,,﻿Virginia City,﻿Virginia City,,﻿NV,,,,,,,,,,,,,,,﻿Under the care of the Sister of Charity,1865.0,VAMarysvilleCalifornia

@@ -2,7 +2,7 @@
 /** @type {import('sequelize-cli').Migration} */
 module.exports = {
   async up(queryInterface, Sequelize) {
-    await queryInterface.createTable('Churches', {
+    await queryInterface.createTable('churchInYears', {
       uniqueInstID:{
         type: Sequelize.STRING,
         allowNull: false,
@@ -84,6 +84,6 @@ module.exports = {
     });
   },
   async down(queryInterface, Sequelize) {
-    await queryInterface.dropTable('Churches');
+    await queryInterface.dropTable('churchInYears');
   }
 };

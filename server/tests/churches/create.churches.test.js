@@ -3,13 +3,13 @@ const supertest = require('supertest');
 const requestWithSupertest = supertest(app);
 
 describe(
-    'CREATE methods for the Church model', () => {
+    'CREATE methods for the churchInYear model', () => {
         
         afterAll(async () => {
             await requestWithSupertest.delete('/api/church/test-inst1');
         });
 
-        it('should create a new Church', async () => {
+        it('should create a new churchInYear', async () => {
             const res = await requestWithSupertest.post('/api/church')
                 .send([{
                     instID: 'test-inst1',
@@ -27,7 +27,7 @@ describe(
             expect(res.body[0]).toHaveProperty('updatedAt');
     });
 
-        it('should not create a new Church with the same instID and instYear', async () => {
+        it('should not create a new churchInYear with the same instID and instYear', async () => {
             const res = await requestWithSupertest.post('/api/church')
                 .send([{
                     instID: 'test-inst1',

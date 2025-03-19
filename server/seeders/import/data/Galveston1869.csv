@@ -2,13 +2,13 @@
 ﻿gal.tx.0001,﻿cathedral,﻿St. Mary's Cathedral,English,,,,,,﻿Galveston,﻿Galveston,﻿TX,,,,,,,,﻿cm_dubuis_001,﻿Rt. Rev.,﻿C.M. Dubuis,﻿D.D.,,,,,,1869.0,Galveston
 ﻿gal.tx.0001,﻿cathedral,﻿St. Mary's Cathedral,English,,,,,,﻿Galveston,﻿Galveston,﻿TX,,,,,,,,﻿l_c_chambodut_001,﻿Very Rev.,﻿L. C. M. Chambodut,,﻿V.G.,,,,,1869.0,Galveston
 ﻿gal.tx.0001,﻿cathedral,﻿St. Mary's Cathedral,English,,,,,,﻿Galveston,﻿Galveston,﻿TX,,,,,,,,﻿pet_behr_001,﻿Rev.,﻿Peter Behr,,,,,,,1869.0,Galveston
-﻿gal.tx.0002,﻿church,﻿St. Joseph's Church,﻿German,,,,,,﻿Galveston,﻿Galveston,﻿TX,,,,,,,,﻿the_v_gründner_001,﻿Rev.,﻿Theodore Von Gründner,,,,,,,1869.0,Galveston
+﻿gal.tx.0002,﻿church,﻿St. Joseph's Church,﻿German,,,,,,﻿Galveston,﻿Galveston,﻿TX,,,,,,,,﻿the_von-gründner_001,﻿Rev.,﻿Theodore Von Gründner,,,,,,,1869.0,Galveston
 ﻿gal.tx.0154,﻿college,﻿St. Mary's College,English,﻿under the care of the Brothers of the Christian Doctrine,,,,,﻿Galveston,,﻿TX,,,,,,,,﻿j_t_johnston_001,﻿Rev.,﻿J. Thomas Johnston,,,,,,,1869.0,Galveston
 ﻿gal.tx.0154,﻿college,﻿St. Mary's College,English,﻿under the care of the Brothers of the Christian Doctrine,,,,,﻿Galveston,,﻿TX,,,,,,,,,﻿Brother,﻿Joachim,,﻿Director,﻿with 4 brothers,,,,1869.0,Galveston
 ﻿gal.tx.0158,﻿convent,﻿Ursuline Convent,English,,,,,,﻿Galveston,,﻿TX,,,,,,,,﻿joh_b_bellaclas_001,﻿Rev.,﻿John B. Bellaclas,,,,,﻿19 sisters,,1869.0,Galveston
-﻿gal.tx.0158,﻿convent,﻿Ursuline Convent,English,,,,,,﻿Galveston,,﻿TX,,,,,,,,﻿de_s_pierre_001,﻿Madame,﻿de St. Pierre,,﻿Mother-Superior,,,﻿75 boarders,,1869.0,Galveston
+﻿gal.tx.0158,﻿convent,﻿Ursuline Convent,English,,,,,,﻿Galveston,,﻿TX,,,,,,,,,﻿Madame,﻿de St. Pierre,,﻿Mother-Superior,,,﻿75 boarders,,1869.0,Galveston
 ﻿gal.tx.0158,﻿convent,﻿Ursuline Convent,English,,,,,,﻿Galveston,,﻿TX,,,,,,,,,,,,,,,﻿150 day scholars,,1869.0,Galveston
-﻿gal.tx.0158,﻿convent,﻿Sisters of Charity and Hospital,English,,,,,,﻿Galveston,,﻿TX,,,,,,,,﻿cha_padey_001,﻿Very Rev.,﻿Charles Padey,,﻿Chaplain and Superior,,,﻿150 day scholars,,1869.0,Galveston
+﻿gal.tx.0169,﻿convent,﻿Sisters of Charity and Hospital,English,,,,,,﻿Galveston,,﻿TX,,,,,,,,﻿cha_padey_001,﻿Very Rev.,﻿Charles Padey,,﻿Chaplain and Superior,,,,,1869.0,Galveston
 ﻿gal.tx.0003,﻿church,not recorded,English,,,,﻿Grimes County,﻿Grimes County,﻿Anderson,﻿Anderson,﻿TX,,30.487697100000002,-95.9924515,﻿gal.tx.0088,﻿attended from Millican,,,,,,,,,,,,1869.0,Galveston
 ﻿gal.tx.0004,﻿church,not recorded,English,,,,﻿Nacogdoches County,﻿Nacogdoches County,﻿Angelina,,﻿TX,,31.525026500000003,-94.6564696,﻿gal.tx.0092,﻿attended from Nacogdoches,,,,,,,,,,,,1869.0,Galveston
 ﻿gal.tx.0005,﻿church,not recorded,English,,,,﻿Cameron County,﻿Cameron County,﻿Arenal,,﻿TX,,26.1284971,-97.5247243,﻿gal.tx.0023,﻿attended from Brownsville,,,,,,,,,,,,1869.0,Galveston
@@ -18,7 +18,7 @@
 ﻿gal.tx.0009,﻿church,not recorded,English,,,,﻿Travis County,﻿Travis County,﻿Austin City,﻿Austin,﻿TX,,30.267153000000004,-97.7430608,,,,,﻿nic_feltin_001,﻿Rev.,﻿Nicholas Feltin,,,,,,,1869.0,Galveston
 ﻿gal.tx.0009,﻿church,not recorded,English,,,,﻿Travis County,﻿Travis County,﻿Austin City,﻿Austin,﻿TX,,30.267153000000004,-97.7430608,,,,,﻿lou_j_barbarin_001,﻿Rev.,﻿Louis Joseph Barbarin,,,,,,,1869.0,Galveston
 ﻿gal.tx.0010,﻿church,not recorded,English,,,,﻿Bandera County,﻿Bandera County,﻿Bandera,﻿Bandera,﻿TX,,29.726613099999998,-99.0736462,﻿gal.tx.0124,﻿attended from San Antonio,,﻿went with biggest San Antonio church,,,,,,,,,,1869.0,Galveston
-﻿gal.tx.0011,﻿church,not recorded,English,,,,﻿Cameron County,﻿Cameron County,﻿Barranco,,﻿TX,,26.1284971,-97.5247243,﻿gal.tx.0023,﻿attended from Brownsville,,,,,,,,,,,,1869.0,Galveston
+﻿gal.tx.0011,﻿church,not recorded,English,,,,﻿Cameron County,﻿Cameron County,﻿Barranco,,﻿TX,,26.03876169,-97.66325812,﻿gal.tx.0023,﻿attended from Brownsville,,,,,,,,,,,,1869.0,Galveston
 ﻿gal.tx.0012,﻿church,not recorded,English,,,,﻿Cameron County,,﻿Boston,,﻿TX,,26.1284971,-97.5247243,﻿gal.tx.0023,﻿attended from Brownsville,,,,,,,,,,,,1869.0,Galveston
 ﻿gal.tx.0013,﻿church,not recorded,English,,,,﻿Bastrop County,﻿Bastrop County,﻿Bastrop,﻿Bastrop,﻿TX,,30.1104947,-97.31527009999999,﻿gal.tx.0009,﻿attended from Austin by Rev. Louis Joseph Barbarin,,,,,,,,,,,,1869.0,Galveston
 ﻿gal.tx.0014,﻿church,not recorded,English,,,,﻿Liberty County,﻿Hardin County,﻿Batson Prairie,﻿Batson,﻿TX,,30.2493767,-94.6071417,﻿gal.tx.0001,﻿attended from Galveston,,,,,,,,,,,,1869.0,Galveston
@@ -26,8 +26,8 @@
 ﻿gal.tx.0016,﻿church,not recorded,English,,,,﻿Austin County,﻿Austin County,﻿Belville,﻿Bellville,﻿TX,,29.950225300000003,-96.2571858,,﻿attended from Frelsburgh,,,,,,,,,,,,1869.0,Galveston
 ﻿gal.tx.0017,﻿church,not recorded,English,,,,﻿Colorado County,﻿Colorado County,"﻿Bernard, or New Mentz",﻿Mentz,﻿TX,,29.748519599999998,-96.4392213,,,,,﻿m_stremler_001,﻿Rev.,﻿M. Stremler,,,,,,,1869.0,Galveston
 ﻿gal.tx.0018,﻿church,not recorded,English,,,,﻿Hidalgo County,﻿Hidalgo County,﻿Blanca,﻿La Blanca,﻿TX,,26.292849100000005,-98.03778259999999,﻿gal.tx.0023,﻿attended from Brownsville,,,,,,,,,,,,1869.0,Galveston
-﻿gal.tx.0019,﻿church,not recorded,English,,,,﻿Bexar County,﻿Bexar County,"﻿Blasherrera, or Medina",,﻿TX,,29.420076300000005,-98.5721016,,,,,﻿and_farge_001,﻿Rev.,﻿Andrew Farge,,,,,,,1869.0,Galveston
-﻿gal.tx.0020,﻿church,not recorded,English,,,,﻿Nueces County,﻿Nueces County,﻿Boreda,,﻿TX,,27.769335100000003,-97.48141629999999,,﻿attended from Corpus Christi,,,,,,,,,,,,1869.0,Galveston
+﻿gal.tx.0019,﻿church,not recorded,English,,,,﻿Bexar County,﻿Bexar County,"﻿Blasherrera, or Medina",﻿San Antonio,﻿TX,,29.28159391,-98.61445576,,,,,﻿and_farge_001,﻿Rev.,﻿Andrew Farge,,,,,,,1869.0,Galveston
+﻿gal.tx.0020,﻿church,not recorded,English,,,,﻿Nueces County,﻿Nueces County,﻿Boreda,,﻿TX,,27.34869828,-97.63871603,,﻿attended from Corpus Christi,,,,,,,,,,,,1869.0,Galveston
 ﻿gal.tx.0021,﻿church,not recorded,English,,,,﻿Brazoria County,﻿Brazoria County,﻿Brazoria,﻿Brazoria,﻿TX,,29.0444147,-95.5691126,,﻿attended from Houston,,,,,,,,,,,,1869.0,Galveston
 ﻿gal.tx.0022,﻿church,not recorded,English,,,,﻿Washington County,﻿Washington County,﻿Brenham,﻿Brenham,﻿TX,,30.166882799999996,-96.3977442,﻿gal.tx.0088,﻿attended from Millican,,,,,,,,,,,,1869.0,Galveston
 ﻿gal.tx.0023,﻿church,﻿St. Mary's Church,English,﻿name changed to Church of the Immaculate Conception 1870 (ML),,,﻿Cameron County,﻿Cameron County,﻿Brownsville,﻿Brownsville,﻿TX,,25.902534,-97.4960588,,,,,﻿a_gaudet_001,﻿Very Rev.,﻿A. Gaudet,﻿O.M.I.,﻿Vicar‐General and Superior,,,,,1869.0,Galveston
@@ -42,17 +42,17 @@
 ﻿gal.tx.0024,﻿chapel,﻿St. Joseph's Chapel,English,,,,﻿Lavacca County,﻿Lavaca County,﻿Brushy,﻿Yoakum,﻿TX,,29.290602500000002,-97.1442256,,,,,﻿joh_gaillet_001,﻿Rev.,﻿John Gaillet,,,,,,,1869.0,Galveston
 ﻿gal.tx.0025,﻿church,not recorded,English,,,,﻿Fayette County,﻿Fayette County,﻿Büchel Settlement,,﻿TX,,29.8896442,-96.8350999,,﻿attended from Frelsburgh,,,,,,,,,,,,1869.0,Galveston
 ﻿gal.tx.0026,﻿church,not recorded,English,,,,﻿Wilson County,﻿Wilson County,﻿Cantu los Arroyos,,﻿TX,,29.2683783,-98.0465185,,,,,﻿pro_goddard_001,﻿Rev.,﻿Prosper Goddard,,,,,,,1869.0,Galveston
-﻿gal.tx.0027,﻿church,not recorded,English,,,,﻿Cameron County,,﻿Capitaneño,,﻿TX,,26.1284971,-97.5247243,﻿gal.tx.0023,﻿attended from Brownsville,,,,,,,,,,,,1869.0,Galveston
+﻿gal.tx.0027,﻿church,not recorded,English,,,,﻿Cameron County,﻿Cameron County,﻿Capitaneño,,﻿TX,,26.09631936,-97.67379539,﻿gal.tx.0023,﻿attended from Brownsville,,,,,,,,,,,,1869.0,Galveston
 ﻿gal.tx.0028,﻿church,not recorded,English,,,,﻿Zapata County,﻿Zapata County,﻿Capitaneño,﻿Falcon Village,﻿TX,,26.638663399999995,-99.0955885,,﻿attended from Roma,,,,,,,,,,,,1869.0,Galveston
 ﻿gal.tx.0029,﻿church,not recorded,English,,,,﻿Hidalgo County,﻿Hidalgo County,﻿Capote,﻿Pharr,﻿TX,,26.1947962,-98.1836216,﻿gal.tx.0023,﻿attended from Brownsville,,,,,,,,,,,,1869.0,Galveston
 ﻿gal.tx.0030,﻿church,not recorded,English,,,,﻿Cameron County,﻿Cameron County,﻿Carecito,﻿Carricitos,﻿TX,,26.0453556,-97.7097145,﻿gal.tx.0023,﻿attended from Brownsville,,,,,,,,,,,,1869.0,Galveston
-﻿gal.tx.0031,﻿church,not recorded,English,,,,﻿Cameron County,,﻿Carmen,,﻿TX,,26.1284971,-97.5247243,﻿gal.tx.0023,﻿attended from Brownsville,,,,,,,,,,,,1869.0,Galveston
+﻿gal.tx.0031,﻿church,not recorded,English,,,,﻿Cameron County,﻿Cameron County,﻿Carmen,,﻿TX,,25.96718878,-97.5883908,﻿gal.tx.0023,﻿attended from Brownsville,,,,,,,,,,,,1869.0,Galveston
 ﻿gal.tx.0032,﻿church,not recorded,English,,,,﻿Bexar County,﻿Bexar County,﻿Carmen,﻿Losoya,﻿TX,,29.2335733,-98.456404,,﻿attended from La Espada,,,,,,,,,,,,1869.0,Galveston
 ﻿gal.tx.0033,﻿church,not recorded,English,,,,﻿Medina County,﻿Medina County,﻿Castroville,﻿Castroville,﻿TX,,29.3557903,-98.8786387,,,,,﻿pet_richard_001,﻿Rev.,﻿Peter Richard,,,,,,,1869.0,Galveston
 ﻿gal.tx.0034,﻿church,not recorded,English,,,,﻿Colorado County,﻿Austin County,﻿Catspring,﻿Cat Spring,﻿TX,,29.845507399999995,-96.3257991,,﻿attended from Frelsburgh,,,,,,,,,,,,1869.0,Galveston
 ﻿gal.tx.0035,﻿church,not recorded,English,,,,﻿Bexar County,﻿Bexar County,﻿Cibolo,﻿Cibolo,﻿TX,,29.412826799999998,-98.5238314,,﻿attended from New-Braunfels,,,,,,,,,,,,1869.0,Galveston
-﻿gal.tx.0036,﻿church,not recorded,English,,,,﻿Starr County,,﻿Clareño,,﻿TX,,26.6215167,-98.7481167,,﻿attended from Roma,,,,,,,,,,,,1869.0,Galveston
-﻿gal.tx.0037,﻿church,not recorded,English,,,,﻿De Witt County,,﻿Coletto,,﻿TX,,29.123519399999996,-97.3516558,,,,,﻿j_v_frydrychowicz_001,﻿Rev.,﻿J. Von Frydrychowicz,﻿C.R.D.N.,,,,,,1869.0,Galveston
+﻿gal.tx.0036,﻿church,not recorded,English,,,,﻿Starr County,,﻿Clareño,,﻿TX,,26.78425837,-99.11778044,,﻿attended from Roma,,,,,,,,,,,,1869.0,Galveston
+﻿gal.tx.0037,﻿church,not recorded,English,,,,﻿De Witt County,,﻿Coletto,﻿Coletoville,﻿TX,,28.75942362,-97.14591868,,,,,﻿j_von-frydrychowicz_001,﻿Rev.,﻿J. Von Frydrychowicz,﻿C.R.D.N.,,,,,,1869.0,Galveston
 ﻿gal.tx.0038,﻿church,not recorded,English,,,,﻿Colorado County,﻿Colorado County,﻿Columbus,﻿Columbus,﻿TX,,29.706623200000003,-96.5396933,,﻿attended from Frelsburgh,,,,,,,,,,,,1869.0,Galveston
 ﻿gal.tx.0039,﻿church,not recorded,English,,,,﻿Brazoria County,﻿Brazoria County,﻿Columbia,﻿West Columbia,﻿TX,,29.1438582,-95.6452249,,﻿attended from Houston,,,,﻿Rev.,,,,,,,,1869.0,Galveston
 ﻿gal.tx.0040,﻿church,not recorded,English,,,,﻿Bexar County,,﻿Concepcion,,﻿TX,,29.39125151,-98.49118151,﻿gal.tx.0124,﻿attended from San Antonio,,﻿went with biggest San Antonio church,,,,,,,,,,1869.0,Galveston
@@ -67,38 +67,37 @@
 ﻿gal.tx.0048,﻿church,not recorded,English,,,,﻿Colorado County,﻿Fayette County,﻿Ellinger Settlement,﻿Ellinger,﻿TX,,29.838582000000002,-96.7046493,,﻿attended by Rev. John Barlemann,,,,,,,,,,,,1869.0,Galveston
 ﻿gal.tx.0049,﻿church,not recorded,English,,,,﻿Encinal County,﻿La Salle County,﻿Encinal,﻿Encinal,﻿TX,,28.041117,-99.3544787,,﻿attended from Roma,,,,,,,,,,,,1869.0,Galveston
 ﻿gal.tx.0050,﻿church,not recorded,English,,,,﻿Fayette County,﻿Fayette County,﻿Fayetteville,﻿Fayetteville,﻿TX,,29.9057817,-96.6727528,,﻿attended from Frelsburgh,,,,,,,,,,,,1869.0,Galveston
-﻿gal.tx.0051,﻿church,not recorded,English,,,,﻿Nacogdoches County,,﻿Flores,,﻿TX,,31.6353071,-94.645035,﻿gal.tx.0092,﻿attended from Nacogdoches,,,,,,,,,,,,1869.0,Galveston
+﻿gal.tx.0051,﻿church,not recorded,English,,,,﻿Nacogdoches County,,﻿Flores,,﻿TX,,31.60756692,-94.38278171,﻿gal.tx.0092,﻿attended from Nacogdoches,,,,,,,,,,,,1869.0,Galveston
 ﻿gal.tx.0052,﻿church,not recorded,English,,,,﻿Santiago County,﻿no santiago county,﻿Flores,,﻿TX,,31.968598800000002,-99.9018131,,﻿attended from Jamestown,,,,,,,,,,,,1869.0,Galveston
 ﻿gal.tx.0053,﻿church,not recorded,English,,,,﻿Gillespie County,﻿Gillespie County,﻿Fredericksburgh,﻿Fredericksburg,﻿TX,,30.2752011,-98.8719843,,,,,﻿pet_tarrillion_001,﻿Rev.,﻿Peter Tarrillion,,,,,,,1869.0,Galveston
 ﻿gal.tx.0054,﻿church,not recorded,English,,,,﻿Colorado County,﻿Colorado County,﻿Frelsburgh,﻿Frelsburg,﻿TX,,29.871208000000003,-96.54872900000001,,,,,﻿vic_gury_001,﻿Rev.,﻿Victor Gury,,,,,,,1869.0,Galveston
 ﻿gal.tx.0054,﻿church,not recorded,English,,,,﻿Colorado County,﻿Colorado County,﻿Frelsburgh,﻿Frelsburg,﻿TX,,29.871208000000003,-96.54872900000001,,,,,﻿j_barlemann_001,﻿Rev.,﻿J. Barlemann,,,,,,,1869.0,Galveston
-﻿gal.tx.0055,﻿church,not recorded,English,,,,﻿Victoria County,,﻿Garcitas,,﻿TX,,28.8776761,-96.8192118,﻿gal.tx.0149,﻿attended from Victoria,,,,,,,,,,,,1869.0,Galveston
+﻿gal.tx.0055,﻿church,not recorded,English,,,,﻿Victoria County,,﻿Garcitas,,﻿TX,,28.76155379,-96.68431793,﻿gal.tx.0149,﻿attended from Victoria,,,,,,,,,,,,1869.0,Galveston
 ﻿gal.tx.0057,﻿church,not recorded,English,,,,﻿Goliad County,﻿Goliad County,﻿Goliad,﻿Goliad,﻿TX,,28.668325199999998,-97.3883265,,﻿attended from Coletto,,,,,,,,,,,,1869.0,Galveston
 ﻿gal.tx.0058,﻿church,not recorded,English,,,,﻿Lavaca County,﻿Lavaca,﻿Hallettsville,﻿Hallettsville,﻿TX,,29.4438528,-96.9410929,,"﻿attended from St. Mary's Chapel, Lavacca Co.",,,,,,,,,,,,1869.0,Galveston
 ﻿gal.tx.0059,﻿church,not recorded,English,,,,﻿Harris County,﻿Harris County,﻿Harrisburgh,﻿Harrisburg,﻿TX,,29.7186036,-95.260098,,,,,﻿fra_mary_001,﻿Rev.,﻿Francis Mary,,,,,,,1869.0,Galveston
 ﻿gal.tx.0060,﻿church,not recorded,English,,,,﻿Austin County,﻿Waller County,﻿Hempstead,﻿Hempstead,﻿TX,,30.0974405,-96.07829179999999,,﻿attended from Houston,,,,,,,,,,,,1869.0,Galveston
-﻿gal.tx.0061,﻿church,not recorded,English,,,,﻿Washington County,,﻿Hidalgo Prairie,,﻿TX,,30.2352956,-96.365157,﻿gal.tx.0088,﻿attended from Millican,,,,,,,,,,,,1869.0,Galveston
+﻿gal.tx.0061,﻿church,not recorded,English,,,,﻿Washington County,,﻿Hidalgo Prairie,,﻿TX,,29.84690782,-96.12015134,﻿gal.tx.0088,﻿attended from Millican,,,,,,,,,,,,1869.0,Galveston
 ﻿gal.tx.0062,﻿church,not recorded,English,,,,﻿Austin County,﻿Harris County,﻿Hoakley,﻿Hockley,﻿TX,,30.026944,-95.844444,,﻿attended from Houston,,,,,,,,,,,,1869.0,Galveston
 ﻿gal.tx.0063,﻿church,not recorded,English,,,,﻿Harris County,﻿Harris County,﻿Houston,﻿Houston,﻿TX,,29.7600771,-95.3701108,,,,,﻿jos_guérat_001,﻿Rev.,﻿Joseph Guérat,,,,,,,1869.0,Galveston
 ﻿gal.tx.0063,﻿church,not recorded,English,,,,﻿Harris County,﻿Harris County,﻿Houston,﻿Houston,﻿TX,,29.7600771,-95.3701108,,,,,﻿mar_weinzaepflen_001,﻿Rev.,﻿Martin Weinzaepflen,,,,,,,1869.0,Galveston
 ﻿gal.tx.0065,﻿church,not recorded,English,,,,﻿Washington County,﻿Washington County,﻿Independence,﻿Independence,﻿TX,,30.319166999999997,-96.346389,﻿gal.tx.0088,﻿attended from Millican,,,,,,,,,,,,1869.0,Galveston
 ﻿gal.tx.0066,﻿church,not recorded,English,,,,﻿Austin County,﻿Austin County,﻿Industry,﻿Industry,﻿TX,,29.972445899999997,-96.50219270000001,,﻿attended from Frelsburgh,,,,,,,,,,,,1869.0,Galveston
 ﻿gal.tx.0067,﻿church,not recorded,English,,,,﻿Calhoun County,﻿Calhoun County,﻿Indianola,﻿Indianola,﻿TX,,28.511944899999996,-96.487475,,,,,﻿dav_moyes_001,﻿Rev.,﻿David Moyes,,,,,,,1869.0,Galveston
-﻿gal.tx.0068,﻿church,not recorded,English,,,,﻿Zapata County,,﻿Isidro Vela,,﻿TX,,26.973076300000002,-99.10134980000001,,﻿attended from Roma,,,,,,,,,,,,1869.0,Galveston
 ﻿gal.tx.0069,﻿church,not recorded,English,,,,﻿,,"﻿Jamestown, or Grey Settlement",,﻿TX,,30.9229767,-93.8262922,,,,,﻿emi_chapolard_001,﻿Rev.,﻿Emile Chapolard,,,,,,,1869.0,Galveston
 ﻿gal.tx.0070,﻿church,not recorded,English,,,,﻿Marion County,﻿Marion County,﻿Jefferson,﻿Jefferson,﻿TX,,32.7573626,-94.3451926,,,,,﻿j_m_giraud_001,﻿Rev.,﻿J. M. Giraud,,,,,,,1869.0,Galveston
 ﻿gal.tx.0070,﻿church,not recorded,English,,,,﻿Marion County,﻿Marion County,﻿Jefferson,﻿Jefferson,﻿TX,,32.7573626,-94.3451926,,,,,﻿jos_martinière_001,﻿Rev.,﻿Joseph Martinière,,,,,,,1869.0,Galveston
 ﻿gal.tx.0071,﻿church,not recorded,English,,,,﻿Refugio County,,﻿Labamita,,﻿TX,,28.346533899999997,-97.1359377,,﻿attended from Refugio,,,,,,,,,,,,1869.0,Galveston
 ﻿gal.tx.0072,﻿church,not recorded,English,,,,﻿Fayette County,﻿Fayette County,﻿Lagrange,﻿La Grange,﻿TX,,29.9055033,-96.87664699999999,,﻿attended from Frelsburgh,,,,,,,,,,,,1869.0,Galveston
-﻿gal.tx.0074,﻿church,not recorded,English,,,,﻿Cameron County,,﻿Lajara,,﻿TX,,26.246515999999996,-97.8238813,﻿gal.tx.0023,﻿attended from Brownsville,,,,,,,,,,,,1869.0,Galveston
+﻿gal.tx.0074,﻿church,not recorded,English,,,,﻿Cameron County,﻿Willacy County,﻿Lajara,,﻿TX,,26.51823093,-97.93007262,﻿gal.tx.0023,﻿attended from Brownsville,,,,,,,,,,,,1869.0,Galveston
 ﻿gal.tx.0075,﻿church,not recorded,English,,,,﻿Cameron County,,﻿Lajarita,,﻿TX,,26.1284971,-97.5247243,﻿gal.tx.0023,﻿attended from Brownsville,,,,,,,,,,,,1869.0,Galveston
 ﻿gal.tx.0076,﻿church,not recorded,English,,,,﻿Refugio County,﻿Aransas County,﻿Lamar,﻿Lamar,﻿TX,,28.1394565,-97.0055455,,﻿attended from Refugio,,,,,,,,,,,,1869.0,Galveston
 ﻿gal.tx.0077,﻿church,not recorded,English,,,,﻿Webb County,﻿Webb County,﻿Laredo,﻿Laredo,﻿TX,,27.5035613,-99.50755190000001,,,,,﻿jc_néraz_001,﻿Very Rev.,﻿J.C. Néraz,,﻿Vicar‐Chancellor,,,,,1869.0,Galveston
 ﻿gal.tx.0077,﻿church,not recorded,English,,,,﻿,﻿Webb County,﻿Laredo,﻿Laredo,﻿TX,,27.5035613,-99.50755190000001,,,,,﻿mic_souchon_001,﻿Rev.,﻿Michael Souchon,,,,,,,1869.0,Galveston
 ﻿gal.tx.0077,﻿church,not recorded,English,,,,﻿,﻿Webb County,﻿Laredo,﻿Laredo,﻿TX,,27.5035613,-99.50755190000001,,,,,﻿lm_planchet_001,﻿Rev.,﻿L.M. Planchet,,,,,,,1869.0,Galveston
 ﻿gal.tx.0077,﻿church,not recorded,English,,,,﻿,﻿Webb County,﻿Laredo,﻿Laredo,﻿TX,,27.5035613,-99.50755190000001,,,,,﻿cjm_brachet_001,﻿Rev.,﻿C.J.M. Brachet,,,,,,,1869.0,Galveston
-﻿gal.tx.0078,﻿church,not recorded,English,,,,﻿Cameron County,,﻿Las Animas,,﻿TX,,26.1284971,-97.5247243,﻿gal.tx.0023,﻿attended from Brownsville,,,,,,,,,,,,1869.0,Galveston
-﻿gal.tx.0079,﻿chapel,﻿St. Mary's Chapel,English,,,,﻿Lavacca County,﻿Lavaca,,﻿Halletsville,﻿TX,,29.4438528,-96.9410929,,,,,﻿ant_forest_001,﻿Rev.,﻿Anthony Forest,,,,,,,1869.0,Galveston
+﻿gal.tx.0078,﻿church,not recorded,English,,,,﻿Cameron County,,﻿Las Animas,,﻿TX,,26.06975761,-97.73826286,﻿gal.tx.0023,﻿attended from Brownsville,,,,,,,,,,,,1869.0,Galveston
+﻿gal.tx.0079,﻿chapel,﻿St. Mary's Chapel,English,,,,﻿Lavacca County,﻿Lavaca County,,﻿Halletsville,﻿TX,,29.44827226,-96.9983088,,,,,﻿ant_forest_001,﻿Rev.,﻿Anthony Forest,,,,,,,1869.0,Galveston
 ﻿gal.tx.0080,﻿church,not recorded,English,,,,﻿Liberty County,﻿Liberty County,﻿Liberty,﻿Liberty,﻿TX,,30.057993,-94.7954783,,﻿attended from Galveston,,,,,,,,,,,,1869.0,Galveston
 ﻿gal.tx.0081,﻿church,not recorded,English,,,,﻿Caldwell County,﻿Caldwell County,﻿Lockart,﻿Lockhart,﻿TX,,29.8849441,-97.6699996,,﻿attended from Austin,,,,,,,,,,,,1869.0,Galveston
 ﻿gal.tx.0082,﻿church,not recorded,English,,,,﻿Zapata County,﻿Zapata County,﻿Lopeño,﻿Lopeño,﻿TX,,26.711703000000004,-99.1027327,,﻿attended from Roma,,,,,,,,,,,,1869.0,Galveston
@@ -110,20 +109,20 @@
 ﻿gal.tx.0088,﻿church,not recorded,English,,,,﻿Brazos County,﻿Brazos County,﻿Millican,﻿Millican,﻿TX,,30.4685377,-96.2024593,,,,,﻿lou_bussant_001,﻿Rev.,﻿Louis Bussant,,,,,,,1869.0,Galveston
 ﻿gal.tx.0088,﻿church,not recorded,English,,,,﻿,﻿Brazos County,﻿Millican,﻿Millican,﻿TX,,30.4685377,-96.2024593,,,,,﻿fra_derue_001,﻿Rev.,﻿Francis Derue,,,,,,,1869.0,Galveston
 ﻿gal.tx.0089,﻿church,not recorded,English,,,,﻿Bexar County,﻿Bexar County,﻿Martinez,﻿Martinez,﻿TX,,29.416975,-98.336975,,﻿attended from Paña Maria,,,,,,,,,,,,1869.0,Galveston
-﻿gal.tx.0089,﻿church,not recorded,English,,,,﻿Fayette County,﻿Bexar County,"﻿Mulberry, Cedar P.O.",﻿Martinez,﻿TX,,29.416975,-98.336975,,,,,﻿fel_orzechowski_001,﻿Rev.,﻿Felix Orzechowski,﻿C.R.D.N.,,,,,,1869.0,Galveston
+﻿gal.tx.0091,﻿church,not recorded,English,,﻿Cedar P.O.,,﻿Fayette County,﻿Lavaca County,﻿Mulberry,,﻿TX,,29.64076944,-96.99782171,,,,,﻿fel_orzechowski_001,﻿Rev.,﻿Felix Orzechowski,﻿C.R.D.N.,,,,,,1869.0,Galveston
 ﻿gal.tx.0092,﻿church,not recorded,English,,,,﻿Nacogdoches County,﻿Nacogdoches County,﻿Nacogdoches,﻿Nacogdoches,﻿TX,,31.603945500000002,-94.65600400000001,,,,,﻿tho_hennessy_001,﻿Rev.,﻿Thomas Hennessy,,,,,,,1869.0,Galveston
 ﻿gal.tx.0092,﻿church,not recorded,English,,,,﻿,﻿Nacogdoches County,﻿Nacogdoches,﻿Nacogdoches,﻿TX,,31.603945500000002,-94.65600400000001,,,,,﻿jos_p_bristoe_001,﻿Rev.,﻿Joseph Peter Bristoe,,,,,,,1869.0,Galveston
 ﻿gal.tx.0093,﻿church,not recorded,English,,,,﻿Grimes County,﻿Grimes County,﻿Navisota,﻿Navasota,﻿TX,,30.387984499999998,-96.0877349,﻿gal.tx.0088,﻿attended from Millican,,,,,,,,,,,,1869.0,Galveston
 ﻿gal.tx.0094,﻿church,not recorded,English,,,,﻿Comal County,﻿Comal County,﻿New-Braunfels,﻿New Braunfels,﻿TX,,29.702565999999997,-98.1240635,,,,,﻿lj_e_fleury_001,﻿Rev.,﻿L.J. Emile Fleury,,,,,,,1869.0,Galveston
 ﻿gal.tx.0097,﻿church,not recorded,English,,,,﻿Orange County,,﻿Orange,﻿Orange,﻿TX,,30.092987899999997,-93.73655490000002,﻿gal.tx.0001,﻿attended from Galveston,,,,,,,,,,,,1869.0,Galveston
 ﻿gal.tx.0098,﻿church,not recorded,English,,,,﻿Cameron County,,﻿Païste,,﻿TX,,26.1284971,-97.5247243,,﻿attended from Corpus Christi,,,,,,,,,,,,1869.0,Galveston
-﻿gal.tx.0099,﻿church,not recorded,English,,,,﻿Cameron County,,﻿Palmetto,﻿found on map?,﻿TX,,26.1284971,-97.5247243,,﻿attended from Brownsville,,,,,,,,,,,,1869.0,Galveston
+﻿gal.tx.0099,﻿church,not recorded,English,,,,﻿Cameron County,,﻿Palmetto,,﻿TX,,26.20193953,-97.75662953,,﻿attended from Brownsville,,,,,,,,,,,,1869.0,Galveston
 ﻿gal.tx.0100,﻿church,not recorded,English,,,,﻿Karnes County,﻿Karnes County,﻿Paña Maria,﻿Panna Maria,﻿TX,,28.9571914,-97.8981624,,,,,﻿ado_bakanowski_001,﻿Very Rev.,﻿Adolph Bakanowski,﻿C.R.D.N.,﻿Superior,,,,,1869.0,Galveston
 ﻿gal.tx.0100,﻿church,not recorded,English,,,,﻿,﻿Karnes County,﻿Paña Maria,﻿Panna Maria,﻿TX,,28.9571914,-97.8981624,,,,,﻿fel_zwiardowski_001,﻿Rev.,﻿Felix Zwiardowski,﻿C.R.D.N.,,,,,,1869.0,Galveston
 ﻿gal.tx.0101,﻿church,not recorded,English,,,,﻿Nueces County,,﻿Para,,﻿TX,,27.769335100000003,-97.48141629999999,,﻿attended from San Patricio,,,,,,,,,,,,1869.0,Galveston
-﻿gal.tx.0102,﻿church,not recorded,English,,,,﻿Matagorda County,,﻿Peninsula,,﻿TX,,28.8204837,-95.98325770000001,,﻿attended from Indianola,,,,,,,,,,,,1869.0,Galveston
+﻿gal.tx.0102,﻿church,not recorded,English,,,,﻿Matagorda County,,﻿Peninsula,,﻿TX,,28.58515853,-96.02377468,,﻿attended from Indianola,,,,,,,,,,,,1869.0,Galveston
 ﻿gal.tx.0103,﻿church,not recorded,English,,,,﻿Bastrop County,﻿Bastrop County,﻿Pin-Oak,﻿Pin Oak,﻿TX,,30.0972107,-97.2949699,,﻿attended from Austin,,,,,,,,,,,,1869.0,Galveston
-﻿gal.tx.0104,﻿church,not recorded,English,,,,﻿Victoria County,,﻿Placet,,﻿TX,,28.771290899999997,-97.0068393,﻿gal.tx.0149,﻿attended from Victoria,,,,,,,,,,,,1869.0,Galveston
+﻿gal.tx.0104,﻿church,not recorded,English,,,,﻿Victoria County,,﻿Placet,﻿Placedo,﻿TX,,28.69143364,-96.82658693,﻿gal.tx.0149,﻿attended from Victoria,,,,,,,,,,,,1869.0,Galveston
 ﻿gal.tx.0105,﻿church,not recorded,English,,,,﻿Montgomery County,﻿Grimes County,﻿Plantersville,﻿Plantersville,﻿TX,,30.332985600000004,-95.8618958,﻿gal.tx.0088,﻿attended from Millican,,,,,,,,,,,,1869.0,Galveston
 ﻿gal.tx.0107,﻿church,not recorded,English,,,,﻿Cameron County,﻿Cameron County,﻿Point Isabel,﻿Port Isabel,﻿TX,,26.073411899999996,-97.2085844,,﻿attended from Brownsville,,,,,,,,,,,,1869.0,Galveston
 ﻿gal.tx.0108,﻿church,not recorded,English,,,,﻿Calhoun County,﻿Calhoun County,﻿Port Lavacca,﻿Port Lavaca,﻿TX,,28.6149968,-96.6260892,,,,,﻿and_badelon_001,﻿Rev.,﻿Andrew Badelon,,,,,,,1869.0,Galveston
@@ -143,7 +142,7 @@
 ﻿gal.tx.0119,﻿church,not recorded,English,,,,﻿Fayette County,﻿Fayette County,﻿Ruttersville,﻿Rutersville,﻿TX,,29.947724199999996,-96.7972005,,﻿attended from Frelsburgh,,,,,,,,,,,,1869.0,Galveston
 ﻿gal.tx.0120,﻿church,not recorded,English,,,,﻿Jefferson County,﻿Jefferson County,﻿Sabine Pass,﻿Port Arthur,﻿TX,,29.884950399999997,-93.939947,﻿gal.tx.0001,﻿attended from Galveston,,,,,,,,,,,,1869.0,Galveston
 ﻿gal.tx.0121,﻿church,not recorded,English,,,,﻿Austin County,,﻿Sandy,,﻿TX,,30.3607528,-98.469471,,﻿attended from Frelsburgh,,,,,,,,,,,,1869.0,Galveston
-﻿gal.tx.0122,﻿church,not recorded,English,,,,﻿Bastrop County,,﻿Sandy,,﻿TX,,30.2185281,-97.32136750000001,,﻿attended from Austin,,,,,,,,,,,,1869.0,Galveston
+﻿gal.tx.0122,﻿church,not recorded,English,,,,﻿Bastrop County,,﻿Sandy,﻿Sand,﻿TX,,30.05294056,-97.02889341,,﻿attended from Austin,,,,,,,,,,,,1869.0,Galveston
 ﻿gal.tx.0123,﻿church,not recorded,English,,,,﻿Refugio County,﻿Aransas County,﻿St. Joseph,﻿San Jose Island,﻿TX,,28.0438923,-96.9101806,,﻿attended from Refugio,,,,,,,,,,,,1869.0,Galveston
 ﻿gal.tx.0124,﻿church,﻿Church of St. Ferdinand,English,,,,﻿Bexar County,﻿Bexar County,﻿San Antonio,﻿San Antonio,﻿TX,,29.4248678,-98.6863807,,,,,﻿j_anstaett_001,﻿Very Rev.,﻿J. Anstaett,,﻿Administrator,,,,,1869.0,Galveston
 ﻿gal.tx.0124,﻿church,﻿Church of St. Ferdinand,English,,,,﻿,﻿Bexar County,﻿San Antonio,﻿San Antonio,﻿TX,,29.4248678,-98.6863807,,,,,﻿mat_sarry_001,﻿Very Rev.,﻿Matthew Sarry,,﻿V.G.,,,,,1869.0,Galveston
@@ -152,15 +151,15 @@
 ﻿gal.tx.0126,﻿church,﻿St. Mary's Church,English,﻿German Congregation,,,﻿Bexar County,﻿Bexar County,﻿San Antonio,﻿San Antonio,﻿TX,,29.4254103,-98.49110859999999,,,,,﻿the_greyenbühl_001,﻿Rev.,﻿Theodore Greyenbühl,,,﻿German Congregation,,,,1869.0,Galveston
 ﻿gal.tx.0126,﻿church,﻿St. Mary's Church,English,﻿English Congregation,,,﻿,﻿Bexar County,﻿San Antonio,﻿San Antonio,﻿TX,,29.4254103,-98.49110859999999,,,,,﻿lou_chaland_001,﻿Very Rev.,﻿Louis Chaland,,,﻿English Congregation,,,,1869.0,Galveston
 ﻿gal.tx.0126,﻿church,﻿St. Mary's Church,English,﻿English Congregation,,,﻿,﻿Bexar County,﻿San Antonio,﻿San Antonio,﻿TX,,29.4254103,-98.49110859999999,,,,,﻿ser_chaland_001,﻿Rev.,﻿Seraphin Chaland,,,﻿English Congregation,,,,1869.0,Galveston
-﻿gal.tx.0156,﻿college,﻿St. Mary's College,English,﻿under the direction of the Brothers of Mary,,,﻿Bexar County,﻿Bexar County,﻿San Antonio,,﻿TX,,29.4254103,-98.49110859999999,,,,,﻿eli_beyrer_001,﻿Rev.,﻿Eligius Beyrer,,,,,﻿10 brothers,,1869.0,Galveston
-﻿gal.tx.0156,﻿college,﻿St. Mary's College,English,﻿under the direction of the Brothers of Mary,,,﻿Bexar County,﻿Bexar County,﻿San Antonio,,﻿TX,,29.4254103,-98.49110859999999,,,,,,﻿Brother,﻿Charles,,﻿Superior,,,﻿250 pupils,,1869.0,Galveston
-﻿gal.tx.0159,﻿convent,﻿Ursuline Convent,English,,,,﻿Bexar County,﻿Bexar County,﻿San Antonio,,﻿TX,,29.4254103,-98.49110859999999,,,,,﻿ste_buffard_001,﻿Very Rev.,﻿Stephen Buffard,,﻿Superior,,,﻿52 sisters,,1869.0,Galveston
-﻿gal.tx.0159,﻿convent,﻿Ursuline Convent,English,,,,﻿Bexar County,﻿Bexar County,﻿San Antonio,,﻿TX,,29.4254103,-98.49110859999999,,,,,﻿de_s_marie_001,﻿Madame,﻿de Ste. Marie,,﻿Mother-Superior,,,﻿60 boarders,,1869.0,Galveston
-﻿gal.tx.0159,﻿convent,﻿Ursuline Convent,English,,,,﻿Bexar County,﻿Bexar County,﻿San Antonio,,﻿TX,,29.4254103,-98.49110859999999,,,,,﻿a_antoine_001,﻿Rev.,﻿A. Antoine,,,,,﻿250 day-scholars,,1869.0,Galveston
-﻿gal.tx.0159,﻿convent,﻿Ursuline Convent,English,,,,﻿Bexar County,﻿Bexar County,﻿San Antonio,,﻿TX,,29.4254103,-98.49110859999999,,,,,﻿ja_favre_001,﻿Very Rev.,﻿J.A. Favre,,,﻿convalescent in France,,﻿250 day-scholars,,1869.0,Galveston
+﻿gal.tx.0156,﻿college,﻿St. Mary's College,English,﻿under the direction of the Brothers of Mary,,,﻿Bexar County,﻿Bexar County,﻿San Antonio,﻿San Antonio,﻿TX,,29.4254103,-98.49110859999999,,,,,﻿eli_beyrer_001,﻿Rev.,﻿Eligius Beyrer,,,,,﻿10 brothers,,1869.0,Galveston
+﻿gal.tx.0156,﻿college,﻿St. Mary's College,English,﻿under the direction of the Brothers of Mary,,,﻿Bexar County,﻿Bexar County,﻿San Antonio,﻿San Antonio,﻿TX,,29.4254103,-98.49110859999999,,,,,,﻿Brother,﻿Charles,,﻿Superior,,,﻿250 pupils,,1869.0,Galveston
+﻿gal.tx.0159,﻿convent,﻿Ursuline Convent,English,,,,﻿Bexar County,﻿Bexar County,﻿San Antonio,﻿San Antonio,﻿TX,,29.4254103,-98.49110859999999,,,,,﻿ste_buffard_001,﻿Very Rev.,﻿Stephen Buffard,,﻿Superior,,,﻿52 sisters,,1869.0,Galveston
+﻿gal.tx.0159,﻿convent,﻿Ursuline Convent,English,,,,﻿Bexar County,﻿Bexar County,﻿San Antonio,﻿San Antonio,﻿TX,,29.4254103,-98.49110859999999,,,,,,﻿Madame,﻿de Ste. Marie,,﻿Mother-Superior,,,﻿60 boarders,,1869.0,Galveston
+﻿gal.tx.0159,﻿convent,﻿Ursuline Convent,English,,,,﻿Bexar County,﻿Bexar County,﻿San Antonio,﻿San Antonio,﻿TX,,29.4254103,-98.49110859999999,,,,,﻿a_antoine_001,﻿Rev.,﻿A. Antoine,,,,,﻿250 day-scholars,,1869.0,Galveston
+﻿gal.tx.0159,﻿convent,﻿Ursuline Convent,English,,,,﻿Bexar County,﻿Bexar County,﻿San Antonio,﻿San Antonio,﻿TX,,29.4254103,-98.49110859999999,,,,,﻿ja_favre_001,﻿Very Rev.,﻿J.A. Favre,,,﻿convalescent in France,,﻿250 day-scholars,,1869.0,Galveston
 ﻿gal.tx.0127,﻿church,not recorded,English,,,,﻿Zapata County,﻿Zapata County,﻿San Bartolo,﻿Zapata,﻿TX,,26.9072605,-99.2714255,﻿gal.tx.0023,﻿attended from Brownsville,,,,,,,,,,,,1869.0,Galveston
 ﻿gal.tx.0128,﻿church,not recorded,English,,,,﻿Nueces County,,﻿San Diego,﻿San Diego,﻿TX,,27.763914500000002,-98.2388953,,,,,﻿c_jaillet_001,﻿Rev.,﻿C. Jaillet,,,,,,,1869.0,Galveston
-﻿gal.tx.0128,﻿church,not recorded,English,,,,﻿Bexar County,,﻿San Francisco de la Espada,﻿San Diego,﻿TX,,27.763914500000002,-98.2388953,,,,,﻿fra_bouchu_001,﻿Rev.,﻿Francis Bouchu,,,,,,,1869.0,Galveston
+﻿gal.tx.0170,﻿church,﻿San Francisco de la Espada,English,,,,﻿Bexar County,,,,,,29.56204742,-98.4951791,,,,,﻿fra_bouchu_001,﻿Rev.,﻿Francis Bouchu,,,,,,,1869.0,Galveston
 ﻿gal.tx.0130,﻿church,not recorded,English,,,,﻿Zapata County,﻿Zapata County,﻿San Ignatio,﻿San Ygnacio,﻿TX,,27.042531699999998,-99.44004040000002,,﻿attended from Laredo,,,,,,,,,,,,1869.0,Galveston
 ﻿gal.tx.0131,﻿church,﻿Mission San José,English,,,,﻿Bexar County,﻿Bexar County,﻿San José,﻿San Antonio,﻿TX,,29.365108000000003,-98.48714770000001,﻿gal.tx.0124,﻿attended from San Antonio,,﻿went with biggest San Antonio church,,,,,,,,,,1869.0,Galveston
 ﻿gal.tx.0132,﻿church,﻿Mission San Juan Capistrano,English,,,,﻿Bexar County,﻿Bexar County,﻿San Juan,,﻿TX,,33.50215043,-117.6626592,﻿gal.tx.0124,﻿attended from San Antonio,,﻿went with biggest San Antonio church,,,,,,,,,,1869.0,Galveston
@@ -171,13 +170,13 @@
 ﻿gal.tx.0137,﻿church,not recorded,English,,,,﻿,﻿Cameron County,﻿Santa Rosalia,﻿Brownsville,﻿TX,,25.9017472,-97.4974838,﻿gal.tx.0023,﻿attended from Brownsville,,,,,,,,,,,,1869.0,Galveston
 ﻿gal.tx.0138,﻿church,not recorded,English,,,,﻿,﻿Cameron County,﻿San Rafael,,﻿TX,,25.84975,-97.38797,﻿gal.tx.0023,﻿attended from Brownsville,,,,,,,,,,,,1869.0,Galveston
 ﻿gal.tx.0139,﻿church,not recorded,English,﻿(See Jamestown.),,,﻿Bexar County,,﻿Santiago,,﻿TX,,29.420076300000005,-98.5721016,,,,,,,,,,﻿(See Jamestown.),,,,1869.0,Galveston
-﻿gal.tx.0140,﻿church,not recorded,English,,,,﻿Cameron County,,﻿Savinito,﻿Found on map,﻿TX,,26.1284971,-97.5247243,﻿gal.tx.0023,﻿attended from Brownsville,,,,,,,,,,,,1869.0,Galveston
+﻿gal.tx.0140,﻿church,not recorded,English,,,,﻿Cameron County,,﻿Savinito,﻿Sabanito,﻿TX,,26.21104557,-97.86001309,﻿gal.tx.0023,﻿attended from Brownsville,,,,,,,,,,,,1869.0,Galveston
 ﻿gal.tx.0141,﻿church,not recorded,English,,,,﻿Guadalupe County,﻿Guadalupe County,﻿Seguin,﻿Seguin,﻿TX,,29.5689248,-97.9645832,,﻿attended from New-Braunfels,,,,,,,,,,,,1869.0,Galveston
 ﻿gal.tx.0142,﻿church,not recorded,English,,﻿Rose Hill P.O.,,﻿Montgomery County,﻿Harris County,﻿Spring Creek,﻿Rose Hill,﻿TX,,30.0707743,-95.70355759999998,,﻿attended from Houston,,,,,,,,,,,,1869.0,Galveston
 ﻿gal.tx.0143,﻿church,not recorded,English,,,,﻿Liberty County,﻿Hardin County,﻿Sour Lake,﻿Sour Lake,﻿TX,,30.140212199999997,-94.4110239,,﻿attended from Houston,,,,,,,,,,,,1869.0,Galveston
 ﻿gal.tx.0144,﻿church,not recorded,English,,,,﻿Cameron County,,﻿Tajos,,﻿TX,,26.1284971,-97.5247243,﻿gal.tx.0023,﻿attended from Brownsville,,,,,,,,,,,,1869.0,Galveston
-﻿gal.tx.0145,﻿church,not recorded,English,,,,﻿Cameron County,,﻿Tangue de Carecito,﻿found on map,﻿TX,,26.1284971,-97.5247243,﻿gal.tx.0023,﻿attended from Brownsville,,,,,,,,,,,,1869.0,Galveston
-﻿gal.tx.0145,﻿church,not recorded,English,,,,﻿Nueces County,,﻿Trinidad,﻿found on map,﻿TX,,26.1284971,-97.5247243,,﻿attended from San Diego,,,,,,,,,,,,1869.0,Galveston
+﻿gal.tx.0145,﻿church,not recorded,English,,,,﻿Cameron County,﻿Cameron County,﻿Tangue de Carecito,,﻿TX,,26.24677547,-97.34879967,﻿gal.tx.0023,﻿attended from Brownsville,,,,,,,,,,,,1869.0,Galveston
+﻿gal.tx.0168,﻿church,not recorded,English,,,,﻿Nueces County,,﻿Trinidad,,,,27.58559569,-98.0746709,,﻿attended from San Diego,,,,,,,,,,,,1869.0,Galveston
 ﻿gal.tx.0148,﻿church,not recorded,English,,,,﻿Zapata County,﻿Zapata County,﻿Uribeño,,﻿TX,,26.73741307,-99.22430811,,﻿attended from Roma by the Oblate Fathers,,,,,,,,,,,,1869.0,Galveston
 ﻿gal.tx.0149,﻿church,not recorded,English,,,,﻿Victoria County,﻿Victoria,﻿Victoria,﻿Victoria,﻿TX,,28.805267399999998,-97.00359820000001,,,,,﻿aug_gardet_001,﻿Rev.,﻿August Gardet,,,,,,,1869.0,Galveston
 ﻿gal.tx.0149,﻿church,not recorded,English,,,,﻿Victoria County,﻿Victoria,﻿Victoria,﻿Victoria,﻿TX,,28.805267399999998,-97.00359820000001,,,,,﻿pau_kraus_001,﻿Rev.,﻿Paul Kraus,,,,,,,1869.0,Galveston
@@ -185,16 +184,16 @@
 ﻿gal.tx.0151,﻿church,not recorded,English,,,,﻿Washington County,﻿Washington County,﻿Washington,﻿Washington-on-the-Brazos,﻿TX,,30.3252749,-96.1573104,﻿gal.tx.0088,﻿attended from Millican,,,,,,,,,,,,1869.0,Galveston
 ﻿gal.tx.0152,﻿church,not recorded,English,,,,﻿Robertson County,﻿Robertson County,﻿Wheelock,﻿Wheelock,﻿TX,,30.8976902,-96.38996390000001,﻿gal.tx.0088,﻿attended from Millican,,,,,,,,,,,,1869.0,Galveston
 ﻿gal.tx.0153,﻿church,not recorded,English,,,,﻿Travis County,﻿Travis County,﻿Webberville,﻿Webberville,﻿TX,,30.231045,-97.5166653,,﻿attended from Austin,,,,,,,,,,,,1869.0,Galveston
-﻿gal.tx.0161,﻿convent,﻿Ursuline Convent,English,,,,,,﻿Laredo,,﻿TX,,30.231045,-97.5166653,,,,,﻿de_s_joseph_001,﻿Madame,﻿de St. Joseph,,﻿Mother-Superior,,﻿sister,﻿6 Sisters,,1869.0,Galveston
-﻿gal.tx.0161,﻿convent,﻿Ursuline Convent,English,,,,,,﻿Laredo,,﻿TX,,30.231045,-97.5166653,,,,,﻿de_s_theresa_001,﻿Madame,﻿de St. Theresa,,﻿Assistant,,﻿day-scholar,﻿150 day-scholars,,1869.0,Galveston
-﻿gal.tx.0161,﻿convent,﻿Sisters of Providence,English,,,,,,﻿Castroville,,﻿TX,,30.231045,-97.5166653,,,,,,,,,,,﻿sister,﻿2 sisters,,1869.0,Galveston
-﻿gal.tx.0161,﻿convent,﻿Sisters of Providence,English,,,,,,﻿Castroville,,﻿TX,,30.231045,-97.5166653,,,,,,,,,,,﻿sister,﻿80 pupils,,1869.0,Galveston
-﻿gal.tx.0162,﻿convent,﻿Convent of the Incarnate Word,English,,,,,,﻿Brownsville,,﻿TX,,30.231045,-97.5166653,,,,,﻿de_s_ange_001,﻿Madame,﻿de St. Ange,,﻿Mother-Superior,,,﻿70-80 boarders,,1869.0,Galveston
-﻿gal.tx.0162,﻿convent,﻿Convent of the Incarnate Word,English,,,,,,﻿Brownsville,,﻿TX,,30.231045,-97.5166653,,,,,,,,,,,,﻿about 100 day-scholars,,1869.0,Galveston
-﻿gal.tx.0163,﻿convent,﻿Convent of the Incarnate Word,English,,,,,,﻿Victoria,,﻿TX,,30.231045,-97.5166653,,,,,﻿de_s_clair_001,﻿M.,﻿de St. Clair,,﻿Mother-Superior,,﻿sister,﻿10 Sisters,,1869.0,Galveston
-﻿gal.tx.0163,﻿convent,﻿Convent of the Incarnate Word,English,,,,,,﻿Victoria,,﻿TX,,30.231045,-97.5166653,,,,,,,,,,,﻿sister,﻿80 to 90 scholars,,1869.0,Galveston
-﻿gal.tx.0164,﻿convent,﻿Ursuline Convent,English,,,,,,﻿Houston,,﻿TX,,30.231045,-97.5166653,,,,,,﻿Mother,﻿Liguori,,﻿Superior,,﻿sister,﻿8 Sisters,,1869.0,Galveston
-﻿gal.tx.0164,﻿monastery,﻿Monastery of the Sisters of Divine Providence,English,,,,,,﻿Austin,,﻿TX,,30.231045,-97.5166653,,,,,﻿de_s_andré_001,﻿Madame,﻿de St. André,,﻿Superior,,﻿sister,﻿3 sisters,,1869.0,Galveston
-﻿gal.tx.0164,﻿monastery,﻿Monastery of the Sisters of Divine Providence,English,,,,,,﻿Austin,,﻿TX,,30.231045,-97.5166653,,,,,,,,,,,﻿sister,﻿2 postulants,,1869.0,Galveston
-﻿gal.tx.0164,﻿hospital,﻿Sœurs Hospitalières,English,﻿for an infirmary and orphan asylum,,,,,﻿Galveston,,﻿TX,,30.231045,-97.5166653,,,,,,﻿Sister,﻿St. Joseph,,﻿Superior,,﻿sister,﻿3 sisters,,1869.0,Galveston
-﻿gal.tx.0164,﻿school,﻿Female School,English,﻿under the care of the Sisters of Providence,,,,,﻿Austin,,﻿TX,,30.231045,-97.5166653,,,,,,,,,,,﻿sister,﻿3 sisters,,1869.0,Galveston
+﻿gal.tx.0161,﻿convent,﻿Ursuline Convent,English,,,,,,﻿Laredo,﻿Laredo,﻿TX,,27.5035613,-99.50755190000001,,,,,,﻿Madame,﻿de St. Joseph,,﻿Mother-Superior,,﻿sister,﻿6 Sisters,,1869.0,Galveston
+﻿gal.tx.0161,﻿convent,﻿Ursuline Convent,English,,,,,,﻿Laredo,﻿Laredo,﻿TX,,27.5035613,-99.50755190000001,,,,,,﻿Madame,﻿de St. Theresa,,﻿Assistant,,﻿day-scholar,﻿150 day-scholars,,1869.0,Galveston
+﻿gal.tx.0171,﻿convent,﻿Sisters of Providence,English,,,,,,﻿Castroville,﻿Castroville,﻿TX,,29.3557903,-98.8786387,,,,,,,,,,,﻿sister,﻿2 sisters,,1869.0,Galveston
+﻿gal.tx.0171,﻿convent,﻿Sisters of Providence,English,,,,,,﻿Castroville,﻿Castroville,﻿TX,,29.3557903,-98.8786387,,,,,,,,,,,﻿sister,﻿80 pupils,,1869.0,Galveston
+﻿gal.tx.0162,﻿convent,﻿Convent of the Incarnate Word,English,,,,,,﻿Brownsville,﻿Brownsville,﻿TX,,25.918439300000003,-97.5082732,,,,,,﻿Madame,﻿de St. Ange,,﻿Mother-Superior,,,﻿70-80 boarders,,1869.0,Galveston
+﻿gal.tx.0162,﻿convent,﻿Convent of the Incarnate Word,English,,,,,,﻿Brownsville,﻿Brownsville,﻿TX,,25.918439300000003,-97.5082732,,,,,,,,,,,,﻿about 100 day-scholars,,1869.0,Galveston
+﻿gal.tx.0163,﻿convent,﻿Convent of the Incarnate Word,English,,,,,,﻿Victoria,﻿Victoria,﻿TX,,28.7904401,-96.9976203,,,,,﻿de-_clair_001,﻿M.,﻿de St. Clair,,﻿Mother-Superior,,﻿sister,﻿10 Sisters,,1869.0,Galveston
+﻿gal.tx.0163,﻿convent,﻿Convent of the Incarnate Word,English,,,,,,﻿Victoria,﻿Victoria,﻿TX,,28.7904401,-96.9976203,,,,,,,,,,,﻿sister,﻿80 to 90 scholars,,1869.0,Galveston
+﻿gal.tx.0164,﻿convent,﻿Ursuline Convent,English,,,,,,﻿Houston,﻿Houston,﻿TX,,29.7600771,-95.3701108,,,,,,﻿Mother,﻿Liguori,,﻿Superior,,﻿sister,﻿8 Sisters,,1869.0,Galveston
+﻿gal.tx.0172,﻿monastery,﻿Monastery of the Sisters of Divine Providence,English,,,,,,﻿Austin,﻿Austin,﻿TX,,29.7600771,-95.3701108,,,,,,﻿Madame,﻿de St. André,,﻿Superior,,,﻿3 sisters,,1869.0,Galveston
+﻿gal.tx.0172,﻿monastery,﻿Monastery of the Sisters of Divine Providence,English,,,,,,﻿Austin,﻿Austin,﻿TX,,29.7600771,-95.3701108,,,,,,,,,,,,﻿2 postulants,,1869.0,Galveston
+﻿gal.tx.0167,﻿hospital,﻿Sœurs Hospitalières,English,﻿for an infirmary and orphan asylum,,,,,﻿Galveston,﻿Galveston,﻿TX,,29.7600771,-95.3701108,,,,,,﻿Sister,﻿St. Joseph,,﻿Superior,,,﻿3 sisters,,1869.0,Galveston
+﻿gal.tx.0174,﻿school,﻿Female School,English,﻿under the care of the Sisters of Providence,,,,,﻿Austin,﻿Austin,﻿TX,,29.7600771,-95.3701108,,,,,,,,,,,,﻿3 sisters,,1869.0,Galveston

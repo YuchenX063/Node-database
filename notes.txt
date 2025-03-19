@@ -1,1 +1,14 @@
-how to find a church by name or by ID (multiple years)
+how to query a church by its name
+(should I query a church's name through instID?)
+
+how to design the routes (one file for all the queries of "church" or one for churchInYear and one for church)
+
+same persID: af_ciampi_001 (Baltimore 1867 & Boston 1870) same person?
+
+persID and persName cannot start with a hyphen (-)? (not even a hyphen)
+
+data import is faster than django??
+
+year (e.g., Detroit 1866, Erie 1867)
+
+timeout error

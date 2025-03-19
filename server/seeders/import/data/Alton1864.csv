@@ -1,0 +1,189 @@
+﻿instID,church_type,instName,language,instNote,placeName,region,county_orig,county_reg,city_orig,city_reg,state_orig,state_reg,latitude,longitude,attendingInstID,attendingChurch,attendingChurchFrequency,attendingChurchNote,persID,persTitle,persName,persSuffix,persRole,persNote,memberType,member,affiliated,year,diocese
+﻿alt.il.0001,﻿cathedral,﻿Cathedral of SS. Peter and Paul,English,,,,﻿Madison County,﻿Madison County,﻿Alton,﻿Alton,﻿IL,,,,,,,,﻿h_d_juncker_001,﻿Rt. Rev.,﻿H. D. Juncker,,,,,,,1864,Alton
+﻿alt.il.0001,﻿cathedral,﻿Cathedral of SS. Peter and Paul,English,,,,﻿Madison County,﻿Madison County,﻿Alton,﻿Alton,﻿IL,,,,,,,,﻿j_janssen_001,﻿Rev.,﻿J. Janssen,,,,,,,1864,Alton
+﻿alt.il.0001,﻿cathedral,﻿Cathedral of SS. Peter and Paul,English,,,,﻿Madison County,﻿Madison County,﻿Alton,﻿Alton,﻿IL,,,,,,,,﻿j_vahey_001,﻿Rev.,﻿J. Vahey,,,,,,,1864,Alton
+﻿alt.il.0002,﻿church,﻿St. Mary's of the Immaculate Conception,English,﻿German,,,﻿Madison County,﻿Madison County,﻿Alton,﻿Alton,﻿IL,,,,,,,,﻿f_ostrop_001,﻿Rev.,﻿F. Ostrop,,,,,,,1864,Alton
+﻿alt.il.0007,﻿church,not recorded,English,,,,﻿Christian County,﻿Christian County,﻿Assumption,﻿Assumption,﻿IL,,,,,,,,﻿f_dutour_001,﻿Rev.,﻿F. Dutour,,,,,,,1864,Alton
+﻿alt.il.0007,﻿church,﻿St. Aloysius',English,,,,﻿Cass County,﻿Cass County,﻿Baldwinsville,﻿Baldwinsville,﻿IL,,,,﻿alt.il.0067,﻿Attended from Marshall,,,,,,,,,,,,1864,Alton
+﻿alt.il.0009,﻿church,﻿St. Alexius',English,,,,﻿Cass County,﻿Cass County,﻿Beardstown,﻿Beardstown,﻿IL,,,,,,,,﻿r_heimerling_001,﻿Rev.,﻿R. Heimerling,,,,,,,1864,Alton
+﻿alt.il.0010,﻿church,﻿St. Peter's,English,,,,﻿St. Clair County,﻿St. Clair County,﻿Belleville,﻿Belleville,﻿IL,,,,,,,,﻿p_j_baltes_001,﻿Rev.,﻿P. J. Baltes,,,,,,,1864,Alton
+﻿alt.il.0010,﻿church,﻿St. Peter's,English,,,,﻿St. Clair County,﻿St. Clair County,﻿Belleville,﻿Belleville,﻿IL,,,,,,,,﻿a_pinkers_001,﻿Rev.,﻿A. Pinkers,,,,,,,1864,Alton
+﻿alt.il.0011,﻿church,not recorded,English,,,,﻿Madison County,﻿Madison County,﻿Bethalto,﻿Bethalto,﻿IL,,,,﻿alt.il.0222,﻿Attended from Alton,,,,,,,,,,,,1864,Alton
+﻿alt.il.0013,﻿church,not recorded,English,,,,﻿Madison County,﻿St. Louis County,﻿Black Jack,﻿Black Jack,﻿IL,﻿MO,,,﻿alt.il.0031,﻿Attended from Collinsville,,,,,,,,,,,,1864,Alton
+﻿alt.il.0014,﻿church,not recorded,English,,,,﻿Adams County,﻿Adams County,﻿Bloomfield,﻿Ellington Township,﻿IL,,,,﻿alt.il.0093,﻿Attended from Quincy,,,,,,,,,,,,1864,Alton
+﻿alt.il.0118,﻿church,﻿St. Dominic's,English,﻿P.O.,,,﻿Clinton County,﻿Clinton County,﻿Shoal Creek Station,﻿Breese,﻿IL,,,,,,,,﻿aug_reinecke_001,﻿Rev.,﻿Aug. Reinecke,,,,,,,1864,Alton
+﻿alt.il.0018,﻿church,﻿Immaculate Conception,English,,﻿News P.O.,,﻿Calhoun County,﻿Calhoun County,﻿Brussels,﻿Brussels,﻿IL,,,,,,,,﻿c_raphael_001,﻿Rev.,﻿C. Raphael,,,,,,,1864,Alton
+﻿alt.il.0021,﻿church,﻿St. Patrick's,English,,,,﻿Alexander County,﻿Alexander County,﻿Cairo,﻿Cairo,﻿IL,,,,,,,,﻿l_j_lambert_001,﻿Rev.,﻿L. Lambert,,,,,,,1864,Alton
+﻿alt.il.0020,﻿church,﻿Holy Family,English,,,,﻿St. Clair County,﻿St. Clair County,﻿Cahokia,﻿Cahokia Heights,﻿IL,,,,,,,,﻿p_doutreluigne_001,﻿Rev.,﻿P. Doutreligne,﻿C.M.,,,,,,1864,Alton
+﻿alt.il.0022,﻿church,not recorded,English,,,,﻿Adams County,﻿Adams County,﻿Campoint,﻿Camp Point,﻿IL,,,,﻿alt.il.0073,﻿Attended from Mount Sterling,,,,,,,,,,,,1864,Alton
+﻿alt.il.0023,﻿church,not recorded,English,,,,﻿Macoupin County,﻿Macoupin County,﻿Carlinville,﻿Carlinville,﻿IL,,,,,,,,﻿f_schreiber_001,﻿Rev.,﻿F. Schreiber,,,,,,,1864,Alton
+﻿alt.il.0025,﻿church,﻿St. Mary's,English,,,,﻿Clinton County,﻿Clinton County,﻿Carlyle,﻿Carlyle,﻿IL,,,,,,,,﻿cl_sieghardt_001,﻿Rev.,﻿Cl. Sieghardt,,,,,,,1864,Alton
+﻿alt.il.0026,﻿church,not recorded,English,,,,﻿Greene County,﻿Greene County,﻿Carrollton,﻿Carrollton,﻿IL,,,,﻿alt.il.0058,﻿Attended from Jerseyville,,,,,,,,,,,,1864,Alton
+﻿alt.il.0028,﻿church,not recorded,English,﻿vacant,,,﻿Marion County,﻿Marion County,﻿Centralia,﻿Centralia,﻿IL,,,,,,,,,,,,,,,,,1864,Alton
+﻿alt.il.0027,﻿church,not recorded,English,﻿church building,,,﻿St. Clair County,﻿St. Clair County,﻿Centreville Station,﻿Centreville Township,﻿IL,,,,﻿alt.il.0020,﻿Attended from Cahokia,,,,,,,,,,,,1864,Alton
+﻿alt.il.0029,﻿church,not recorded,English,,,,﻿Coles County,﻿Coles County,﻿Charleston,﻿Charleston,﻿IL,,,,﻿alt.il.0087,﻿Attended from Paris,,,,,,,,,,,,1864,Alton
+﻿alt.il.0030,﻿church,﻿Help of Christians,English,,,,﻿Randolph County,﻿Randolph County,﻿Chester,﻿Chester,﻿IL,,,,,,,,﻿f_chmelicék_001,﻿Rev.,﻿F. Chmelicek,,,,,,,1864,Alton
+﻿alt.il.0030,﻿church,﻿St. Augustine's,English,,,,﻿Wabash County,﻿Wabash County,﻿Coffee or Rochester,﻿Coffee or Rochester,﻿IL,,,,﻿alt.il.0072,﻿Attended from Mt. Carmel,,,,,,,,,,,,1864,Alton
+﻿alt.il.0031,﻿church,﻿St. Paul's,English,﻿vacant,,,﻿Madison County,﻿Madison County,﻿Collinsville,﻿Collinsville,﻿IL,,,,,,,,,,,,,,,,,1864,Alton
+﻿alt.il.0032,﻿church,﻿Immaculate Conception,English,,,,﻿Monroe County,﻿Monroe County,﻿Columbia,﻿Columbia,﻿IL,,,,,,,,﻿w_koenig_001,﻿Rev.,﻿W. Koenig,,,,,,,1864,Alton
+﻿alt.il.0033,﻿church,﻿St. Damian's,English,,,,﻿Clinton County,﻿Clinton County,﻿Damiansville,﻿Damiansville,﻿IL,,,,,,,,﻿aug_berger_001,﻿Rev.,﻿Aug. Berger,,,,,,,1864,Alton
+﻿alt.il.0034,﻿church,not recorded,English,,,,﻿Macon County,﻿Macon County,﻿Decatur,﻿Decatur,﻿IL,,,,,,,,﻿a_vogt_001,﻿Rev.,﻿A. Vogt,,,,,,,1864,Alton
+﻿alt.il.0035,﻿church,not recorded,English,,,,﻿White County,,﻿Dolan Settlement,,﻿IL,,,,﻿alt.il.0048,﻿Attended from Mt. St. John,,,,,,,,,,,,1864,Alton
+﻿alt.il.0040,﻿church,﻿Immaculate Conception,English,﻿vacant,,,﻿Madison County,﻿Madison County,﻿Edwardsville,﻿Edwardsville,﻿IL,,,,,,,,,,,,,,,,,1864,Alton
+﻿alt.il.0042,﻿church,﻿St. Anthony's,English,,,,﻿Effingham County,﻿Effingham County,﻿Effingham,﻿Effingham,﻿IL,,,,﻿alt.il.0127,"﻿Attended by Rev. Raynerius Dickneite, O.S.F., from Teutopolis",,,,,,,,,,,,1864,Alton
+﻿alt.il.0043,﻿church,not recorded,English,,,,﻿Randolph County,﻿Randolph County,﻿Evansville,﻿Evansville,﻿IL,,,,﻿alt.il.0243,﻿Attended from Chester,,,,,,,,,,,,1864,Alton
+﻿alt.il.0044,﻿church,﻿St. Pancratius's,English,﻿vacant,,,﻿St. Clair County,﻿St. Clair County,﻿Fayetteville,﻿Fayetteville,﻿IL,,,,﻿alt.il.0068,﻿Attended from Maskoutah,,,,,,,,,,,,1864,Alton
+﻿alt.il.0046,﻿church,﻿St. Joseph's,English,,,,﻿St. Clair County,﻿St. Clair County,﻿Freeburg,﻿Freeburg,﻿IL,,,,,,,,﻿the_elshoff_001,﻿Rev.,﻿Theod. Elshoff,,,,,,,1864,Alton
+﻿alt.il.0047,﻿church,﻿St. Philip's,English,,﻿French Village,,﻿St. Clair County,﻿St. Clair County,﻿French Village,﻿Fairview Heights,﻿IL,,,,,,,,﻿jos_petit_002,﻿Rev.,﻿Jos. Petit,,,,,,,1864,Alton
+﻿alt.il.0051,﻿church,﻿Help of Christians,English,,,,﻿Effingham County,﻿Effingham County,﻿Green Creek,﻿Green Creek,﻿IL,,,,﻿alt.il.0127,"﻿Attended by Rev. Damianus Hennewig, O.S.F., from Teutopolis",,,,,,,,,,,,1864,Alton
+﻿alt.il.0052,﻿church,not recorded,English,,,,﻿Pike County,﻿Pike County,﻿Griggsville,﻿Griggsville,﻿IL,,,,﻿alt.il.0089,﻿Attended from Pittsfield,,,,,,,,,,,,1864,Alton
+﻿alt.il.0049,﻿church,﻿St. Henry's,English,,,,﻿Clinton County,﻿Clinton County,﻿Germantown,﻿Germantown,﻿IL,,,,,,,,﻿h_frohboese_001,﻿Rev.,﻿H. Frohboese,,,,,,,1864,Alton
+﻿alt.il.0110,﻿church,﻿St. Michael's,English,,,,﻿Calhoun County,﻿Calhoun County,﻿Hardin,﻿Hardin,﻿IL,,,,﻿alt.il.0018,﻿Attended from Bruxelles,,,,,,,,,,,,1864,Alton
+﻿alt.il.0054,﻿church,﻿St. Paul's,English,,,,﻿Madison County,﻿Madison County,﻿Highland,﻿Highland,﻿IL,,,,,,,,﻿p_peters_001,﻿Rev.,﻿P. Peters,,,,,,,1864,Alton
+﻿alt.il.0037,﻿church,﻿St. Patrick's,English,,,,﻿St. Clair County,﻿St. Clair County,﻿Illinoistown,﻿East St. Louis,﻿IL,,,,,,,,﻿j_brennan_001,﻿Rev.,﻿J. Brennan,,,,,,,1864,Alton
+﻿alt.il.0057,﻿church,not recorded,English,,,,﻿Morgan County,﻿Morgan County,﻿Jacksonville,﻿Jacksonville,﻿IL,,,,,,,,﻿p_j_ohalloran_001,﻿Rev.,﻿P. J. O'Halloran,,,,,,,1864,Alton
+﻿alt.il.0058,﻿church,﻿St. Francis,English,,,,﻿Jersey County,﻿Jersey County,﻿Jerseyville,﻿Jerseyville,﻿IL,,,,,,,,﻿ad_j_laurent_001,﻿Rev.,﻿A. Laurent,,,,,,,1864,Alton
+﻿alt.il.0004,﻿church,not recorded,English,﻿vacant,﻿Anna P.O.,,﻿Union County,﻿Union County,﻿Jonesboro,﻿Anna,﻿IL,,,,﻿alt.il.0021,﻿Attended from Cairo,,,,,,,,,,,,1864,Alton
+﻿alt.il.0059,﻿church,﻿Immaculate Conception,English,,,,﻿Randolph County,﻿Randolph County,﻿Kaskaskia,﻿Kaskaskia,﻿IL,,,,,,,,﻿j_a_jacque_001,﻿Rev.,﻿J. A. Jacque,,,,,,,1864,Alton
+﻿alt.il.0060,﻿church,not recorded,English,﻿church building,,,﻿St. Clair County,﻿St. Clair County,﻿Lebanon,﻿Lebanon,﻿IL,,,,﻿alt.il.0025,﻿Attended from Carlyle,,,,,,,,,,,,1864,Alton
+﻿alt.il.0061,﻿church,not recorded,English,,,,﻿Montgomery County,﻿Montgomery County,﻿Litchfield,﻿Litchfield,﻿IL,,,,,,,,﻿ch_gonant_001,﻿Rev.,﻿Charles Gonant,,,,,,,1864,Alton
+﻿alt.il.0063,﻿church,not recorded,English,,,,﻿Fayette County,﻿Fayette County,﻿London or Howard's Point,﻿Wrights Corner,﻿IL,,,,﻿alt.il.0127,﻿Attended from Teutopolis,,,,,,,,,,,,1864,Alton
+﻿alt.il.0065,﻿church,﻿St. Mary's,English,,﻿Monroe City P.O.,,﻿Madison County,﻿Monroe County,﻿Madonnaville,﻿Madonaville,﻿IL,,,,,,,,﻿l_hinssen_001,﻿Rev.,﻿L. Hinssen,,,,,,,1864,Alton
+﻿alt.il.0065,﻿church,﻿St. Mary's,English,,﻿Monroe City P.O.,,﻿Madison County,﻿Monroe County,﻿Marine,﻿Marinetown,﻿IL,,,,﻿alt.il.0054,﻿Attended from Edwardsville,,,,,,,,,,,,1864,Alton
+﻿alt.il.0067,﻿church,﻿St. Patrick's,English,,,,﻿Clark County,﻿Clark County,﻿Marshall,﻿Marshall,﻿IL,,,,,,,,﻿h_hoven_001,﻿Rev.,﻿H. Hoven,,,,,,,1864,Alton
+﻿alt.il.0068,﻿church,﻿Childhood of Jesus,English,,,,﻿St. Clair County,﻿St. Clair County,﻿Maskoutah,﻿Mascoutah,﻿IL,,,,,,,,﻿p_rosendahl_001,﻿Rev.,﻿P. Rosendahl,,,,,,,1864,Alton
+﻿alt.il.0069,﻿church,﻿Imm. Conception,English,,,,﻿Coles County,﻿Coles County,﻿Mattoon,﻿Mattoon,﻿IL,,,,,,,,﻿th_f_mangan_001,﻿Rev.,﻿Th. Fr. Mangan,,,,,,,1864,Alton
+﻿alt.il.0070,﻿church,﻿St. James',English,,,,﻿St. Clair County,﻿St. Clair County,﻿Millstadt,﻿Millstadt,﻿IL,,,,,,,,﻿b_bartels_001,﻿Rev.,﻿Barth. Bartels,,,,,,,1864,Alton
+﻿alt.il.0071,﻿church,not recorded,English,﻿vacant,,,﻿Pulaski County,﻿Pulaski County,﻿Mound City,﻿Mound City,﻿IL,,,,﻿alt.il.0021,﻿Attended from Cairo,,,,,,,,,,,,1864,Alton
+﻿alt.il.0072,﻿church,﻿Our Lady of Mount Carmel,English,,,,﻿Wabash County,﻿Wabash County,﻿Mount Carmel,﻿Mount Carmel,﻿IL,,,,,,,,﻿j_kraemer_001,﻿Rev.,﻿J. Kraemer,,,,,,,1864,Alton
+﻿alt.il.0073,﻿church,﻿St. Patrick's,English,,,,﻿Brown County,﻿Brown County,﻿Mount Sterling,﻿Mount Sterling,﻿IL,,,,,,,,﻿ab_rinckes_001,﻿Rev.,﻿B. Rinckes,,,,,,,1864,Alton
+﻿alt.il.0105,﻿church,﻿Mt. St. John's,English,,,,﻿Hamilton County,﻿Hamilton County,,﻿McLeansboro,﻿IL,,,,,,,,,﻿Rev.,﻿B. Hermann,,,,,,,1864,Alton
+﻿alt.il.0076,﻿church,not recorded,English,,,,﻿Cumberland County,﻿Cumberland County,﻿Neoga,﻿Neoga,﻿IL,,,,﻿alt.il.0127,﻿Attended from Teutopolis,,,,,,,,,,,,1864,Alton
+﻿alt.il.0077,﻿church,not recorded,English,,﻿Carter P.O.,,﻿Sangamon County,﻿Sangamon County,﻿New Berlin,﻿New Berlin,﻿IL,,,,﻿alt.il.0120,﻿Attended from Springfield,,,,,,,,,,,,1864,Alton
+﻿alt.il.0078,﻿church,not recorded,English,,,,﻿Jasper County,﻿Jasper County,﻿Newton,﻿Newton,﻿IL,,,,﻿alt.il.0109,﻿Attended from St. Marie,,,,,,,,,,,,1864,Alton
+﻿alt.il.0083,﻿church,﻿St. Patrick's,English,,﻿Ruma P.O.,,﻿Randolph County,,﻿O'Hara's Settlement,,﻿IL,,,,,,,,﻿f_recouvreur_001,﻿Rev.,﻿Fr. Recouvreur,,,,,,,1864,Alton
+﻿alt.il.0081,﻿church,not recorded,English,,,,﻿Lawrence County,,﻿Olive,,﻿IL,,,,,,,,,,,,,,,,,1864,Alton
+﻿alt.il.0084,﻿church,not recorded,English,,,,﻿Richland County,﻿Richland County,﻿Olney,﻿Olney,﻿IL,,,,,,,,,﻿Rev.,﻿Thom. Walsh,,,,,,,1864,Alton
+﻿alt.il.0085,﻿church,﻿St. Michael's,English,,﻿Floraville P.O.,,﻿St. Clair County,﻿St. Clair County,﻿Paderborn,﻿Paderborn,﻿IL,,,,,,,,,﻿Rev.,﻿P. Rustemeier,,,,,,,1864,Alton
+﻿alt.il.0086,﻿church,not recorded,English,,,,﻿Christian County,﻿Christian County,﻿Pana,﻿Pana,﻿IL,,,,﻿alt.il.0116,﻿Attended from Shelbyville,,,,,,,,,,,,1864,Alton
+﻿alt.il.0087,﻿church,not recorded,English,﻿vacant,,,﻿Edgar County,﻿Edgar County,﻿Paris,﻿Paris,﻿IL,,,,,,,,,,,,,,,,,1864,Alton
+﻿alt.il.0089,﻿church,﻿St. Mary's,English,,,,﻿Pittsfield County,﻿Pike County,﻿Pike,﻿Pittsfield,﻿IL,,,,,,,,﻿cla_carel_001,﻿Rev.,﻿Claud. Carel,,,,,,,1864,Alton
+﻿alt.il.0090,﻿church,not recorded,English,,,,﻿Gallatin County,,﻿Pond Settlement,,﻿IL,,,,﻿alt.il.0115,﻿Attended from Shawneetown,,,,,,,,,,,,1864,Alton
+﻿alt.il.0091,﻿church,﻿St. Augustin's,English,,﻿Heckler P.O.,,﻿Monroe County,﻿St. Clair County,﻿Prarie du Long,﻿Prairie Du Long Township,﻿IL,,,,,,,,﻿jul_turmel_001,﻿Rev.,﻿Jul. Turmel,,,,,,,1864,Alton
+﻿alt.il.0092,﻿church,﻿St. Philip's,English,﻿vacant,,,﻿Randolph County,﻿Randolph County,﻿Prarie du Rocher,﻿Prairie Du Rocher,﻿IL,,,,,,,,,,,,,,,,,1864,Alton
+﻿alt.il.0093,﻿church,﻿St. Boniface's,English,,,,﻿Adams County,﻿Adams County,﻿Quincy,﻿Quincy,﻿IL,,,,,,,,﻿h_schäfermeyer_001,﻿Rev.,﻿H. Schaefermeyer,,,,,,,1864,Alton
+﻿alt.il.0094,﻿church,﻿St. Lawrence's,English,,,,﻿Adams County,﻿Adams County,﻿Quincy,﻿Quincy,﻿IL,,,,,,,,﻿pet_mcgirr_001,﻿Rev.,﻿P. McGirr,,,,,,,1864,Alton
+﻿alt.il.0095,﻿church,﻿St. Francis Solanus',English,,,,﻿Adams County,﻿Adams County,﻿Quincy,﻿Quincy,﻿IL,,,,,,,,﻿fer_bergmeyer_001,﻿Very Rev.,﻿Ferd. Bergmeyer,﻿O.S.F.,﻿Praeses,,,,,1864,Alton
+﻿alt.il.0095,﻿church,﻿St. Francis Solanus',English,,,,﻿Adams County,﻿Adams County,﻿Quincy,﻿Quincy,﻿IL,,,,,,,,﻿cap_zwinge_002,﻿Rev.,﻿Capistranus Zwinge,﻿O.S.F.,,,,,,1864,Alton
+﻿alt.il.0095,﻿church,﻿St. Francis Solanus',English,,,,﻿Adams County,﻿Adams County,﻿Quincy,﻿Quincy,﻿IL,,,,,,,,﻿ans_mueller_001,﻿Rev.,﻿Anselmus Mueller,﻿O.S.F.,,,,,,1864,Alton
+﻿alt.il.0095,﻿church,﻿St. Francis Solanus',English,,,,﻿Adams County,﻿Adams County,﻿Quincy,﻿Quincy,﻿IL,,,,,,,,﻿mau_klostermann_001,﻿Rev.,﻿Mauritius Klostermann,﻿O.S.F.,,,,,,1864,Alton
+﻿alt.il.0100,﻿church,﻿St. John Baptist's,English,,,,﻿Randolph County,﻿Randolph County,﻿Red Bud,﻿Red Bud,﻿IL,,,,,,,,﻿joh_f_mohr_001,﻿Rev.,﻿John F. Mohr,,,,,,,1864,Alton
+﻿alt.il.0100,﻿church,﻿St. John Baptist's,English,,,,﻿Madison County,﻿Madison County,﻿Ridgely,﻿Ridgely,﻿IL,,,,﻿alt.il.0222,﻿Attended from Alton,,,,,,,,,,,,1864,Alton
+﻿alt.il.0115,﻿church,not recorded,English,,,,﻿Gallatin County,﻿Gallatin County,﻿Shawneetown,﻿Shawneetown,﻿IL,,,,,,,,﻿j_larmer_001,﻿Rev.,﻿J. Larmer,,,,,,,1864,Alton
+﻿alt.il.0116,﻿church,not recorded,English,,,,﻿Shelby County,﻿Shelby County,﻿Shelbyville,﻿Shelbyville,﻿IL,,,,,,,,﻿t_cusack_001,﻿Rev.,﻿Th. Cussack,,,,,,,1864,Alton
+﻿alt.il.0120,﻿church,﻿Immaculate Conception,English,,,,﻿Sangamon County,﻿Sangamon County,﻿Springfield,﻿Springfield,﻿IL,,,,,,,,﻿j_fitzgibbon_002,﻿Rev.,﻿J. Fitzgibbon,,,,,,,1864,Alton
+﻿alt.il.0120,﻿church,﻿Immaculate Conception,English,,,,﻿Sangamon County,﻿Sangamon County,﻿Springfield,﻿Springfield,﻿IL,,,,,,,,﻿f_h_zabel_001,﻿Rev.,﻿J. W. Zabel,﻿D.D.,,,,,,1864,Alton
+﻿alt.il.0121,﻿church,﻿St. John the Baptist,English,,,,﻿Sangamon County,﻿Sangamon County,﻿Springfield,﻿Springfield,﻿IL,,,,,,,,﻿wil_busch_001,﻿Rev.,﻿W. Busch,,,,,,,1864,Alton
+﻿alt.il.0103,﻿church,not recorded,English,,,,﻿Adams County,﻿Adams County,﻿St. Anthony's,﻿Quincy,﻿IL,,,,﻿alt.il.0292,﻿Attended by Franciscan Fathers from Quincy,,,,,,,,,,,,1864,Alton
+﻿alt.il.0104,﻿church,﻿St. Francis Xavier's,English,,,,﻿Lawrence County,﻿Lawrence County,﻿St. Francisville,﻿St. Francisville,﻿IL,,,,﻿alt.il.0072,﻿Attended from Mt. Carmel,,,,,,,,,,,,1864,Alton
+﻿alt.il.0107,﻿church,﻿St. Joseph's,English,﻿church building,,,﻿Calhoun County,﻿Calhoun County,,﻿Meppen,﻿IL,,,,﻿alt.il.0018,﻿Attended from Bruxelles,,,,,,,,,,,,1864,Alton
+﻿alt.il.0108,﻿church,﻿St. Liborius,English,,﻿Mud Creek P.O.,,﻿St. Clair County,﻿St. Clair County,,﻿St. Libory,﻿IL,,,,,,,,﻿aug_brickwedde_001,﻿Rev.,﻿Aug. Brickwedde,,,,,,,1864,Alton
+﻿alt.il.0109,﻿church,﻿St. Mary's,English,,,,﻿Jasper County,﻿Jasper County,,﻿Sainte Marie,﻿IL,,,,,,,,﻿j_sandrock_001,﻿Rev.,﻿I. Sandrock,,,,,,,1864,Alton
+﻿alt.il.0111,﻿church,﻿St. Peter's,English,,,,﻿Jasper County,﻿Jasper County,,﻿Newton,﻿IL,,,,﻿alt.il.0283,﻿Attended from St. Marie,,,,,,,,,,,,1864,Alton
+﻿alt.il.0124,﻿church,﻿St. Joseph's,English,,﻿Stringtown,,﻿Richland County,﻿Richland County,﻿Stringtown,﻿German Township,﻿IL,,,,﻿alt.il.0283,﻿Attended from St. Marie,,,,,,,,,,,,1864,Alton
+﻿alt.il.0125,﻿church,﻿St. William's,English,,,,﻿Sangamon County,﻿Sangamon County,﻿Sugar Creek,﻿Chatham,﻿IL,,,,﻿alt.il.0120,﻿Attended from Springfield,,,,,,,,,,,,1864,Alton
+﻿alt.il.0127,﻿church,﻿SS. Peter and Francis Seraph,English,,,,﻿Effingham County,﻿Effingham County,﻿Teutopolis,﻿Teutopolis,﻿IL,,,,,,,,﻿mat_hiltermann_001,﻿Very Rev.,﻿Mathias Hiltermann,﻿O.S.F.,﻿Commissarius,,,,,1864,Alton
+﻿alt.il.0127,﻿church,﻿SS. Peter and Francis Seraph,English,,,,﻿Effingham County,﻿Effingham County,﻿Teutopolis,﻿Teutopolis,﻿IL,,,,,,,,﻿kil_schlosser_001,﻿Very. Rev.,﻿Killian Schlosser,﻿O.S.F.,﻿Guardian,,,,,1864,Alton
+﻿alt.il.0127,﻿church,﻿SS. Peter and Francis Seraph,English,,,,﻿Effingham County,﻿Effingham County,﻿Teutopolis,﻿Teutopolis,﻿IL,,,,,,,,﻿dam_hennewig_001,﻿Rev.,﻿Damian Hennewig,﻿O.S.F.,,,,,,1864,Alton
+﻿alt.il.0127,﻿church,﻿SS. Peter and Francis Seraph,English,,,,﻿Effingham County,﻿Effingham County,﻿Teutopolis,﻿Teutopolis,﻿IL,,,,,,,,﻿her_hoffman_001,﻿Rev.,﻿Heribert Hoffman,﻿O.S.F.,,,,,,1864,Alton
+﻿alt.il.0127,﻿church,﻿SS. Peter and Francis Seraph,English,,,,﻿Effingham County,﻿Effingham County,﻿Teutopolis,﻿Teutopolis,﻿IL,,,,,,,,﻿her_hoffmans_001,﻿Rev.,﻿Raynerius Dickneite,﻿O.S.F.,,,,,,1864,Alton
+﻿alt.il.0127,﻿church,﻿SS. Peter and Francis Seraph,English,,,,﻿Effingham County,﻿Effingham County,﻿Teutopolis,﻿Teutopolis,﻿IL,,,,,,,,﻿eug_puers_001,﻿Rev.,﻿Eugenius Puers,﻿O.S.F.,,,,,,1864,Alton
+﻿alt.il.0127,﻿church,﻿SS. Peter and Francis Seraph,English,,,,﻿Effingham County,﻿Effingham County,﻿Teutopolis,﻿Teutopolis,﻿IL,,,,,,,,﻿alo_wiewer_001,﻿Rev.,﻿Aloysius Wiewer,﻿O.S.F.,,,,,,1864,Alton
+﻿alt.il.0126,﻿church,﻿St. Mary's,English,,,,﻿Christian County,﻿Christian County,﻿Taylorsville,﻿Taylorville,﻿IL,,,,﻿alt.il.0007,﻿Attended from Assumption,,,,,,,,,,,,1864,Alton
+﻿alt.il.0128,﻿church,﻿St. Patrick's,English,,,,﻿Monroe County,﻿Monroe County,﻿Tiptown,﻿Tiptown,﻿IL,,,,﻿alt.il.0100,﻿Attended from Red Bud,,,,,,,,,,,,1864,Alton
+﻿alt.il.0131,﻿church,not recorded,English,,,,﻿Fayette County,﻿Fayette County,﻿Vandalia,﻿Vandalia,﻿IL,,,,﻿alt.il.0028,﻿Attended from Centralia,,,,,,,,,,,,1864,Alton
+﻿alt.il.0134,﻿church,﻿SS. Peter and Francis Seraph,English,,,,﻿Monroe County,﻿Monroe County,﻿Waterloo,﻿Waterloo,﻿IL,,,,,,,,﻿p_limacher_001,﻿Rev.,﻿P. Limacher,,,,,,,1864,Alton
+﻿alt.il.0136,﻿church,not recorded,English,,﻿Fieldon P.O.,,﻿Jersey County,﻿Jersey County,﻿Westwoods,﻿Jerseyville,﻿IL,,,,﻿alt.il.0058,﻿Attended from Jerseyville,,,,,,,,,,,,1864,Alton
+﻿alt.il.0137,﻿church,not recorded,English,,,,﻿Scott County,﻿Scott County,﻿Winchester,﻿Winchester,﻿IL,,,,,,,,﻿mic_clifford_001,﻿Rev.,﻿M. Clifford,,,,,,,1864,Alton
+﻿alt.il.0139,﻿station,not recorded,English,,,,﻿Adams County,﻿Adams County,﻿Liberty,﻿Liberty,﻿IL,,,,,,,,,,,,,,,,,1864,Alton
+﻿alt.il.0193,﻿station,not recorded,English,,,,﻿Alexander County,,﻿Caledonia,,﻿IL,,,,,,,,﻿mic_clifford_001,,,,,,,,,1864,Alton
+﻿alt.il.0141,﻿station,not recorded,English,,,,﻿Alexander County,﻿Alexander County,﻿Unity,﻿Unity,﻿IL,,,,,,,,,,,,,,,,,1864,Alton
+﻿alt.il.0144,﻿station,not recorded,English,,,,﻿Brown County,﻿Brown County,﻿Versailles,﻿Versailles,﻿IL,,,,,,,,,,,,,,,,,1864,Alton
+﻿alt.il.0144,﻿station,not recorded,English,,,,﻿Cass County,﻿Cass County,﻿Chandlersville,﻿Chandlersville,﻿IL,,,,,,,,,,,,,,,,,1864,Alton
+﻿alt.il.0144,﻿station,not recorded,English,,,,﻿Cass County,﻿Cass County,﻿Virginia,﻿Virginia,﻿IL,,,,,,,,,,,,,,,,,1864,Alton
+﻿alt.il.0144,﻿station,not recorded,English,,,,﻿Clark County,﻿Clark County,﻿Castlefine,﻿Castlefine,﻿IL,,,,,,,,,,,,,,,,,1864,Alton
+﻿alt.il.0144,﻿station,not recorded,English,,,,﻿Clay County,﻿Clay County,﻿Xenia,﻿Xenia,﻿IL,,,,,,,,,,,,,,,,,1864,Alton
+﻿alt.il.0144,﻿station,not recorded,English,,,,﻿Clinton County,﻿Clinton County,﻿Trenton,﻿Trenton,﻿IL,,,,,,,,,,,,,,,,,1864,Alton
+﻿alt.il.0144,﻿station,not recorded,English,,,,﻿Coles County,﻿Coles County,﻿Okaw,﻿Okaw,﻿IL,,,,,,,,,,,,,,,,,1864,Alton
+﻿alt.il.0144,﻿station,not recorded,English,,,,﻿Edgar County,﻿Edgar County,﻿Grandview,﻿Grandview,﻿IL,,,,,,,,,,,,,,,,,1864,Alton
+﻿alt.il.0144,﻿station,not recorded,English,,,,﻿Effingham County,﻿Effingham County,﻿Watson,﻿Watson,﻿IL,,,,,,,,,,,,,,,,,1864,Alton
+﻿alt.il.0144,﻿station,not recorded,English,,,,﻿Fayette County,﻿Fayette County,﻿Windsor,﻿Windsor,﻿IL,,,,,,,,,,,,,,,,,1864,Alton
+﻿alt.il.0159,﻿station,not recorded,English,,,,﻿Gallatin County,﻿Gallatin County,﻿Equality,﻿Equality,﻿IL,,,,,,,,,,,,,,,,,1864,Alton
+﻿alt.il.0160,﻿station,not recorded,English,,,,﻿Greene County,﻿Greene County,﻿Greenfield,﻿Greenfield,﻿IL,,,,,,,,,,,,,,,,,1864,Alton
+﻿alt.il.0160,﻿station,not recorded,English,,,,﻿Greene County,﻿Greene County,﻿Rockbridge,﻿Rockbridge,﻿IL,,,,,,,,,,,,,,,,,1864,Alton
+﻿alt.il.0162,﻿station,not recorded,English,,,,﻿Greene County,﻿Greene County,﻿Whitehall,﻿White Hall,﻿IL,,,,,,,,,,,,,,,,,1864,Alton
+﻿alt.il.0162,﻿station,not recorded,English,,,,﻿Jersey County,﻿Jersey County,﻿Delhi,﻿Delhi,﻿IL,,,,,,,,,,,,,,,,,1864,Alton
+﻿alt.il.0162,﻿station,not recorded,English,,,,﻿Jersey County,﻿Jersey County,﻿Grafton,﻿Grafton,﻿IL,,,,,,,,,,,,,,,,,1864,Alton
+﻿alt.il.0168,﻿station,not recorded,English,,,,﻿Jersey County,﻿Madison County,﻿Jersey Landing,﻿Godfrey,﻿IL,,,,,,,,,,,,,,,,,1864,Alton
+﻿alt.il.0168,﻿station,not recorded,English,,,,﻿Macoupin County,﻿Macoupin County,﻿Brighton,﻿Brighton,﻿IL,,,,,,,,,,,,,,,,,1864,Alton
+﻿alt.il.0168,﻿station,not recorded,English,,,,﻿Macoupin County,﻿Macoupin County,﻿Bunkerhill,﻿Bunkerhill,﻿IL,,,,,,,,,,,,,,,,,1864,Alton
+﻿alt.il.0177,﻿station,not recorded,English,,,,﻿Macoupin County,﻿Macoupin County,﻿Nilwood,﻿Nilwood,﻿IL,,,,,,,,,,,,,,,,,1864,Alton
+﻿alt.il.0177,﻿station,not recorded,English,,,,﻿Macoupin County,﻿Macoupin County,﻿Shipman,﻿Shipman,﻿IL,,,,,,,,,,,,,,,,,1864,Alton
+﻿alt.il.0177,﻿station,not recorded,English,,,,﻿Macoipin County,﻿Macoupin County,﻿Virden,﻿Virden,﻿IL,,,,,,,,,,,,,,,,,1864,Alton
+﻿alt.il.0177,﻿station,not recorded,English,,,,﻿Marion County,﻿Marion County,﻿Odin,﻿Odin,﻿IL,,,,,,,,,,,,,,,,,1864,Alton
+﻿alt.il.0177,﻿station,not recorded,English,,,,﻿Marion County,﻿Marion County,﻿Salem,﻿Salem,﻿IL,,,,,,,,,,,,,,,,,1864,Alton
+﻿alt.il.0177,﻿station,not recorded,English,,,,﻿Marion County,﻿Marion County,﻿Sandoval,﻿Sandoval,﻿IL,,,,,,,,,,,,,,,,,1864,Alton
+﻿alt.il.0177,﻿station,not recorded,English,,,,﻿Menard County,﻿Menard County,﻿Petersburg,﻿Petersburg,﻿IL,,,,,,,,,,,,,,,,,1864,Alton
+﻿alt.il.0177,﻿station,not recorded,English,,,,﻿Menard County,﻿Menard County,﻿Robinson's Mills,﻿Robinson's Mills,﻿IL,,,,,,,,,,,,,,,,,1864,Alton
+﻿alt.il.0177,﻿station,not recorded,English,,,,﻿Montgomery County,﻿Montgomery County,﻿Butler,﻿Butler,﻿IL,,,,,,,,,,,,,,,,,1864,Alton
+﻿alt.il.0177,﻿station,not recorded,English,,,,﻿Montgomery County,﻿Montgomery County,﻿Gillespie,﻿Gillespie,﻿IL,,,,,,,,,,,,,,,,,1864,Alton
+﻿alt.il.0177,﻿station,not recorded,English,,,,﻿Montgomery County,﻿Montgomery County,﻿Hillsboro,﻿Hillsboro,﻿IL,,,,,,,,,,,,,,,,,1864,Alton
+﻿alt.il.0186,﻿station,not recorded,English,,,,﻿Morgan County,﻿Morgan County,﻿Meredosia,﻿Meredosia,﻿IL,,,,,,,,,,,,,,,,,1864,Alton
+﻿alt.il.0186,﻿station,not recorded,English,,,,﻿Morgan County,﻿Morgan County,﻿Waverly,﻿Waverly,﻿IL,,,,,,,,,,,,,,,,,1864,Alton
+﻿alt.il.0206,﻿station,not recorded,English,,,,﻿Scott County,﻿Scott County,﻿Naples,﻿Naples,﻿IL,,,,,,,,,,,,,,,,,1864,Alton
+﻿alt.il.0206,﻿station,not recorded,English,,,,﻿St. Clair County,﻿St. Clair County,﻿O'Fallon,﻿O'Fallon,﻿IL,,,,,,,,,,,,,,,,,1864,Alton
+﻿alt.il.0206,﻿station,not recorded,English,,,,﻿Wayne County,﻿Wayne County,﻿Fairfield,﻿O'Fallon,﻿IL,,,,,,,,,,,,,,,,,1864,Alton
+﻿alt.il.0213,﻿station,not recorded,English,,,,﻿White County,﻿White County,﻿Carmi,﻿Carmi,﻿IL,,,,,,,,,,,,,,,,,1864,Alton
+﻿alt.il.0216,﻿convent,﻿St. Teresa's Convent of the Franciscan Fathers,English,"﻿A community of reformed Franciscans of the stricter observance, have, since 1858, established a Convent at Teutopolois, Effingham co.,Iil. They form a branch of the Westphalian Province of this Order.",,,﻿Effingham County,﻿Effingham County,﻿Teutopolis,﻿Teutopolis,﻿IL,,,,,,,,﻿mat_hiltermann_001,﻿Very Rev.,﻿Mathias Hiltermann,﻿O.S.F.,﻿Superior,,,,,1864,Alton
+﻿alt.il.0216,﻿convent,﻿St. Teresa's Convent of the Franciscan Fathers,English,"﻿A community of reformed Franciscans of the stricter observance, have, since 1858, established a Convent at Teutopolois, Effingham co.,Iil. They form a branch of the Westphalian Province of this Order.",,,﻿Effingham County,﻿Effingham County,﻿Teutopolis,﻿Teutopolis,﻿IL,,,,,,,,,,,,,,,,﻿Father,﻿7 Fathers,Alton
+﻿alt.il.0292,﻿residence,"﻿St. Francis Solanos, Residence of the Franciscan Fathers",English,﻿Founded 1860,,,﻿Adams County,﻿Adams County,﻿Quincy,﻿Quincy,﻿IL,,,,,,,,﻿fer_bergmeyer_001,﻿Rev.,﻿Ferdinand Bergmeyer,﻿O.S.F.,﻿Praeses,,,,,﻿7 Fathers,Alton
+﻿alt.il.0292,﻿residence,"﻿St. Francis Solanos, Residence of the Franciscan Fathers",English,﻿Founded 1860,,,﻿Adams County,﻿Adams County,﻿Quincy,﻿Quincy,﻿IL,,,,,,,,,,,,,,,,﻿Father,﻿4 Fathers,Alton
+﻿alt.il.0217,﻿college,﻿St. Joseph's Ecclesianstical College,English,"﻿Boys will find all the opportunities to prepare themselves for the holy priesthood. Therewith is, at present, also connected, the Seminary of the Diocese. The Rev. Fathers will spare no pains to give to the pupils entrusted to them a good and solid education. The Poor Sisters of St. Francis have the care of the whole management of the house and of the infirmary",,,﻿Effingham County,﻿Effingham County,﻿Teutopolis,﻿Teutopolis,﻿IL,,,,,,,,﻿her_hoffman_001,﻿Rev. P.,﻿Herib. Hoffman,﻿O.S.F.,﻿Superior,,,,,﻿4 Fathers,Alton
+﻿alt.il.0217,﻿college,﻿St. Joseph's Ecclesianstical College,English,"﻿Boys will find all the opportunities to prepare themselves for the holy priesthood. Therewith is, at present, also connected, the Seminary of the Diocese. The Rev. Fathers will spare no pains to give to the pupils entrusted to them a good and solid education. The Poor Sisters of St. Francis have the care of the whole management of the house and of the infirmary",,,﻿Effingham County,﻿Effingham County,﻿Teutopolis,﻿Teutopolis,﻿IL,,,,,,,,,,,,,,,,﻿Under the direction of the Franciscan Fathers,﻿4 Fathers,Alton
+﻿alt.il.0221,"﻿convent, academy",﻿St. Joseph's Ursuline Convent and Young Ladies' Academy,English,"﻿This house was established 22d August, 1857. The course of instruction embraces all the branches usually taught in such institutes. Connected with the Academy is a Day and Parochial School",,,,﻿Sangamon County,﻿Springfield,﻿Springfield,﻿IL,,,,,,,,,﻿Mother,﻿Mary Joseph Woulfe,,﻿Superior,,,,,﻿4 Fathers,Alton
+﻿alt.il.0222,"﻿convent, school","﻿Ursuline Convent of the Holy Family, Female Academy, Boarding, and Day School",English,"﻿This institute was founded in the year 1860. Besides their Academy and Boaording School, in which the higher branches of a finished education are taught, the nuns conduct the Parish Schools of the congregations at Alton",,,,﻿Madison County,﻿Alton,﻿Alton,﻿IL,,,,,,,,,﻿Mother,﻿Josephine Bruiding,,﻿Superior,,,,,﻿4 Fathers,Alton
+﻿alt.il.0223,﻿academy,﻿Young Ladies' Academy of the Immaculate Conception,English,"﻿This institution was opened on the 5th of Ocotber, 1859. The course instruction embraces all the branches usually taught in such institutions. Connected with the academy is the Parish School of the congregation at Belleville",,,﻿St. Clair County,﻿St. Clair County,﻿Belleville,﻿Belleville,﻿IL,,,,,,,,,﻿Sister,﻿Jerome,,﻿Superior,,,,,﻿4 Fathers,Alton
+﻿alt.il.0223,﻿academy,﻿Young Ladies' Academy of the Immaculate Conception,English,"﻿This institution was opened on the 5th of Ocotber, 1859. The course instruction embraces all the branches usually taught in such institutions. Connected with the academy is the Parish School of the congregation at Belleville",,,﻿St. Clair County,﻿St. Clair County,﻿Belleville,﻿Belleville,﻿IL,,,,,,,,,,,,,,,,﻿Under the direction of the Poor School-Sisters of Notre Dame,﻿4 Fathers,Alton
+﻿alt.il.0223,﻿convent,﻿Convent of the Sisters of St. Joseph,English,﻿This institute was founded in the year 1861. Connected with this academy for young ladies is the Free School of the Township and the Parochial School,,,﻿Jasper County,﻿St. Clair County,﻿Ste. Marie,﻿Belleville,﻿IL,,,,,,,,,,,,,,,,﻿Under the direction of the Poor School-Sisters of Notre Dame,﻿4 Fathers,Alton
+﻿alt.il.0224,"﻿convent, academy",﻿The Sisters of Loretto,English,"﻿Commenced last September, a school in Cairo, Illinois, with the intention to erect, as soon as possible, a fine Institute, wherein all the families of Southern Illinoois will have an opportunity to give their daughters, near at home, a thorough education, as will be given in any such institute",,,,﻿Alexander County,﻿Cairo,﻿Cairo,﻿IL,,,,,,,,,,,,,,,,,﻿4 Fathers,Alton
+﻿alt.il.0232,﻿Parochial school,﻿The Parochial Schools,English,﻿for the boys,,,,﻿Madison County,﻿Alton,﻿Alton,﻿IL,,,,,,,,,,,,,,,,﻿Conducted by the brothers of the Holy Cross,﻿4 Fathers,Alton
+﻿alt.il.0287,﻿Parochial school,﻿The Parochial Schools,English,﻿for the boys,,,,﻿Sangamon County,﻿Springfield,﻿Springfield,﻿IL,,,,,,,,,,,,,,,,﻿Conducted by the brothers of the Holy Cross,﻿4 Fathers,Alton
+﻿alt.il.0274,﻿Parish school,not recorded,English,﻿for the girls,,,,﻿Adams County,﻿Quincy,﻿Quincy,﻿IL,,,,,,,,,,,,,,,,﻿Held by Sisters of Notre Dame,﻿4 Fathers,Alton
+﻿alt.il.0289,﻿Parish school,not recorded,English,﻿for the girls,,,,﻿Effingham County,﻿Teutopolis,﻿Teutopolis,﻿IL,,,,,,,,,,,,,,,,﻿Held by Sisters of Notre Dame,﻿4 Fathers,Alton
+﻿alt.il.0289,﻿Parish school,not recorded,English,﻿for the girls,,,,﻿Effingham County,﻿Teutopolis,﻿Teutopolis,﻿IL,,,,,,,,﻿Mount Sterling,,,,,,,,﻿Held by Sisters of Notre Dame,﻿4 Fathers,Alton
+﻿alt.il.0289,﻿Parish school,not recorded,English,﻿for the girls,,,,﻿Effingham County,﻿Teutopolis,﻿Teutopolis,﻿IL,,,,,,,,﻿Neoga,,,,,,,,﻿Held by Sisters of Notre Dame,﻿4 Fathers,Alton
+﻿alt.il.0289,﻿Parish school,not recorded,English,﻿for the girls,,,,﻿Effingham County,﻿Teutopolis,﻿Teutopolis,﻿IL,,,,,,,,﻿O'Fallon Station,,,,,,,,﻿Held by Sisters of Notre Dame,﻿4 Fathers,Alton
+﻿alt.il.0289,﻿Parish school,not recorded,English,﻿for the girls,,,,﻿Effingham County,﻿Teutopolis,﻿Teutopolis,﻿IL,,,,,,,,﻿Paderborn,,,,,,,,﻿Held by Sisters of Notre Dame,﻿4 Fathers,Alton
+﻿alt.il.0289,﻿Parish school,not recorded,English,﻿for the girls,,,,﻿Effingham County,﻿Teutopolis,﻿Teutopolis,﻿IL,,,,,,,,﻿Petersburg,,,,,,,,﻿Held by Sisters of Notre Dame,﻿4 Fathers,Alton
+﻿alt.il.0289,﻿Parish school,not recorded,English,﻿for the girls,,,,﻿Effingham County,﻿Teutopolis,﻿Teutopolis,﻿IL,,,,,,,,﻿Prairie du Long,,,,,,,,﻿Held by Sisters of Notre Dame,﻿4 Fathers,Alton
+﻿alt.il.0289,﻿Parish school,not recorded,English,﻿for the girls,,,,﻿Effingham County,﻿Teutopolis,﻿Teutopolis,﻿IL,,,,,,,,﻿Prairie du Rocher,,,,,,,,﻿Held by Sisters of Notre Dame,﻿4 Fathers,Alton
+﻿alt.il.0289,﻿Parish school,not recorded,English,﻿for the girls,,,,﻿Effingham County,﻿Teutopolis,﻿Teutopolis,﻿IL,,,,,,,,﻿Quincy,,,,,,,,﻿Held by Sisters of Notre Dame,﻿4 Fathers,Alton
+﻿alt.il.0289,﻿Parish school,not recorded,English,﻿for the girls,,,,﻿Effingham County,﻿Teutopolis,﻿Teutopolis,﻿IL,,,,,,,,﻿Quincy,,,,,,,,﻿Held by Sisters of Notre Dame,﻿4 Fathers,Alton
+﻿alt.il.0289,﻿Parish school,not recorded,English,﻿for the girls,,,,﻿Effingham County,﻿Teutopolis,﻿Teutopolis,﻿IL,,,,,,,,﻿Quincy,,,,,,,,﻿Held by Sisters of Notre Dame,﻿4 Fathers,Alton
+﻿alt.il.0289,﻿Parish school,not recorded,English,﻿for the girls,,,,﻿Effingham County,﻿Teutopolis,﻿Teutopolis,﻿IL,,,,,,,,﻿Quincy,,,,,,,,﻿Held by Sisters of Notre Dame,﻿4 Fathers,Alton
+﻿alt.il.0289,﻿Parish school,not recorded,English,﻿for the girls,,,,﻿Effingham County,﻿Teutopolis,﻿Teutopolis,﻿IL,,,,,,,,﻿Quincy,,,,,,,,﻿Held by Sisters of Notre Dame,﻿4 Fathers,Alton
+﻿alt.il.0289,﻿Parish school,not recorded,English,﻿for the girls,,,,﻿Effingham County,﻿Teutopolis,﻿Teutopolis,﻿IL,,,,,,,,﻿Red Bud,,,,,,,,﻿Held by Sisters of Notre Dame,﻿4 Fathers,Alton
+﻿alt.il.0289,﻿Parish school,not recorded,English,﻿for the girls,,,,﻿Effingham County,﻿Teutopolis,﻿Teutopolis,﻿IL,,,,,,,,﻿St. Anthony's,,,,,,,,﻿Held by Sisters of Notre Dame,﻿4 Fathers,Alton
+﻿alt.il.0289,﻿Parish school,not recorded,English,﻿for the girls,,,,﻿Effingham County,﻿Teutopolis,﻿Teutopolis,﻿IL,,,,,,,,﻿St. John's,,,,,,,,﻿Held by Sisters of Notre Dame,﻿4 Fathers,Alton
+﻿alt.il.0289,﻿Parish school,not recorded,English,﻿for the girls,,,,﻿Effingham County,﻿Teutopolis,﻿Teutopolis,﻿IL,,,,,,,,﻿Joseph's,,,,,,,,﻿Held by Sisters of Notre Dame,﻿4 Fathers,Alton
+﻿alt.il.0289,﻿Parish school,not recorded,English,﻿for the girls,,,,﻿Effingham County,﻿Teutopolis,﻿Teutopolis,﻿IL,,,,,,,,﻿St. Joseph's,,,,,,,,﻿Held by Sisters of Notre Dame,﻿4 Fathers,Alton
+﻿alt.il.0289,﻿Parish school,not recorded,English,﻿for the girls,,,,﻿Effingham County,﻿Teutopolis,﻿Teutopolis,﻿IL,,,,,,,,﻿St. Marie,,,,,,,,﻿Held by Sisters of Notre Dame,﻿4 Fathers,Alton
+﻿alt.il.0289,﻿Parish school,not recorded,English,﻿for the girls,,,,﻿Effingham County,﻿Teutopolis,﻿Teutopolis,﻿IL,,,,,,,,﻿St. Liborius,,,,,,,,﻿Held by Sisters of Notre Dame,﻿4 Fathers,Alton
+﻿alt.il.0289,﻿Parish school,not recorded,English,﻿for the girls,,,,﻿Effingham County,﻿Teutopolis,﻿Teutopolis,﻿IL,,,,,,,,﻿Shoal Creek Station,,,,,,,,﻿Held by Sisters of Notre Dame,﻿4 Fathers,Alton
+﻿alt.il.0289,﻿Parish school,not recorded,English,﻿for the girls,,,,﻿Effingham County,﻿Teutopolis,﻿Teutopolis,﻿IL,,,,,,,,﻿Sigel,,,,,,,,﻿Held by Sisters of Notre Dame,﻿4 Fathers,Alton
+﻿alt.il.0289,﻿Parish school,not recorded,English,﻿for the girls,,,,﻿Effingham County,﻿Teutopolis,﻿Teutopolis,﻿IL,,,,,,,,﻿Springfield,,,,,,,,﻿Held by Sisters of Notre Dame,﻿4 Fathers,Alton
+﻿alt.il.0289,﻿Parish school,not recorded,English,﻿for the girls,,,,﻿Effingham County,﻿Teutopolis,﻿Teutopolis,﻿IL,,,,,,,,﻿Springfield,,,,,,,,﻿Held by Sisters of Notre Dame,﻿4 Fathers,Alton
+﻿alt.il.0289,﻿Parish school,not recorded,English,﻿for the girls,,,,﻿Effingham County,﻿Teutopolis,﻿Teutopolis,﻿IL,,,,,,,,﻿Teutopolis,,,,,,,,﻿Held by Sisters of Notre Dame,﻿4 Fathers,Alton
+﻿alt.il.0289,﻿Parish school,not recorded,English,﻿for the girls,,,,﻿Effingham County,﻿Teutopolis,﻿Teutopolis,﻿IL,,,,,,,,﻿Tiptown,,,,,,,,﻿Held by Sisters of Notre Dame,﻿4 Fathers,Alton
+﻿alt.il.0289,﻿Parish school,not recorded,English,﻿for the girls,,,,﻿Effingham County,﻿Teutopolis,﻿Teutopolis,﻿IL,,,,,,,,﻿Vandalia,,,,,,,,﻿Held by Sisters of Notre Dame,﻿4 Fathers,Alton
+﻿alt.il.0289,﻿Parish school,not recorded,English,﻿for the girls,,,,﻿Effingham County,﻿Teutopolis,﻿Teutopolis,﻿IL,,,,,,,,﻿Waterloo,,,,,,,,﻿Held by Sisters of Notre Dame,﻿4 Fathers,Alton

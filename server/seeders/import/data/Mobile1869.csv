@@ -10,7 +10,7 @@
 ﻿mob.al.0005,﻿church,﻿St. Mary's,English,,,,,﻿Mobile County,﻿Mobile,﻿Mobile,﻿AL,,30.6942469,-88.0804887,,,,,﻿d_omeara_001,﻿Rev.,﻿D. O'Meara,,,,,,,1869.0,Mobile
 ﻿mob.al.0006,﻿church,not recorded,English,,﻿North Alabama,,,﻿Limestone County,﻿Athens,﻿Athens,﻿AL,,34.7991039,-86.9870663,﻿mob.al.0018,﻿Attended from Huntsville,,,,,,,,,,,,1869.0,Mobile
 ﻿mob.al.0007,﻿church,not recorded,English,,,,﻿Mobile County,﻿Mobile County,﻿Bayou le Batre and Belle Fontaine,﻿Bayou le Batre,﻿AL,,30.4069515,-88.26071879999999,,,,,﻿l_bissey_001,﻿Rev.,﻿L. Bissey,,,,,,,1869.0,Mobile
-﻿mob.al.0007,﻿church,not recorded,English,,,,﻿Mobile County,﻿Mobile County,﻿Bayou le Batre and Belle Fontaine,﻿Bellefontaine,﻿AL,,30.4069515,-88.26071879999999,,,,,﻿l_bissey_001,﻿Rev.,﻿L. Bissey,,,,,,,1869.0,Mobile
+﻿mob.al.0052,﻿church,not recorded,English,,,,﻿Mobile County,﻿Mobile County,﻿Bayou le Batre and Belle Fontaine,﻿Bellefontaine,﻿AL,,30.4069515,-88.26071879999999,,,,,﻿l_bissey_001,﻿Rev.,﻿L. Bissey,,,,,,,1869.0,Mobile
 ﻿mob.al.0008,﻿church,not recorded,English,,,,﻿Wilcox County,﻿Wilcox County,﻿Camden,﻿Camden,﻿AL,,31.9909813,-87.29054559999999,﻿mob.al.0024,﻿Attended from Selma,,,,,,,,,,,,1869.0,Mobile
 ﻿mob.al.0009,﻿church,not recorded,English,,﻿North Alabama,,,﻿Morgan County,﻿Decatur,﻿Decatur,﻿AL,,34.5876239,-86.9707805,﻿mob.al.0018,﻿Attended from Huntsville,,,,,,,,,,,,1869.0,Mobile
 ﻿mob.al.0010,﻿church,not recorded,English,,,,﻿Marengo County,﻿Marengo County,﻿Demopolis,﻿Demopolis,﻿AL,,32.517636100000004,-87.836402,﻿mob.al.0024,﻿Attended from Selma,,,,,,,,,,,,1869.0,Mobile
@@ -35,11 +35,11 @@
 ﻿mob.al.0029,﻿church,not recorded,English,,﻿North Alabama,,,﻿Colbert County,﻿Tuscumbia,﻿Tuscumbia,﻿AL,,34.7312005,-87.70253000000001,﻿mob.al.0018,﻿Attended from Huntsville,,,,,,,,,,,,1869.0,Mobile
 ﻿mob.al.0030,﻿church,not recorded,English,,,,,﻿Elmore County,﻿Wetumpka,﻿Wetumpka,﻿AL,,32.543744800000006,-86.2119127,﻿mob.al.0022,﻿Attended from Montgomery,,,,,,,,,,,,1869.0,Mobile
 ﻿mob.al.0031,﻿church,﻿St. Bridget's,English,,,,﻿Mobile County,﻿Mobile County,﻿Whistler,﻿Whistler,﻿AL,,30.757688199999997,-88.1133344,,,,,﻿edw_kirwan_001,﻿Rev.,﻿Edward Kirwan,,,,,,,1869.0,Mobile
-﻿mob.al.0032,﻿church,﻿St. Patrick's,English,,,,,﻿Franklin County,﻿Appalachicola,﻿Appalachicola,﻿FL,,29.7242572,-84.9841995,,,,,﻿mat_gardiner_001,﻿Rev.,﻿Matthew Gardiner,,,,,,,1869.0,Mobile
+﻿mob.al.0032,﻿church,﻿St. Patrick's,English,,,,,﻿Franklin County,﻿Appalachicola,﻿Apalachicola,﻿FL,,29.72434839,-84.98446785,,,,,﻿mat_gardiner_001,﻿Rev.,﻿Matthew Gardiner,,,,,,,1869.0,Mobile
 ﻿mob.al.0033,﻿church,﻿St. Michael's,English,,,,,﻿Escambia County,﻿Pensacola,﻿Pensacola,﻿FL,,30.414260700000003,-87.2094833,,,,,﻿ja_bergrath_001,﻿Rev.,﻿J.A. Bergrath,,,,,,,1869.0,Mobile
 ﻿mob.al.0034,﻿church,﻿St. John Evangelist's,English,,﻿Navy Yard,,,﻿Escambia County,﻿Warrington,﻿Warrington,﻿FL,,30.383772999999998,-87.278385,,,,,﻿d_gibbons_001,﻿Rev.,﻿D. Gibbons,,,,,,,1869.0,Mobile
 ﻿mob.al.0035,﻿college,﻿Spring Hill College,English,,﻿six miles from Mobile,,,﻿Mobile County,﻿Spring Hill,﻿Mobile,﻿AL,,33.279527,-85.8486236,,,,,﻿l_curioz_001,﻿Very Rev.,﻿L. Curioz,﻿S.J.,﻿President,,,,,1869.0,Mobile
-﻿mob.al.0035,﻿college,﻿Spring Hill College,English,,﻿six miles from Mobile,,,﻿Mobile County,﻿Spring Hill,﻿Mobile,﻿AL,,33.279527,-85.8486236,,,,,﻿r_ollivier_001,﻿Rev.,﻿R. Ollivier,﻿S.J.,,"﻿name is spelled here with two Ls, but was one L on 1870?",,,,1869.0,Mobile
+﻿mob.al.0035,﻿college,﻿Spring Hill College,English,,﻿six miles from Mobile,,,﻿Mobile County,﻿Spring Hill,﻿Mobile,﻿AL,,33.279527,-85.8486236,,,,,﻿r_olivier_001,﻿Rev.,﻿R. Ollivier,﻿S.J.,,"﻿name is spelled here with two Ls, but was one L on 1870?",,,,1869.0,Mobile
 ﻿mob.al.0035,﻿college,﻿Spring Hill College,English,,﻿six miles from Mobile,,,﻿Mobile County,﻿Spring Hill,﻿Mobile,﻿AL,,33.279527,-85.8486236,,,,,﻿a_cornette_001,﻿Rev.,﻿A. Cornette,﻿S.J.,,,,,,1869.0,Mobile
 ﻿mob.al.0035,﻿college,﻿Spring Hill College,English,,﻿six miles from Mobile,,,﻿Mobile County,﻿Spring Hill,﻿Mobile,﻿AL,,33.279527,-85.8486236,,,,,﻿a_usannaz_001,﻿Rev.,﻿A. Usannaz,﻿S.J.,,,,,,1869.0,Mobile
 ﻿mob.al.0035,﻿college,﻿Spring Hill College,English,,﻿six miles from Mobile,,,﻿Mobile County,﻿Spring Hill,﻿Mobile,﻿AL,,33.279527,-85.8486236,,,,,﻿c_richard_001,﻿Rev.,﻿C. Richard,﻿S.J.,,,,,,1869.0,Mobile

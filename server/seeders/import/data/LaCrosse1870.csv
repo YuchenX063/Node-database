@@ -13,7 +13,7 @@
 ﻿lac.wi.0011,﻿church,﻿St. Patrick's,English,,,,﻿St. Croix County,﻿St. Croix County,﻿Erin,﻿Erin Prairie,﻿WI,,45.067181,-92.4485948,,,,,﻿h_quigly_001,﻿Rev.,﻿H. Quigly,,,,,,,1870.0,LaCrosse
 ﻿lac.wi.0012,﻿church,﻿Immaculate Conception,English,,,,﻿Buffalo County,﻿Buffalo County,﻿Fountain City,﻿Fountain City,﻿WI,,44.130112200000006,-91.7163595,,,,,﻿l_spitzelberger_001,﻿Rev.,﻿L. Spitzelberger,,,,,,,1870.0,LaCrosse
 ﻿lac.wi.0013,﻿church,﻿St. James',English,,,,﻿St. Croix County,﻿St. Croix County,﻿Hudson,﻿Hudson,﻿WI,,44.9746896,-92.7568703,,,,,﻿chr_verweyst_001,﻿Rev.,﻿Chr. Verweyst,,,,,,,1870.0,LaCrosse
-﻿lac.wi.0014,﻿church,﻿Nativity B.V.M.,English,,,,﻿Monroe County,﻿Monroe County,﻿Jefferson,﻿Jefferson,﻿WI,,42.628733600000004,-89.62516459999999,,,,,﻿m_heiss_001,﻿Rev.,﻿M. Heiss,,,,,,,1870.0,LaCrosse
+﻿lac.wi.0014,﻿church,﻿Nativity B.V.M.,English,,,,﻿Monroe County,﻿Monroe County,﻿Jefferson,﻿Jefferson,﻿WI,,43.7980958,-90.68686839,,,,,﻿m_heiss_001,﻿Rev.,﻿M. Heiss,,,,,,,1870.0,LaCrosse
 ﻿lac.wi.0015,﻿church,﻿Nativity B.V.M.,English,,,,﻿Richland County,﻿Richland County,﻿Ithaka,﻿Ithaca,﻿WI,,43.3408176,-90.2817921,,,,,﻿g_bean_001,﻿Rev.,﻿G. Bean,,,,,,,1870.0,LaCrosse
 ﻿lac.wi.0016,﻿church,﻿St. Mary's,English,,,,﻿Juneau County,﻿Juneau County,﻿Lyndon,﻿Lyndon,﻿WI,,43.6662501,-89.87857650000001,,,,,﻿t_conroy_001,﻿Rev.,﻿T. Conroy,,,,,,,1870.0,LaCrosse
 ﻿lac.wi.0017,﻿church,﻿Nativity B.V.M.,English,,,,﻿Marathon County,﻿Marathon County,﻿Marathon,﻿Marathon,﻿WI,,44.9304719,-89.8402105,,,﻿vacant,,,,,,,,,,,1870.0,LaCrosse
@@ -63,10 +63,10 @@
 ﻿lac.wi.0061,﻿station,not recorded,English,,,,﻿Chippewa County,,﻿Town Sigle,﻿Sigel,﻿WI,,44.94238818,-91.20214221,,﻿Attended by Rev. Goldsmith,,,,,,,,,,,,1870.0,LaCrosse
 ﻿lac.wi.0062,﻿station,not recorded,English,,,,﻿Chippewa County,,﻿Jim's Falls,﻿Jim Falls,﻿WI,,45.04711834,-91.27434677,,﻿Attended by Rev. Goldsmith,,,,,,,,,,,,1870.0,LaCrosse
 ﻿lac.wi.0063,﻿station,not recorded,English,,,,﻿Chippewa County,,﻿Flambeau,﻿Holocombe,﻿WI,,45.26204084,-91.16075002,,﻿Attended by Rev. Chebul,,,,,,,,,,,,1870.0,LaCrosse
-﻿lac.wi.0064,﻿station,not recorded,English,,,,﻿Chippewa County,,﻿Courterailles,﻿Courte Oreilles,﻿WI,,45.94327641,-91.36192774,,﻿Attended by Rev. Moder,,,,,,,,,,,,1870.0,LaCrosse
+﻿,﻿station,not recorded,English,,,,﻿Chippewa County,,﻿Courterailles,﻿Courte Oreilles,﻿WI,,45.94327641,-91.36192774,,﻿Attended by Rev. Moder,,,,,,,,,,,,1870.0,LaCrosse
 ﻿lac.wi.0065,﻿station,not recorded,English,,,,﻿Eau Claire County,,﻿Springfield,,﻿WI,,44.7874544,-91.4393397,,﻿Visited from La Crosse,,,,,,,,,,,,1870.0,LaCrosse
 ﻿lac.wi.0066,﻿station,not recorded,English,,,,﻿Jackson County,,﻿Black River Falls,﻿Black River Falls,﻿WI,,44.29479132,-90.85243008,,﻿Attended by Rev. Chebul,,,,,,,,,,,,1870.0,LaCrosse
-﻿lac.wi.0067,﻿station,not recorded,English,,,,﻿Douglas County,,﻿Superior City,﻿Superior,﻿WI,,46.72373129,-92.09963933,,﻿Attended by Rev. Chebul,,,,,,,,,,,,1870.0,LaCrosse
+﻿lac.wi.0067,﻿station,not recorded,English,,,,﻿Douglas County,,﻿Superior City,﻿Superior,﻿WI,,46.70320773,-92.04686186,,﻿Attended by Rev. Chebul,,,,,,,,,,,,1870.0,LaCrosse
 ﻿lac.wi.0068,﻿station,not recorded,English,,,,﻿La Pointe County,,﻿Bad River,﻿Foxboro,﻿WI,,46.4975769,-92.2861703,,﻿Visited from La Crosse,,,,,,,,,,,,1870.0,LaCrosse
 ﻿lac.wi.0069,﻿station,not recorded,English,,,,﻿La Crosse County,,﻿Broswick's Valley,﻿Stoddard,﻿WI,,43.72826278,-91.15108405,,﻿Attended by Rev. Lavin,,,,,,,,,,,,1870.0,LaCrosse
 ﻿lac.wi.0070,﻿station,not recorded,English,,,,﻿Monroe County,,﻿Tunnel City,﻿Tunnel City,﻿WI,,44.00656041,-90.56605055,,﻿Attended by Rev. Florent,,,,,,,,,,,,1870.0,LaCrosse
@@ -79,7 +79,7 @@
 ﻿lac.wi.0077,﻿station,not recorded,English,,,,﻿St. Croix County,,﻿Bauen Mills,,﻿WI,,45.0497844,-92.3875695,,﻿Attended by Rev. Heiss,,,,,,,,,,,,1870.0,LaCrosse
 ﻿lac.wi.0078,﻿station,not recorded,English,,,,﻿Vernon County,,﻿Woodland,﻿Forest,﻿WI,,43.67912018,-90.50947674,,﻿Attended by Rev. Bernard,,,,,,,,,,,,1870.0,LaCrosse
 ﻿lac.wi.0079,﻿station,not recorded,English,,,,﻿Richland County,,﻿Melancthon Creek,﻿Yuba,﻿WI,,43.51803626,-90.35899805,,﻿Attended by Rev. Bernard,,,,,,,,,,,,1870.0,LaCrosse
-﻿lac.wi.0080,﻿station,not recorded,English,,,,﻿Richland County,,﻿Mullandy Creek,,﻿WI,,45.59195523,-87.78881187,,﻿Attended by Rev. Bernard,,,,,,,,,,,,1870.0,LaCrosse
+﻿lac.wi.0080,﻿station,not recorded,English,,,,﻿Richland County,,﻿Mullandy Creek,,﻿WI,,43.33332748,-90.46645551,,﻿Attended by Rev. Bernard,,,,,,,,,,,,1870.0,LaCrosse
 ﻿lac.wi.0081,﻿station,not recorded,English,,,,﻿Richland County,,﻿Pine Creek,﻿Richland Center,﻿WI,,43.41008072,-90.57915495,,,,,,﻿Sister,﻿Bruno,,﻿Directress,,,﻿pupil,,1870.0,LaCrosse
 ﻿lac.wi.0082,﻿school,﻿St. Joseph's Parish School,English,,,,,,﻿La Crosse,﻿La Crosse,﻿WI,,43.80585313,-91.23661416,,,,,,,,,,,,,,1870.0,LaCrosse
 ﻿lac.wi.0083,﻿school,﻿St. Mary's Parish School,English,﻿Directed by a lay teacher.,,,,,﻿Chippewa Falls,﻿Chippewa Falls,﻿WI,,44.93579099,-91.38720784,,,,,,,,,,,,,,1870.0,LaCrosse

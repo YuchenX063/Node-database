@@ -1,9 +1,11 @@
+//churchChurch middle table
+
 'use strict';
 const {
   Model
 } = require('sequelize');
 module.exports = (sequelize, DataTypes) => {
-  class Church_Church extends Model {
+  class churchChurch extends Model {
     /**
      * Helper method for defining associations.
      * This method is not a part of Sequelize lifecycle.
@@ -11,16 +13,16 @@ module.exports = (sequelize, DataTypes) => {
      */
     static associate(models) {
       // define association here
-      Church_Church.belongsTo(models.Church, { foreignKey: 'attendingInstID', as: 'church'});
-      Church_Church.belongsTo(models.Church, { foreignKey: 'instID', as: 'small_church' });
+      churchChurch.belongsTo(models.churchInYear, { foreignKey: 'uniqueAttendingInstID', as: 'church'});
+      churchChurch.belongsTo(models.churchInYear, { foreignKey: 'uniqueInstID', as: 'small_church' });
     }
   }
-  Church_Church.init({
+  churchChurch.init({
     uniqueInstID: DataTypes.STRING,
     uniqueAttendingInstID: DataTypes.STRING,
   }, {
     sequelize,
-    modelName: 'Church_Church',
+    modelName: 'churchChurch',
     indexes: [
       {
         unique: true,
@@ -28,5 +30,5 @@ module.exports = (sequelize, DataTypes) => {
       }
     ]
   });
-  return Church_Church;
+  return churchChurch;
 };

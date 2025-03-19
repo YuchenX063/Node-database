@@ -1,7 +1,7 @@
 module.exports = app => {
     const controller = require('../controllers/church.controller');
     var router = require('express').Router();
-    router.post('/', controller.create);
+    //router.post('/', controller.create);
     router.get('/', controller.findAll);
     router.get('/:instID', controller.findByID);
     router.get('/:instID/:instYear', controller.findOne);

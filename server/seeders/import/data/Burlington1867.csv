@@ -1,0 +1,68 @@
+﻿instID,church_type,instName,language,instNote,placeName,region,county_orig,county_reg,city_orig,city_reg,state_orig,state_reg,latitude,longitude,attendingInstID,attendingChurch,attendingChurchFrequency,attendingChurchNote,persID,persTitle,persName,persSuffix,persRole,persNote,memberType,member,affiliated,year,diocese
+﻿bur.vt.0001,﻿cathedral,﻿St. Mary's Cathedral,English,,,,,,﻿Burlington,,﻿VT,,44.4758825,-73.212072,,,,,﻿jer_m_cloarec_001,﻿Rev.,﻿Jerome M. Cloarec,,﻿Pastor,,,,,1867,Burlington
+﻿bur.vt.0001,﻿cathedral,﻿St. Mary's Cathedral,English,,,,,,﻿Burlington,,﻿VT,,44.4758825,-73.212072,,,,,﻿mic_mcauley_001,﻿Rev.,﻿Mich. McAuley,,,,,,,1867,Burlington
+﻿bur.vt.0002,﻿church,﻿St. Joseph's,English,,,,,,﻿Burlington,,﻿VT,,44.4835164,-73.214615,,,,,﻿her_cardinal_001,﻿Rev.,﻿Hervé Cardinal,,,,,,,1867,Burlington
+﻿bur.vt.0004,﻿church,not recorded,English,,,,,,﻿Albany,,﻿VT,,44.7309405,-72.3798076,﻿bur.vt.0050,﻿Attended from St. Johnsbury,,,,,,,,,,,,1867,Burlington
+﻿bur.vt.0007,﻿church,﻿----,English,,,,﻿Franklin County,,﻿Berkshire (West),,﻿VT,,44.9717124,-72.7754147,﻿bur.vt.0021,﻿Attended from Fairfield,,,,,,,,,,,,1867,Burlington
+﻿bur.vt.0008,﻿church,﻿St. Charles,English,,,,﻿Windham County,,﻿Bellows Falls,,﻿VT,,43.136091,-72.449482,﻿bur.vt.0012,﻿Attended from Brattleboro,,,,,,,,,,,,1867,Burlington
+﻿bur.vt.0009,﻿church,not recorded,English,,,,﻿Lamoille County,,﻿Belvidere,,﻿VT,,44.7492093,-72.6986673,﻿bur.vt.0021,﻿Attended from Fairfield,,,,,,,,,,,,1867,Burlington
+﻿bur.vt.0010,﻿church,﻿St. Francis of Sales,English,,,,﻿Bennington County,,﻿Bennington (East),,﻿VT,,42.8781345,-73.1967741,,,,,﻿den_a_ryan_001,﻿Rev.,﻿Denis A. Ryan,,,,,,,1867,Burlington
+﻿bur.vt.0011,﻿church,﻿Our Lady of Good Help,English,,,,﻿Addison County,,﻿Brandon,,﻿VT,,43.794726,-73.082193,﻿bur.vt.0045,﻿Attended from East-Rutland,,,,,,,,,,,,1867,Burlington
+﻿bur.vt.0012,﻿church,﻿St. Michael's,English,,,,﻿Windham County,,﻿Brattleboro,,﻿VT,,42.8560077,-72.5580309,,,,,﻿cha_oreilly_001,﻿Rev.,﻿Charles O'Reilly,,,,,,,1867,Burlington
+﻿bur.vt.0013,﻿church,not recorded,English,,,,﻿Lamoille County,,﻿Cambridge,,﻿VT,,44.6433418,-72.6314026,﻿bur.vt.0021,﻿Attended from Fairfield,,,,,,,,,,,,1867,Burlington
+﻿bur.vt.0014,﻿church,not recorded,English,,,,﻿Rutland County,,﻿Castleton,,﻿VT,,43.6106223,-73.179832,﻿bur.vt.0047,﻿Attended from West-Rutland,,,,,,,,,,,,1867,Burlington
+﻿bur.vt.0015,﻿church,﻿Our Lady of Mount Carmel,English,,,,﻿Chittenden County,,﻿Charlotte,,﻿VT,,44.317348,-73.188774,﻿bur.vt.0063,﻿Attended from Burlington,,,,,,,,,,,,1867,Burlington
+﻿bur.vt.0070,﻿church,not recorded,English,,,,﻿Bennington County,,﻿Dorset,,﻿VT,,44.317348,-73.188774,﻿bur.vt.0010,﻿Attended from East-Bennington,,,,,,,,,,,,1867,Burlington
+﻿bur.vt.0018,﻿church,not recorded,English,,,,﻿Lamoille County,,﻿Eden,,﻿VT,,44.7072718,-72.5456691,﻿bur.vt.0021,﻿Attended from Fairfield,,,,,,,,,,,,1867,Burlington
+﻿bur.vt.0019,﻿church,﻿St. John the Baptist,English,,,,﻿Franklin County,,﻿Enosburg,,﻿VT,,44.9073882,-72.8006673,﻿bur.vt.0021,﻿Attended from Fairfield,,,,,,,,,,,,1867,Burlington
+﻿bur.vt.0020,﻿church,not recorded,English,,,,﻿Franklin County,,﻿Fairfax,,﻿VT,,44.6654963,-73.01032,﻿bur.vt.0021,﻿Attended from Fairfield,,,,,,,,,,,,1867,Burlington
+﻿bur.vt.0021,﻿church,﻿St. Patrick's,English,,,,﻿Franklin County,,﻿Fairfield,,﻿VT,,44.8036839,-72.946899,,,,,﻿geo_n_caissy_001,﻿Rev.,﻿George N. Caissy,,,,,,,1867,Burlington
+﻿bur.vt.0022,﻿church,﻿Our Lady of Seven Dolors,English,,,,﻿Rutland County,,﻿Fairhaven,,﻿VT,,43.5959866,-73.26904,,,,,﻿joh_odwyer_001,﻿Rev.,﻿John O'Dwyer,,,,,,,1867,Burlington
+﻿bur.vt.0024,﻿church,﻿St. Rose of Lima,English,,,,﻿Grand Isle County,,﻿Grand Isle,,﻿VT,,44.661732,-73.3225779,﻿bur.vt.0033,﻿Attended from Milton,,,,,,,,,,,,1867,Burlington
+﻿bur.vt.0025,﻿church,not recorded,English,,,,﻿Franklin County,,﻿Highgate,,﻿VT,,44.9565227,-73.0511203,﻿bur.vt.0053,﻿Attended from Swanton Falls,,,,,,,,,,,,1867,Burlington
+﻿bur.vt.0026,﻿church,﻿St. James the Greater,English,,,,﻿Essex County,,﻿Island Pond,,﻿VT,,44.8147712,-71.8803728,,"﻿Attended from Compton, C.E.",,,,,,,,,,,,1867,Burlington
+﻿bur.vt.0029,﻿church,not recorded,English,,,,﻿Lamoille County,﻿Lamoille County,﻿Johnson,﻿Johnson,﻿VT,,44.6356063,-72.6803979,﻿bur.vt.0021,﻿Attended from Fairfield,,,,,,,,,,,,1867,Burlington
+﻿bur.vt.0030,﻿church,not recorded,English,,,,﻿Orange County,,﻿Lowell,,﻿VT,,44.0014186,-72.4003713,﻿bur.vt.0021,﻿Attended from Fairfield,,,,,,,,,,,,1867,Burlington
+﻿bur.vt.0031,﻿church,not recorded,English,,,,﻿Windsor County,﻿Windsor County,﻿Ludlow,﻿Ludlow,﻿VT,,43.3959056,-72.7006518,﻿bur.vt.0012,﻿Attended from Brattleboro,,,,,,,,,,,,1867,Burlington
+﻿bur.vt.0032,﻿church,﻿Assumption of the B. V. M,English,,,,﻿Addison County,﻿Addison County,﻿Middlebury,﻿Middlebury,﻿VT,,44.010981,-73.1752,,,,,﻿pat_cunningham_001,﻿Rev.,﻿Patrick Cunningham,,,,,,,1867,Burlington
+﻿bur.vt.0033,﻿church,﻿St. Ann's,English,,,,﻿Chittenden County,﻿Chittenden County,﻿Milton,﻿Milton,﻿VT,,44.638945,-73.108256,,,,,﻿#REF!,﻿Rev.,﻿M. Pigeon,,,,,,,1867,Burlington
+﻿bur.vt.0034,﻿church,﻿St. Augustine's,English,,,,﻿Washington County,﻿Washington County,﻿Monteplier,﻿Montepelier,﻿VT,,44.2582988,-72.5754221,,,,,﻿j_m_dugluè_001,﻿Rev.,﻿J. M. P. Dugluè,,,,,,,1867,Burlington
+﻿bur.vt.0035,﻿church,﻿St. Patrick's,English,,,,﻿Washington County,﻿Washington County,﻿Moretown,﻿Moretown,﻿VT,,44.2508918,-72.7609496,﻿bur.vt.0034,﻿Attended from Monteplier,,,,,,,,,,,,1867,Burlington
+﻿bur.vt.0036,﻿church,not recorded,English,,,,﻿Franklin County,﻿Franklin County,﻿Montgomery,﻿Montgomery,﻿VT,,44.9025466,-72.63818,﻿bur.vt.0021,﻿Attended from Fairfield,,,,,,,,,,,,1867,Burlington
+﻿bur.vt.0037,﻿church,﻿St. John the Evangelist,English,,,,﻿Washington County,﻿Washington County,﻿Northfield,﻿Northfield,﻿VT,,44.1521394,-72.6594828,,,,,﻿frs_clavier_001,﻿Rev.,﻿Frs. Clavier,,,,,,,1867,Burlington
+﻿bur.vt.0038,﻿church,﻿St. Paul's,English,,,,﻿Addison County,﻿Addison County,﻿Orwell,﻿Orwell,﻿VT,,43.8013625,-73.2962989,﻿bur.vt.0045,﻿Attended from East-Rutland,,,,,,,,,,,,1867,Burlington
+﻿bur.vt.0039,﻿church,﻿St. Raphael,English,,,,﻿Rutland County,﻿Rutland County,﻿Poultney,﻿Poultney,﻿VT,,43.5171694,-73.2322662,﻿bur.vt.0047,﻿Attended from West-Rutland,,,,,,,,,,,,1867,Burlington
+﻿bur.vt.0040,﻿church,﻿Holy Name of Mary,English,,,,﻿Windsor County,﻿Windsor County,﻿Proctorsville,﻿Proctorsville,﻿VT,,43.3910072,-72.6358134,﻿bur.vt.0012,﻿Attended from Brattleboro,,,,,,,,,,,,1867,Burlington
+﻿bur.vt.0041,﻿church,﻿St. Alphonsus Liguori,English,,,,﻿Rutland County,﻿Rutland County,﻿Pittsford,﻿Pittsford,﻿VT,,43.7020659,-73.0121647,﻿bur.vt.0011,﻿Attended from Brandon,,,,,,,,,,,,1867,Burlington
+﻿bur.vt.0042,﻿church,﻿SS. Donatian and Rogatian,English,,,,﻿Orange County,﻿Orange County,﻿Randolph,﻿Randolph,﻿VT,,43.9247446,-72.6656948,﻿bur.vt.0045,﻿Attended from East-Rutland,,,,,,,,,,,,1867,Burlington
+﻿bur.vt.0043,﻿church,not recorded,English,,,,﻿Franklin County,﻿Franklin County,﻿Richford,﻿Richford,﻿VT,,44.9969955,-72.6713018,﻿bur.vt.0021,﻿Attended from Fairfield,﻿could not find,,,,,,,,,,,1867,Burlington
+﻿bur.vt.0044,﻿church,﻿Our Lady of the Rosary,English,,,,﻿Chittenden County,﻿Chittenden County,﻿Richmond,﻿Richmond,﻿VT,,44.4053135,-72.9924128,,,,,﻿pat_ocarroll_001,﻿Rev.,﻿Patrick O'Carroll,,,,,,,1867,Burlington
+﻿bur.vt.0045,﻿church,﻿St. Peter's,English,,,,﻿Rutland County,﻿Rutland County,﻿Rutland (East),﻿Rutland,﻿VT,,43.6017348,-72.9856621,,,,,﻿cha_boylan_001,﻿Rev.,﻿Chas. Boylan,,﻿Pastor,,,,,1867,Burlington
+﻿bur.vt.0045,﻿church,﻿St. Peter's,English,,,,﻿Rutland County,﻿Rutland County,﻿Rutland (East),﻿Rutland,﻿VT,,43.6017348,-72.9856621,,,,,﻿tho_gaffney_001,﻿Rev.,﻿Thomas Gaffney,,,,,,,1867,Burlington
+﻿bur.vt.0047,﻿church,﻿St. Bridget's,English,,,,﻿Rutland County,﻿Rutland County,﻿Rutland (West),﻿West Rutland,﻿VT,,43.5967472,-73.0527476,,,,,﻿tho_lynch_002,﻿Very Rev.,﻿Thos. Lynch,,﻿Pastor,,,,,1867,Burlington
+﻿bur.vt.0047,﻿church,﻿St. Bridget's,English,,,,﻿Rutland County,﻿Rutland County,﻿Rutland (West),﻿West Rutland,﻿VT,,43.5967472,-73.0527476,,,,,﻿tho_haplin_001,﻿Rev.,﻿Thomas Haplin,,,,,,,1867,Burlington
+﻿bur.vt.0049,﻿church,not recorded,English,,,,﻿Franklin County,﻿Franklin County,﻿Sheldon,﻿Sheldon,﻿VT,,44.8817124,-72.9429124,﻿bur.vt.0021,﻿Attended from Fairfield,,,,,,,,,,,,1867,Burlington
+﻿bur.vt.0050,﻿church,﻿Our Lady of Victories,English,,,,﻿Caledonia County,﻿Caledonia County,﻿St. Johnsbury,﻿St. Johnsbury,﻿VT,,44.4192627,-72.0151183,,,,,﻿sta_danielou_001,﻿Rev.,﻿Stanislaus Danielou,,,,,,,1867,Burlington
+﻿bur.vt.0051,﻿church,not recorded,English,,,,﻿Addison County,﻿Addison County,﻿Shoreham,﻿Shoreham,﻿VT,,43.8936708,-73.3159515,﻿bur.vt.0032,﻿Attended from Middlebury,,,,,,,,,,,,1867,Burlington
+﻿bur.vt.0052,﻿church,﻿Immaculate Conception,English,,,,﻿Franklin County,﻿Franklin County,﻿St. Albans,﻿St. Albans,﻿VT,,44.8100358,-73.0810021,,,,,﻿z_druon_001,﻿Very Rev.,﻿Z. Druon,,,,,,,1867,Burlington
+﻿bur.vt.0053,﻿church,﻿Nativity of the B. V. M,English,,,,﻿Franklin County,﻿Franklin County,﻿Swanton Falls,﻿Swanton,﻿VT,,44.9224679,-73.1175807,,,,,﻿j_l_cam_001,﻿Rev.,﻿J. L. Cam,,,,,,,1867,Burlington
+﻿bur.vt.0054,﻿church,﻿St. Thomas,English,,,,﻿Chittenden County,﻿Chittenden County,﻿Underhill Centre,﻿Underhill Center,﻿VT,,44.5070339,-72.9008515,﻿bur.vt.0044,﻿Attended from Richmond,,,,,,,,,,,,1867,Burlington
+﻿bur.vt.0056,﻿church,﻿St. Patrick's,English,,,,﻿Rutland County,﻿Rutland County,﻿Wallingford,﻿Wallingford,﻿VT,,43.4717467,-72.9773692,﻿bur.vt.0045,﻿Attended from East Rutland,,,,,,,,,,,,1867,Burlington
+﻿bur.vt.0055,﻿church,﻿St. Peter's,English,,,,﻿Addison County,﻿Addison County,﻿Vergennes,﻿Vergennes,﻿VT,,44.1645962,-73.2498725,﻿bur.vt.0032,﻿Attended from Middlebury,,,,,,,,,,,,1867,Burlington
+﻿bur.vt.0057,﻿church,﻿St. Vincent Ferrier,English,,,,﻿Washington County,﻿Washington County,﻿Waterbury,﻿Waterbury,﻿VT,,44.3378203,-72.7562636,﻿bur.vt.0034,﻿Attended from Montpelier,,,,,,,,,,,,1867,Burlington
+﻿bur.vt.0058,﻿church,not recorded,English,,,,﻿Windsor County,﻿Windsor County,﻿White River Junction,﻿White River Junction,﻿VT,,43.6489596,-72.3192579,﻿bur.vt.0012,﻿Attended from Brattleboro,,,,,,,,,,,,1867,Burlington
+﻿bur.vt.0059,﻿church,not recorded,English,,,,﻿Chittenden County,﻿Chittenden County,﻿Williston,﻿Williston,﻿VT,,44.4496023,-73.1109997,﻿bur.vt.0001,﻿Visited from Burlington,,,,,,,,,,,,1867,Burlington
+﻿bur.vt.0060,﻿church,not recorded,English,,,,﻿Windsor County,﻿Windsor County,﻿Windsor,﻿Windsor,﻿VT,,43.4799996,-72.3865679,﻿bur.vt.0012,﻿Attended from Brattleboro,,,,,,,,,,,,1867,Burlington
+﻿bur.vt.0062,﻿church,not recorded,English,,,,﻿Windsor County,﻿Windsor County,﻿Woodstock,﻿Woodstock,﻿VT,,43.6242442,-72.5185112,﻿bur.vt.0037,﻿Attended from Northfield,,,,,,,,,,,,1867,Burlington
+﻿bur.vt.0063,﻿asylum,﻿St. Joseph's Orphan Asylum,English,,,,,,,,﻿VT,,44.4878339,-73.2026855,,,,,,﻿Sister,﻿Ignatius,,﻿Sister-Servant,,﻿sister,﻿13 Sisters,﻿Sisters of Providence,1867,Burlington
+﻿bur.vt.0063,﻿asylum,﻿St. Joseph's Orphan Asylum,English,,,,,,,,﻿VT,,44.4878339,-73.2026855,,,,,,,,,,,﻿orphan,﻿115 orphans,﻿Sisters of Providence,1867,Burlington
+﻿bur.vt.0071,﻿school,﻿St. Mary's Boys' School,English,﻿kept by a lay teacher,,,,﻿Chittenden County,﻿Burlington,﻿Burlington,﻿VT,,44.4878339,-73.2026855,,,,,,,,,,,﻿anttendee,﻿100 attendance,,1867,Burlington
+﻿bur.vt.0072,﻿school,﻿St. Mary's Schools,English,,,,,,﻿Winooski Village,,﻿VT,,44.4878339,-73.2026855,,,,,,,,,,,﻿pupil,﻿130 pupils,﻿Kept by the Sisters of Providence,1867,Burlington
+﻿bur.vt.0073,﻿school,﻿St. Mary's Schools,English,,,,,,,,,,44.4878339,-73.2026855,,,,,,,,,,,,,,1867,Burlington
+﻿bur.vt.0075,﻿school,﻿Schools for Boys and Girls,English,﻿girls,,,,,﻿Winooski Village,,﻿VT,,44.4878339,-73.2026855,,,,,,,,,,,﻿pupil,﻿140 pupils,﻿taught by the Sisters of Providence,1867,Burlington
+﻿bur.vt.0076,﻿school,not recorded,English,﻿boys,,,,,,,,,44.4878339,-73.2026855,,,,,,,,,,,,,,1867,Burlington
+﻿bur.vt.0066,﻿school,﻿St. Joseph's French School for Girls,﻿French,,,,,,,,﻿VT,,44.4878339,-73.2026855,,,,,﻿lambert_001,﻿Miss,﻿Lambert,,,,﻿assistant,﻿2 assistants,,1867,Burlington
+﻿bur.vt.0066,﻿school,﻿St. Joseph's French School for Girls,﻿French,,,,,,,,﻿VT,,44.4878339,-73.2026855,,,,,,,,,,,﻿pupil,﻿100 pupils on average,,1867,Burlington
+﻿bur.vt.0067,﻿school,﻿St. Peter's Catholic School,English,,,,,﻿Rutland County,﻿East Rutland,﻿Rutland,﻿VT,,43.6030744,-72.9856559,,,,,,,,,,,﻿pupil,﻿150 pupils on average,,1867,Burlington
+﻿bur.vt.0068,﻿school,﻿St. Bridget's Schools,English,﻿For boys and girls,,,,﻿Rutland County,﻿West Rutland,﻿West Rutland,﻿VT,,43.5967472,-73.0527476,,,,,,,,,,,﻿pupil,﻿250 pupils on average,,1867,Burlington
+﻿bur.vt.0069,﻿school,﻿St. Francis of Sales,English,,,,,﻿Bennington County,﻿East Bennington,﻿Bennington,﻿VT,,42.8781345,-73.1967741,,,,,,,,,,,﻿pupil,﻿75 pupils on average,,1867,Burlington

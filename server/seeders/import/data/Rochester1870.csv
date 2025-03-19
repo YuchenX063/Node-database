@@ -3,7 +3,7 @@
 ﻿roc.ny.0001,﻿cathedral,﻿St. Patrick's,English,,,,﻿Monroe County,﻿Monroe County,﻿Rochester,﻿Rochester,﻿NY,,43.16128324,-77.62136044,,,,,﻿jam_m_early_001,﻿Very Rev.,﻿James M. Early,﻿V.G.,,,,,,1870.0,Rochester
 ﻿roc.ny.0001,﻿cathedral,﻿St. Patrick's,English,,,,﻿Monroe County,﻿Monroe County,﻿Rochester,﻿Rochester,﻿NY,,43.16128324,-77.62136044,,,,,﻿jam_f_ohare_001,﻿Rev.,﻿James F. O'Hare,,,,,,,1870.0,Rochester
 ﻿roc.ny.0001,﻿cathedral,﻿St. Patrick's,English,,,,﻿Monroe County,﻿Monroe County,﻿Rochester,﻿Rochester,﻿NY,,43.16128324,-77.62136044,,,,,﻿jos_mckenna_001,﻿Rev.,﻿Joseph McKenna,,,,,,,1870.0,Rochester
-﻿roc.ny.0001,﻿cathedral,﻿St. Patrick's,English,,,,﻿Monroe County,﻿Monroe County,﻿Rochester,﻿Rochester,﻿NY,,43.16128324,-77.62136044,,,,,﻿h_d_regge_001,﻿Rev.,﻿H. De Regge,,﻿Chancellor,,,,,1870.0,Rochester
+﻿roc.ny.0001,﻿cathedral,﻿St. Patrick's,English,,,,﻿Monroe County,﻿Monroe County,﻿Rochester,﻿Rochester,﻿NY,,43.16128324,-77.62136044,,,,,﻿h_de-regge_001,﻿Rev.,﻿H. De Regge,,﻿Chancellor,,,,,1870.0,Rochester
 ﻿roc.ny.0002,﻿church,﻿St. Joseph's,﻿German,,,,﻿Monroe County,﻿Monroe County,﻿Rochester,﻿Rochester,﻿NY,,43.1594407,-77.6064884,,,,,﻿geo_roland_001,﻿Rev.,﻿Geo Roland,﻿C.SS.R.,,,,,,1870.0,Rochester
 ﻿roc.ny.0003,﻿church,﻿St. Mary's,English,,,,﻿Monroe County,﻿Monroe County,﻿Rochester,﻿Rochester,﻿NY,,43.1484359,-77.637175,,,,,﻿pet_barker_001,﻿Rev.,﻿Peter Barker,﻿D.D.,,,,,,1870.0,Rochester
 ﻿roc.ny.0004,﻿church,﻿Immaculate Conception,English,,,,﻿Monroe County,﻿Monroe County,﻿Rochester,﻿Rochester,﻿NY,,43.1621325,-77.6230577,,,,,﻿pat_byrnes_002,﻿Rev.,﻿Patrick Byrnes,,,,,,,1870.0,Rochester
@@ -16,7 +16,7 @@
 ﻿roc.ny.0011,﻿church,﻿Nativity of the Blessed Virgin Mary,English,,,,﻿Monroe County,﻿Monroe County,﻿Brockport,﻿Brockport,﻿NY,,43.2136713,-77.9391797,,,,,﻿ric_j_storey_001,﻿Rev.,﻿Richard J. Storey,,,,,,,1870.0,Rochester
 ﻿roc.ny.0012,﻿church,﻿St. John Evangelist,English,,,,﻿Monroe County,﻿Monroe County,﻿Spencerport,﻿Spencerport,﻿NY,,43.1864501,-77.80389720000001,,,,,﻿ric_j_storey_001,﻿Rev.,﻿Richard J. Storey,,,,,,,1870.0,Rochester
 ﻿roc.ny.0013,﻿church,﻿Assumption of the Blessed Virgin Mary,English,,,,﻿Monroe County,﻿Monroe County,﻿Fairport,﻿Fairport,﻿NY,,43.098674200000005,-77.4419378,,,,,﻿l_j_miller_001,﻿Rev.,﻿L. J. Miller,,,,,,,1870.0,Rochester
-﻿roc.ny.0014,﻿church,﻿Mother of Sorrows,English,,,,﻿Monroe County,﻿Monroe County,﻿Greece,﻿Greece,﻿NY,,39.074208,21.824312,,,,,﻿joh_m_maurice_001,﻿Rev.,﻿John M. Maurice,,,,,,,1870.0,Rochester
+﻿roc.ny.0014,﻿church,﻿Mother of Sorrows,English,,,,﻿Monroe County,﻿Monroe County,﻿Greece,﻿Greece,﻿NY,,43.2526336,-77.65886931,,,,,﻿joh_m_maurice_001,﻿Rev.,﻿John M. Maurice,,,,,,,1870.0,Rochester
 ﻿roc.ny.0015,﻿church,﻿Holy Cross,English,,,,﻿Monroe County,﻿Monroe County,﻿Charlotte,﻿Rochester,﻿NY,,43.2349747,-77.62210909999999,,,,,﻿joh_m_maurice_001,﻿Rev.,﻿John M. Maurice,,,,,,,1870.0,Rochester
 ﻿roc.ny.0016,﻿church,﻿St. John Evangelist's,English,,,,﻿Monroe County,﻿Monroe County,﻿Ridge,﻿Riga,﻿NY,,43.2994285,-74.21793259999998,,,,,﻿joh_m_maurice_001,﻿Rev.,﻿John M. Maurice,,,,,,,1870.0,Rochester
 ﻿roc.ny.0017,﻿church,﻿Assumption,English,,,,﻿Monroe County,﻿Monroe County,﻿Scottsville,﻿Scottsville,﻿NY,,43.02589570000001,-77.74528259999998,,,,,﻿tho_a_maher_001,﻿Rev.,﻿Thomas A. Maher,,,,,,,1870.0,Rochester
@@ -27,7 +27,7 @@
 ﻿roc.ny.0022,﻿church,﻿St. Agnes',English,,,,﻿Livingston County,﻿Livingston County,﻿Avon,﻿Avon,﻿NY,,42.9135097,-77.745194,,,,,﻿joh_l_okeefe_001,﻿Rev.,﻿John L. O'Keefe,,,,,,,1870.0,Rochester
 ﻿roc.ny.0023,﻿church,﻿St. Joseph's,English,,,,﻿Livingston County,﻿Monroe County,﻿Rush,﻿Rush,﻿NY,,42.1424234,-73.7779162,,,,,﻿joh_l_okeefe_001,﻿Rev.,﻿John L. O'Keefe,,,,,,,1870.0,Rochester
 ﻿roc.ny.0024,﻿church,﻿St. Rose's,English,,,,﻿Livingston County,﻿Livingston County,﻿Lima,﻿Lima,﻿NY,,42.904785700000005,-77.6113869,,,,,﻿wil_a_gregg_001,﻿Rev.,﻿William A. Gregg,,,,,,,1870.0,Rochester
-﻿roc.ny.0025,﻿church,﻿St. Michael's,English,,,,﻿Livingston County,﻿Livingston County,﻿Livonia,﻿Livonia,﻿NY,,42.36837,-83.3527097,,,,,﻿wil_a_gregg_001,﻿Rev.,﻿William A. Gregg,,,,,,,1870.0,Rochester
+﻿roc.ny.0025,﻿church,﻿St. Michael's,English,,,,﻿Livingston County,﻿Livingston County,﻿Livonia,﻿Livonia,﻿NY,,42.82173387,-77.63892126,,,,,﻿wil_a_gregg_001,﻿Rev.,﻿William A. Gregg,,,,,,,1870.0,Rochester
 ﻿roc.ny.0026,﻿church,﻿St. Mary's,﻿German,,,,﻿Livingston County,﻿Livingston County,﻿Dansville,﻿Dansville,﻿NY,,42.5603213,-77.6929416,,,,,﻿jos_albinger_001,﻿Rev.,﻿Jos. Albinger,,,,,,,1870.0,Rochester
 ﻿roc.ny.0027,﻿church,﻿St. Patrick's,English,,,,﻿Livingston County,﻿Livingston County,﻿Dansville,﻿Dansville,﻿NY,,42.5608999,-77.696106,,,,,﻿jos_albinger_001,﻿Rev.,﻿Jos. Albinger,,,,,,,1870.0,Rochester
 ﻿roc.ny.0028,﻿church,﻿St. Patrick's,English,,,,﻿Livingston County,﻿Livingston County,﻿Mount Morris,﻿Mount Morris,﻿NY,,42.7256184,-77.8741694,,,,,﻿dav_obrien_001,﻿Rev.,﻿David O'Brien,,,,,,,1870.0,Rochester
@@ -57,7 +57,7 @@
 ﻿roc.ny.0052,﻿church,﻿St. Michael's,English,,,,﻿Cayuga County,﻿Cayuga County,﻿Union Springs,﻿Union Springs,﻿NY,,42.8420443,-76.6916689,,,,,﻿b_mccool_001,﻿Rev.,﻿B. McCool,,,,,,,1870.0,Rochester
 ﻿roc.ny.0053,﻿church,﻿St. Patrick's,English,,,,﻿Cayuga County,﻿Cayuga County,﻿Aurora,﻿Aurora,﻿NY,,42.9189555,-76.7263397,,,,,﻿b_mccool_001,﻿Rev.,﻿B. McCool,,,,,,,1870.0,Rochester
 ﻿roc.ny.0054,﻿church,﻿St. Bernard's,English,,,,﻿Cayuga County,﻿Cayuga County,﻿Scipio,﻿Scipio,﻿NY,,42.9189555,-76.7263397,,,,,﻿b_mccool_001,﻿Rev.,﻿B. McCool,,,,,,,1870.0,Rochester
-﻿roc.ny.0055,﻿church,﻿St. Mary's of the Lake,English,,,,﻿Cayuga County,﻿Cayuga County,﻿Northville,﻿King Ferry,﻿NY,,42.431146399999996,-83.48326920000001,,,,,﻿b_mccool_001,﻿Rev.,﻿B. McCool,,,,,,,1870.0,Rochester
+﻿roc.ny.0055,﻿church,﻿St. Mary's of the Lake,English,,,,﻿Cayuga County,﻿Cayuga County,﻿Northville,﻿King Ferry,﻿NY,,42.66515914,-76.62244067,,,,,﻿b_mccool_001,﻿Rev.,﻿B. McCool,,,,,,,1870.0,Rochester
 ﻿roc.ny.0056,﻿church,﻿St. Joseph's,English,,,,﻿Cayuga County,﻿Cayuga County,﻿Weedsport,﻿Weedsport,﻿NY,,43.044821899999995,-76.56433359999998,,,,,﻿ant_cassese_001,﻿Rev.,﻿Anthony Cassese,,,,,,,1870.0,Rochester
 ﻿roc.ny.0057,﻿church,﻿St. John's,English,,,,﻿Cayuga County,﻿Cayuga County,﻿Port Byron,﻿Port Byron,﻿NY,,43.034869799999996,-76.6262903,,,,,﻿ant_cassese_001,﻿Rev.,﻿Anthony Cassese,,,,,,,1870.0,Rochester
 ﻿roc.ny.0058,﻿church,﻿St. Michael's,English,,,,﻿Cayuga County,﻿Cayuga County,﻿Montezuma,﻿Montezuma,﻿NY,,42.9189555,-76.7263397,,,,,﻿ant_cassese_001,﻿Rev.,﻿Anthony Cassese,,,,,,,1870.0,Rochester
@@ -69,12 +69,12 @@
 ﻿roc.ny.0063,﻿house,﻿House of the Redemporists,English,,"﻿Adjoining St. Joseph's Church, Rochester",,﻿Monroe County,﻿Monroe County,﻿Rochester,﻿Rochester,﻿NY,,43.1594407,-77.6064884,,,,,﻿pet_cronenberg_001,﻿Rev.,﻿Peter Cronenberg,﻿C.SS.R.,,,,,,1870.0,Rochester
 ﻿roc.ny.0063,﻿house,﻿House of the Redemporists,English,,"﻿Adjoining St. Joseph's Church, Rochester",,﻿Monroe County,﻿Monroe County,﻿Rochester,﻿Rochester,﻿NY,,43.1594407,-77.6064884,,,,,﻿lou_dold_001,﻿Rev.,﻿Louis Dold,﻿C.SS.R.,,,,,,1870.0,Rochester
 ﻿roc.ny.0063,﻿house,﻿House of the Redemporists,English,,"﻿Adjoining St. Joseph's Church, Rochester",,﻿Monroe County,﻿Monroe County,﻿Rochester,﻿Rochester,﻿NY,,43.1594407,-77.6064884,,,,,﻿jos_clauss_001,﻿Rev.,﻿Joseph Clauss,﻿C.SS.R.,,,,,,1870.0,Rochester
-﻿roc.ny.0063,﻿house,﻿House of the Redemporists,English,,"﻿Adjoining St. Joseph's Church, Rochester",,﻿Monroe County,﻿Monroe County,﻿Rochester,﻿Rochester,﻿NY,,43.1594407,-77.6064884,,,,,﻿fra_n_emstede_001,﻿Rev.,﻿Francis Nicholas Van Emstede,﻿C.SS.R.,,,,,,1870.0,Rochester
+﻿roc.ny.0063,﻿house,﻿House of the Redemporists,English,,"﻿Adjoining St. Joseph's Church, Rochester",,﻿Monroe County,﻿Monroe County,﻿Rochester,﻿Rochester,﻿NY,,43.1594407,-77.6064884,,,,,﻿fra_n_van-emstede_001,﻿Rev.,﻿Francis Nicholas Van Emstede,﻿C.SS.R.,,,,,,1870.0,Rochester
 ﻿roc.ny.0063,﻿house,﻿House of the Redemporists,English,,"﻿Adjoining St. Joseph's Church, Rochester",,﻿Monroe County,﻿Monroe County,﻿Rochester,﻿Rochester,﻿NY,,43.1594407,-77.6064884,,,,,﻿hen_kuper_001,﻿Rev.,﻿Henry Kuper,﻿C.SS.R.,,,,,,1870.0,Rochester
 ﻿roc.ny.0063,﻿house,﻿House of the Redemporists,English,,"﻿Adjoining St. Joseph's Church, Rochester",,﻿Monroe County,﻿Monroe County,﻿Rochester,﻿Rochester,﻿NY,,43.1594407,-77.6064884,,,,,﻿geo_roesch_001,﻿Rev.,﻿Geo. Roesch,﻿C.SS.R.,,,,,,1870.0,Rochester
 ﻿roc.ny.0064,﻿house,﻿Brothers of Mary,English,﻿Five Brothers have charge of St. Joseph's male school.,﻿No. 18 Franklin street,,﻿Monroe County,﻿Monroe County,﻿Rochester,﻿Rochester,﻿NY,,43.158148499999996,-77.604722,,,,,﻿a_heintz_001,﻿Br.,﻿A. Heintz,,﻿Director,,﻿brother,﻿Five brothers,,1870.0,Rochester
 ﻿roc.ny.0065,﻿convent,﻿School Sisters of Notre Dame,English,"﻿Five Sisters teach the girls' school of St. Joseph's.  They, with the assistance of some lay Sisters, also have charge of St. Joseph's Orphan Asylum.",﻿Andrews street,,﻿Monroe County,﻿Monroe County,﻿Rochester,﻿Rochester,﻿NY,,43.159828000000005,-77.60869090000001,,,,,,,,,,,﻿sister,﻿Five Sisters who teach the girls' school of St. Joseph's.,,1870.0,Rochester
-﻿roc.ny.0066,"﻿convent, academy",﻿Convent and Academy of the Sacred Heart,English,,,,﻿Monroe County,﻿Monroe County,﻿Rochester,﻿Rochester,﻿NY,,43.1410708,-77.52951740000002,,,,,﻿hanratty_001,﻿Madam,﻿Hanratty,,﻿Superior,,,,,1870.0,Rochester
+﻿roc.ny.0066,"﻿convent, academy",﻿Convent and Academy of the Sacred Heart,English,,,,﻿Monroe County,﻿Monroe County,﻿Rochester,﻿Rochester,﻿NY,,43.1410708,-77.52951740000002,,,,,,﻿Madam,﻿Hanratty,,﻿Superior,,,,,1870.0,Rochester
 ﻿roc.ny.0067,"﻿convent, academy",﻿Convent and Academy of Our Lady of Mercy,English,,,,﻿Monroe County,﻿Monroe County,﻿Rochester,﻿Rochester,﻿NY,,43.147763299999994,-77.5365707,,,,,,﻿Mother,﻿M. Camillus Kelly,,﻿Superior,,,,,1870.0,Rochester
 ﻿roc.ny.0068,﻿hospital,﻿St. Mary's Hospital,English,,,,,﻿Monroe County,﻿Rochester,﻿Rochester,﻿NY,,42.954519299999994,-74.21631550000001,,,,,,﻿Sister,﻿Hieronymo O'Brien,,﻿Superior,,﻿sister,﻿15 Sisters of Charity,,1870.0,Rochester
 ﻿roc.ny.0068,﻿hospital,﻿St. Mary's Hospital,English,,,,,﻿Monroe County,﻿Rochester,﻿Rochester,﻿NY,,42.954519299999994,-74.21631550000001,,,,,,,,,,,﻿patient,﻿300 patients on average,,1870.0,Rochester

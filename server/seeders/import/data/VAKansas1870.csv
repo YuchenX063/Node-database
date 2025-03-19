@@ -32,7 +32,7 @@
 ﻿vic.ks.0021,﻿church,﻿Church of All Saints,English,,,,﻿Doniphan County,﻿Brown County,﻿Bohemian Settlement,,﻿KS,,39.70135504,-95.45148339,,﻿Attended from St. Benedict's,,,,,,,,,,,,1870.0,VAKansas
 ﻿vic.ks.0022,﻿church,not recorded,English,,,,﻿Doniphan County,﻿Doniphan County,﻿Iowa Point,﻿Iowa Point,﻿KS,,39.928333,-95.238333,,﻿Attended from St. Benedict's,,,,,,,,,,,,1870.0,VAKansas
 ﻿vic.ks.0023,﻿church,﻿Church of the Holy Family,English,,,,﻿Douglas County,﻿Douglas County,﻿Eudora,﻿Eudora,﻿KS,,38.944469299999994,-95.0942018,,,,,﻿joh_pichler_001,﻿Rev.,﻿John Pichler,,,,,,,1870.0,VAKansas
-﻿vic.ks.0024,﻿station,﻿Fall Leaf Station,English,,,,﻿Miami County,﻿Miami County,,,﻿KS,,38.9749413,-95.1108376,,﻿Attended from Eudora,,,,,,,,,,,,1870.0,VAKansas
+﻿vic.ks.0024,﻿station,﻿Fall Leaf Station,English,,,,﻿Miami County,﻿Miami County,,,﻿KS,,38.97435072,-95.11153382,,﻿Attended from Eudora,,,,,,,,,,,,1870.0,VAKansas
 ﻿vic.ks.0025,﻿church,not recorded,English,,,,﻿Miami County,﻿Johnson County,﻿Aubrey,﻿Aubry,﻿KS,,38.771499,-94.6678066,,﻿Attended from Eudora,,,,,,,,,,,,1870.0,VAKansas
 ﻿vic.ks.0026,﻿church,"﻿Church of Mary, Queen of Angels",English,,,,﻿Bourbon County,﻿Bourbon County,﻿Fort Scott,﻿Fort Scott,﻿KS,,37.8342945,-94.7109482,,,,,﻿eug_bononcini_001,﻿Rev.,﻿Eugene Bononcini,,,,,,,1870.0,VAKansas
 ﻿vic.ks.0027,﻿church,not recorded,English,,,,﻿Bourbon County,﻿Bourbon County,﻿Fort Lincoln,,﻿KS,,37.81932381,-94.71447532,,﻿Attended from Fort Scott,,,,,,,,,,,,1870.0,VAKansas
@@ -91,20 +91,20 @@
 ﻿vic.ks.0074,﻿church,not recorded,English,,,,﻿Shawnee County,﻿Osage  County,﻿Ridgeway,﻿Ridgeway Township,﻿KS,,38.8296301,-95.6668306,,﻿Attended from Topeka,,,,,,,,,,,,1870.0,VAKansas
 ﻿vic.ks.0075,﻿church,not recorded,English,,,,﻿Shawnee County,﻿Shawnee County,﻿Tecumseh,﻿Tecumseh,﻿KS,,39.0442603,-95.58217259999999,,﻿Attended from Topeka,,,,,,,,,,,,1870.0,VAKansas
 ﻿vic.ks.0076,﻿church,not recorded,English,,,,﻿Douglas County,﻿Douglas County,﻿Twin Mounds,﻿Twin Mound,﻿KS,,38.860278,-95.481667,,﻿Attended from Topeka,,,,,,,,,,,,1870.0,VAKansas
-﻿vic.ks.0077,﻿church,not recorded,English,,,,﻿Osage County,﻿Osage County,﻿One Hundred and Ten,,﻿KS,,38.633557,-95.81824559999998,,﻿Attended from Topeka,,,,,,,,,,,,1870.0,VAKansas
+﻿vic.ks.0077,﻿church,not recorded,English,,,,﻿Osage County,﻿Osage County,﻿One Hundred and Ten,,﻿KS,,38.626548799999995,-95.52398517,,﻿Attended from Topeka,,,,,,,,,,,,1870.0,VAKansas
 ﻿vic.ks.0078,﻿church,not recorded,English,,,,﻿Jefferson County,﻿Jefferson County,﻿Newman,﻿Newman,﻿KS,,39.2827652,-95.3102505,,﻿Attended from Topeka,,,,,,,,,,,,1870.0,VAKansas
 ﻿vic.ks.0079,﻿church,﻿Church of the Mother of God,English,,,,﻿Wyandotte County,﻿Wyandotte County,﻿Wyandotte,﻿Kansas City,﻿KS,,39.1155314,-94.6267873,,,,,﻿a_kuhls_001,﻿Rev.,﻿A. Kuhls,,,,,,,1870.0,VAKansas
 ﻿vic.ks.0080,﻿college,﻿Saint Benedict's College,English,,,,,,,﻿Atchison,﻿KS,,39.1155314,-94.6267873,,,,,﻿lew_m_fink_001,﻿Very Rev.,﻿Lewis M. Fink,﻿O.S.B.,﻿President,,,,﻿under the charge of the Benedictine Fathers,1870.0,VAKansas
 ﻿vic.ks.0081,"﻿college, seminary",not recorded,English,,,,,,,﻿Topeka,﻿KS,,39.1155314,-94.6267873,,,,,﻿jh_defouri_001,﻿Rev.,﻿J.H. Defouri,,,,,,,1870.0,VAKansas
 ﻿vic.ks.0081,"﻿college, seminary",not recorded,English,,,,,,,﻿Topeka,﻿KS,,39.1155314,-94.6267873,,,,,﻿jb_favre_001,﻿Rev.,﻿J.B. Favre,,,,,,,1870.0,VAKansas
-﻿vic.ks.0082,﻿academy,﻿Academy for Young Ladies,English,,,,,,,﻿Leavenworth City,﻿KS,,39.1155314,-94.6267873,,,,,,﻿Mother,﻿Xavier Ross,,﻿Superior,,,,﻿conducted by the Sisters of Charity,1870.0,VAKansas
-﻿vic.ks.0083,﻿school,not recorded,English,﻿female day-school,,,,,,,﻿KS,,39.1155314,-94.6267873,,,,,,,,,,,,,﻿conducted by the Sisters of Charity,1870.0,VAKansas
-﻿vic.ks.0084,﻿hospital,not recorded,English,,,,,,,,﻿KS,,39.1155314,-94.6267873,,,,,,,,,,,,,﻿under charge of the Sisters of Charity,1870.0,VAKansas
-﻿vic.ks.0085,﻿asylum,not recorded,English,﻿orphan asylum,,,,,,,﻿KS,,39.1155314,-94.6267873,,,,,,,,,,,,,﻿under charge of the Sisters of Charity,1870.0,VAKansas
-﻿vic.ks.0086,﻿school,not recorded,English,"﻿Parochial Male Schools, aided by two male teachers",,,,,,﻿Leavenworth City,﻿KS,,39.1155314,-94.6267873,,,,,﻿tho_a_butler_001,﻿Rev.,﻿Thos. Ambrose Butler,,﻿Director,,,,,1870.0,VAKansas
-﻿vic.ks.0087,﻿academy,﻿Academy for Young Ladies,English,,,,,,,﻿Lawrence,﻿KS,,39.1155314,-94.6267873,,,,,,﻿Sister,﻿Mary Vincent Kearney,,﻿Sister-Servant,,,,﻿conducted by the Sisters of Charity,1870.0,VAKansas
-﻿vic.ks.0088,﻿convent,﻿Convent of Ladies of the Sacred Heart,English,,﻿St. Mary's Mission,,,,,,﻿KS,,39.1155314,-94.6267873,,,,,﻿milmoe_001,﻿Madame,﻿Milmoe,,﻿Superior,,,,,1870.0,VAKansas
-﻿vic.ks.0089,﻿convent,﻿Convent of the Sisters of Loretto,English,,﻿at St. Francis de Hieronymo,,,,,,﻿KS,,39.1155314,-94.6267873,,,,,,,,,,,,,,1870.0,VAKansas
-﻿vic.ks.0090,"﻿convent, academy",﻿St. Scholastica's Convent and Academy,English,,,,,,,﻿Atchison,﻿KS,,39.1155314,-94.6267873,,,,,,﻿Mother,﻿Evangelista Kremeter,﻿O.S.B.,,,,,,1870.0,VAKansas
-﻿vic.ks.0091,﻿school,﻿Potawatamie Indian Manual Labor School,English,"﻿The male department is under the management of the Fathers of the Society of Jesus, and eight lay Brothers. The female department is conducted by the Ladies of the Sacred Heart.",﻿St. Mary's Mission,,,,,,﻿KS,,39.1155314,-94.6267873,,,,,,,,,,,,,﻿Fathers of the Society of Jesus. Ladies of the Sacred Heart.,1870.0,VAKansas
-﻿vic.ks.0092,﻿school,﻿Osage Indian Manual Labor School,English,"﻿The male department is under the charge of the Fathers of the Society of Jesus, and nine lay Brothers. The female department is conducted by the Sisters of Loretto",,,,,,,﻿KS,,39.1155314,-94.6267873,,,,,,,,,,,,,﻿Fathers of the Society of Jesus.  Sisters of Loretto.,1870.0,VAKansas
+﻿vic.ks.0082,﻿academy,﻿Academy for Young Ladies,English,,,,,,﻿Leavenworth City,,﻿KS,,39.27831668,-94.90638881,,,,,,﻿Mother,﻿Xavier Ross,,﻿Superior,,,,﻿conducted by the Sisters of Charity,1870.0,VAKansas
+﻿vic.ks.0083,﻿school,not recorded,English,﻿female day-school,,,,,,,﻿KS,,39.27831668,-94.90638881,,,,,,,,,,,,,﻿conducted by the Sisters of Charity,1870.0,VAKansas
+﻿vic.ks.0084,﻿hospital,not recorded,English,,,,,,,,﻿KS,,39.28243004,-94.90595241,,,,,,,,,,,,,﻿under charge of the Sisters of Charity,1870.0,VAKansas
+﻿vic.ks.0085,﻿asylum,not recorded,English,﻿orphan asylum,,,,,,,﻿KS,,39.28243004,-94.90595241,,,,,,,,,,,,,﻿under charge of the Sisters of Charity,1870.0,VAKansas
+﻿vic.ks.0086,﻿school,not recorded,English,"﻿Parochial Male Schools, aided by two male teachers",,,,,﻿Leavenworth City,,﻿KS,,39.28243004,-94.90595241,,,,,﻿tho_a_butler_001,﻿Rev.,﻿Thos. Ambrose Butler,,﻿Director,,,,,1870.0,VAKansas
+﻿vic.ks.0087,﻿academy,﻿Academy for Young Ladies,English,,,,,,﻿Lawrence,,﻿KS,,39.28243004,-94.90595241,,,,,,﻿Sister,﻿Mary Vincent Kearney,,﻿Sister-Servant,,,,﻿conducted by the Sisters of Charity,1870.0,VAKansas
+﻿vic.ks.0088,﻿convent,﻿Convent of Ladies of the Sacred Heart,English,,﻿St. Mary's Mission,,,,,,﻿KS,,39.19176645,-96.06221148,,,,,,﻿Madame,﻿Milmoe,,﻿Superior,,,,,1870.0,VAKansas
+﻿vic.ks.0089,﻿convent,﻿Convent of the Sisters of Loretto,English,,﻿at St. Francis de Hieronymo,,,,,,﻿KS,,37.51562256,-95.16364912,,,,,,,,,,,,,,1870.0,VAKansas
+﻿vic.ks.0090,"﻿convent, academy",﻿St. Scholastica's Convent and Academy,English,,,,,,﻿Atchison,,﻿KS,,39.57497111,-95.11115151,,,,,,﻿Mother,﻿Evangelista Kremeter,﻿O.S.B.,,,,,,1870.0,VAKansas
+﻿vic.ks.0091,﻿school,﻿Potawatamie Indian Manual Labor School,English,"﻿The male department is under the management of the Fathers of the Society of Jesus, and eight lay Brothers. The female department is conducted by the Ladies of the Sacred Heart.",﻿St. Mary's Mission,,,,,,﻿KS,,39.19176645,-96.06221148,,,,,,,,,,,,,﻿Fathers of the Society of Jesus. Ladies of the Sacred Heart.,1870.0,VAKansas
+﻿vic.ks.0092,﻿school,﻿Osage Indian Manual Labor School,English,"﻿The male department is under the charge of the Fathers of the Society of Jesus, and nine lay Brothers. The female department is conducted by the Sisters of Loretto",,,,,,,﻿KS,,37.51571242,-95.1652996,,,,,,,,,,,,,﻿Fathers of the Society of Jesus.  Sisters of Loretto.,1870.0,VAKansas

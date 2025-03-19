@@ -13,13 +13,13 @@
 ﻿ore.or.0010,﻿church,not recorded,English,,,,,,﻿Ranier,﻿Ranier,﻿OR,,46.0891348,-122.93597759999999,,﻿attended from Portland,,,,,,,,,,,,1868.0,OregonCity
 ﻿ore.or.0011,﻿church,not recorded,English,,,,,,﻿St. Helen,﻿St. Helen,﻿OR,,45.858963700000004,-122.8212297,,﻿attended from Portland,,,,,,,,,,,,1868.0,OregonCity
 ﻿ore.or.0012,﻿church,not recorded,English,,,,,,﻿Columbia Bottom,,﻿OR,,45.56986,-122.48664,,﻿attended from Portland,,,,,,,,,,,,1868.0,OregonCity
-﻿ore.or.0012,﻿church,not recorded,English,,,,,,﻿Cascades,,﻿OR,,45.56986,-122.48664,,﻿attended from Portland,,,,,,,,,,,,1868.0,OregonCity
-﻿ore.or.0013,﻿church,not recorded,English,,﻿French Prairie,,﻿Marion County,,﻿St. Louis,,﻿OR,,45.123680900000004,-122.94262420000001,,,,,﻿b_delorme_001,﻿Very Rev.,﻿B. Delorme,,﻿V.G. Pastor,,,,,1868.0,OregonCity
-﻿ore.or.0013,﻿church,not recorded,English,,﻿French Prairie,,﻿Marion County,,﻿St. Louis,,﻿OR,,45.123680900000004,-122.94262420000001,,,,,﻿a_lebas_001,﻿Rev.,﻿A. Lebas,,﻿Assistant,,,,,1868.0,OregonCity
+﻿ore.or.0081,﻿church,not recorded,English,,,,,,﻿Cascades,,,,45.56986,-122.48664,,﻿attended from Portland,,,,,,,,,,,,1868.0,OregonCity
+﻿ore.or.0013,﻿church,not recorded,English,,﻿French Prairie,,﻿Marion County,,﻿St. Louis,,﻿OR,,45.123680900000004,-122.94262420000001,,,,,﻿bar_delorme_001,﻿Very Rev.,﻿B. Delorme,,﻿V.G. Pastor,,,,,1868.0,OregonCity
+﻿ore.or.0013,﻿church,not recorded,English,,﻿French Prairie,,﻿Marion County,,﻿St. Louis,,﻿OR,,45.123680900000004,-122.94262420000001,,,,,﻿a_libar_001,﻿Rev.,﻿A. Lebas,,﻿Assistant,,,,,1868.0,OregonCity
 ﻿ore.or.0015,﻿church,not recorded,English,,﻿French Prairie,,﻿Marion County,,﻿St. Paul,,﻿OR,,45.2623415,-122.84037430000001,,,,,﻿joh_f_malo_001,﻿Rev.,﻿John F. Malo,,﻿Pastor,,,,,1868.0,OregonCity
-﻿ore.or.0015,﻿church,not recorded,English,,﻿French Prairie,,﻿Marion County,,﻿St. Paul,,﻿OR,,45.2623415,-122.84037430000001,,,,,﻿delahunty_001,﻿Rev.,﻿- Delahunty,,﻿Assistant,,,,,1868.0,OregonCity
+﻿ore.or.0015,﻿church,not recorded,English,,﻿French Prairie,,﻿Marion County,,﻿St. Paul,,﻿OR,,45.2623415,-122.84037430000001,,,,,﻿cam_delahunty_001,﻿Rev.,﻿- Delahunty,,﻿Assistant,,,,,1868.0,OregonCity
 ﻿ore.or.0017,﻿church,﻿St. John the Evangelist,English,,,,,,﻿Salem,﻿Salem,﻿OR,,44.9428975,-123.03509629999999,,,,,﻿seb_goens_001,﻿Rev.,﻿Sebastian Goens,,﻿Pastor,,,,,1868.0,OregonCity
-﻿ore.or.0018,﻿church,﻿St. Michael's Church,English,,﻿Indian Reservation,,,,﻿Grand Round,﻿Grand Ronde,﻿OR,,45.060113,-123.6092771,,,,,﻿a_t_croquet_001,﻿Rev.,﻿A. T. Croquet,,﻿Pastor,,,,,1868.0,OregonCity
+﻿ore.or.0018,﻿church,﻿St. Michael's Church,English,,﻿Indian Reservation,,,,﻿Grand Round,﻿Grand Ronde,﻿OR,,45.060113,-123.6092771,,,,,﻿a_s_croquet_001,﻿Rev.,﻿A. T. Croquet,,﻿Pastor,,,,,1868.0,OregonCity
 ﻿ore.or.0019,﻿church,﻿St. Patrick's Church,English,,,,﻿Yamhill County,,,,﻿OR,,45.17719829999999,-123.23953030000001,,﻿attended from Grand Bend,,,,,,,,,,,,1868.0,OregonCity
 ﻿ore.or.0020,﻿church,not recorded,English,,,,,,﻿Lafeyette,﻿Lafeyette,﻿OR,,45.243472499999996,-123.11214820000001,,﻿attended from Grand Bend,,,,,,,,,,,,1868.0,OregonCity
 ﻿ore.or.0021,﻿church,not recorded,English,,﻿McMinville,,,,﻿McMinville,﻿McMinnville,﻿OR,,45.2107513,-123.1944874,,﻿attended from Grand Bend,,,,,,,,,,,,1868.0,OregonCity
@@ -51,21 +51,21 @@
 ﻿ore.or.0048,﻿church,not recorded,English,,﻿Kerbyville,﻿Rogue River Valley,,,﻿Kerbyville,﻿Kerby,﻿OR,,42.440124600000004,-122.92615459999999,,﻿attended from Jacksonville,,,,,,,,,,,,1868.0,OregonCity
 ﻿ore.or.0049,﻿church,not recorded,English,,,﻿Rogue River Valley,﻿Josephine County,,﻿Williamsburgh,﻿Williams,﻿OR,,42.2187354,-123.2739548,,﻿attended from Jacksonville,,,,,,,,,,,,1868.0,OregonCity
 ﻿ore.or.0050,﻿church,not recorded,English,,,﻿Rogue River Valley,﻿Josephine County,,﻿Althouse,﻿Althouse,﻿OR,,42.344757200000004,-123.4568737,,﻿attended from Jacksonville,,,,,,,,,,,,1868.0,OregonCity
-﻿ore.or.0051,﻿church,﻿St. Peter's,English,,,﻿East of the Cascade Range,,,﻿Dalles City,﻿The Dalles,﻿OR,,45.6017716,-121.1848433,,,,,﻿leo_dieleman_001,﻿Rev.,﻿Leopold Dieleman,,﻿Pastor,,,,,1868.0,OregonCity
-﻿ore.or.0052,﻿church,not recorded,English,,,﻿East of the Cascade Range,,,﻿Umatilla City,﻿Umatilla City,﻿OR,,45.9173549,-119.3425179,,﻿attended from Dalles City,,,,,,,,,,,,1868.0,OregonCity
-﻿ore.or.0053,﻿church,not recorded,English,,﻿Cecilo,﻿East of the Cascade Range,,,﻿Cecilo,﻿Celilo,﻿OR,,43.8041334,-120.55420120000001,,﻿attended from Dalles City,,,,,,,,,,,,1868.0,OregonCity
-﻿ore.or.0054,﻿church,not recorded,English,,,﻿East of the Cascade Range,,,﻿The Indian Reservation of Warm Spring,﻿The Indian Reservation of Warm Spring,﻿OR,,43.8041334,-120.55420120000001,,﻿attended from Dalles City,,,,,,,,,,,,1868.0,OregonCity
-﻿ore.or.0058,﻿mission,not recorded,English,﻿no chapel,﻿Umatilla Indian Reservation,﻿East of the Cascade Range,,,﻿Umatilla,﻿Umatilla,﻿OR,,45.6704084,-118.68359009999999,,,,,﻿g_a_vermersch_001,﻿Rev.,﻿G. Adolphe Vermersch,,﻿Pastor,,,,,1868.0,OregonCity
-﻿ore.or.0059,﻿church,not recorded,English,,,﻿East of the Cascade Range,﻿Baker County,,﻿Baker City,﻿Baker City,﻿OR,,44.7748748,-117.8343848,,﻿attended from Canyon City,,,,,,,,,,,,1868.0,OregonCity
-﻿ore.or.0060,﻿church,not recorded,English,,﻿Auburn,﻿East of the Cascade Range,﻿Baker County,,﻿Auburn,﻿Auburn,﻿OR,,44.69380375,-117.93185929999999,,﻿attended from Canyon City,,,,,,,,,,,,1868.0,OregonCity
-﻿ore.or.0061,﻿church,not recorded,English,,,﻿East of the Cascade Range,﻿Union County,,﻿La Grande,﻿La Grande,﻿OR,,45.3245771,-118.0877188,,﻿attended from Canyon City,,,,,,,,,,,,1868.0,OregonCity
-﻿ore.or.0056,﻿church,not recorded,English,,﻿Warm Springs Indian Reservation,﻿East of the Cascade Range,,,﻿Warm Spring,﻿Warm Spring,﻿OR,,44.7634519,-121.2661625,,﻿attended from Portland,,,,,,,,,,,,1868.0,OregonCity
-﻿ore.or.0062,﻿church,﻿St. Andrew's Church,English,,﻿Canyon City,﻿East of the Cascade Range,﻿Grant County,,﻿Canyon City,﻿Canyon City,﻿OR,,44.3895995,-118.9502315,,,,,﻿pat_mackin_001,﻿Rev.,﻿Patrick Mackin,,﻿Pastor,,,,,1868.0,OregonCity
-﻿ore.or.0066,﻿church,not recorded,English,,﻿Olive Creek,﻿East of the Cascade Range,,,﻿Olive Creek,﻿Olive Creek,﻿OR,,43.8041334,-120.55420120000001,,﻿attended from Canyon City,,,,,,,,,,,,1868.0,OregonCity
-﻿ore.or.0067,﻿church,not recorded,English,,﻿Middle Fork,﻿East of the Cascade Range,,,﻿Middle Creek,﻿Middle Creek,﻿OR,,44.5000956,-118.0880957,,﻿attended from Canyon City,,,,,,,,,,,,1868.0,OregonCity
-﻿ore.or.0068,﻿church,not recorded,English,,﻿Vincent Creek,﻿East of the Cascade Range,,,﻿Vincent Creek,﻿Vincent Creek,﻿OR,,44.114605,117.364349,,﻿attended from Canyon City,,,,,,,,,,,,1868.0,OregonCity
-﻿ore.or.0070,﻿church,not recorded,English,,﻿Independence,﻿East of the Cascade Range,,,﻿Independence,﻿Independence,﻿OR,,42.07777787,-119.9250797,,﻿attended from Canyon City,,,,,,,,,,,,1868.0,OregonCity
-﻿ore.or.0071,﻿church,not recorded,English,,﻿Granite Creek,﻿East of the Cascade Range,,,﻿Granite Greek,﻿Granite Greek,﻿OR,,43.8041334,-120.55420120000001,,﻿attended from Canyon City,,,,,,,,,,,,1868.0,OregonCity
+﻿ore.or.0051,﻿church,﻿St. Peter's,English,,,,,,﻿Dalles City,﻿The Dalles,﻿OR,,45.6017716,-121.1848433,,,,,﻿leo_dieleman_001,﻿Rev.,﻿Leopold Dieleman,,﻿Pastor,,,,,1868.0,OregonCity
+﻿ore.or.0052,﻿church,not recorded,English,,,,,,﻿Umatilla City,﻿Umatilla City,﻿OR,,45.9173549,-119.3425179,,﻿attended from Dalles City,,,,,,,,,,,,1868.0,OregonCity
+﻿ore.or.0053,﻿church,not recorded,English,,﻿Cecilo,,,,﻿Cecilo,﻿Celilo,﻿OR,,43.8041334,-120.55420120000001,,﻿attended from Dalles City,,,,,,,,,,,,1868.0,OregonCity
+﻿ore.or.0054,﻿church,not recorded,English,,,,,,﻿The Indian Reservation of Warm Spring,﻿The Indian Reservation of Warm Spring,﻿OR,,43.8041334,-120.55420120000001,,﻿attended from Dalles City,,,,,,,,,,,,1868.0,OregonCity
+﻿ore.or.0058,﻿mission,not recorded,English,﻿no chapel,﻿Umatilla Indian Reservation,,,,﻿Umatilla,﻿Umatilla,﻿OR,,45.6704084,-118.68359009999999,,,,,﻿g_a_vermersch_001,﻿Rev.,﻿G. Adolphe Vermersch,,﻿Pastor,,,,,1868.0,OregonCity
+﻿ore.or.0059,﻿church,not recorded,English,,,,﻿Baker County,,﻿Baker City,﻿Baker City,﻿OR,,44.7748748,-117.8343848,,﻿attended from Canyon City,,,,,,,,,,,,1868.0,OregonCity
+﻿ore.or.0060,﻿church,not recorded,English,,﻿Auburn,,﻿Baker County,,﻿Auburn,﻿Auburn,﻿OR,,44.69380375,-117.93185929999999,,﻿attended from Canyon City,,,,,,,,,,,,1868.0,OregonCity
+﻿ore.or.0061,﻿church,not recorded,English,,,,﻿Union County,,﻿La Grande,﻿La Grande,﻿OR,,45.3245771,-118.0877188,,﻿attended from Canyon City,,,,,,,,,,,,1868.0,OregonCity
+﻿ore.or.0056,﻿church,not recorded,English,,﻿Warm Springs Indian Reservation,,,,﻿Warm Spring,﻿Warm Spring,﻿OR,,44.7634519,-121.2661625,,﻿attended from Portland,,,,,,,,,,,,1868.0,OregonCity
+﻿ore.or.0062,﻿church,﻿St. Andrew's Church,English,,﻿Canyon City,,﻿Grant County,,﻿Canyon City,﻿Canyon City,﻿OR,,44.3895995,-118.9502315,,,,,﻿pat_mackin_001,﻿Rev.,﻿Patrick Mackin,,﻿Pastor,,,,,1868.0,OregonCity
+﻿ore.or.0066,﻿church,not recorded,English,,﻿Olive Creek,,,,﻿Olive Creek,﻿Olive Creek,﻿OR,,43.8041334,-120.55420120000001,,﻿attended from Canyon City,,,,,,,,,,,,1868.0,OregonCity
+﻿ore.or.0067,﻿church,not recorded,English,,﻿Middle Fork,,,,﻿Middle Creek,﻿Middle Creek,﻿OR,,44.5000956,-118.0880957,,﻿attended from Canyon City,,,,,,,,,,,,1868.0,OregonCity
+﻿ore.or.0087,﻿church,not recorded,English,,﻿Vincent Creek,,,,,﻿Reedsport,﻿OR,,43.792629999999996,-123.77728,,﻿attended from Canyon City,,,,,,,,,,,,1868.0,OregonCity
+﻿ore.or.0070,﻿church,not recorded,English,,﻿Independence,,,,﻿Independence,﻿Independence,﻿OR,,42.07777787,-119.9250797,,﻿attended from Canyon City,,,,,,,,,,,,1868.0,OregonCity
+﻿ore.or.0071,﻿church,not recorded,English,,﻿Granite Creek,,,,﻿Granite Greek,﻿Granite Greek,﻿OR,,43.8041334,-120.55420120000001,,﻿attended from Canyon City,,,,,,,,,,,,1868.0,OregonCity
 ﻿boi.id.0001,﻿church,﻿St. Joseph's,English,﻿blessed 1863,﻿Moore's Creek,,,,﻿Idaho City,﻿Idaho City,,﻿ID,43.8285046,-115.8345537,,,,,﻿z_poulin_001,﻿Rev.,﻿Z. Poulin,,﻿Pastor,,,,,1868.0,OregonCity
 ﻿boi.id.0002,﻿church,not recorded,English,,,,,,﻿Boise City,﻿Boise,,﻿ID,43.6150186,-116.2023137,,﻿attended from St. Joseph's,,,,,,,,,,,,1868.0,OregonCity
 ﻿boi.id.0003,﻿church,﻿St. Thomas',English,"﻿Dec. 20, 1863",﻿Granite Creek,,,,﻿Placerville,﻿Placerville,,﻿ID,43.9432266,-115.94706000000001,,,,,﻿t_mesplié_001,﻿Rev.,﻿T. Mesplié,,﻿Pastor,,,,,1868.0,OregonCity
@@ -85,4 +85,4 @@
 ﻿ore.or.0077,﻿academy,﻿St. Mary's Academy,English,,,,,,﻿Oregon City,﻿Oregon City,﻿OR,,45.512531,-122.6812742,,,,,,,,,,,,,,1868.0,OregonCity
 ﻿ore.or.0078,﻿academy,not recorded,English,﻿for boys,,,,,﻿Portland,﻿Portland,﻿OR,,45.515232,-122.67838529999999,,,,,,,,,,,,,,1868.0,OregonCity
 ﻿ore.or.0079,﻿school,not recorded,English,﻿for boys,,,,,﻿St. Paul,﻿St. Paul,﻿OR,,45.2112295,-122.9767662,,,,,,,,,,,,,,1868.0,OregonCity
-﻿ore.or.0080,﻿school,not recorded,English,﻿for boys,,,,,﻿St. Louis,﻿St. Louis,﻿OR,,38.6270025,-90.1994042,,,,,,,,,,,,,,1868.0,OregonCity
+﻿ore.or.0080,﻿school,not recorded,English,﻿for boys,,,,,﻿St. Louis,﻿St. Louis,﻿OR,,45.12326666,-122.94263229999999,,,,,,,,,,,,,,1868.0,OregonCity

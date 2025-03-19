@@ -4,7 +4,7 @@
 const fs = require('fs');
 const path = require('path');
 const csv = require('csv-parser');
-const{ Person } = require('../models');
+const{ person } = require('../models');
 const{ loadData } = require('../utils/data-preprocess');
 
 /** @type {import('sequelize-cli').Migration} */
@@ -22,7 +22,7 @@ module.exports = {
 
 async function importData(data) {
 
-  const personKeys = ['uniquePersID', 'persID', 'persYear', 'persTitle', 'persName', 'persSuffix', 'persNote'];
+  const personKeys = ['persID'];
 
   const personInfo = data
     .map(row => {
@@ -35,14 +35,16 @@ async function importData(data) {
   
   //console.log(personInfo[0]);
 
-  const uniquePersonInfo = Array.from(new Map(personInfo.map(item => [item.uniquePersID, item])).values());
+  const uniquePersonInfo = Array.from(new Map(personInfo.map(item => [item.persID, item])).values());
 
   //console.log(uniquePersonInfo[0]);
   
   for (const item of uniquePersonInfo) {
-    if (item.uniquePersID) {
+    if (item.persID) {
       try {
-        await Person.create(item);
+        await person.findOrCreate({
+          where: { persID: item.persID },
+        });
         //console.log(`Created person: ${item.persID}`);
       } catch (error) {
         console.error(`Error creating person: ${JSON.stringify(item)}`, error);

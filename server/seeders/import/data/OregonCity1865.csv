@@ -11,12 +11,12 @@
 ﻿ore.or.0010,﻿church,not recorded,English,,,,,,﻿Mount Rainier,﻿Rainier,﻿OR,,46.0891348,-122.93597759999999,﻿ore.or.0001,﻿attended from Portland,,,,,,,,,,,,1865.0,OregonCity
 ﻿ore.or.0011,﻿church,not recorded,English,,,,,,﻿St. Helen,﻿St. Helen,﻿OR,,45.858963700000004,-122.8212297,﻿ore.or.0001,﻿attended from Portland,,,,,,,,,,,,1865.0,OregonCity
 ﻿ore.or.0012,﻿church,not recorded,English,,,,,,﻿Columbia Bottom,,﻿OR,,45.56986,-122.48664,﻿ore.or.0001,﻿attended from Portland,,,,,,,,,,,,1865.0,OregonCity
-﻿ore.or.0012,﻿church,not recorded,English,,,,,,﻿Cascades,﻿Cascades,﻿OR,,45.56986,-122.48664,,﻿attended from Portland,,,,,,,,,,,,1865.0,OregonCity
-﻿ore.or.0013,﻿church,not recorded,English,1847,,﻿French Prairie,﻿Marion County,,﻿St. Louis,﻿St. Louis,﻿OR,,45.123680900000004,-122.94262420000001,,,,,﻿b_delorme_001,﻿Very Rev.,﻿B. Delorme,,﻿V.G. Pastor,,,,,1865.0,OregonCity
-﻿ore.or.0013,﻿church,not recorded,English,1847,,﻿French Prairie,﻿Marion County,,﻿St. Louis,﻿St. Louis,﻿OR,,45.123680900000004,-122.94262420000001,,,,,﻿a_lebas_001,﻿Rev.,﻿A. Lebas,,﻿Assistant,,,,,1865.0,OregonCity
+﻿ore.or.0083,﻿church,not recorded,English,,,,,,﻿Cascades,﻿Cascades,﻿OR,,45.56986,-122.48664,,﻿attended from Portland,,,,,,,,,,,,1865.0,OregonCity
+﻿ore.or.0013,﻿church,not recorded,English,1847,,﻿French Prairie,﻿Marion County,,﻿St. Louis,﻿St. Louis,﻿OR,,45.123680900000004,-122.94262420000001,,,,,﻿bar_delorme_001,﻿Very Rev.,﻿B. Delorme,,﻿V.G. Pastor,,,,,1865.0,OregonCity
+﻿ore.or.0013,﻿church,not recorded,English,1847,,﻿French Prairie,﻿Marion County,,﻿St. Louis,﻿St. Louis,﻿OR,,45.123680900000004,-122.94262420000001,,,,,﻿a_libar_001,﻿Rev.,﻿A. Lebas,,﻿Assistant,,,,,1865.0,OregonCity
 ﻿ore.or.0005,﻿church,not recorded,English,,,,,,﻿Molala,﻿Molalla,﻿OR,,45.2623415,-122.84037430000001,﻿ore.or.0002,﻿attended from St. Louis,,,,,,,,,,,,1865.0,OregonCity
 ﻿ore.or.0015,﻿church,not recorded,English,,,﻿French Prairie,﻿Marion County,,﻿St. Paul,,﻿OR,,45.2623415,-122.84037430000001,﻿ore.or.0014,,,,﻿joh_f_malo_001,﻿Rev.,﻿John F. Malo,,﻿Pastor,,,,,1865.0,OregonCity
-﻿ore.or.0015,﻿church,not recorded,English,,,﻿French Prairie,﻿Marion County,,﻿Butteville,﻿Butteville,﻿OR,,45.2623415,-122.84037430000001,﻿ore.or.0015,﻿attended from St. Paul,,,,,,,,,,,,1865.0,OregonCity
+﻿ore.or.0083,﻿church,not recorded,English,,,,,,﻿Butteville,﻿Butteville,﻿OR,,45.2623415,-122.84037430000001,﻿ore.or.0015,﻿attended from St. Paul,,,,,,,,,,,,1865.0,OregonCity
 ﻿ore.or.0017,﻿church,﻿St. John the Evangelist,English,"﻿blessed April 10, 1864",,,,,﻿Salem,﻿Salem,﻿OR,,44.9428975,-123.03509629999999,,,,,﻿seb_goens_001,﻿Rev.,﻿Sebastian Goens,,﻿Pastor,,,,,1865.0,OregonCity
 ﻿ore.or.0025,﻿church,﻿St. Mary's Church,English,"﻿blessed Feb. 17th, 1861",,,,,﻿Corvallis,﻿Corvallis,﻿OR,,45.060113,-123.6092771,,﻿attended from Salem,,,,,,,﻿Pastor,,,,,1865.0,OregonCity
 ﻿ore.or.0026,﻿church,not recorded,English,,,,,,﻿Albany,﻿Albany,﻿OR,,45.17719829999999,-123.23953030000001,﻿ore.or.0025,﻿attended from Salem,,,,,,,,,,,,1865.0,OregonCity
@@ -42,8 +42,8 @@
 ﻿ore.or.0047,﻿church,not recorded,English,,,,,,﻿Waldo,﻿Waldo,﻿OR,,43.3672213,-124.2131325,﻿ore.or.0045,﻿attended from Jacksonville,,,,,,,,,,,,1865.0,OregonCity
 ﻿ore.or.0049,﻿church,not recorded,English,,,,,,﻿Williamsburgh,﻿Williams,﻿OR,,43.51387385,-123.8040625,﻿ore.or.0045,﻿attended from Jacksonville,,,,,,,,,,,,1865.0,OregonCity
 ﻿ore.or.0050,﻿church,not recorded,English,,,,,,﻿Athhouse,﻿Althouse,﻿OR,,43.8041334,-120.55420120000001,﻿ore.or.0045,﻿attended from Jacksonville,,,,,,,,,,,,1865.0,OregonCity
-﻿ore.or.0050,﻿church,not recorded,English,,,﻿Allen Gulch,﻿Josephine County,,﻿Crescent City,﻿Crescent City,﻿CA,,43.8041334,-120.55420120000001,﻿ore.or.0045,﻿attended from Jacksonville,,,,,,,,,,,,1865.0,OregonCity
-﻿ore.or.0018,﻿church,﻿St. Michael's Church,English,"﻿Oct. 12th, 1862",﻿Indian Reservation,,﻿Yamhill County,,﻿Grand Round,﻿Grand Ronde,﻿OR,,45.060113,-123.6092771,,,,,﻿a_t_croquet_001,﻿Rev.,﻿A. T. Croquet,,﻿Pastor,,,,,1865.0,OregonCity
+﻿ore.or.0084,﻿church,not recorded,English,,,﻿Allen Gulch,﻿Josephine County,,﻿Crescent City,﻿Crescent City,﻿CA,,43.8041334,-120.55420120000001,﻿ore.or.0045,﻿attended from Jacksonville,,,,,,,,,,,,1865.0,OregonCity
+﻿ore.or.0018,﻿church,﻿St. Michael's Church,English,"﻿Oct. 12th, 1862",﻿Indian Reservation,,﻿Yamhill County,,﻿Grand Round,﻿Grand Ronde,﻿OR,,45.060113,-123.6092771,,,,,﻿a_s_croquet_001,﻿Rev.,﻿A. T. Croquet,,﻿Pastor,,,,,1865.0,OregonCity
 ﻿ore.or.0019,﻿church,﻿St. Patrick's Church,English,,,,﻿Yamhill County,,,,﻿OR,,42.344757200000004,-123.4568737,﻿ore.or.0018,﻿attended from St. Michael,,,,,,,,,,,,1865.0,OregonCity
 ﻿ore.or.0020,﻿church,not recorded,English,,,,,,﻿Lafeyette,﻿Lafeyette,﻿OR,,43.8041334,-120.55420120000001,﻿ore.or.0018,﻿attended from St. Michael,,,,,,,,,,,,1865.0,OregonCity
 ﻿ore.or.0022,﻿church,not recorded,English,,,,,,﻿Dayton,﻿Dayton,﻿OR,,42.440124600000004,-122.92615459999999,﻿ore.or.0018,﻿attended from St. Michael,,,,,,,,,,,,1865.0,OregonCity
@@ -56,10 +56,10 @@
 ﻿ore.or.0058,﻿mission,not recorded,English,﻿no church,﻿Umatilla Indian Reservation,,,,,,﻿OR,,43.8041334,-120.55420120000001,,,,,﻿giorda_001,﻿Rev.,﻿Giorda,﻿S.J.,﻿Superior of the Mission of the Rocky Mountains,﻿Will take charge of that mission in January 1865,,,,1865.0,OregonCity
 ﻿boi.id.0009,﻿church,not recorded,English,,﻿on Grand Bend River,,,,﻿La Grande City,,﻿ID,,45.6704084,-118.68359009999999,﻿ore.or.0058,﻿attended from Umatilla Indian Reservation,,,,,,,,,,,,1865.0,OregonCity
 ﻿ore.or.0060,﻿church,not recorded,English,,﻿on Powder River,,,,﻿Auburn,,﻿OR,,42.07777787,-119.9250797,﻿ore.or.0058,﻿attended from Umatilla Indian Reservation,,,,,,,,,,,,1865.0,OregonCity
-﻿boi.id.0001,﻿church,﻿St. Joseph's,English,"﻿Nov. 15th, 1863",﻿on Boise River,,,,﻿Idaho City,﻿Idaho City,﻿ID,,43.8285046,-115.8345537,,,,,﻿a_z_poulin_001,﻿Rev.,﻿A. Z. Poulin,,﻿Pastor,,,,,1865.0,OregonCity
-﻿boi.id.0003,﻿church,﻿St. Thomas',English,"﻿Dec. 20th, 1863",﻿on Boise River,,,,﻿Placerville,﻿Placerville,﻿ID,,43.9432266,-115.94706000000001,,,,,﻿s_mesplié_001,﻿Rev.,﻿S. Mesplié,,﻿Pastor,,,,,1865.0,OregonCity
+﻿boi.id.0001,﻿church,﻿St. Joseph's,English,"﻿Nov. 15th, 1863",﻿on Boise River,,,,﻿Idaho City,﻿Idaho City,﻿ID,,43.8285046,-115.8345537,,,,,﻿z_poulin_001,﻿Rev.,﻿A. Z. Poulin,,﻿Pastor,,,,,1865.0,OregonCity
+﻿boi.id.0003,﻿church,﻿St. Thomas',English,"﻿Dec. 20th, 1863",﻿on Boise River,,,,﻿Placerville,﻿Placerville,﻿ID,,43.9432266,-115.94706000000001,,,,,﻿t_mesplié_001,﻿Rev.,﻿S. Mesplié,,﻿Pastor,,,,,1865.0,OregonCity
 ﻿boi.id.0004,﻿church,﻿St. Dominic's,English,"﻿Dec. 25th, 1863",﻿on Boise River,,,,﻿Centreville,﻿Centerville,﻿ID,,43.9126714,-115.89233529999998,,,,,,,,,,,,,,1865.0,OregonCity
-﻿boi.id.0005,﻿church,﻿St. Francis',English,"﻿Sept. 25th, 1864",﻿on Boise River,,,,﻿Pioneer City,﻿Pioneerville,﻿ID,,43.9687833,-115.8467795,,,,,﻿s_mesplié_001,﻿Rev.,﻿S. Mesplié,,,,,,,1865.0,OregonCity
+﻿boi.id.0005,﻿church,﻿St. Francis',English,"﻿Sept. 25th, 1864",﻿on Boise River,,,,﻿Pioneer City,﻿Pioneerville,﻿ID,,43.9687833,-115.8467795,,,,,﻿t_mesplié_001,﻿Rev.,﻿S. Mesplié,,,,,,,1865.0,OregonCity
 ﻿boi.id.0002,﻿church,not recorded,English,,﻿on Salmon River,,,,﻿Boise City,﻿Boise,﻿ID,,43.6150186,-116.2023137,﻿ore.or.0045,﻿attended from St. Thomas & St. Joseph's,,,,,,,,,,,,1865.0,OregonCity
 ﻿boi.id.0010,﻿church,not recorded,English,,﻿on Salmon River,,,,﻿Florence,﻿Florence,﻿ID,,43.8041334,-120.55420120000001,,﻿attended from St. Thomas & St. Joseph's,,,,,,,,,,,,1865.0,OregonCity
 ﻿boi.id.0011,﻿church,not recorded,English,,﻿on Salmon River,,,,﻿Warren,﻿Warren,﻿ID,,45.264072399999996,-115.6765116,,﻿attended from St. Thomas & St. Joseph's,,,,,,,,,,,,1865.0,OregonCity

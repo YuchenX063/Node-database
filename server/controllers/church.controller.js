@@ -2,11 +2,12 @@ const db = require("../models");
 const getPagination = require("../utils/get-pagination");
 const Op = db.Sequelize.Op;
 
-const Church = db.Church;
-const Person = db.Person;
-const Church_Person = db.Church_Person;
+const churchInYear = db.churchInYear;
+const person = db.person;
+const churchPerson = db.churchPerson;
+const church = db.church;
 
-exports.create = (req, res) => {
+/*exports.create = (req, res) => {
     const churches = req.body;
 
     const processedChurches = churches.map(church => {
@@ -18,16 +19,16 @@ exports.create = (req, res) => {
             uniqueAttendingInstID: uniqueAttendingInstID
         }});
 
-    Church.bulkCreate(processedChurches)
+    churchInYear.bulkCreate(processedChurches)
     .then(data => {
         res.send(data);
     })
     .catch(err => {
         res.status(500).send({
-            message: err.message || "An error occurred while creating the Church."
+            message: err.message || "An error occurred while creating the churchInYear."
         });
     });
-};
+};*/
 
 exports.findAll = (req, res) => {
     let {page, size} = req.query;
@@ -39,35 +40,42 @@ exports.findAll = (req, res) => {
     };
     let {limit, offset} = getPagination(page, size);
     let where = {};
-    let { instName } = req.query;
-    if (instName) {
-        where.instName = { [Op.like]: `%${instName}%` };
-    };
-    Church.findAndCountAll({
+    //let { instName } = req.query;
+    //if (instName) {
+    //    where.instName = { [Op.like]: `%${instName}%` };
+    //};
+    church.findAndCountAll({
         where: where,
         limit: limit,
         offset: offset,
-        attributes: ['instID', 'instName', 'instYear', 'language', 'church_type', 'instNote', 'city_reg', 'state_orig', 'diocese', 'attendingInstID', 'attendingChurch', 'attendingChurchFrequency'],
+        attributes: ['instID'],
         include: [{
-            model: Person,
-            as: 'people',
-            attributes: ['persID', 'persName', 'persYear', 'persSuffix', 'persNote'],
-            through: {
-                attributes: []
-            }},{
-                model: Church,
+            model: churchInYear,
+            as: 'churchInYear',
+            attributes: ['instName', 'instYear', 'language', 'church_type', 'instNote', 'city_reg', 'state_orig', 'diocese'],
+            include: [{
+                model: person,
+                as: 'personInfo',
+                attributes: ['persID'],
+                through: {
+                    attributes: [
+                        'persName', 'persYear', 'persTitle', 'persSuffix', 'persNote'
+                    ]
+                }}, {
+                model: churchInYear,
                 as: 'attendingChurches',
                 attributes: ['instID', 'instName', 'instYear'],
                 through: {
                     attributes: []
-            }},{
-                model: Church,
+                }}, {
+                model: churchInYear,
                 as: 'attendedBy',
                 attributes: ['instID', 'instName', 'instYear'],
                 through: {
                     attributes: []
-            }
-    }],
+                }}]
+        }]
+        
     }).then( data => {
         res.send(data);
     }).catch(err => {
@@ -79,102 +87,110 @@ exports.findAll = (req, res) => {
 
 exports.findByID = (req, res) => {
     const id = req.params.instID;
-    Church.findAll({
+    church.findOne({
         where: { instID: id },
-        attributes: ['instID', 'instName', 'instYear', 'language', 'church_type', 'instNote', 'city_reg', 'state_orig', 'diocese', 'attendingInstID', 'attendingChurch', 'attendingChurchFrequency'],
+        attributes: ['instID'],
         include: [{
-            model: Person,
-            as: 'people',
-            attributes: ['persID', 'persName', 'persYear', 'persSuffix', 'persNote'],
-            through: {
-                attributes: []
-            }},{
-                model: Church,
-                as: 'attendingChurches',
-                attributes: ['instID', 'instName', 'instYear'],
-                through: {
-                    attributes: []
-            }},{
-                model: Church,
-                as: 'attendedBy',
-                attributes: ['instID', 'instName', 'instYear'],
-                through: {
-                    attributes: []
-            }
+                model: churchInYear,
+                as: 'churchInYear',
+                attributes: ['instName', 'instYear', 'language', 'church_type', 'instNote', 'city_reg', 'state_orig', 'diocese'],
+                include: [{
+                    model: churchInYear,
+                    as: 'attendingChurches',
+                    attributes: ['instID', 'instName', 'instYear'],
+                    through: {
+                        attributes: []
+                }},{
+                    model: churchInYear,
+                    as: 'attendedBy',
+                    attributes: ['instID', 'instName', 'instYear'],
+                    through: {
+                        attributes: []
+                }},{
+                    model: person,
+                    as: 'personInfo',
+                    attributes: ['persID'],
+                    through: {
+                        attributes: [
+                            'persName', 'persYear', 'persTitle', 'persSuffix', 'persNote'
+                        ]
+                }}]
         }]
     }).then(data => {
         if (!data) {
             res.status(404).send({
-                message: `Cannot find Church with id=${id}.`
+                message: `Cannot find churchInYear with id=${id}.`
             });
         } else {
             res.send(data);
         }
     }).catch(err => {
         res.status(500).send({
-            message: "Error retrieving Church with id=" + id
+            message: "Error retrieving churchInYear with id=" + id
         });
     });
 };
 
 exports.findOne = (req, res) => {
     const id = req.params.instID;
-    Church.findOne({
+    churchInYear.findOne({
         where: { instID: id, instYear: req.params.instYear },
         attributes: ['instID', 'instName', 'instYear', 'language', 'church_type', 'instNote', 'city_reg', 'state_orig', 'diocese', 'attendingInstID', 'attendingChurch', 'attendingChurchFrequency'],
         include: [{
-            model: Person,
-            as: 'people',
-            attributes: ['persID', 'persName', 'persYear', 'persSuffix', 'persNote'],
-            through: {
-                attributes: []
-            }},{
-                model: Church,
+                model: churchInYear,
                 as: 'attendingChurches',
                 attributes: ['instID', 'instName', 'instYear'],
                 through: {
                     attributes: []
             }},{
-                model: Church,
+                model: churchInYear,
                 as: 'attendedBy',
                 attributes: ['instID', 'instName', 'instYear'],
                 through: {
                     attributes: []
+            }},{
+                model: person,
+                as: 'personInfo',
+                attributes: ['persID'],
+                through: {
+                    attributes: [
+                        'persName', 'persYear', 'persTitle', 'persSuffix', 'persNote'
+                    ]
             }
         }]
     }).then(data => {
         if (!data) {
             res.status(404).send({
-                message: `Cannot find Church with id=${id}.`
+                message: `Cannot find churchInYear with id=${id}.`
             });
         } else {
             res.send(data);
         }
     }).catch(err => {
         res.status(500).send({
-            message: "Error retrieving Church with id=" + id
+            message: "Error retrieving churchInYear with id=" + id
         });
     });
 };
 
 exports.delete = (req, res) => {
     const id = req.params.instID;
-    Church.destroy({
+    church.destroy({
         where: { instID: id }
     })
     .then(data => {
         if (!data) {
             res.status(404).send({
-                message: `Cannot delete Church with id=${id}. Maybe Church was not found!`
+                message: `Cannot delete churchInYear with id=${id}. Maybe churchInYear was not found!`
             });
         } else {
             res.send({
-                message: "Church was deleted successfully!"
+                message: "churchInYear was deleted successfully!"
             });
         }
     }).catch(err => {
         res.status(500).send({
-            message: "Could not delete Church with id=" + id
+            message: "Could not delete churchInYear with id=" + id
         });
     });
 };

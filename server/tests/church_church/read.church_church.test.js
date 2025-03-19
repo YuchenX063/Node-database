@@ -4,7 +4,7 @@ const requestWithSupertest = supertest(app);
 
 describe('The relationship between church and small_church', () => {
 
-    // create church, small church, and church_church
+    // create church, small church, and churchChurch
     beforeAll( async () => {
         const res = await requestWithSupertest.post('/api/church')
             .send([{
@@ -21,7 +21,7 @@ describe('The relationship between church and small_church', () => {
                 attendingInstID: 'test-inst1'
         }]);
         expect(res2.status).toEqual(200);
-        const res3 = await requestWithSupertest.post('/api/church_church')
+        const res3 = await requestWithSupertest.post('/api/churchChurch')
             .send([{
                 instID: 'test-small_church1',
                 attendingInstID: 'test-inst1',
@@ -48,7 +48,7 @@ describe('The relationship between church and small_church', () => {
     afterAll( async () => {
         await requestWithSupertest.delete('/api/church/test-inst1');
         await requestWithSupertest.delete('/api/church/test-small_church1');
-        await requestWithSupertest.delete('/api/church_church/test-inst1/test-small_church1');
+        await requestWithSupertest.delete('/api/churchChurch/test-inst1/test-small_church1');
         await requestWithSupertest.delete('/api/church/test-inst2');
         await requestWithSupertest.delete('/api/church/test-small_church2');
     });

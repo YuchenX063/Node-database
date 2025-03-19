@@ -1,6 +1,6 @@
 ﻿instID,church_type,instName,language,instNote,placeName,region,county_orig,county_reg,city_orig,city_reg,state_orig,state_reg,latitude,longitude,attendingInstID,attendingChurch,attendingChurchFrequency,attendingChurchNote,persID,persTitle,persName,persSuffix,persRole,persNote,memberType,member,affiliated,year,diocese
 ﻿por.me.0001,﻿cathedral,﻿Cathedral Chapel of the Immaculate Conception,English,"﻿The Cathedral, which is being built, will probably be dedicated during the year in honor of the Immaculate Conception of the Blessed Virgin MAry",,,,,﻿Portland,﻿Portland,﻿ME,,44.8147712,-71.8803728,,,,,﻿d_w_bacon_001,﻿Rt. Rev.,﻿D. W. Bacon,﻿D.D.,,,,,,1869.0,Portland
-﻿por.me.0001,﻿cathedral,﻿Cathedral Chapel of the Immaculate Conception,English,"﻿The Cathedral, which is being built, will probably be dedicated during the year in honor of the Immaculate Conception of the Blessed Virgin MAry",,,,,﻿Portland,﻿Portland,﻿ME,,44.8147712,-71.8803728,,,,,﻿joh_a_rose_001,﻿Rev.,﻿John A. De Rose,,,,,,,1869.0,Portland
+﻿por.me.0001,﻿cathedral,﻿Cathedral Chapel of the Immaculate Conception,English,"﻿The Cathedral, which is being built, will probably be dedicated during the year in honor of the Immaculate Conception of the Blessed Virgin MAry",,,,,﻿Portland,﻿Portland,﻿ME,,44.8147712,-71.8803728,,,,,﻿joh_de-rose_001,﻿Rev.,﻿John A. De Rose,,,,,,,1869.0,Portland
 ﻿por.me.0001,﻿cathedral,﻿Cathedral Chapel of the Immaculate Conception,English,"﻿The Cathedral, which is being built, will probably be dedicated during the year in honor of the Immaculate Conception of the Blessed Virgin MAry",,,,,﻿Portland,﻿Portland,﻿ME,,44.8147712,-71.8803728,,,,,﻿joh_murphy_001,﻿Rev.,﻿John Murphy,,,,,,,1869.0,Portland
 ﻿por.me.0001,﻿cathedral,﻿Cathedral Chapel of the Immaculate Conception,English,"﻿The Cathedral, which is being built, will probably be dedicated during the year in honor of the Immaculate Conception of the Blessed Virgin MAry",,,,,﻿Portland,﻿Portland,﻿ME,,44.8147712,-71.8803728,,,,,﻿mic_obrien_003,﻿Rev.,﻿Michael O'Brien,,,,,,,1869.0,Portland
 ﻿por.me.0001,﻿cathedral,﻿Cathedral Chapel of the Immaculate Conception,English,"﻿The Cathedral, which is being built, will probably be dedicated during the year in honor of the Immaculate Conception of the Blessed Virgin MAry",,,,,﻿Portland,﻿Portland,﻿ME,,44.8147712,-71.8803728,,,,,﻿lou_mussaers_001,﻿Rev.,﻿Louis Mussaers,,,,,,,1869.0,Portland
@@ -10,7 +10,7 @@
 ﻿por.me.0004,﻿chapel,﻿St. Aloysius' Chapel,English,,,,,,﻿Portland,﻿Portland,﻿ME,,43.660720399999995,-70.2580778,,,,,﻿joh_murphy_001,﻿Rev.,﻿John Murphy,,,,,,,1869.0,Portland
 ﻿por.me.0005,﻿chapel,﻿Convent Chapel,English,,,,,,﻿Portland,﻿Portland,﻿ME,,43.660720399999995,-70.2580778,,,,,﻿joh_murphy_001,﻿Rev.,﻿John Murphy,,,,,,,1869.0,Portland
 ﻿por.me.0006,﻿church,﻿St. Mary's,English,,,,,,﻿Augusta,﻿Augusta,﻿ME,,44.30914944,-69.78025576,,,,,﻿cha_egan_001,﻿Rev.,﻿Charles Egan,,,,,,,1869.0,Portland
-﻿por.me.0007,﻿church,﻿St. John's,English,,,,,,﻿Bangor,﻿Bangor,﻿ME,,44.80387965,-68.76104988,,,,,﻿eug_vetromile_001,﻿Rev.,﻿Eugene Vetromile,,,,,,,1869.0,Portland
+﻿por.me.0007,﻿church,﻿St. John's,English,,,,,,﻿Bangor,﻿Bangor,﻿ME,,44.80387965,-68.76104988,,,,,﻿e_vetromile_001,﻿Rev.,﻿Eugene Vetromile,,,,,,,1869.0,Portland
 ﻿por.me.0007,﻿church,﻿St. John's,English,,,,,,﻿Bangor,﻿Bangor,﻿ME,,44.80387965,-68.76104988,,,,,﻿f_c_mussaers_001,﻿Rev.,﻿F. Clement Mussaers,,,,,,,1869.0,Portland
 ﻿por.me.0008,﻿church,﻿St. Mary's,English,,,,,,﻿Bath,﻿Bath,﻿ME,,43.9159483,-69.82482519999999,,,,,﻿luk_f_bartley_001,﻿Rev.,﻿Luke F. Bartley,,,,,,,1869.0,Portland
 ﻿por.me.0009,﻿church,﻿St. Benedict's,English,,,,,,﻿Benedicta,﻿Benedicta,﻿ME,,45.80328179999999,-68.4120628,,,,,﻿joh_brady_003,﻿Rev.,﻿John Brady,,,,,,,1869.0,Portland
@@ -34,7 +34,7 @@
 ﻿por.me.0026,﻿church,not recorded,English,,,,,,﻿Lubec,﻿Lubec,﻿ME,,44.8585863,-66.98359070000001,﻿por.me.0018,﻿attended from Eastport,,,,,,,,,,,,1869.0,Portland
 ﻿por.me.0027,﻿church,﻿St. Mary's,English,,,,,,﻿Machias,﻿Machias,﻿ME,,44.7150789,-67.461376,,,,,﻿joh_sullivan_001,﻿Rev.,﻿John Sullivan,,,,,,,1869.0,Portland
 ﻿por.me.0028,﻿church,﻿St. Mary's,English,,,,,,﻿Oldtown,﻿Old Town,﻿ME,,44.9342349,-68.6453092,,,,,﻿j_b_nycolin_001,﻿Rev.,﻿J. B. Nycolin,,,,,,,1869.0,Portland
-﻿por.me.0029,﻿mission,"﻿""Indian Mission""",English,,,,,,﻿Oldtown,﻿Old Town,﻿ME,,44.93412694,-68.64547990000001,,,,,﻿eug_vetromile_001,﻿Rev.,﻿Eug. Vetromile,,,,,,,1869.0,Portland
+﻿por.me.0029,﻿mission,"﻿""Indian Mission""",English,,,,,,﻿Oldtown,﻿Old Town,﻿ME,,44.93412694,-68.64547990000001,,,,,﻿e_vetromile_001,﻿Rev.,﻿Eug. Vetromile,,,,,,,1869.0,Portland
 ﻿por.me.0029,﻿mission,"﻿""Indian Mission""",English,,,,,,﻿Oldtown,﻿Old Town,﻿ME,,44.93412694,-68.64547990000001,,,,,﻿j_b_nycolin_001,﻿Rev.,﻿J. B. Nycolin,,,,,,,1869.0,Portland
 ﻿por.me.0030,﻿church,not recorded,English,,,,,,﻿Orono,﻿Orono,﻿ME,,44.8831125,-68.6719411,,,,,﻿f_c_mussaers_001,﻿Rev.,﻿F. Clement Mussaers,,,,,,,1869.0,Portland
 ﻿por.me.0031,﻿church,﻿St. John's,English,,,,,,﻿Pembroke,﻿Pembroke,﻿ME,,44.9536891,-67.1619293,,,,,﻿j_t_durnin_001,﻿Rev.,﻿J. T. Durnin,,,,,,,1869.0,Portland
@@ -73,7 +73,7 @@
 ﻿por.me.0067,﻿church,not recorded,English,,,,,,﻿Suncook,﻿Suncook,﻿NH,,43.130638,-71.4531241,,,,,﻿joh_barry_002,﻿Rev.,﻿John Barry,,,,,,,1869.0,Portland
 ﻿por.me.0068,﻿church,not recorded,English,,,,,,﻿Fisherville,﻿Fisherville,﻿NH,,43.2801927,-71.59909990000001,,,,,﻿joh_barry_002,﻿Rev.,﻿John Barry,,,,,,,1869.0,Portland
 ﻿por.me.0069,﻿church,not recorded,English,,,,,,﻿Wilton,﻿Wilton,﻿NH,,42.8433943,-71.7351077,,,,,﻿p_hoolahan_001,﻿Rev.,﻿P. Hoolahan,,,,,,,1869.0,Portland
-﻿por.me.0070,"﻿convent, academy",﻿Convent and Academy of the Ladies of the Congregation of Notre Dame,English,,,,,,﻿Portland,﻿Portland,﻿ME,,43.667720200000005,-70.2809152,,,,,﻿ste_josephine_001,﻿Madame,﻿Ste. Josephine,,﻿Lady Superior,,﻿religious,"﻿Number of religious, 14",,1869.0,Portland
+﻿por.me.0070,"﻿convent, academy",﻿Convent and Academy of the Ladies of the Congregation of Notre Dame,English,,,,,,﻿Portland,﻿Portland,﻿ME,,43.667720200000005,-70.2809152,,,,,,﻿Madame,﻿Ste. Josephine,,﻿Lady Superior,,﻿religious,"﻿Number of religious, 14",,1869.0,Portland
 ﻿por.me.0070,"﻿convent, academy",﻿Convent and Academy of the Ladies of the Congregation of Notre Dame,English,,,,,,﻿Portland,﻿Portland,﻿ME,,43.667720200000005,-70.2809152,,,,,,,,,,,﻿pupil,"﻿number of pupils, 60",,1869.0,Portland
 ﻿por.me.0071,﻿school,﻿Parochial School of the Cathedral,English,,,,,,﻿Portland,﻿Portland,﻿ME,,43.659099299999994,-70.2568189,,,,,,,,,,,﻿pupil,"﻿Number of pupils, 460",﻿in charge of the Ladies of the Congregation of Notre Dame,1869.0,Portland
 ﻿por.me.0072,﻿school,not recorded,English,﻿Parochial School at St. Dominick's,,,,,﻿Portland,﻿Portland,﻿ME,,43.659099299999994,-70.2568189,,,,,,,,,,,﻿pupil,"﻿Number of pupils, 375",﻿in charge of the Ladies of the Congregation of Notre Dame,1869.0,Portland

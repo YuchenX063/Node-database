@@ -84,8 +84,8 @@
 ﻿erie.pa.0073,﻿church,﻿Immaculate Conception,English,,,,﻿Crawford County,,﻿Summit,﻿Summit Township,﻿PA,,41.6661391,-80.27673270000001,,﻿attended from Linesville,,﻿Linesville existed in 1869 but is not included here.  This uses the ID created in 1869,,,,,,,,,,1870.0,Erie
 ﻿erie.pa.0074,﻿church,﻿St. John's,English,,,,﻿Warren County,,﻿Tideoute,﻿Tidioute,﻿PA,,41.6850604,-79.4031034,﻿erie.pa.0105,﻿attended from Oil City,,,,,,,,,,,,1870.0,Erie
 ﻿erie.pa.0075,﻿church,not recorded,English,,,,﻿Forest County,,﻿Tionesta,﻿Tionesta,﻿PA,,41.49534,-79.45587979999999,﻿erie.pa.0105,﻿attended from Oil City,,,,,,,,,,,,1870.0,Erie
-﻿erie.pa.0076,﻿church,﻿St. Titus',English,,,,﻿Crawford County,,﻿Titusville,﻿Titusville,﻿PA,,41.6278904,-79.681405,,,,,﻿n_mignault_001,﻿Rev.,﻿N. Mignault,,﻿Pastor,,,,,1870.0,Erie
-﻿erie.pa.0076,﻿church,﻿St. Titus',English,,,,﻿Crawford County,,﻿Titusville,﻿Titusville,﻿PA,,41.6278904,-79.681405,,,,,﻿pet_sheridan_001,﻿Rev.,﻿Peter Sheridan,,,,,,,1870.0,Erie
+﻿erie.pa.0076erie.pa.0125,﻿church,﻿St. Titus',English,,,,﻿Crawford County,,﻿Titusville,﻿Titusville,﻿PA,,41.6278904,-79.681405,,,,,﻿n_mignault_001,﻿Rev.,﻿N. Mignault,,﻿Pastor,,,,,1870.0,Erie
+﻿erie.pa.0076erie.pa.0125,﻿church,﻿St. Titus',English,,,,﻿Crawford County,,﻿Titusville,﻿Titusville,﻿PA,,41.6278904,-79.681405,,,,,﻿pet_sheridan_001,﻿Rev.,﻿Peter Sheridan,,,,,,,1870.0,Erie
 ﻿erie.pa.0077,﻿church,not recorded,English,,,,﻿Crawford County,,﻿Tryonville,﻿Steuben Township,﻿PA,,41.695299799999994,-79.8184684,﻿erie.pa.0076,﻿attended from Titusville,,,,,,,,,,,,1870.0,Erie
 ﻿erie.pa.0078,﻿church,﻿St. Theresa's,English,,,,,,﻿Union,﻿Union City,﻿PA,,41.8995001,-79.8453298,,,,,﻿j_l_madigan_001,﻿Rev.,﻿J. L. Madigan,,,,,,,1870.0,Erie
 ﻿erie.pa.0079,﻿church,﻿St. Joseph's,English,,,,﻿Clarion County,,﻿Vogelbacher,﻿Lucinda,﻿PA,,41.3118383,-79.3651186,,,,,﻿j_koch_001,﻿Rev.,﻿J. Koch,,﻿Pastor,,,,,1870.0,Erie
@@ -95,22 +95,22 @@
 ﻿erie.pa.0082,﻿church,﻿Holy Cross,English,,,,﻿Elk County,,﻿Williamsville,﻿Jones Township,﻿PA,,41.573536100000005,-78.63419959999999,﻿erie.pa.0065,﻿attended from St. Mary's,,,,,,,,,,,,1870.0,Erie
 ﻿erie.pa.0083,﻿church,not recorded,English,,,,﻿Elk County,,﻿Wilcox,﻿Wilcox,﻿PA,,41.5751089,-78.6877584,﻿erie.pa.0065,﻿attended from St. Mary's,,,,,,,,,,,,1870.0,Erie
 ﻿erie.pa.0084,﻿church,not recorded,English,,,,﻿Warren County,,﻿Youngsville,﻿Youngsville,﻿PA,,41.852280799999996,-79.31865970000001,﻿erie.pa.0080,﻿attended from Warren,,,,,,,,,,,,1870.0,Erie
-﻿erie.pa.0085,﻿priory,﻿Benedictine Priory,English,,,,﻿Elk County,,﻿St. Mary's,﻿St. Marys,﻿PA,,41.42954464,-78.56972001,,,,,﻿pau_winkman_001,﻿Rev.,﻿Paulinus Winkman,,﻿Prior,,,,,1870.0,Erie
+﻿erie.pa.0128,﻿priory,﻿Benedictine Priory,English,,,,﻿Elk County,,﻿St. Mary's,﻿St. Marys,﻿PA,,41.42954464,-78.56972001,,,,,﻿pau_winkman_001,﻿Rev.,﻿Paulinus Winkman,,﻿Prior,,,,,1870.0,Erie
 ﻿erie.pa.0086,﻿priory,﻿Benedictine Priory,English,,﻿St. Mary's,,﻿Erie County,,,﻿Erie,﻿PA,,42.1288429,-80.0761177,,,,,﻿mei_jeggle_001,﻿Rev.,﻿Meinrad Jeggle,,﻿Prior,,,,,1870.0,Erie
-﻿erie.pa.0087,﻿monastery,﻿Franciscan Monastery,English,,,,,,﻿Erie,﻿Erie,﻿PA,,42.1288429,-80.0761177,,,,,,﻿Brother,﻿Benedict McNally,,﻿Superior,,,,,1870.0,Erie
-﻿erie.pa.0088,﻿convent,﻿St. Mary's Convent of Benedictine Nuns,English,,,,,,﻿Erie,﻿Erie,﻿PA,,42.1288429,-80.0761177,,,,,,﻿Mother,﻿Scholastica Burkhardt,,﻿Prioress,,,,,1870.0,Erie
-﻿erie.pa.0089,﻿convent,﻿St. Joseph's Convent of Sisters of St. Joseph,English,,,,,,﻿Erie,﻿Erie,﻿PA,,42.1288429,-80.0761177,,,,,,﻿Mother,﻿Agnes Spencer,,﻿Superior,,,,,1870.0,Erie
+﻿erie.pa.0087,﻿monastery,﻿Franciscan Monastery,English,,,,,,﻿Erie,﻿Erie,﻿PA,,42.1290386,-80.08497159999999,,,,,,﻿Brother,﻿Benedict McNally,,﻿Superior,,,,,1870.0,Erie
+﻿erie.pa.0088,﻿convent,﻿St. Mary's Convent of Benedictine Nuns,English,,,,,,﻿Erie,﻿Erie,﻿PA,,42.1290386,-80.08497159999999,,,,,,﻿Mother,﻿Scholastica Burkhardt,,﻿Prioress,,,,,1870.0,Erie
+﻿erie.pa.0089,﻿convent,﻿St. Joseph's Convent of Sisters of St. Joseph,English,,,,,,﻿Erie,﻿Erie,﻿PA,,42.1148767,-80.08735940000001,,,,,,﻿Mother,﻿Agnes Spencer,,﻿Superior,,,,,1870.0,Erie
 ﻿erie.pa.0090,﻿convent,﻿St. Joseph's Convent of Benedictine Nuns,English,,,,﻿Elk County,,﻿St. Mary's,﻿St. Marys,﻿PA,,41.42954464,-78.56972001,,,,,,﻿Mother,﻿Theresa Vogle,,﻿Prioress,,,,,1870.0,Erie
-﻿erie.pa.0091,﻿convent,﻿St. Joseph's Convent of Sisters of St. Joseph's,English,,,,,,﻿Meadville,﻿Meadville,﻿PA,,41.42954464,-78.56972001,,,,,,﻿Mother,﻿George Bradley,,﻿Superior,,,,,1870.0,Erie
-﻿erie.pa.0092,﻿academy,﻿St. Francis' Day Academy,English,,﻿Fifth street,,,,﻿Erie,﻿Meadville,﻿PA,,41.42954464,-78.56972001,,,,,,,,,,,﻿brothers,﻿Franciscan Brothers,﻿Conducted by Franciscan Brothers,1870.0,Erie
+﻿erie.pa.0091,﻿convent,﻿St. Joseph's Convent of Sisters of St. Joseph's,English,,,,,,﻿Meadville,﻿Meadville,﻿PA,,41.6414438,-80.1514484,,,,,,﻿Mother,﻿George Bradley,,﻿Superior,,,,,1870.0,Erie
+﻿erie.pa.0092,﻿academy,﻿St. Francis' Day Academy,English,,﻿Fifth street,,,,﻿Erie,﻿Meadville,﻿PA,,41.6414438,-80.1514484,,,,,,,,,,,﻿brothers,﻿Franciscan Brothers,﻿Conducted by Franciscan Brothers,1870.0,Erie
 ﻿erie.pa.0093,﻿academy,﻿St. Benedict's Academy,English,,,,﻿Elk County,,﻿St. Mary's,﻿St. Marys,﻿PA,,41.42954464,-78.56972001,,,,,,﻿Sister,﻿Marie Gleen,,﻿Directress,,,,,1870.0,Erie
-﻿erie.pa.0094,﻿academy,﻿St. Joseph's Academy,English,,,,,,﻿Erie,﻿Erie,﻿PA,,41.42954464,-78.56972001,,,,,,,,,,,﻿sisters,﻿Sisters of St. Joseph,﻿Conducted by the Sisters of St. Joseph,1870.0,Erie
-﻿erie.pa.0095,﻿academy,﻿St. Bride's Academy,English,,,,,,﻿Meadville,﻿Meadville,﻿PA,,41.42954464,-78.56972001,,,,,,,,,,,﻿sisters,﻿Sisters of St. Joseph,﻿Cared for by the Sisters of St. Joseph,1870.0,Erie
-﻿erie.pa.0096,﻿school,﻿St. Benedict's Select School,English,,,,,,﻿Erie,﻿Erie,﻿PA,,41.42954464,-78.56972001,,,,,,,,,,,﻿sisters,﻿Benedictine Sisters,﻿In charge of Benedictine Sisters,1870.0,Erie
-﻿erie.pa.0097,﻿asylum,﻿St. Joseph's Orphan Asylum,English,,,,,,﻿Erie,﻿Erie,﻿PA,,41.42954464,-78.56972001,,,,,,,,,,,﻿sisters,﻿Sisters of St. Joseph,﻿Conducted by Sisters of St. Joseph,1870.0,Erie
-﻿erie.pa.0098,﻿school,﻿Cathedral Schools,English,﻿Boys taught by Franciscan Brothers. Girls taught by Sisters of St. Joseph.,,,,,﻿Erie,﻿Erie,﻿PA,,41.42954464,-78.56972001,,,,,,,,,,,﻿children,﻿600 children,﻿Franciscan Brothers. Sisters of St. Joseph.,1870.0,Erie
-﻿erie.pa.0098,﻿school,﻿Cathedral Schools,English,﻿Boys taught by Franciscan Brothers. Girls taught by Sisters of St. Joseph.,,,,,﻿Erie,﻿Erie,﻿PA,,41.42954464,-78.56972001,,,,,,,,,,,﻿brothers,﻿Franciscan Brothers,﻿Franciscan Brothers,1870.0,Erie
-﻿erie.pa.0098,﻿school,﻿Cathedral Schools,English,﻿Boys taught by Franciscan Brothers. Girls taught by Sisters of St. Joseph.,,,,,﻿Erie,﻿Erie,﻿PA,,41.42954464,-78.56972001,,,,,,,,,,,﻿sisters,﻿Sisters of St. Joseph,﻿Sisters of St. Joseph,1870.0,Erie
+﻿erie.pa.0094,﻿academy,﻿St. Joseph's Academy,English,,,,,,﻿Erie,﻿Erie,﻿PA,,42.1117237,-80.0772803,,,,,,,,,,,﻿sisters,﻿Sisters of St. Joseph,﻿Conducted by the Sisters of St. Joseph,1870.0,Erie
+﻿erie.pa.0095,﻿academy,﻿St. Bride's Academy,English,,,,,,﻿Meadville,﻿Meadville,﻿PA,,41.6414438,-80.1514484,,,,,,,,,,,﻿sisters,﻿Sisters of St. Joseph,﻿Cared for by the Sisters of St. Joseph,1870.0,Erie
+﻿erie.pa.0096,﻿school,﻿St. Benedict's Select School,English,,,,,,﻿Erie,﻿Erie,﻿PA,,42.142776,-80.0363363,,,,,,,,,,,﻿sisters,﻿Benedictine Sisters,﻿In charge of Benedictine Sisters,1870.0,Erie
+﻿erie.pa.0097,﻿asylum,﻿St. Joseph's Orphan Asylum,English,,,,,,﻿Erie,﻿Erie,﻿PA,,42.1117237,-80.0772803,,,,,,,,,,,﻿sisters,﻿Sisters of St. Joseph,﻿Conducted by Sisters of St. Joseph,1870.0,Erie
+﻿erie.pa.0098,﻿school,﻿Cathedral Schools,English,﻿Boys taught by Franciscan Brothers. Girls taught by Sisters of St. Joseph.,,,,,﻿Erie,﻿Erie,﻿PA,,42.1290386,-80.08497159999999,,,,,,,,,,,﻿children,﻿600 children,﻿Franciscan Brothers. Sisters of St. Joseph.,1870.0,Erie
+﻿erie.pa.0098,﻿school,﻿Cathedral Schools,English,﻿Boys taught by Franciscan Brothers. Girls taught by Sisters of St. Joseph.,,,,,﻿Erie,﻿Erie,﻿PA,,42.1290386,-80.08497159999999,,,,,,,,,,,﻿brothers,﻿Franciscan Brothers,﻿Franciscan Brothers,1870.0,Erie
+﻿erie.pa.0098,﻿school,﻿Cathedral Schools,English,﻿Boys taught by Franciscan Brothers. Girls taught by Sisters of St. Joseph.,,,,,﻿Erie,﻿Erie,﻿PA,,42.1290386,-80.08497159999999,,,,,,,,,,,﻿sisters,﻿Sisters of St. Joseph,﻿Sisters of St. Joseph,1870.0,Erie
 ﻿erie.pa.0099,﻿school,﻿St. Mary's School,English,﻿in charge of religious and secular teachers,,,,,﻿Erie,﻿Erie,﻿PA,,42.1288429,-80.0761177,,,,,,,,,,,﻿children,﻿600 children,,1870.0,Erie
 ﻿erie.pa.0100,﻿school,﻿St. Joseph's School,English,﻿in charge of secular teachers,,,,,﻿Erie,﻿Erie,﻿PA,,42.111107700000005,-80.07482990000001,,,,,,,,,,,﻿children,﻿400 children,,1870.0,Erie
 ﻿erie.pa.0101,﻿school,﻿St. Titus',English,﻿in charge of secular teachers,,,,,﻿Titusville,﻿Titusville,﻿PA,,41.6278904,-79.681405,,,,,,,,,,,﻿children,﻿300 children,,1870.0,Erie

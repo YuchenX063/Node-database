@@ -20,7 +20,7 @@
 ﻿vinc.in.0017,﻿church,﻿St. Malachy's,English,,,,﻿Marion County,,﻿Brownsburgh,﻿Brownsburg,﻿IN,,39.8433769,-86.3977735,﻿vinc.in.0064,﻿Attended from Indianapolis,,,,,,,,,,,,1870.0,Vincennes
 ﻿vinc.in.0018,﻿church,﻿St. James,English,,﻿(Six-miles P.O.),,﻿Jennings County,,﻿Buena Vista,﻿Four Corners,﻿IN,,38.9914998,-85.684578,,,,,﻿j_stolz_001,﻿Rev.,﻿J. Stolz,,,,,,,1870.0,Vincennes
 ﻿vinc.in.0019,﻿church,not recorded,English,,,,﻿Rush County,﻿Rush County,﻿Burlington,﻿Arlington,﻿IN,,39.6481768,-85.52002399999999,﻿vinc.in.0123,﻿Attended from Rushville,,,,,,,,,,,,1870.0,Vincennes
-﻿vinc.in.0020,﻿church,﻿St. Elizabeth's,English,,,,﻿Wayne County,,﻿Cambridge City,﻿Cambridge City,﻿IN,,39.8125465,-85.17163149999999,,,,,﻿vin_d_vilas_001,﻿Rev.,﻿Vincent de Vilas,,,,,,,1870.0,Vincennes
+﻿vinc.in.0020,﻿church,﻿St. Elizabeth's,English,,,,﻿Wayne County,,﻿Cambridge City,﻿Cambridge City,﻿IN,,39.8125465,-85.17163149999999,,,,,﻿vin_de-vilas_001,﻿Rev.,﻿Vincent de Vilas,,,,,,,1870.0,Vincennes
 ﻿vinc.in.0021,﻿church,﻿St. Patrick's,English,,,,﻿Perry County,,﻿Cannelton,﻿Cannelton,﻿IN,,37.9114446,-86.7444321,,,,,﻿m_marendt_001,﻿Rev.,﻿M. Marendt,,,,,,,1870.0,Vincennes
 ﻿vinc.in.0022,﻿church,﻿St. Michael's,﻿German,,,,﻿Perry County,,﻿Cannelton,﻿Cannelton,﻿IN,,37.913264,-86.7411809,,,,,﻿m_marendt_001,﻿Rev.,﻿M. Marendt,,,,,,,1870.0,Vincennes
 ﻿vinc.in.0023,﻿church,not recorded,English,,,,﻿Putnam County,,﻿Carpentersville,﻿Carpentersville,﻿IN,,39.805601,-86.8055632,﻿vinc.in.0050,﻿Attended from Greencastle,,,,,,,,,,,,1870.0,Vincennes
@@ -86,8 +86,8 @@
 ﻿vinc.in.0080,﻿church,﻿St. John's,English,,,,﻿Martin County,,﻿Loogootee,﻿Loogootee,﻿IN,,38.677249,-86.915538,,,,,﻿lou_gueguen_001,﻿Rev.,﻿Louis Gueguen,,,,,,,1870.0,Vincennes
 ﻿vinc.in.0081,﻿church,﻿St. Michael's,English,,,,﻿Jefferson County,,﻿Madison,﻿Madison,﻿IN,,38.7351192,-85.3730019,,,,,﻿h_dupontavice_001,﻿Very Rev.,﻿H. Dupontavice,,﻿Vicar-General,,,,,1870.0,Vincennes
 ﻿vinc.in.0081,﻿church,﻿St. Michael's,English,,,,﻿Jefferson County,,﻿Madison,﻿Madison,﻿IN,,38.7351192,-85.3730019,,,,,﻿jos_oreilly_001,﻿Rev.,﻿Jos. O'Reilly,,,,,,,1870.0,Vincennes
-﻿vinc.in.0081,﻿church,﻿St. Mary's,﻿German,,,,﻿Jefferson County,,﻿Madison,﻿Madison,﻿IN,,38.73536123,-85.37487305,,,,,﻿l_brandt_001,﻿Rev.,﻿L. Brandt,,,,,,,1870.0,Vincennes
-﻿vinc.in.0082,﻿church,﻿St. Patrick's,English,,﻿North Madison,,﻿Jefferson County,,﻿Madison,﻿Madison,﻿IN,,38.767837,-85.396625,﻿vinc.in.0081,﻿Attended from South Madison,,,,,,,,,,,,1870.0,Vincennes
+﻿vinc.in.0216,﻿church,﻿St. Mary's,﻿German,,,,﻿Jefferson County,,﻿Madison,﻿Madison,﻿IN,,38.73536123,-85.37487305,,,,,﻿l_brandt_001,﻿Rev.,﻿L. Brandt,,,,,,,1870.0,Vincennes
+﻿vinc.in.0082,﻿church,﻿St. Patrick's,English,,﻿North Madison,,﻿Jefferson County,,﻿Madison,﻿Madison,﻿IN,,38.767837,-85.396625,﻿vinc.in.0216,﻿Attended from South Madison,,"﻿Went with 0216 as ""South Madison"" because 0081 was already identified as ""Madison""",,,,,,,,,,1870.0,Vincennes
 ﻿vinc.in.0083,﻿church,﻿Help of Christians,English,,,,﻿Spencer County,,﻿Maria Mills,﻿Mariah Hill,﻿IN,,38.1653316,-86.9247169,﻿vinc.in.0150,﻿Attended from St. Meinrad,,,,,,,,,,,,1870.0,Vincennes
 ﻿vinc.in.0084,﻿church,﻿St. Martin's,English,,,,﻿Morgan County,,﻿Martinsville,﻿Martinsville,﻿IN,,39.4278253,-86.42832790000001,﻿vinc.in.0034,﻿Attended from Edinburgh,,,,,,,,,,,,1870.0,Vincennes
 ﻿vinc.in.0085,﻿church,not recorded,English,,,,﻿Jackson County,,﻿Medora,﻿Medora,﻿IN,,38.8250535,-86.1699827,﻿vinc.in.0126,﻿Attended from Seymour,,,,,,,,,,,,1870.0,Vincennes

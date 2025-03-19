@@ -3,7 +3,7 @@
 ﻿ore.or.0001,﻿cathedral,﻿Cathedral of the Immaculate Conception,English,,,,,,﻿Portland,﻿Portland,﻿OR,,45.5236977,-122.6890595,,,,,﻿joh_f_fierens_001,﻿Very Rev.,﻿John F. Fierens,,﻿Rector,,,,,1870.0,OregonCity
 ﻿ore.or.0001,﻿cathedral,﻿Cathedral of the Immaculate Conception,English,,,,,,﻿Portland,﻿Portland,﻿OR,,45.5236977,-122.6890595,,,,,﻿cam_delahunty_001,﻿Rev.,﻿Camillus Delahunty,,﻿Assistant,,,,,1870.0,OregonCity
 ﻿ore.or.0001,﻿cathedral,﻿Cathedral of the Immaculate Conception,English,,,,,,﻿Portland,﻿Portland,﻿OR,,45.5236977,-122.6890595,,,,,﻿lew_piette_001,﻿Rev.,﻿Lewis Piette,,﻿Chaplain to the Convent,,,,,1870.0,OregonCity
-﻿ore.or.0002,﻿church,﻿Sacred Heart's Church,English,,,,,,﻿Oregon City,﻿Oregon City,﻿OR,,45.3556099,-122.605853,,,,,﻿de_cream_001,﻿Rev. Mr.,﻿De Cream,,﻿Pastor,,,,,1870.0,OregonCity
+﻿ore.or.0002,﻿church,﻿Sacred Heart's Church,English,,,,,,﻿Oregon City,﻿Oregon City,﻿OR,,45.3556099,-122.605853,,,,,﻿de-cream_001,﻿Rev. Mr.,﻿De Cream,,﻿Pastor,,,,,1870.0,OregonCity
 ﻿ore.or.0003,﻿church,﻿St. John the Baptist's Church,English,,﻿Milwaukee,,,,﻿Milwaukee,﻿Milwaukie,﻿OR,,45.442618599999996,-122.6398398,﻿ore.or.0002,﻿Attended from Oregon City,,,,,,,,,,,,1870.0,OregonCity
 ﻿ore.or.0004,﻿church,not recorded,English,,﻿Oswego Station,,,,﻿Oswego Station,﻿Lake Oswego,﻿OR,,45.4120536,-122.6965754,﻿ore.or.0002,﻿attended from Oregon City,,,,,,,,,,,,1870.0,OregonCity
 ﻿ore.or.0005,﻿church,not recorded,English,,﻿Molala,,,,﻿Molala,﻿Molalla,﻿OR,,45.1475439,-122.5771264,﻿ore.or.0002,﻿attended from Oregon City,,,,,,,,,,,,1870.0,OregonCity
@@ -14,8 +14,8 @@
 ﻿ore.or.0010,﻿church,not recorded,English,,,,,,﻿Ranier,﻿Ranier,﻿OR,,46.0891348,-122.93597759999999,﻿ore.or.0001,﻿attended from Portland,,,,,,,,,,,,1870.0,OregonCity
 ﻿ore.or.0011,﻿church,not recorded,English,,,,,,﻿St. Helen,﻿St. Helen,﻿OR,,45.858963700000004,-122.8212297,﻿ore.or.0001,﻿attended from Portland,,,,,,,,,,,,1870.0,OregonCity
 ﻿ore.or.0012,﻿church,not recorded,English,,,,,,﻿Columbia Bottom,,﻿OR,,45.56986,-122.48664,﻿ore.or.0001,﻿attended from Portland,,,,,,,,,,,,1870.0,OregonCity
-﻿ore.or.0013,﻿church,not recorded,English,,﻿French Prairie,,﻿Marion County,,﻿St. Louis,﻿St. Louis,﻿OR,,45.123680900000004,-122.94262420000001,,,,,﻿gus_c_thibau_001,﻿Rev.,﻿Gustave Camille Thibau,,﻿Pastor,,,,,1870.0,OregonCity
-﻿ore.or.0013,﻿church,not recorded,English,,﻿French Prairie,,﻿Marion County,,﻿St. Louis,﻿St. Louis,﻿OR,,45.123680900000004,-122.94262420000001,,,,,﻿a_libar_001,﻿Rev.,﻿A. Libar,,﻿Assistant,,,,,1870.0,OregonCity
+﻿ore.or.0013,﻿church,not recorded,English,,﻿French Prairie,,﻿Marion County,,﻿St. Louis,﻿St. Louis,﻿OR,,45.12326666,-122.94263229999999,,,,,﻿gus_c_thibau_001,﻿Rev.,﻿Gustave Camille Thibau,,﻿Pastor,,,,,1870.0,OregonCity
+﻿ore.or.0013,﻿church,not recorded,English,,﻿French Prairie,,﻿Marion County,,﻿St. Louis,﻿St. Louis,﻿OR,,45.12326666,-122.94263229999999,,,,,﻿a_libar_001,﻿Rev.,﻿A. Libar,,﻿Assistant,,,,,1870.0,OregonCity
 ﻿ore.or.0014,﻿church,not recorded,English,,﻿French Prairie,,﻿Marion County,,﻿St. Paul,﻿St. Paul,﻿OR,,45.2112295,-122.9767662,,,,,﻿ado_j_glorieux_001,﻿Rev.,﻿Adolphe Joseph Glorieux,,﻿Pastor,,,,,1870.0,OregonCity
 ﻿ore.or.0015,﻿church,not recorded,English,,,,,,﻿Butteville,﻿Butteville,﻿OR,,45.2623415,-122.84037430000001,﻿ore.or.0014,﻿attended from St. Paul's,,,,,,,,,,,,1870.0,OregonCity
 ﻿ore.or.0016,﻿church,not recorded,English,,﻿Champaeg,,,,﻿Champaeg,﻿Champoeg,﻿OR,,45.24873,-122.8981534,﻿ore.or.0014,﻿attended from St. Paul's,,,,,,,,,,,,1870.0,OregonCity
@@ -70,7 +70,7 @@
 ﻿ore.or.0065,﻿church,not recorded,English,,,﻿East of the Cascade Range,,,﻿Dixie City,﻿Dixie City,﻿OR,,43.8041334,-120.55420120000001,﻿ore.or.0062,﻿attended from Canyon City,,,,,,,,,,,,1870.0,OregonCity
 ﻿ore.or.0066,﻿church,not recorded,English,,,﻿East of the Cascade Range,,,﻿Olive Creek,﻿Olive Creek,﻿OR,,43.8041334,-120.55420120000001,﻿ore.or.0062,﻿attended from Canyon City,,,,,,,,,,,,1870.0,OregonCity
 ﻿ore.or.0067,﻿church,not recorded,English,,,﻿East of the Cascade Range,,,﻿Burnt River,﻿Burnt River,﻿OR,,44.5000956,-118.0880957,﻿ore.or.0062,﻿attended from Canyon City,,,,,,,,,,,,1870.0,OregonCity
-﻿ore.or.0068,﻿church,not recorded,English,,,﻿East of the Cascade Range,,,﻿Willow Creek,﻿Willow Creek,﻿OR,,44.114605,-117.364349,﻿ore.or.0062,﻿attended from Canyon City,,,,,,,,,,,,1870.0,OregonCity
+﻿ore.or.0068,﻿church,not recorded,English,,,﻿East of the Cascade Range,,,﻿Willow Creek,﻿Willow Creek,﻿OR,,43.792629999999996,-123.77728,﻿ore.or.0062,﻿attended from Canyon City,,,,,,,,,,,,1870.0,OregonCity
 ﻿ore.or.0069,﻿church,not recorded,English,,"﻿Fort Harney, in Harney Valley, 75 miles south from Canyon City",﻿East of the Cascade Range,,,,﻿Harney,﻿OR,,43.61319647,-118.8216947,﻿ore.or.0062,﻿attended from Canyon City,,,,,,,,,,,,1870.0,OregonCity
 ﻿ore.or.0070,﻿church,not recorded,English,,"﻿Fort Warner, 180 miles south from Fort Harney, and 15 miles from the frontiers of California",﻿East of the Cascade Range,,,,,﻿OR,,42.07777787,-119.9250797,﻿ore.or.0062,﻿attended from Canyon City,,,,,,,,,,,,1870.0,OregonCity
 ﻿ore.or.0071,﻿church,not recorded,English,﻿which has received 150 farmers in one year,﻿Goose Lake Valley,﻿East of the Cascade Range,,,,,﻿OR,,43.8041334,-120.55420120000001,﻿ore.or.0062,﻿attended from Canyon City,,,,,,,,,,,,1870.0,OregonCity
@@ -82,4 +82,4 @@
 ﻿ore.or.0077,﻿academy,﻿St. Mary's Academy,English,,,,,,﻿Oregon City,﻿Oregon City,﻿OR,,45.512531,-122.6812742,,,,,,,,,,,,,,1870.0,OregonCity
 ﻿ore.or.0078,﻿academy,not recorded,English,﻿for boys,,,,,﻿Portland,﻿Portland,﻿OR,,45.515232,-122.67838529999999,,,,,,,,,,,,,,1870.0,OregonCity
 ﻿ore.or.0079,﻿school,not recorded,English,﻿for boys,,,,,﻿St. Paul,﻿St. Paul,﻿OR,,45.2112295,-122.9767662,,,,,,,,,,,,,,1870.0,OregonCity
-﻿ore.or.0080,﻿school,not recorded,English,﻿for boys,,,,,﻿St. Louis,﻿St Louis,﻿OR,,38.6270025,-90.1994042,,,,,,,,,,,,,,1870.0,OregonCity
+﻿ore.or.0080,﻿school,not recorded,English,﻿for boys,,,,,﻿St. Louis,﻿St Louis,﻿OR,,45.12326666,-122.94263229999999,,,,,,,,,,,,,,1870.0,OregonCity

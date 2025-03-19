@@ -6,7 +6,7 @@
 const fs = require('fs');
 const path = require('path');
 const csv = require('csv-parser');
-const{ Church } = require('../models');
+const{ churchInYear, church } = require('../models');
 const{ loadData } = require('../utils/data-preprocess');
 
 /** @type {import('sequelize-cli').Migration} */
@@ -47,10 +47,22 @@ async function importData(data) {
   for (const item of uniqueChurchInfo) {
     if (item.uniqueInstID) {
       try{
-        await Church.create(item);
+        await churchInYear.findOrCreate({
+          where: { uniqueInstID: item.uniqueInstID },
+          defaults: item
+        });
         //console.log(`Created church: ${item.instID}`);
       } catch (error) {
         console.log(`Error creating church: ${item.uniqueInstID}`, error);
+      }
+    }
+    if (item.instID) {
+      try{
+        await church.findOrCreate({
+          where: { instID: item.instID }
+        });
+      } catch (error) {
+        console.log(`Error creating church: ${item.instID}`, error);
       }
     }
   };

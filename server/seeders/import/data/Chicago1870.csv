@@ -30,7 +30,7 @@
 ﻿chi.il.0007,﻿church,﻿St. Michael's,﻿German,"﻿Residence on Church street, adjoining the church",﻿corner of Linden and Hulbert streets,,,,﻿Chicago,﻿Chicago,﻿IL,,41.91214034,-87.6409337,,,,,﻿f_oberle_001,﻿Rev.,﻿F. Oberle,﻿C.SS.R.,,,,,,1870.0,Chicago
 ﻿chi.il.0007,﻿church,﻿St. Michael's,﻿German,"﻿Residence on Church street, adjoining the church",﻿corner of Linden and Hulbert streets,,,,﻿Chicago,﻿Chicago,﻿IL,,41.91214034,-87.6409337,,,,,﻿r_klieniedam_001,﻿Rev.,﻿R. Klieniedam,,,,,,,1870.0,Chicago
 ﻿chi.il.0008,﻿church,﻿St. Joseph's,﻿German,"﻿Residence on Cass street, adjoining the church",﻿corner of Cass street and Chicago avenue,,,,﻿Chicago,﻿Chicago,﻿IL,,41.89671205,-87.62555666,,,,,﻿lea_schuers_001,﻿Rev.,﻿Leander Schuers,﻿O.S.B.,,,,,,1870.0,Chicago
-﻿chi.il.0008,﻿church,﻿St. Joseph's,﻿German,"﻿Residence on Cass street, adjoining the church",﻿corner of Cass street and Chicago avenue,,,,﻿Chicago,﻿Chicago,﻿IL,,41.89671205,-87.62555666,,,,,﻿p_s_marteau_001,﻿Rev.,﻿P. Suilbert de Marteau,﻿O.S.B.,,,,,,1870.0,Chicago
+﻿chi.il.0008,﻿church,﻿St. Joseph's,﻿German,"﻿Residence on Cass street, adjoining the church",﻿corner of Cass street and Chicago avenue,,,,﻿Chicago,﻿Chicago,﻿IL,,41.89671205,-87.62555666,,,,,﻿p_s_de-marteau_001,﻿Rev.,﻿P. Suilbert de Marteau,﻿O.S.B.,,,,,,1870.0,Chicago
 ﻿chi.il.0008,﻿church,﻿St. Joseph's,﻿German,"﻿Residence on Cass street, adjoining the church",﻿corner of Cass street and Chicago avenue,,,,﻿Chicago,﻿Chicago,﻿IL,,41.89671205,-87.62555666,,,,,﻿a_stubinger_001,﻿Rev.,﻿A. Stubinger,,,,,,,1870.0,Chicago
 ﻿chi.il.0009,﻿church,﻿St. Bridget's,English,"﻿Residence, adjoining church",﻿Bridgeport,,,,﻿Chicago,﻿Chicago,﻿IL,,41.841201,-87.65944992,,,,,﻿joh_h_grogan_001,﻿Rev.,﻿John H. Grogan,,,,,,,1870.0,Chicago
 ﻿chi.il.0010,﻿church,﻿St. John's,English,"﻿Residence, adjoining church",﻿Corner of Clark and Eighteenth streets,,,,﻿Chicago,﻿Chicago,﻿IL,,41.85796108,-87.62999524,,,,,﻿joh_waldron_001,﻿Rev.,﻿John Waldron,,,,,,,1870.0,Chicago
@@ -57,15 +57,15 @@
 ﻿chi.il.0029,﻿church,﻿Sacred Heart,English,,,,﻿Kane,,﻿Aurora,﻿Aurora,﻿IL,,41.7605849,-88.3200715,,,,,﻿j_clarke_001,﻿Rev.,﻿J. Clarke,,,,,,,1870.0,Chicago
 ﻿chi.il.0030,﻿church,﻿St. Nicholas',﻿German,,,,﻿Kane,,﻿Aurora,﻿Aurora,﻿IL,,41.76135775,-88.30320275,,,,,﻿her_liermann_001,﻿Rev.,﻿Hermann Liermann,,,,,,,1870.0,Chicago
 ﻿chi.il.0031,﻿church,﻿Holy Trinity,﻿German,﻿German Catholic church,,,﻿McLean,,﻿Bloomington,﻿Bloomington,﻿IL,,40.48525023,-88.99422853,,﻿Attended from Lincoln,﻿regularly,,﻿p_duhig_001,﻿Rev.,﻿P. Duhig,,,,,,,1870.0,Chicago
-﻿chi.il.0031,﻿church,﻿Holy Trinity,﻿German,﻿German Catholic church,,,﻿McLean,,﻿Bloomington,﻿Bloomington,﻿IL,,40.48525023,-88.99422853,,,,,,﻿Rev.,﻿— Gormey,,,,,,,1870.0,Chicago
+﻿chi.il.0031,﻿church,﻿Holy Trinity,﻿German,﻿German Catholic church,,,﻿McLean,,﻿Bloomington,﻿Bloomington,﻿IL,,40.48525023,-88.99422853,,,,,﻿gormey_001,﻿Rev.,﻿— Gormey,,,,,,,1870.0,Chicago
 ﻿chi.il.0032,﻿church,﻿Notre Dame,English,,,,﻿Kankakee,,﻿Bourbonnais Grove,﻿Bourbonnais,﻿IL,,41.15648863,-87.87627605,,,,,﻿p_baudoin_001,﻿Rev.,﻿P. Baudoin,,,,,,,1870.0,Chicago
 ﻿chi.il.0032,﻿church,﻿Notre Dame,English,,,,﻿Kankakee,,﻿Bourbonnais Grove,﻿Bourbonnais,﻿IL,,41.15648863,-87.87627605,,,,,﻿roy_001,﻿Rev. Fr.,﻿Roy,,,,,,,1870.0,Chicago
 ﻿chi.il.0033,﻿church,﻿St. Joseph's,English,,,,﻿Peoria,,﻿Brimfield,﻿Brimfield,﻿IL,,40.83976145,-89.8888287,,,,,﻿h_boërs_001,﻿Rev.,﻿H. Boërs,,,,,,,1870.0,Chicago
 ﻿chi.il.0034,﻿church,not recorded,English,,,,,,﻿Buffalo Grove,﻿Buffalo Grove,﻿IL,,42.1545374,-87.96360669,,,,,﻿j_goldsmidt_001,﻿Rev.,﻿J. Goldsmidt,,﻿Pastor,,,,,1870.0,Chicago
-﻿chi.il.0035,﻿church,﻿St. Peter's,English,,,,,﻿Iroquois County,﻿Clifton,﻿Clifton,﻿IL,,40.9353109,-87.93448509999999,,,,,,﻿Rev.,﻿— Kukenbuch,,,,,,,1870.0,Chicago
+﻿chi.il.0035,﻿church,﻿St. Peter's,English,,,,,﻿Iroquois County,﻿Clifton,﻿Clifton,﻿IL,,40.9353109,-87.93448509999999,,,,,﻿kukenbuch_001,﻿Rev.,﻿— Kukenbuch,,,,,,,1870.0,Chicago
 ﻿chi.il.0036,﻿church,﻿St. Mary's,English,,,,﻿Fulton,﻿Fulton County,﻿Canton,﻿Canton,﻿IL,,40.55732454,-90.03214698,,,﻿Attended twice a month,,﻿j_ryan_001,﻿Rev.,﻿J. Ryan,,,,,,,1870.0,Chicago
 ﻿chi.il.0037,﻿church,﻿St. Mary's,English,,,,﻿Champaign,,﻿Champaign,﻿Champaign,﻿IL,,40.11766284,-88.2293473,,,,,﻿pat_toner_001,﻿Rev.,﻿Patrick Toner,,,,,,,1870.0,Chicago
-﻿chi.il.0038,﻿church,not recorded,English,,,,,,﻿Cottage Hill,,﻿IL,,﻿Try again to find coordinates,-88.2293473,,,,,,﻿Rev.,﻿——,,﻿Pastor,,,,,1870.0,Chicago
+﻿chi.il.0038,﻿church,not recorded,English,,,,,,﻿Cottage Hill,,﻿IL,,40.11766284,-88.2293473,,,,,,﻿Rev.,﻿——,,﻿Pastor,,,,,1870.0,Chicago
 ﻿chi.il.0039,﻿church,﻿St. Patrick's,﻿German,﻿German church,,,﻿Vermilion,﻿Vermilion County,﻿Danville,﻿Danville,﻿IL,,39.98820602,-88.25720849,,,,,﻿m_prendergast_001,﻿Rev.,﻿M. Prendergast,,,,,,,1870.0,Chicago
 ﻿chi.il.0039,﻿church,﻿St. Patrick's,﻿German,﻿German church,,,﻿Vermilion,﻿Vermilion County,﻿Danville,﻿Danville,﻿IL,,39.98820602,-88.25720849,,,,,﻿a_reck_001,﻿Rev.,﻿A. Reck,,,,,,,1870.0,Chicago
 ﻿chi.il.0040,﻿church,﻿St. Mary's,English,,,,﻿De Kalb,,﻿De Kalb,﻿DeKalb,﻿IL,,41.93294433,-88.74856482,,,,,﻿r_scott_001,﻿Rev.,﻿R. Scott,,,,,,,1870.0,Chicago
@@ -101,7 +101,7 @@
 ﻿chi.il.0070,﻿church,﻿St. Mary's,English,,,,,﻿Lake County,﻿Lake Forest,﻿Lake Forest,﻿IL,,42.25506477,-87.83971721,,,,,﻿p_mcelhearne_001,﻿Rev.,﻿P. McElhearne,,﻿Pastor,,,,,1870.0,Chicago
 ﻿chi.il.0071,﻿church,﻿St. Patrick's,English,,,,,﻿La Salle County,﻿La Salle,﻿La Salle,﻿IL,,41.33178105,-89.09574784,,,,,﻿mar_anthony_001,﻿Rev.,﻿Mark Anthony,﻿C.M.,,,,,,1870.0,Chicago
 ﻿chi.il.0071,﻿church,﻿St. Patrick's,English,,,,,﻿La Salle County,﻿La Salle,﻿La Salle,﻿IL,,41.33178105,-89.09574784,,,,,﻿p_knowd_001,﻿Rev.,﻿P. Knowd,﻿C.M.,,,,,,1870.0,Chicago
-﻿chi.il.0072,﻿church,not recorded,English,,,,﻿Iroquois,,﻿L'Erable,﻿L'Erable,﻿IL,,40.90270974,-87.84636903,,,,,,﻿Rev.,﻿— Kavanagh,,,,,,,1870.0,Chicago
+﻿chi.il.0072,﻿church,not recorded,English,,,,﻿Iroquois,,﻿L'Erable,﻿L'Erable,﻿IL,,40.90270974,-87.84636903,,,,,﻿kavanagh_001,﻿Rev.,﻿— Kavanagh,,,,,,,1870.0,Chicago
 ﻿chi.il.0072,﻿church,not recorded,English,,,,﻿Iroquois,,﻿L'Erable,﻿L'Erable,﻿IL,,40.90270974,-87.84636903,,,,,﻿cha_clement_001,﻿Rev.,﻿Charles Clement,,,,,,,1870.0,Chicago
 ﻿chi.il.0073,﻿church,﻿St. Patrick's,English,,,,﻿Logan,﻿Logan County,﻿Lincoln,﻿Lincoln,﻿IL,,40.15457068,-89.36797216,,,,,﻿p_dalton_001,﻿Rev.,﻿P. Dalton,,,,,,,1870.0,Chicago
 ﻿chi.il.0074,﻿church,not recorded,﻿German,,,,﻿Logan,﻿Logan County,﻿Lincoln,﻿Lincoln,﻿IL,,40.061338,-89.3226954,,,,,﻿w_nettstraeter_001,﻿Rev.,﻿W. Nettstraeter,,,,,,,1870.0,Chicago
@@ -114,7 +114,7 @@
 ﻿chi.il.0080,﻿church,﻿Immaculate Conception,English,,,,,﻿La Salle County,﻿Mendota,﻿Mendota,﻿IL,,41.5472547,-89.11758509999999,,,,,﻿j_bowles_001,﻿Rev.,﻿J. Bowles,,﻿Assistant,,,,,1870.0,Chicago
 ﻿chi.il.0081,﻿church,not recorded,﻿German,,,,﻿La Salle,﻿La Salle County,﻿Mendota,﻿Mendota,﻿IL,,41.54945686,-89.12355092,,,,,﻿e_hermann_001,﻿Rev.,﻿E. Hermann,,,,,,,1870.0,Chicago
 ﻿chi.il.0082,﻿church,not recorded,English,,﻿Excelsior Mills P.O.,,,﻿Jo Daviess County,﻿Menomonee,﻿Menominee,﻿IL,,42.48864801,-90.53296405,,,,,﻿h_verhoef_001,﻿Rev.,﻿H. Verhoef,,,,,,,1870.0,Chicago
-﻿chi.il.0083,﻿church,﻿St. Mary's,English,,,,﻿Woodford,﻿Woodford County,﻿Metamora,﻿Metamora,﻿IL,,40.79150161,-89.46296678,,,,,,﻿Rev.,﻿— Shroudenback,,,,,,,1870.0,Chicago
+﻿chi.il.0083,﻿church,﻿St. Mary's,English,,,,﻿Woodford,﻿Woodford County,﻿Metamora,﻿Metamora,﻿IL,,40.79150161,-89.46296678,,,,,﻿shroudenback_001,﻿Rev.,﻿— Shroudenback,,,,,,,1870.0,Chicago
 ﻿chi.il.0084,﻿church,not recorded,English,,﻿Rosencrans P.O.,,,﻿Union County,﻿Mill Creek,﻿Mill Creek,﻿IL,,42.45512308,-87.95270452,,,,,﻿p_corcoran_001,﻿Rev.,﻿P. Corcoran,,,,,,,1870.0,Chicago
 ﻿chi.il.0085,﻿church,not recorded,English,,,,﻿Grundy,,﻿Minooka,﻿Minooka,﻿IL,,41.4566776,-88.2690245,,,,,﻿p_sheedy_001,﻿Rev.,﻿P. Sheedy,,,,,,,1870.0,Chicago
 ﻿chi.il.0086,﻿church,﻿Immaculate Conception,English,,,,﻿Grundy,﻿Grundy County,﻿Morris,﻿Morris,﻿IL,,41.36046748,-88.41899925,,,,,﻿j_devine_001,﻿Rev.,﻿J. Devine,,,,,,,1870.0,Chicago
@@ -274,14 +274,14 @@
 ﻿chi.il.0240,﻿house,﻿Order of St. Viateur,English,,,,,,﻿Chicago,﻿Chicago,﻿IL,,41.9478719,-87.7309264,,,,,﻿p_beaudoin_001,﻿Rev.,﻿P. Beaudoin,,﻿Superior,,,,,1870.0,Chicago
 ﻿chi.il.0241,﻿academy,﻿St. Francis Xavier's Academy,English,,﻿131 Wabash avenue,,,,﻿Chicago,﻿Chicago,﻿IL,,41.88215304,-87.62623814,,,,,﻿p_beaudoin_001,﻿Rev.,﻿P. Beaudoin,,﻿Superior,,,,,1870.0,Chicago
 ﻿chi.il.0241,﻿academy,﻿St. Francis Xavier's Academy,English,,﻿131 Wabash avenue,,,,﻿Chicago,﻿Chicago,﻿IL,,41.86973731,-87.65913135,,,,,,,,,,,,,﻿Under the direction of the Sisters of Mercy,1870.0,Chicago
-﻿chi.il.0242,﻿seminary,﻿Seminary of the Sacred Heart,English,,﻿Corner of Taylor and Throop streets,,,,﻿Chicago,﻿Chicago,﻿IL,,41.89689282,-87.62704114,,,,,﻿m_j_gauthreux_001,﻿Madame,﻿M. J. Gauthreux,,﻿Superior,,,,,1870.0,Chicago
+﻿chi.il.0242,﻿seminary,﻿Seminary of the Sacred Heart,English,,﻿Corner of Taylor and Throop streets,,,,﻿Chicago,﻿Chicago,﻿IL,,41.89689282,-87.62704114,,,,,,﻿Madame,﻿M. J. Gauthreux,,﻿Superior,,,,,1870.0,Chicago
 ﻿chi.il.0242,﻿seminary,﻿Seminary of the Sacred Heart,English,,﻿Corner of Taylor and Throop streets,,,,﻿Bloomington,﻿Bloomington,﻿IL,,40.48544794,-88.99461298,,,,,,,,,,,,,,1870.0,Chicago
 ﻿chi.il.0243,﻿academy,﻿St. Joseph's Academy,English,,﻿Chicago avenue,,,﻿Kankakee County,﻿Bourbonnais Grove,﻿Bourbonnais,﻿IL,,41.1545949,-87.87476264,,,,,,,,,,,,,﻿Under the charge of the Sisters of St. Benedict,1870.0,Chicago
 ﻿chi.il.0244,﻿academy,﻿St. Joseph's Academy,English,,,,﻿McLean,,﻿La Salle,﻿La Salle,﻿IL,,40.6331249,-89.3985283,,,,,,,,,,,,,﻿Under the charge of the Sisters of St. Joseph,1870.0,Chicago
 ﻿chi.il.0245,﻿academy,﻿Notre Dame Academy,English,,,,﻿Kankakee,,﻿Morris,﻿Morris,﻿IL,,41.36144431,-88.41419165,,,,,,﻿Sister-Servant,﻿Alexis de St. Joseph,,﻿Superior,,,,,1870.0,Chicago
 ﻿chi.il.0245,﻿academy,﻿Notre Dame Academy,English,,,,﻿Kankakee,﻿La Salle County,﻿Ottawa,﻿Ottawa,﻿IL,,41.3455892,-88.84257690000001,,,,,,,,,,,,,﻿Under the direction of the Sisters of the Congregation,1870.0,Chicago
 ﻿chi.il.0246,﻿academy,﻿St. Vincent's Academy,English,,,,﻿La Salle,,,,﻿IL,,40.69483698,-89.5845249,,,,,,﻿Sister,﻿Pacifica,,﻿Superior,,,,,1870.0,Chicago
-﻿chi.il.0246,﻿academy,﻿St. Vincent's Academy,English,,,,﻿La Salle,,﻿Chicago,﻿Chicago,﻿IL,,41.741676,-87.70966740000001,,,,,﻿und_t_charity_001,,,,,,,,﻿Under the direction of the Daughters of Charity,1870.0,Chicago
+﻿chi.il.0246,﻿academy,﻿St. Vincent's Academy,English,,,,﻿La Salle,,﻿Chicago,﻿Chicago,﻿IL,,41.741676,-87.70966740000001,,,,,,,,,,,,,﻿Under the direction of the Daughters of Charity,1870.0,Chicago
 ﻿chi.il.0247,﻿academy,﻿St. Angela's Academy,English,,,,﻿Grundy,﻿Kankakee County,﻿Bourbonnais,﻿Bourbonnais,﻿IL,,41.15702865,-87.87473641,,,,,,﻿Sister,﻿Frances,,﻿Superior,,,,,1870.0,Chicago
 ﻿chi.il.0247,﻿academy,﻿St. Angela's Academy,English,,,,﻿Grundy,﻿Kankakee County,﻿Chicago,﻿Chicago,﻿IL,,41.88168173,-87.62616931,,,,,,,,,,,,,﻿Under the direction of the Sisters of the Holy Cross,1870.0,Chicago
 ﻿chi.il.0248,﻿academy,﻿St. Francis Xavier's Academy,English,,,,,,﻿Chicago,﻿Chicago,﻿IL,,41.86973731,-87.65913135,,,,,,,,,,,,,﻿Under the direction of the Sisters of Mercy,1870.0,Chicago
@@ -294,7 +294,7 @@
 ﻿chi.il.0252,﻿convent,﻿Convent of the Sisters of Mercy,English,,﻿135 Wabash avenue,,,,﻿Bloomington,﻿Bloomington,﻿IL,,40.4854768,-88.994654,,,,,,﻿Sister,﻿M. Scholastica,,﻿Superior,,,,,1870.0,Chicago
 ﻿chi.il.0252,﻿convent,﻿Convent of the Sisters of Mercy,English,,﻿135 Wabash avenue,,,﻿Kankakee County,﻿Bourbonnais Grove,﻿Bourbonnais,﻿IL,,41.15702865,-87.87473641,,,,,,,,,,,,,,1870.0,Chicago
 ﻿chi.il.0252,﻿convent,﻿Convent of the Sisters of Mercy,English,,﻿135 Wabash avenue,,,﻿Kankakee County,﻿Morris,﻿Morris,﻿IL,,41.36144431,-88.41419165,,,,,,,,,,,,,,1870.0,Chicago
-﻿chi.il.0253,﻿convent,﻿Convent of the Sacred Heart,English,,﻿Corner of Taylor and Throop streets,,,,﻿Joliet,﻿Joliet,﻿IL,,41.525031,-88.0817251,,,,,﻿m_r_gauthreux_001,﻿Madame,﻿M. R. Gauthreux,,﻿Superior,,,,,1870.0,Chicago
+﻿chi.il.0253,﻿convent,﻿Convent of the Sacred Heart,English,,﻿Corner of Taylor and Throop streets,,,,﻿Joliet,﻿Joliet,﻿IL,,41.525031,-88.0817251,,,,,,﻿Madame,﻿M. R. Gauthreux,,﻿Superior,,,,,1870.0,Chicago
 ﻿chi.il.0253,﻿convent,﻿Convent of the Sacred Heart,English,,﻿Corner of Taylor and Throop streets,,,﻿La Salle County,﻿Ottawa,﻿Ottawa,﻿IL,,41.350375,-88.83943511,,,,,,,,,,,,,,1870.0,Chicago
 ﻿chi.il.0253,﻿convent,﻿Convent of the Sacred Heart,English,,﻿Corner of Taylor and Throop streets,,,﻿La Salle County,﻿La Salle,﻿La Salle,﻿IL,,41.32822237,-89.09400634,,,,,,,,,,,,,,1870.0,Chicago
 ﻿chi.il.0254,﻿convent,﻿St. Joseph's Convent,English,,﻿Chicago Avenue,,,,﻿Chicago,﻿Chicago,﻿IL,,41.86486248,-87.64137974,,,,,﻿m_antonia_001,,﻿M. Antonia,﻿O.S.B.,﻿Superior,,,,﻿Sisters of St. Benedict,1870.0,Chicago
@@ -325,7 +325,7 @@
 ﻿chi.il.0268,﻿convent,﻿St. Peter's Church,English,,﻿corner of Clark and Polk streets,,,,﻿Chicago,﻿Chicago,﻿IL,,41.88228297,-87.63145416,,,,,,,,,,,,,﻿Under the direction of the Sisters of Notre Dame,1870.0,Chicago
 ﻿chi.il.0269,﻿convent,not recorded,English,,﻿Convent,,,,﻿Chicago,﻿Chicago,﻿IL,,41.88228297,-87.63145416,,,,,,﻿Sister,﻿Mélanie,,﻿Superior,,,,,1870.0,Chicago
 ﻿chi.il.0269,﻿convent,not recorded,English,,﻿Convent,,,,﻿Chicago,﻿Chicago,﻿IL,,41.91309555,-87.64076883,,,,,,,,,,,,,﻿Under the direction of the Sisters of Notre Dame,1870.0,Chicago
-﻿chi.il.0270,﻿convent,not recorded,English,,﻿Convent,,,,﻿Chicago,﻿Chicago,﻿IL,,41.91309555,-87.64076883,,,,,﻿mélanie_001,﻿Sœur St.,﻿Mélanie,,﻿Superior,,,,,1870.0,Chicago
+﻿chi.il.0270,﻿convent,not recorded,English,,﻿Convent,,,,﻿Chicago,﻿Chicago,﻿IL,,41.91309555,-87.64076883,,,,,,﻿Sœur St.,﻿Mélanie,,﻿Superior,,,,,1870.0,Chicago
 ﻿chi.il.0271,﻿convent,﻿Church of the Immaculate Conception,English,,"﻿North Franklin, near Schiller street",,,,﻿Chicago,﻿Chicago,﻿IL,,41.89673178,-87.62555666,,,,,,,,,,,,,﻿Under the direction of the Sisters of Notre Dame,1870.0,Chicago
 ﻿chi.il.0272,﻿convent,﻿Convent of the Sisters of St. Francis Assisium,English,,﻿at St. Francis' Church,,,,﻿Chicago,﻿Chicago,﻿IL,,41.89673178,-87.62555666,,,,,,﻿Sister,﻿Maria Barbara,,﻿Superior,,,,,1870.0,Chicago
 ﻿chi.il.0272,﻿convent,﻿Convent of the Sisters of St. Francis Assisium,English,,﻿at St. Francis' Church,,,,﻿Chicago,﻿Chicago,﻿IL,,41.8577813,-87.63023928,,,,,,,,,,,,,﻿Under the direction of the Sisters of St. Dominic,1870.0,Chicago

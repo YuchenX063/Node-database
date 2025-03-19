@@ -1,42 +1,44 @@
 ﻿instID,church_type,instName,language,instNote,placeName,region,county_orig,county_reg,city_orig,city_reg,state_orig,state_reg,latitude,longitude,attendingInstID,attendingChurch,attendingChurchFrequency,attendingChurchNote,persID,persTitle,persName,persSuffix,persRole,persNote,memberType,member,affiliated,year,diocese
-﻿cha.sc.0001,﻿cathedral,"﻿Cathedral Chapel, St. John the Baptist",English,,,,,,﻿Charleston,﻿Charleston,﻿SC,,32.7764958,-79.9344682,,,,,﻿p_n_lynch_001,﻿Rt. Rev.,﻿P. N. Lynch,﻿D.D.,,,,,,1868.0,Charleston
-﻿cha.sc.0001,﻿cathedral,"﻿Cathedral Chapel, St. John the Baptist",English,,,,,,﻿Charleston,﻿Charleston,﻿SC,,32.7764958,-79.9344682,,,,,﻿t_bermingham_001,﻿Very Rev.,﻿T. Bermingham,﻿D.D.,﻿Vicar-General,,,,,1868.0,Charleston
-﻿cha.sc.0001,﻿cathedral,"﻿Cathedral Chapel, St. John the Baptist",English,,,,,,﻿Charleston,﻿Charleston,﻿SC,,32.7764958,-79.9344682,,,,,﻿dan_j_quigley_001,﻿Rev.,﻿Daniel J. Quigley,,,,,,,1868.0,Charleston
-﻿cha.sc.0002,﻿church,﻿St. Mary's,English,,﻿Hasell street,,,,﻿Charleston,﻿Charleston,﻿SC,,32.7817998,-79.9328247,,,,,﻿r_s_baker_001,﻿Very Rev.,﻿R. S. Baker,,,,,,,1868.0,Charleston
-﻿cha.sc.0002,﻿church,﻿St. Mary's,English,,﻿Hasell street,,,,﻿Charleston,﻿Charleston,﻿SC,,32.7817998,-79.9328247,,,,,﻿p_ryan_002,﻿Rev.,﻿P. Ryan,,,,,,,1868.0,Charleston
-﻿cha.sc.0002,﻿church,﻿St. Mary's,English,,﻿Hasell street,,,,﻿Charleston,﻿Charleston,﻿SC,,32.7817998,-79.9328247,,,,,﻿cla_b_northrop_001,﻿Rev.,﻿Claudian B. Northrop,,,,,,,1868.0,Charleston
-﻿cha.sc.0003,﻿church,﻿St. Patrick's,English,,,,,,﻿Charleston,﻿Charleston,﻿SC,,32.7882253,-79.9403921,,,,,﻿joh_moore_001,﻿Rev.,﻿John Moore,﻿D.D.,,,,,,1868.0,Charleston
-﻿cha.sc.0003,﻿church,﻿St. Patrick's,English,,,,,,﻿Charleston,﻿Charleston,﻿SC,,32.7882253,-79.9403921,,,,,﻿joh_schachte_001,﻿Rev.,﻿John Schachte,,,﻿1870 includes middle initial O.,,,,1868.0,Charleston
-﻿cha.sc.0004,﻿church,﻿St. Joseph's,English,,,,,,﻿Charleston,﻿Charleston,﻿SC,,32.784352,-79.946823,,,,,﻿cha_j_croghan_001,﻿Rev.,﻿Charles J. Croghan,,,,,,,1868.0,Charleston
-﻿cha.sc.0005,﻿church,﻿St. Paul's,﻿German,,,,,,﻿Charleston,﻿Charleston,﻿SC,,32.928228999999995,-79.85591590000001,,,,,﻿fra_j_shadler_001,﻿Rev.,﻿Francis J. Shadler,,,,,,,1868.0,Charleston
-﻿cha.sc.0006,﻿church,not recorded,﻿African,"﻿""African Church""",,,,,﻿Charleston,﻿Charleston,﻿SC,,32.81442,-80.0487527,,,,,﻿a_folchi_001,﻿Rev.,﻿A. Folchi,,,"﻿full name ""Aloysius"" listed 1968-70.",,,,1868.0,Charleston
-﻿cha.sc.0006,﻿chapel,﻿Chapel Sisters of Mercy,﻿African,"﻿""African Church""",,,,,﻿Charleston,﻿Charleston,﻿SC,,32.81442,-80.0487527,,,,,,,,,,,,,,1868.0,Charleston
-﻿cha.sc.0023,﻿church,﻿St. Peter's,English,,,,,,﻿Beaufort,﻿Beaufort,﻿SC,,32.439429,-80.67054300000001,,,,,﻿jos_p_oconnell_001,﻿Rev.,﻿Joseph P. O'Connell,﻿D.D.,,,,,,1868.0,Charleston
-﻿cha.sc.0024,﻿church,not recorded,English,,,,,,﻿Hilton Head,﻿Hilton Head,﻿SC,,32.216316,-80.752608,,,,,﻿jos_p_oconnell_001,﻿Rev.,﻿Joseph P. O'Connell,﻿D.D.,,,,,,1868.0,Charleston
-﻿cha.sc.0025,﻿church,﻿St. Peter's,English,,,,,,﻿Columbia,﻿Columbia,﻿SC,,34.005606799999995,-81.0380069,,,,,﻿jer_j_oconnell_001,﻿Rev.,﻿Jeremiah J. O'Connell,,,"﻿referred to as ""J. J. O'Connell"" 1869-70",,,,1868.0,Charleston
-﻿cha.sc.0035,﻿church,﻿St. Peter's,English,,,,,,﻿Cheraw,﻿Cheraw,﻿SC,,34.6933706,-79.89188,,,,,﻿j_cullinane_001,﻿Rev.,﻿J. Cullinane,,,"﻿""John Cullinane"" in 1869",,,,1868.0,Charleston
-﻿cha.sc.0034,﻿church,not recorded,English,,,,,,﻿Sumter,﻿Sumter,﻿SC,,33.9346089,-80.3366882,,,,,﻿aug_f_mcneal_001,﻿Rev.,﻿Augustin F. McNeal,,,"﻿""Augustus F. McNeal"" in 1869",,,,1868.0,Charleston
-﻿cha.sc.0021,﻿church,﻿St. Mary's,English,﻿name changes in 1870,,,,,﻿Edgefield,﻿Edgefield,﻿SC,,33.7904312,-81.9303567,,,,,﻿wil_a_meriwether_001,﻿Rev.,﻿William A. Meriwether,,,,,,,1868.0,Charleston
-﻿cha.sc.0021,﻿church,﻿St. Andrew's,English,﻿name changes in 1870,,,,,﻿Barnwell,﻿Barnwell,﻿SC,,33.7904312,-81.9303567,﻿cha.sc.0001,﻿Attended from Charleston,,,,,,,,,,,,1868.0,Charleston
-﻿cha.sc.0007,﻿church,﻿St. John's,English,"﻿""and adjourning stations""",,,,,﻿Sullivan's Island,﻿Sullivan's Island,﻿SC,,32.7607326,-79.8584923,﻿cha.sc.0001,﻿Attended from Charleston,,,,,,,,,,,,1868.0,Charleston
-﻿cha.sc.0007,﻿church,﻿St. John's,English,"﻿""and adjourning stations""",,,,,﻿Newberry,﻿Newberry,﻿SC,,32.7607326,-79.8584923,﻿cha.sc.0025,﻿Attended from Columbia,,,,,,,,,,,,1868.0,Charleston
-﻿cha.sc.0007,﻿church,﻿St. John's,English,"﻿""and adjourning stations""",,,,,﻿Greenville,﻿Greenville,﻿SC,,32.7607326,-79.8584923,﻿cha.sc.0025,﻿Attended from Columbia,,,,,,,,,,,,1868.0,Charleston
-﻿cha.sc.0007,﻿church,﻿St. John's,English,"﻿""and adjourning stations""",,,,,﻿Spartanburgh,﻿Spartanburgh,﻿SC,,32.7607326,-79.8584923,﻿cha.sc.0025,﻿Attended from Columbia,,,,,,,,,,,,1868.0,Charleston
-﻿vic.nc.0001,﻿church,﻿St. Thomas',English,,,,﻿New-Hanover County,﻿New Hanover County,﻿Wilmington,﻿Wilmington,﻿NC,,34.3182651,-77.7743338,,,,,﻿jam_a_corcoran_002,﻿Very Rev.,﻿James A. Corcoran,﻿D.D.,,,,,,1869.0,Charleston
-﻿vic.nc.0001,﻿church,﻿St. Thomas',English,,,,﻿New-Hanover County,﻿New Hanover County,﻿Wilmington,﻿Wilmington,﻿NC,,34.3182651,-77.7743338,,,,,﻿h_p_northrop_001,﻿Rev.,﻿H. P. Northrop,﻿V.G.,,,,,,1869.0,Charleston
-﻿vic.nc.0018,﻿church,﻿St. John the Baptist,English,,,,﻿Wake County,﻿Wake County,﻿Raleigh,﻿Raleigh,﻿NC,,35.5907163,-78.600607,,,,,﻿h_p_northrop_001,﻿Rev.,﻿H. P. Northrop,,,,,,,1869.0,Charleston
-﻿vic.nc.0002,﻿church,﻿St. Patrick's,English,,,,﻿Cumberland County,﻿Cumberland County,﻿Fayetteville,﻿Fayetteville,﻿NC,,35.05236729999999,-78.8783774,,,,,﻿h_p_northrop_001,﻿Rev.,﻿H. P. Northrop,,,,,,,1869.0,Charleston
-﻿vic.nc.0009,﻿church,﻿St. Patrick's,English,,,,﻿Halifax County,﻿Halifax County,﻿Halifax,﻿Halifax,﻿NC,,36.328486,-77.5894199,,,,,﻿h_p_northrop_001,﻿Rev.,﻿H. P. Northrop,,,,,,,1869.0,Charleston
-﻿vic.nc.0008,﻿church,﻿St. Patrick's,English,,,,﻿Combe County,﻿Edgecombe County,﻿Tarboro,﻿Tarboro,﻿NC,,35.896823600000005,-77.53580490000002,,,,,﻿h_p_northrop_001,﻿Rev.,﻿H. P. Northrop,,,,,,,1869.0,Charleston
-﻿vic.nc.0005,﻿church,﻿St. Patrick's,English,,,,﻿Chowan County,﻿Chowan County,﻿Edenton,﻿Edenton,﻿NC,,36.0627866,-76.60803409999998,,,,,﻿h_p_northrop_001,﻿Rev.,﻿H. P. Northrop,,,,,,,1869.0,Charleston
-﻿vic.nc.0004,﻿church,﻿St. Paul's,English,,,,﻿Craven County,﻿Craven County,﻿Newbern,﻿New Bern,﻿NC,,35.0845617,-77.0680216,,,,,﻿h_p_northrop_001,﻿Rev.,﻿H. P. Northrop,,﻿Pastor,,,,,1869.0,Charleston
-﻿vic.nc.0011,﻿church,﻿St. Peter's,English,,,,﻿Mecklenburg County,﻿Mecklenburg County,﻿Charlotte,﻿Charlotte,﻿NC,,35.167851,-80.72824609999999,,,,,﻿law_p_oconnell_002,﻿Rev.,﻿Lawrence P. O'Connell,,﻿Pastor,,,,,1869.0,Charleston
-﻿vic.nc.0011,﻿church,﻿St. Joseph's,English,,,,﻿Gaston County,﻿Gaston County,﻿Charlotte,﻿Charlotte,﻿NC,,35.167851,-80.72824609999999,,,,,﻿law_p_oconnell_002,﻿Rev.,﻿Lawrence P. O'Connell,,,,,,,1869.0,Charleston
-﻿cha.sc.0036,﻿church,not recorded,English,,"﻿New Providence, Bahama Islands",,,,﻿Nassau,﻿Nassau,,,25.080351699999998,-77.32827900000001,,,,,﻿w_h_neligan_001,﻿Very Rev.,﻿W. H. Neligan,,﻿Vicar General,,,,,1869.0,Charleston
-﻿cha.sc.0037,﻿convent,﻿Ursuline Convent and Academy of the Immaculate Conception,English,,﻿near Columbia SC,,,,﻿Valle Crucis,﻿Valle Crucis,﻿NC,,25.080351699999998,-77.32827900000001,,,,,﻿wm_a_merriwether_001,﻿Rev.,﻿Wm. A. Merriwether,,,,,,,1869.0,Charleston
-﻿cha.sc.0037,﻿convent,﻿Ursuline Convent and Academy of the Immaculate Conception,English,,﻿near Columbia SC,,,,﻿Valle Crucis,﻿Valle Crucis,﻿NC,,25.080351699999998,-77.32827900000001,,,,,﻿m_b_lynch_001,﻿Mad.,﻿M. B. Lynch,,﻿Superior,,﻿Professed & lay sisters,13,,1869.0,Charleston
-﻿cha.sc.0037,﻿convent,﻿Ursuline Convent and Academy of the Immaculate Conception,English,,﻿near Columbia SC,,,,﻿Valle Crucis,﻿Valle Crucis,﻿NC,,25.080351699999998,-77.32827900000001,,,,,,,,,,,﻿postulants,﻿2 postulants,,1869.0,Charleston
-﻿cha.sc.0038,﻿convent,﻿Convent of the Sisters of Our Lady of Mercy,English,,,,,,﻿Charleston,﻿Charleston,﻿SC,,32.788386100000004,-79.9533047,,,,,,﻿Mother,﻿M. Teresa Barry,,﻿Superior,,,,,1869.0,Charleston
-﻿cha.sc.0040,﻿female-orphan-asylum,﻿Girl's Orphan Asylum,English,,,,,,﻿Charleston,﻿Charleston,﻿SC,,32.788386100000004,-79.9533047,,,,,,,,,,,,,﻿under the charge of the Sisters of Our Lady of Mercy,1869.0,Charleston
-﻿cha.sc.0040,﻿academy,﻿Academy of the Sisters,English,,,,,,﻿Sumter,﻿Charleston,﻿SC,,32.788386100000004,-79.9533047,,,,,,﻿Sister,﻿M. Joseph Kent,,﻿Directress,,,,﻿under the charge of the Sisters of Our Lady of Mercy,1869.0,Charleston
-﻿cha.sc.0041,﻿male-orphan-asylum,﻿Boy's Orphan Asylum,English,,,,,,﻿Charleston,﻿Charleston,﻿SC,,32.7879734,-79.9494156,,,,,,﻿Sister,﻿M. de Sales Brenan,,﻿Directress,,,,,1869.0,Charleston
+﻿cha.sc.0001,﻿cathedral,"﻿Cathedral Chapel, St. John the Baptist",English,,,,,,﻿Charleston,﻿Charleston,﻿SC,,32.7764958,-79.9344682,,,,,﻿p_n_lynch_001,﻿Rt. Rev.,﻿P. N. Lynch,﻿D.D.,,,,,,1868,Charleston
+﻿cha.sc.0001,﻿cathedral,"﻿Cathedral Chapel, St. John the Baptist",English,,,,,,﻿Charleston,﻿Charleston,﻿SC,,32.7764958,-79.9344682,,,,,﻿t_bermingham_001,﻿Very Rev.,﻿T. Bermingham,﻿D.D.,﻿Vicar-General,,,,,1868,Charleston
+﻿cha.sc.0001,﻿cathedral,"﻿Cathedral Chapel, St. John the Baptist",English,,,,,,﻿Charleston,﻿Charleston,﻿SC,,32.7764958,-79.9344682,,,,,﻿dan_j_quigley_001,﻿Rev.,﻿Daniel J. Quigley,,,,,,,1868,Charleston
+﻿cha.sc.0002,﻿church,﻿St. Mary's,English,,﻿Hasell street,,,,﻿Charleston,﻿Charleston,﻿SC,,32.7817998,-79.9328247,,,,,﻿r_s_baker_001,﻿Very Rev.,﻿R. S. Baker,,,,,,,1868,Charleston
+﻿cha.sc.0002,﻿church,﻿St. Mary's,English,,﻿Hasell street,,,,﻿Charleston,﻿Charleston,﻿SC,,32.7817998,-79.9328247,,,,,﻿p_ryan_002,﻿Rev.,﻿P. Ryan,,,,,,,1868,Charleston
+﻿cha.sc.0002,﻿church,﻿St. Mary's,English,,﻿Hasell street,,,,﻿Charleston,﻿Charleston,﻿SC,,32.7817998,-79.9328247,,,,,﻿cla_b_northrop_001,﻿Rev.,﻿Claudian B. Northrop,,,,,,,1868,Charleston
+﻿cha.sc.0003,﻿church,﻿St. Patrick's,English,,,,,,﻿Charleston,﻿Charleston,﻿SC,,32.7882253,-79.9403921,,,,,﻿joh_moore_001,﻿Rev.,﻿John Moore,﻿D.D.,,,,,,1868,Charleston
+﻿cha.sc.0003,﻿church,﻿St. Patrick's,English,,,,,,﻿Charleston,﻿Charleston,﻿SC,,32.7882253,-79.9403921,,,,,﻿joh_o_schachte_001,﻿Rev.,﻿John Schachte,,,﻿1870 includes middle initial O.,,,,1868,Charleston
+﻿cha.sc.0004,﻿church,﻿St. Joseph's,English,,,,,,﻿Charleston,﻿Charleston,﻿SC,,32.784352,-79.946823,,,,,﻿cha_j_croghan_001,﻿Rev.,﻿Charles J. Croghan,,,,,,,1868,Charleston
+﻿cha.sc.0005,﻿church,﻿St. Paul's,﻿German,,,,,,﻿Charleston,﻿Charleston,﻿SC,,32.928229,-79.8559159,,,,,﻿fra_j_shadler_001,﻿Rev.,﻿Francis J. Shadler,,,,,,,1868,Charleston
+﻿cha.sc.0006,﻿church,not recorded,﻿African,"﻿""African Church""",,,,,﻿Charleston,﻿Charleston,﻿SC,,32.81442,-80.0487527,,,,,﻿alo_folchi_001,﻿Rev.,﻿A. Folchi,,,"﻿full name ""Aloysius"" listed 1968-70.",,,,1868,Charleston
+﻿cha.sc.0043,﻿chapel,﻿Chapel Sisters of Mercy,English,,,,,,﻿Charleston,﻿Charleston,﻿SC,,32.81442,-80.0487527,,,,,,,,,,,,,,1868,Charleston
+﻿cha.sc.0023,﻿church,﻿St. Peter's,English,,,,,,﻿Beaufort,﻿Beaufort,﻿SC,,32.439429,-80.670543,,,,,﻿j_p_oconnell_001,﻿Rev.,﻿Joseph P. O'Connell,﻿D.D.,,,,,,1868,Charleston
+﻿cha.sc.0024,﻿church,not recorded,English,,,,,,﻿Hilton Head,﻿Hilton Head,﻿SC,,32.216316,-80.752608,,,,,﻿j_p_oconnell_001,﻿Rev.,﻿Joseph P. O'Connell,﻿D.D.,,,,,,1868,Charleston
+﻿cha.sc.0025,﻿church,﻿St. Peter's,English,,,,,,﻿Columbia,﻿Columbia,﻿SC,,34.0056068,-81.0380069,,,,,﻿j_j_oconnell_001,﻿Rev.,﻿Jeremiah J. O'Connell,,,"﻿referred to as ""J. J. O'Connell"" 1869-70",,,,1868,Charleston
+﻿cha.sc.0035,﻿church,﻿St. Peter's,English,,,,,,﻿Cheraw,﻿Cheraw,﻿SC,,34.6933706,-79.89188,,,,,﻿j_cullinane_001,﻿Rev.,﻿J. Cullinane,,,"﻿""John Cullinane"" in 1869",,,,1868,Charleston
+﻿cha.sc.0034,﻿church,not recorded,English,,,,,,﻿Sumter,﻿Sumter,﻿SC,,33.9346089,-80.3366882,,,,,﻿aug_f_mcneal_001,﻿Rev.,﻿Augustin F. McNeal,,,"﻿""Augustus F. McNeal"" in 1869",,,,1868,Charleston
+﻿cha.sc.0021,﻿church,﻿St. Mary's,English,﻿name changes in 1870,,,,,﻿Edgefield,﻿Edgefield,﻿SC,,33.7904312,-81.9303567,,,,,﻿wm_a_merriwether_001,﻿Rev.,﻿William A. Meriwether,,,,,,,1868,Charleston
+﻿cha.sc.0044,﻿church,﻿St. Andrew's,English,,,,,,﻿Barnwell,﻿Barnwell,﻿SC,,33.7904312,-81.9303567,﻿cha.sc.0001,﻿Attended from Charleston,,,,,,,,,,,,1868,Charleston
+﻿cha.sc.0007,﻿church,﻿St. John's,English,"﻿""and adjourning stations""",,,,,﻿Sullivan's Island,﻿Sullivan's Island,﻿SC,,32.7607326,-79.8584923,﻿cha.sc.0001,﻿Attended from Charleston,,,,,,,,,,,,1868,Charleston
+﻿cha.sc.0045,﻿church,not recorded,English,"﻿""and adjourning stations""",,,,,﻿Newberry,﻿Newberry,﻿SC,,32.7607326,-79.8584923,﻿cha.sc.0025,﻿Attended from Columbia,,,,,,,,,,,,1868,Charleston
+﻿cha.sc.0046,﻿church,not recorded,English,"﻿""and adjourning stations""",,,,,﻿Greenville,﻿Greenville,﻿SC,,32.7607326,-79.8584923,﻿cha.sc.0025,﻿Attended from Columbia,,,,,,,,,,,,1868,Charleston
+﻿cha.sc.0047,﻿church,not recorded,English,"﻿""and adjourning stations""",,,,,﻿Spartanburgh,﻿Spartanburgh,﻿SC,,32.7607326,-79.8584923,﻿cha.sc.0025,﻿Attended from Columbia,,,,,,,,,,,,1868,Charleston
+﻿vic.nc.0001,﻿church,﻿St. Thomas',English,,,,﻿New-Hanover County,﻿New Hanover County,﻿Wilmington,﻿Wilmington,﻿NC,,34.3182651,-77.7743338,,,,,﻿jam_a_corcoran_001,﻿Very Rev.,﻿James A. Corcoran,﻿D.D.,,,,,,1868,Charleston
+﻿vic.nc.0001,﻿church,﻿St. Thomas',English,,,,﻿New-Hanover County,﻿New Hanover County,﻿Wilmington,﻿Wilmington,﻿NC,,34.3182651,-77.7743338,,,,,﻿har_p_northrop_001,﻿Rev.,﻿H. P. Northrop,﻿V.G.,,,,,,1868,Charleston
+﻿vic.nc.0018,﻿church,﻿St. John the Baptist,English,,,,﻿Wake County,﻿Wake County,﻿Raleigh,﻿Raleigh,﻿NC,,35.5907163,-78.600607,,,,,﻿har_p_northrop_001,﻿Rev.,﻿H. P. Northrop,,,,,,,1868,Charleston
+﻿vic.nc.0002,﻿church,﻿St. Patrick's,English,,,,﻿Cumberland County,﻿Cumberland County,﻿Fayetteville,﻿Fayetteville,﻿NC,,35.0523673,-78.8783774,,,,,﻿har_p_northrop_001,﻿Rev.,﻿H. P. Northrop,,,,,,,1868,Charleston
+﻿vic.nc.0009,﻿church,﻿St. Patrick's,English,,,,﻿Halifax County,﻿Halifax County,﻿Halifax,﻿Halifax,﻿NC,,36.328486,-77.5894199,,,,,﻿har_p_northrop_001,﻿Rev.,﻿H. P. Northrop,,,,,,,1868,Charleston
+﻿vic.nc.0008,﻿church,﻿St. Patrick's,English,,,,﻿Combe County,﻿Edgecombe County,﻿Tarboro,﻿Tarboro,﻿NC,,35.8968236,-77.5358049,,,,,﻿har_p_northrop_001,﻿Rev.,﻿H. P. Northrop,,,,,,,1868,Charleston
+﻿vic.nc.0005,﻿church,﻿St. Patrick's,English,,,,﻿Chowan County,﻿Chowan County,﻿Edenton,﻿Edenton,﻿NC,,36.0627866,-76.6080341,,,,,﻿har_p_northrop_001,﻿Rev.,﻿H. P. Northrop,,,,,,,1868,Charleston
+﻿vic.nc.0004,﻿church,﻿St. Paul's,English,,,,﻿Craven County,﻿Craven County,﻿Newbern,﻿New Bern,﻿NC,,35.0845617,-77.0680216,,,,,﻿har_p_northrop_001,﻿Rev.,﻿H. P. Northrop,,﻿Pastor,,,,,1868,Charleston
+﻿vic.nc.0011,﻿church,﻿St. Peter's,English,,,,﻿Mecklenburg County,﻿Mecklenburg County,﻿Charlotte,﻿Charlotte,﻿NC,,35.167851,-80.7282461,,,,,﻿law_p_oconnell_001,﻿Rev.,﻿Lawrence P. O'Connell,,﻿Pastor,,,,,1868,Charleston
+﻿vic.nc.0019,﻿church,﻿St. Joseph's,English,,,,﻿Gaston County,﻿Gaston County,,,﻿NC,,35.167851,-80.7282461,,,,,﻿law_p_oconnell_001,﻿Rev.,﻿Lawrence P. O'Connell,,,,,,,1868,Charleston
+﻿cha.sc.0036,﻿church,not recorded,English,,"﻿New Providence, Bahama Islands",,,,﻿Nassau,﻿Nassau,,,25.0803517,-77.328279,,,,,﻿w_h_neligan_001,﻿Very Rev.,﻿W. H. Neligan,,﻿Vicar General,,,,,1868,Charleston
+﻿cha.sc.0037,﻿convent,﻿Ursuline Convent and Academy of the Immaculate Conception,English,,﻿near Columbia SC,,,,﻿Valle Crucis,﻿Valle Crucis,﻿NC,,25.0803517,-77.328279,,,,,﻿wm_a_merriwether_001,﻿Rev.,﻿Wm. A. Merriwether,,,,,,,1868,Charleston
+﻿cha.sc.0037,﻿convent,﻿Ursuline Convent and Academy of the Immaculate Conception,English,,﻿near Columbia SC,,,,﻿Valle Crucis,﻿Valle Crucis,﻿NC,,25.0803517,-77.328279,,,,,﻿m_b_lynch_001,﻿Mad.,﻿M. B. Lynch,,﻿Superior,,﻿Professed & lay sisters,13,,1868,Charleston
+﻿cha.sc.0037,﻿convent,﻿Ursuline Convent and Academy of the Immaculate Conception,English,,﻿near Columbia SC,,,,﻿Valle Crucis,﻿Valle Crucis,﻿NC,,25.0803517,-77.328279,,,,,,,,,,,﻿postulants,﻿2 postulants,,1868,Charleston
+﻿cha.sc.0038,﻿convent,﻿Convent of the Sisters of Our Lady of Mercy,English,,,,,,﻿Charleston,﻿Charleston,﻿SC,,32.7883861,-79.9533047,,,,,,﻿Mother,﻿M. Teresa Barry,,﻿Superior,,,,,1868,Charleston
+﻿cha.sc.0040,﻿female-orphan-asylum,﻿Girl's Orphan Asylum,English,,,,,,﻿Charleston,﻿Charleston,﻿SC,,32.7883861,-79.9533047,,,,,,,,,,,,,﻿under the charge of the Sisters of Our Lady of Mercy,1868,Charleston
+﻿cha.sc.0042,﻿academy,﻿Academy of the Sisters,English,,,,,,﻿Sumter,,﻿SC,,32.7883861,-79.9533047,,,,,,﻿Sister,﻿M. Joseph Kent,,﻿Directress,,,,,1868,Charleston
+﻿cha.sc.0041,﻿male-orphan-asylum,﻿Boy's Orphan Asylum,English,,,,,,﻿Charleston,﻿Charleston,﻿SC,,32.7879734,-79.9494156,,,,,,﻿Sister,﻿M. de Sales Brenan,,﻿Directress,,,,,1868,Charleston
+27,﻿male-orphan-asylum,not recorded,English,,,,,,,,,,32.7879734,-79.9494156,,,,,,,,,,,,,,1868,Charleston
+27,35,not recorded,English,,,,,,,,,,32.7879734,-79.9494156,,,,,,,,,,,,,,1868,Charleston

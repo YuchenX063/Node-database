@@ -4,7 +4,7 @@
 const fs = require('fs');
 const path = require('path');
 const csv = require('csv-parser');
-const{ Church_Church } = require('../models');
+const{ churchChurch } = require('../models');
 const{ loadData } = require('../utils/data-preprocess');
 
 /** @type {import('sequelize-cli').Migration} */
@@ -16,7 +16,7 @@ module.exports = {
     }},
 
   async down (queryInterface, Sequelize) {
-    await queryInterface.bulkDelete('Churche_Churches', null, {});
+    await queryInterface.bulkDelete('churchChurches', null, {});
   }
 };
 
@@ -44,14 +44,17 @@ async function importData(data) {
   for (const item of uniqueChurchChurchInfo) {
     if (item.uniqueInstID && item.uniqueAttendingInstID) {
       try {
-        await Church_Church.create(item);
-      //console.log(`Created church_church:${item.instID}, ${item.attendingInstID}`);
+        await churchChurch.findOrCreate({
+          where: { uniqueInstID: item.uniqueInstID, uniqueAttendingInstID: item.uniqueAttendingInstID },
+          defaults: item
+        });
+      //console.log(`Created churchChurch:${item.instID}, ${item.attendingInstID}`);
       } catch (error) {
-        console.error(`Error creating church_church: ${JSON.stringify(item)}`, error);
+        console.error(`Error creating churchChurch: ${JSON.stringify(item)}`, error);
       }
     }
   };
 
-  console.log(`Finished processing church_churches`);
+  console.log(`Finished processing churchChurches`);
 
 };

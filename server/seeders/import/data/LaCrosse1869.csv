@@ -1,103 +1,106 @@
 ﻿instID,church_type,instName,language,instNote,placeName,region,county_orig,county_reg,city_orig,city_reg,state_orig,state_reg,latitude,longitude,attendingInstID,attendingChurch,attendingChurchFrequency,attendingChurchNote,persID,persTitle,persName,persSuffix,persRole,persNote,memberType,member,affiliated,year,diocese
-﻿lac.wi.0001,﻿church,﻿St. Mary's,English,,,,,,﻿La Crosse,﻿La Crosse,﻿WI,,43.8137751,-91.2519017,,,,,,﻿Right Rev.,﻿M. Heiss,﻿D.D.,,,,,,1869.0,LaCrosse
-﻿lac.wi.0001,﻿church,﻿St. Mary's,English,,,,,,﻿La Crosse,﻿La Crosse,﻿WI,,43.8137751,-91.2519017,,,,,,﻿Rev.,﻿Joseph Moder,,﻿Secretary,,,,,1869.0,LaCrosse
+﻿lac.wi.0001,﻿church,﻿St. Mary's,English,,,,,,﻿La Crosse,﻿La Crosse,﻿WI,,43.8137751,-91.2519017,,,,,﻿m_heiss_001,﻿Right Rev.,﻿M. Heiss,﻿D.D.,,,,,,1869.0,LaCrosse
+﻿lac.wi.0001,﻿church,﻿St. Mary's,English,,,,,,﻿La Crosse,﻿La Crosse,﻿WI,,43.8137751,-91.2519017,,,,,﻿jos_moder_001,﻿Rev.,﻿Joseph Moder,,﻿Secretary,,,,,1869.0,LaCrosse
 ﻿lac.wi.0002,﻿church,﻿St. Joseph's,﻿(German),﻿Building,,,,,﻿La Crosse,,﻿WI,,43.782022,-91.23186899999999,,,,,,,,,,,,,,1869.0,LaCrosse
-﻿lac.wi.0002,﻿church,﻿St. Lawrence's,﻿(German),﻿new frame church,,,﻿Buffalo County,,﻿Alma,,﻿WI,,43.782022,-91.23186899999999,,,﻿visited once a month,,,﻿Rev.,﻿L. Spitzelberger,,,,,,,1869.0,LaCrosse
-﻿lac.wi.0002,﻿church,﻿St. Henry's,﻿(German),﻿new frame church,,,﻿Pepin County,,﻿Aux Galets,,﻿WI,,43.782022,-91.23186899999999,,﻿attended from Menomenee,,,,,,,,,,,,1869.0,LaCrosse
-﻿lac.wi.0002,﻿church,﻿St. Vincent de Paul,﻿(German),﻿new frame church,,,﻿Bad Axe County,,﻿Bad Axe,,﻿WI,,43.782022,-91.23186899999999,﻿lac.wi.0001,﻿attended from La Crosse,,﻿Probably St. Mary's,,,,,,,,,,1869.0,LaCrosse
+﻿lac.wi.0088,﻿church,﻿St. Lawrence's,English,﻿new frame church,,,﻿Buffalo County,,﻿Alma,,﻿WI,,43.782022,-91.23186899999999,,,﻿visited once a month,,﻿l_spitzelberger_001,﻿Rev.,﻿L. Spitzelberger,,,,,,,1869.0,LaCrosse
+﻿lac.wi.0089,﻿church,﻿St. Henry's,English,,,,﻿Pepin County,,﻿Aux Galets,,,,43.782022,-91.23186899999999,﻿lac.wi.0105,﻿attended from Menomenee,,,,,,,,,,,,1869.0,LaCrosse
+﻿lac.wi.0090,﻿church,﻿St. Vincent de Paul,English,,,,﻿Bad Axe County,,﻿Bad Axe,,,,43.782022,-91.23186899999999,﻿lac.wi.0001,﻿attended from La Crosse,,﻿Probably St. Mary's,,,,,,,,,,1869.0,LaCrosse
 ﻿lac.wi.0004,﻿church,﻿Christ Church,English,﻿(Indian),,,﻿La Pointe County,﻿La Pointe County,﻿Bayfield,﻿Bayfield,﻿WI,,46.8107671,-90.81824,,,,,﻿t_chebul_001,﻿Rev.,﻿T. Chebul,,,,,,,1869.0,LaCrosse
 ﻿lac.wi.0003,﻿church,﻿St. Michael's,English,,,,﻿Sauk County,﻿Sauk County,﻿Baraboo,﻿Baraboo,﻿WI,,43.4710944,-89.7442906,,,﻿vacant,,,,,,,,,,,1869.0,LaCrosse
 ﻿lac.wi.0005,﻿church,﻿St. Joseph's,English,,,,﻿La Crosse County,﻿La Crosse County,﻿Buchanan,﻿Washington,﻿WI,,43.8137751,-91.2519017,﻿lac.wi.0001,﻿attended from La Crosse,,﻿Probably St. Mary's,,,,,,,,,,1869.0,LaCrosse
-﻿lac.wi.0005,﻿church,﻿St. Anne's,English,﻿new frame church,,,﻿Buffalo County,﻿La Crosse County,﻿Buffalo City,﻿Washington,﻿WI,,43.8137751,-91.2519017,,,﻿visited once a month,,,﻿Rev.,﻿L. Spitzelberger,,,,,,,1869.0,LaCrosse
-﻿lac.wi.0005,﻿church,﻿St. Mary's of the Pines,English,﻿new frame church,,,﻿Columbia County,﻿La Crosse County,﻿Caledonia,﻿Washington,﻿WI,,43.8137751,-91.2519017,,﻿attended from Portage City,,,,,,,,,,,,1869.0,LaCrosse
+﻿lac.wi.0091,﻿church,﻿St. Anne's,English,﻿new frame church,,,﻿Buffalo County,,﻿Buffalo City,,,,43.8137751,-91.2519017,,,﻿visited once a month,,﻿l_spitzelberger_001,﻿Rev.,﻿L. Spitzelberger,,,,,,,1869.0,LaCrosse
+﻿lac.wi.0092,﻿church,﻿St. Mary's of the Pines,English,,,,﻿Columbia County,,﻿Caledonia,,,,43.8137751,-91.2519017,﻿gre.wi.0027,﻿attended from Portage City,,,,,,,,,,,,1869.0,LaCrosse
 ﻿lac.wi.0006,﻿church,﻿St. Anthony's of Padua,English,,,,﻿Richland County,﻿Richland County,﻿Cazenovia,﻿Cazenovia,﻿WI,,43.524283700000005,-90.2228512,,,﻿vacant,,,,,,,,,,,1869.0,LaCrosse
 ﻿lac.wi.0007,﻿church,﻿St. Mary's,English,,,,﻿Chippewa County,﻿Chippewa County,﻿Chippewa Falls,﻿Chippewa Falls,﻿WI,,44.9369054,-91.3929348,,,,,﻿pm_abbelen_001,﻿Rev.,﻿P. M. Abbelen,,,,,,,1869.0,LaCrosse
-﻿lac.wi.0007,﻿church,﻿St. Phillip's,English,,,,﻿Crawford County,﻿Chippewa County,﻿Claytontown,﻿Chippewa Falls,﻿WI,,44.9369054,-91.3929348,,﻿attended from Utica,,,,,,,,,,,,1869.0,LaCrosse
-﻿lac.wi.0007,﻿church,﻿All Saints',English,,,,﻿Sauk County,﻿Chippewa County,﻿Delona,﻿Chippewa Falls,﻿WI,,44.9369054,-91.3929348,,﻿attended from Kildare,,,,,,,,,,,,1869.0,LaCrosse
+﻿lac.wi.0093,﻿church,﻿St. Phillip's,English,,,,﻿Crawford County,,﻿Claytontown,,,,44.9369054,-91.3929348,﻿lac.wi.0113,﻿attended from Utica,,,,,,,,,,,,1869.0,LaCrosse
+﻿lac.wi.0094,﻿church,﻿All Saints',English,,,,﻿Sauk County,,﻿Delona,,,,44.9369054,-91.3929348,﻿lac.wi.0100,﻿attended from Kildare,,,,,,,,,,,,1869.0,LaCrosse
 ﻿lac.wi.0008,﻿church,﻿St. Peter's,English,,,,﻿Chippewa County,﻿Chippewa County,﻿Eagle Point,﻿Eagle Point,﻿WI,,45.0316281,-91.39599009999999,﻿lac.wi.0007,﻿attended from Chippewa Falls,,,,,,,,,,,,1869.0,LaCrosse
 ﻿lac.wi.0009,﻿church,﻿St. Patrick's,English,,,,﻿Eau Claire County,﻿Eau Claire County,﻿Eau Claire,﻿Eau Claire,﻿WI,,44.811349,-91.4984941,,,,,﻿h_kampschroer_001,﻿Rev.,﻿Henry Kampschroer,,,,,,,1869.0,LaCrosse
-﻿lac.wi.0011,﻿church,﻿St. Patrick's,English,,,,﻿St. Croix County,﻿St. Croix County,﻿Erin,﻿Erin Prairie,﻿WI,,45.067181,-92.4485948,,,,,,﻿Rev.,﻿John Conroy,,,,,,,1869.0,LaCrosse
-﻿lac.wi.0011,﻿church,﻿St. Bridget's,English,,,,﻿Trempealeau County,﻿St. Croix County,﻿Etrich,﻿Erin Prairie,﻿WI,,45.067181,-92.4485948,﻿lac.wi.0001,﻿attended from La Crosse,,﻿Probably St. Mary's,,,,,,,,,,1869.0,LaCrosse
+﻿lac.wi.0011,﻿church,﻿St. Patrick's,English,,,,﻿St. Croix County,﻿St. Croix County,﻿Erin,﻿Erin Prairie,﻿WI,,45.067181,-92.4485948,,,,,﻿joh_conroy_001,﻿Rev.,﻿John Conroy,,,,,,,1869.0,LaCrosse
+﻿lac.wi.0095,﻿church,﻿St. Bridget's,English,,,,﻿Trempealeau County,,﻿Etrich,,,,45.067181,-92.4485948,﻿lac.wi.0001,﻿attended from La Crosse,,﻿Probably St. Mary's,,,,,,,,,,1869.0,LaCrosse
 ﻿lac.wi.0012,﻿church,﻿Immaculate Conception,English,﻿service on three Sundays; Pastoral Residence,,,﻿Buffalo County,﻿Buffalo County,﻿Fountain City,﻿Fountain City,﻿WI,,44.130112200000006,-91.7163595,,,,,﻿l_spitzelberger_001,﻿Rev.,﻿L. Spitzelberger,,,,,,,1869.0,LaCrosse
-﻿lac.wi.0012,﻿church,﻿St. Luke's,English,﻿service on three Sundays; Pastoral Residence,,,﻿Sauk County,﻿Buffalo County,﻿Franklin,﻿Fountain City,﻿WI,,44.130112200000006,-91.7163595,﻿lac.wi.0015,﻿attended from Ithaca,,,,,,,,,,,,1869.0,LaCrosse
-﻿lac.wi.0012,﻿church,﻿St. Joseph's,English,﻿new frame church,,,﻿Buffalo County,﻿Buffalo County,﻿Glencoe,﻿Fountain City,﻿WI,,44.130112200000006,-91.7163595,﻿lac.wi.0012,﻿attended from Fountain City,﻿occasionally,,,,,,,,,,,1869.0,LaCrosse
-﻿lac.wi.0012,﻿church,﻿St. Mary's of Loretto,English,﻿new frame church,,,﻿Sauk County,﻿Buffalo County,﻿Honey Creek,﻿Fountain City,﻿WI,,44.130112200000006,-91.7163595,,﻿attended from Sauk City,,,,,,,,,,,,1869.0,LaCrosse
+﻿lac.wi.0096,﻿church,﻿St. Luke's,English,,,,﻿Sauk County,,﻿Franklin,,,,44.130112200000006,-91.7163595,﻿lac.wi.0015,﻿attended from Ithaca,,,,,,,,,,,,1869.0,LaCrosse
+﻿lac.wi.0097,﻿church,﻿St. Joseph's,English,﻿new frame church,,,﻿Buffalo County,,﻿Glencoe,,,,44.130112200000006,-91.7163595,﻿lac.wi.0012,﻿attended from Fountain City,﻿occasionally,,,,,,,,,,,1869.0,LaCrosse
+﻿lac.wi.0098,﻿church,﻿St. Mary's of Loretto,English,,,,﻿Sauk County,,﻿Honey Creek,,,,44.130112200000006,-91.7163595,﻿lac.wi.0021,﻿attended from Sauk City,,,,,,,,,,,,1869.0,LaCrosse
 ﻿lac.wi.0013,﻿church,﻿St. James',English,,,,﻿St. Croix County,﻿St. Croix County,﻿Hudson,﻿Hudson,﻿WI,,44.9746896,-92.7568703,,,,,﻿chr_verweyst_001,﻿Rev.,﻿Chr. Verweyst,,,,,,,1869.0,LaCrosse
-﻿lac.wi.0014,﻿church,﻿Nativity B.V.M.,English,,,,﻿Monroe County,﻿Monroe County,﻿Jefferson,﻿Jefferson,﻿WI,,42.628733600000004,-89.62516459999999,,,,,,﻿Rev.,﻿Theod. Weglikowksi,,,,,,,1869.0,LaCrosse
-﻿lac.wi.0014,﻿church,﻿St. Fridolin's,English,,,,﻿Sauk County,﻿Monroe County,﻿Ironton,﻿Jefferson,﻿WI,,42.628733600000004,-89.62516459999999,﻿lac.wi.0015,﻿attended from Ithaca,,,,,,,,,,,,1869.0,LaCrosse
-﻿lac.wi.0015,﻿church,﻿Nativity B.V.M.,English,,,,﻿Richland County,﻿Richland County,﻿Ithaka,﻿Ithaca,﻿WI,,43.3408176,-90.2817921,,,,,﻿g_bean_001,﻿Rev.,﻿G. Bean,,,,,,,1869.0,LaCrosse
-﻿lac.wi.0015,﻿church,﻿St. Bridget's,English,﻿vacant,,,﻿Juneau County,﻿Richland County,﻿Kildare,﻿Ithaca,﻿WI,,43.3408176,-90.2817921,,,,,,,,,,,,,,1869.0,LaCrosse
-﻿lac.wi.0015,﻿church,﻿St. Joseph's,English,﻿(Indian),,,﻿La Pointe County,﻿Richland County,﻿La Pointe,﻿Ithaca,﻿WI,,43.3408176,-90.2817921,﻿lac.wi.0004,﻿attended from Bayfield,,,,,,,,,,,,1869.0,LaCrosse
-﻿lac.wi.0015,﻿church,﻿St. James',English,﻿(Indian),,,﻿Bad Axe County,﻿Richland County,﻿Liberty Pole,﻿Ithaca,﻿WI,,43.3408176,-90.2817921,,﻿attended from Utica,,,,,,,,,,,,1869.0,LaCrosse
-﻿lac.wi.0015,﻿church,﻿St. Michael's,English,﻿(Indian),,,﻿Juneau County,﻿Richland County,﻿Lindina,﻿Ithaca,﻿WI,,43.3408176,-90.2817921,﻿lac.wi.0018,﻿attended from Mauston,,,,,,,,,,,,1869.0,LaCrosse
-﻿lac.wi.0016,﻿church,﻿St. Mary's,English,,,,﻿Juneau County,﻿Juneau County,﻿Lindon,﻿Lyndon,﻿WI,,43.3408176,-90.2817921,,﻿attended from Kildare,,,,,,,,,,,,1869.0,LaCrosse
-﻿lac.wi.0016,﻿church,﻿St. Paul's,English,,,,﻿Juneau County,﻿Juneau County,﻿Lisbon,﻿Lyndon,﻿WI,,43.3408176,-90.2817921,﻿lac.wi.0018,﻿attended from Mauston,,,,,,,,,,,,1869.0,LaCrosse
-﻿lac.wi.0017,﻿church,﻿St. Mary's Nativity,English,,,,﻿Marathon County,﻿Marathon County,﻿Marathon,﻿Marathon,﻿WI,,44.9304719,-89.8402105,,,,,,﻿Rev.,﻿T. Hengen,,,,,,,1869.0,LaCrosse
-﻿lac.wi.0017,﻿church,﻿Immaculate Conception,English,,,,﻿Dunn County,﻿Marathon County,﻿Menomenee,﻿Marathon,﻿WI,,44.9304719,-89.8402105,,,,,,,,,,,,,,1869.0,LaCrosse
+﻿lac.wi.0014,﻿church,﻿Nativity B.V.M.,English,,,,﻿Monroe County,﻿Monroe County,﻿Jefferson,﻿Jefferson,﻿WI,,43.7980958019359,-90.68686839461891,,,,,﻿th_weglikowski_001,﻿Rev.,﻿Theod. Weglikowksi,,,,,,,1869.0,LaCrosse
+﻿lac.wi.0099,﻿church,﻿St. Fridolin's,English,,,,﻿Sauk County,,﻿Ironton,,,,43.7980958019359,-90.68686839461891,﻿lac.wi.0015,﻿attended from Ithaca,,,,,,,,,,,,1869.0,LaCrosse
+﻿lac.wi.0015,﻿church,﻿Nativity B.V.M.,English,,,,﻿Richland County,﻿Richland County,﻿Ithaca,﻿Ithaca,﻿WI,,43.3408176,-90.2817921,,,,,﻿g_bean_001,﻿Rev.,﻿G. Bean,,,,,,,1869.0,LaCrosse
+﻿lac.wi.0100,﻿church,﻿St. Bridget's,English,﻿vacant,,,﻿Juneau County,,﻿Kildare,,,,43.3408176,-90.2817921,,,,,,,,,,,,,,1869.0,LaCrosse
+﻿lac.wi.0101,﻿church,﻿St. Joseph's,English,﻿(Indian),,,﻿La Pointe County,,﻿La Pointe,,,,43.3408176,-90.2817921,﻿lac.wi.0004,﻿attended from Bayfield,,,,,,,,,,,,1869.0,LaCrosse
+﻿lac.wi.0102,﻿church,﻿St. James',English,,,,﻿Bad Axe County,,﻿Liberty Pole,,,,43.3408176,-90.2817921,﻿lac.wi.0113,﻿attended from Utica,,,,,,,,,,,,1869.0,LaCrosse
+﻿lac.wi.0103,﻿church,﻿St. Michael's,English,,,,﻿Juneau County,,﻿Lindina,,,,43.3408176,-90.2817921,﻿lac.wi.0018,﻿attended from Mauston,,,,,,,,,,,,1869.0,LaCrosse
+﻿lac.wi.0016,﻿church,﻿St. Mary's,English,,,,﻿Juneau County,﻿Juneau County,﻿Lindon,﻿Lyndon,﻿WI,,43.3408176,-90.2817921,﻿lac.wi.0100,﻿attended from Kildare,,,,,,,,,,,,1869.0,LaCrosse
+﻿lac.wi.0104,﻿church,﻿St. Paul's,English,,,,﻿Juneau County,,﻿Lisbon,,,,43.3408176,-90.2817921,﻿lac.wi.0018,﻿attended from Mauston,,,,,,,,,,,,1869.0,LaCrosse
+﻿lac.wi.0017,﻿church,﻿St. Mary's Nativity,English,,,,﻿Marathon County,﻿Marathon County,﻿Marathon,﻿Marathon,﻿WI,,44.9304719,-89.8402105,,,,,﻿t_hengen_001,﻿Rev.,﻿T. Hengen,,,,,,,1869.0,LaCrosse
+﻿lac.wi.0105,﻿church,﻿Immaculate Conception,English,,,,﻿Dunn County,,﻿Menomenee,,,,44.9304719,-89.8402105,,,,,,,,,,,,,,1869.0,LaCrosse
 ﻿lac.wi.0018,﻿church,﻿St. Patrick's,English,,,,﻿Juneau County,﻿Juneau County,﻿Mauston,﻿Mauston,﻿WI,,43.796955100000005,-90.0731712,,,,,﻿p_lavin_001,﻿Rev.,﻿Peter Lavin,,,,,,,1869.0,LaCrosse
-﻿lac.wi.0018,﻿church,﻿Nativity B.V.M.,English,,,,﻿Pierce County,﻿Juneau County,﻿Oak Grove,﻿Mauston,﻿WI,,43.796955100000005,-90.0731712,,﻿attended from Hudson,,,,,,,,,,,,1869.0,LaCrosse
-﻿lac.wi.0018,﻿church,﻿St. Columba's,English,,,,﻿Jackson County,﻿Juneau County,﻿Pine Hill,﻿Mauston,﻿WI,,43.796955100000005,-90.0731712,,﻿attended from La Crosse,,﻿Probably St. Mary's,,,,,,,,,,1869.0,LaCrosse
+﻿lac.wi.0106,﻿church,﻿Nativity B.V.M.,English,,,,﻿Pierce County,,﻿Oak Grove,,,,43.796955100000005,-90.0731712,﻿lac.wi.0013,﻿attended from Hudson,,,,,,,,,,,,1869.0,LaCrosse
+﻿lac.wi.0107,﻿church,﻿St. Columba's,English,,,,﻿Jackson County,,﻿Pine Hill,,,,43.796955100000005,-90.0731712,﻿lac.wi.0001,﻿attended from La Crosse,,﻿Probably St. Mary's,,,,,,,,,,1869.0,LaCrosse
 ﻿lac.wi.0019,﻿church,﻿St. Gabriel's,English,,,,﻿Crawford County,﻿Crawford County,﻿Prairie du Chien,﻿Prairie du Chien,﻿WI,,43.0583485,-91.1461352,,,,,﻿l_lux_001,﻿Rev.,﻿L. Lux,,,,,,,1869.0,LaCrosse
-﻿lac.wi.0019,﻿church,﻿St. Finbar's,English,,,,﻿Monroe County,﻿Crawford County,﻿Ridgeville,﻿Prairie du Chien,﻿WI,,43.0583485,-91.1461352,,"﻿attended from St. Mary's, Ridge",,,,,,,,,,,,1869.0,LaCrosse
-﻿lac.wi.0019,﻿church,﻿St. Patrick's,English,,,,﻿Monroe County,﻿Crawford County,﻿Sparta,﻿Prairie du Chien,﻿WI,,43.0583485,-91.1461352,,﻿attended from La Crosse,,﻿probably St. Mary's,,,,,,,,,,1869.0,LaCrosse
-﻿lac.wi.0021,﻿church,﻿St. Aloysius,English,,,,﻿Sauk County,﻿Sauk County,﻿Sauk City,﻿Sauk City,﻿WI,,43.0583485,-91.1461352,,,,,,﻿Rev.,﻿F. X. Sailer,,,,,,,1869.0,LaCrosse
-﻿lac.wi.0021,﻿church,﻿St. Mark's,English,,,,﻿Crawford County,﻿Sauk County,﻿Seneca,﻿Sauk City,﻿WI,,43.0583485,-91.1461352,,﻿attended from Utica,,,,,,,,,,,,1869.0,LaCrosse
-﻿lac.wi.0021,﻿church,﻿St. Vincent de Paul's,English,,,,﻿St. Croix County,﻿Sauk County,﻿Somerset,﻿Sauk City,﻿WI,,43.0583485,-91.1461352,,﻿attended from Hudson,,,,,,,,,,,,1869.0,LaCrosse
-﻿lac.wi.0022,﻿church,﻿St. Wencelaus',﻿Polish,,,,﻿Trempealeau County,﻿Trempealeau County,﻿Trempealeau,﻿Trempealeau,﻿WI,,44.0055185,-91.4420883,,,,,,﻿Rev.,﻿Florent Zadziorsky,﻿O.M.C.,,,,,,1869.0,LaCrosse
-﻿lac.wi.0022,﻿church,﻿St. Teresa's,﻿Polish,,,,﻿Juneau County,﻿Trempealeau County,﻿Union Centre,﻿Trempealeau,﻿WI,,44.0055185,-91.4420883,﻿lac.wi.0018,﻿attended from Mauston,,,,,,,,,,,,1869.0,LaCrosse
-﻿lac.wi.0022,﻿church,﻿St. James',﻿Polish,﻿vacant,,,﻿Crawford County,﻿Trempealeau County,﻿Utica,﻿Trempealeau,﻿WI,,44.0055185,-91.4420883,,,,,,,,,,,,,,1869.0,LaCrosse
-﻿lac.wi.0022,﻿church,﻿St. Alphonsus',﻿Polish,﻿vacant,,,﻿Sauk County,﻿Trempealeau County,﻿Westfield,﻿Trempealeau,﻿WI,,44.0055185,-91.4420883,﻿lac.wi.0021,﻿attended from Sauk City,,,,,,,,,,,,1869.0,LaCrosse
-﻿lac.wi.0023,﻿church,﻿St. Boniface's,English,﻿with pastoral residence vacant,,,﻿Buffalo County,﻿Buffalo County,﻿Waumandee,﻿Waumandee,﻿WI,,44.0055185,-91.4420883,,﻿visited from Fountain City,﻿monthly,,,﻿Rev.,﻿L. Lay,,,,,,,1869.0,LaCrosse
-﻿lac.wi.0023,﻿station,﻿St. Boniface's,English,﻿with pastoral residence vacant,,,﻿Adams County,﻿Buffalo County,﻿Neery,﻿Waumandee,﻿WI,,44.0055185,-91.4420883,,,,,,,,,,,,,,1869.0,LaCrosse
-﻿lac.wi.0023,﻿station,﻿St. Boniface's,English,﻿with pastoral residence vacant,,,﻿Adams County,﻿Buffalo County,﻿Praire,﻿Waumandee,﻿WI,,44.0055185,-91.4420883,,,,,,,,,,,,,,1869.0,LaCrosse
-﻿lac.wi.0023,﻿station,﻿St. Boniface's,English,﻿with pastoral residence vacant,,,﻿Adams County,﻿Buffalo County,﻿Quincy,﻿Waumandee,﻿WI,,44.0055185,-91.4420883,,,,,,,,,,,,,,1869.0,LaCrosse
-﻿lac.wi.0023,﻿station,﻿St. Boniface's,English,﻿with pastoral residence vacant,,,﻿Adams County,﻿Buffalo County,﻿Wardelah,﻿Waumandee,﻿WI,,44.0055185,-91.4420883,,,,,,,,,,,,,,1869.0,LaCrosse
-﻿lac.wi.0023,﻿station,﻿St. Boniface's,English,﻿with pastoral residence vacant,,,﻿Bad Axe County,﻿Buffalo County,﻿Morriston,﻿Waumandee,﻿WI,,44.0055185,-91.4420883,,,,,,,,,,,,,,1869.0,LaCrosse
-﻿lac.wi.0023,﻿station,﻿St. Boniface's,English,﻿with pastoral residence vacant,,,﻿Bad Axe County,﻿Buffalo County,﻿Wrightstown,﻿Waumandee,﻿WI,,44.0055185,-91.4420883,,,,,,,,,,,,,,1869.0,LaCrosse
-﻿lac.wi.0023,﻿station,﻿St. Boniface's,English,﻿with pastoral residence vacant,,,﻿Buffalo County,﻿Buffalo County,﻿Buffalo City,﻿Waumandee,﻿WI,,44.0055185,-91.4420883,,,,,,,,,,,,,,1869.0,LaCrosse
-﻿lac.wi.0023,﻿station,﻿St. Boniface's,English,﻿with pastoral residence vacant,,,﻿Buffalo County,﻿Buffalo County,﻿Nelson,﻿Waumandee,﻿WI,,44.0055185,-91.4420883,,,,,,,,,,,,,,1869.0,LaCrosse
-﻿lac.wi.0023,﻿station,﻿St. Boniface's,English,﻿with pastoral residence vacant,,,﻿Buffalo County,﻿Buffalo County,﻿Little Waumadee,﻿Waumandee,﻿WI,,44.0055185,-91.4420883,,,,,,,,,,,,,,1869.0,LaCrosse
-﻿lac.wi.0023,﻿station,﻿St. Boniface's,English,﻿with pastoral residence vacant,,,﻿Buffalo County,﻿Buffalo County,﻿Mandara,﻿Waumandee,﻿WI,,44.0055185,-91.4420883,,,,,,,,,,,,,,1869.0,LaCrosse
-﻿lac.wi.0023,﻿station,﻿St. Boniface's,English,﻿with pastoral residence vacant,,,﻿Buffalo County,﻿Buffalo County,﻿Alma,﻿Waumandee,﻿WI,,44.0055185,-91.4420883,,,,,,,,,,,,,,1869.0,LaCrosse
-﻿lac.wi.0023,﻿station,﻿St. Boniface's,English,﻿with pastoral residence vacant,,,﻿Chippewa County,﻿Buffalo County,﻿Brusch Prairie,﻿Waumandee,﻿WI,,44.0055185,-91.4420883,,,,,,,,,,,,,,1869.0,LaCrosse
-﻿lac.wi.0023,﻿station,﻿St. Boniface's,English,﻿with pastoral residence vacant,,,﻿Chippewa County,﻿Buffalo County,﻿Courtes Oreilles,﻿Waumandee,﻿WI,,44.0055185,-91.4420883,,,,,,,,,,,,,,1869.0,LaCrosse
-﻿lac.wi.0023,﻿station,﻿St. Boniface's,English,﻿with pastoral residence vacant,,,﻿Chippewa County,﻿Buffalo County,﻿Flambeau,﻿Waumandee,﻿WI,,44.0055185,-91.4420883,,,,,,,,,,,,,,1869.0,LaCrosse
-﻿lac.wi.0023,﻿station,﻿St. Boniface's,English,﻿with pastoral residence vacant,,,﻿Chippewa County,﻿Buffalo County,﻿Springfield,﻿Waumandee,﻿WI,,44.0055185,-91.4420883,,,,,,,,,,,,,,1869.0,LaCrosse
-﻿lac.wi.0023,﻿station,﻿St. Boniface's,English,﻿with pastoral residence vacant,,,﻿Clark County,﻿Buffalo County,﻿Neilsville,﻿Waumandee,﻿WI,,44.0055185,-91.4420883,,,,,,,,,,,,,,1869.0,LaCrosse
-﻿lac.wi.0023,﻿station,﻿St. Boniface's,English,﻿with pastoral residence vacant,,,﻿Crawford County,﻿Buffalo County,﻿Boydtown Bluffs,﻿Waumandee,﻿WI,,44.0055185,-91.4420883,,,,,,,,,,,,,,1869.0,LaCrosse
-﻿lac.wi.0023,﻿station,﻿St. Boniface's,English,﻿(Indian),,,﻿Douglas County,﻿Buffalo County,﻿Superior City,﻿Waumandee,﻿WI,,44.0055185,-91.4420883,,,,,,,,,,,,,,1869.0,LaCrosse
-﻿lac.wi.0023,﻿station,﻿St. Boniface's,English,﻿(Indian),,,﻿Dunn County,﻿Buffalo County,﻿Fall City,﻿Waumandee,﻿WI,,44.0055185,-91.4420883,,,,,,,,,,,,,,1869.0,LaCrosse
-﻿lac.wi.0031,﻿station,not recorded,English,,,,﻿Eau Claire County,,﻿Adams' Settlement,,﻿WI,,44.0055185,-91.4420883,,,,,,,,,,,,,,1869.0,LaCrosse
-﻿lac.wi.0031,﻿station,not recorded,English,,,,﻿Eau Claire County,,﻿Pleasant Valley,,﻿WI,,44.0055185,-91.4420883,,,,,,,,,,,,,,1869.0,LaCrosse
-﻿lac.wi.0031,﻿station,not recorded,English,,,,﻿Jackson County,,﻿Black River Falls,,﻿WI,,44.0055185,-91.4420883,,,,,,,,,,,,,,1869.0,LaCrosse
-﻿lac.wi.0031,﻿station,not recorded,English,,,,﻿Jackson County,,﻿Garden Valley,,﻿WI,,44.0055185,-91.4420883,,,,,,,,,,,,,,1869.0,LaCrosse
-﻿lac.wi.0031,﻿station,not recorded,English,,,,﻿La Crosse County,,﻿Broswick Valley,,﻿WI,,44.0055185,-91.4420883,,,,,,,,,,,,,,1869.0,LaCrosse
-﻿lac.wi.0031,﻿station,not recorded,English,,,,﻿La Crosse County,,﻿Chipmunk,,﻿WI,,44.0055185,-91.4420883,,,,,,,,,,,,,,1869.0,LaCrosse
-﻿lac.wi.0031,﻿station,not recorded,English,,,,﻿La Crosse County,,﻿Cooley,,﻿WI,,44.0055185,-91.4420883,,,,,,,,,,,,,,1869.0,LaCrosse
-﻿lac.wi.0031,﻿station,not recorded,English,,,,﻿La Painte County,,﻿Bad River,,﻿WI,,44.0055185,-91.4420883,,,,,,,,,,,,,,1869.0,LaCrosse
-﻿lac.wi.0031,﻿station,not recorded,English,,,,﻿Marathon County,,﻿Knowlton,,﻿WI,,44.0055185,-91.4420883,,,,,,,,,,,,,,1869.0,LaCrosse
-﻿lac.wi.0031,﻿station,not recorded,English,,,,﻿Marathon County,,﻿Mosinee,,﻿WI,,44.0055185,-91.4420883,,,,,,,,,,,,,,1869.0,LaCrosse
+﻿lac.wi.0108,﻿church,﻿St. Finbar's,English,,,,﻿Monroe County,,﻿Ridgeville,,,,43.0583485,-91.1461352,,"﻿attended from St. Mary's, Ridge",,,,,,,,,,,,1869.0,LaCrosse
+﻿lac.wi.0109,﻿church,﻿St. Patrick's,English,,,,﻿Monroe County,,﻿Sparta,,,,43.0583485,-91.1461352,﻿lac.wi.0001,﻿attended from La Crosse,,﻿probably St. Mary's,,,,,,,,,,1869.0,LaCrosse
+﻿lac.wi.0021,﻿church,﻿St. Aloysius,English,,,,﻿Sauk County,﻿Sauk County,﻿Sauk City,﻿Sauk City,﻿WI,,43.0583485,-91.1461352,,,,,﻿f_x_sailer_001,﻿Rev.,﻿F. X. Sailer,,,,,,,1869.0,LaCrosse
+﻿lac.wi.0110,﻿church,﻿St. Mark's,English,,,,﻿Crawford County,,﻿Seneca,,,,43.0583485,-91.1461352,﻿lac.wi.0113,﻿attended from Utica,,,,,,,,,,,,1869.0,LaCrosse
+﻿lac.wi.0111,﻿church,﻿St. Vincent de Paul's,English,,,,﻿St. Croix County,,﻿Somerset,,,,43.0583485,-91.1461352,﻿lac.wi.0013,﻿attended from Hudson,,,,,,,,,,,,1869.0,LaCrosse
+﻿lac.wi.0022,﻿church,﻿St. Wencelaus',﻿Polish,,,,﻿Trempealeau County,﻿Trempealeau County,﻿Trempealeau,﻿Trempealeau,﻿WI,,44.0055185,-91.4420883,,,,,﻿flo_zadziorsky_001,﻿Rev.,﻿Florent Zadziorsky,﻿O.M.C.,,,,,,1869.0,LaCrosse
+﻿lac.wi.0112,﻿church,﻿St. Teresa's,English,,,,﻿Juneau County,,﻿Union Centre,,,,44.0055185,-91.4420883,﻿lac.wi.0018,﻿attended from Mauston,,,,,,,,,,,,1869.0,LaCrosse
+﻿lac.wi.0113,﻿church,﻿St. James',English,﻿vacant,,,﻿Crawford County,,﻿Utica,,,,44.0055185,-91.4420883,,,,,,,,,,,,,,1869.0,LaCrosse
+﻿lac.wi.0114,﻿church,﻿St. Alphonsus',English,,,,﻿Sauk County,,﻿Westfield,,,,44.0055185,-91.4420883,﻿lac.wi.0021,﻿attended from Sauk City,,,,,,,,,,,,1869.0,LaCrosse
+﻿lac.wi.0023,﻿church,﻿St. Boniface's,English,﻿with pastoral residence vacant,,,﻿Buffalo County,﻿Buffalo County,﻿Waumandee,﻿Waumandee,﻿WI,,44.0055185,-91.4420883,﻿lac.wi.0012,﻿visited from Fountain City,﻿monthly,,﻿l_lay_001,﻿Rev.,﻿L. Lay,,,,,,,1869.0,LaCrosse
+﻿lac.wi.0115,﻿station,not recorded,English,,,,﻿Adams County,,﻿Neery,,,,44.0055185,-91.4420883,,,,,,,,,,,,,,1869.0,LaCrosse
+﻿lac.wi.0116,﻿station,not recorded,English,,,,﻿Adams County,,﻿Praire,,,,44.0055185,-91.4420883,,,,,,,,,,,,,,1869.0,LaCrosse
+﻿lac.wi.0117,﻿station,not recorded,English,,,,﻿Adams County,,﻿Quincy,,,,44.0055185,-91.4420883,,,,,,,,,,,,,,1869.0,LaCrosse
+﻿lac.wi.0118,﻿station,not recorded,English,,,,﻿Adams County,,﻿Wardelah,,,,44.0055185,-91.4420883,,,,,,,,,,,,,,1869.0,LaCrosse
+﻿lac.wi.0119,﻿station,not recorded,English,,,,﻿Bad Axe County,,﻿Morriston,,,,44.0055185,-91.4420883,,,,,,,,,,,,,,1869.0,LaCrosse
+﻿lac.wi.0120,﻿station,not recorded,English,,,,﻿Bad Axe County,,﻿Wrightstown,,,,44.0055185,-91.4420883,,,,,,,,,,,,,,1869.0,LaCrosse
+﻿lac.wi.0025,﻿station,not recorded,English,,,,﻿Buffalo County,,﻿Buffalo City,﻿Buffalo City,﻿WI,,44.2305638,-91.86346800000001,,,,,,,,,,,,,,1869.0,LaCrosse
+﻿lac.wi.0121,﻿station,not recorded,English,,,,﻿Buffalo County,,﻿Nelson,,,,44.2305638,-91.86346800000001,,,,,,,,,,,,,,1869.0,LaCrosse
+﻿lac.wi.0122,﻿station,not recorded,English,,,,﻿Buffalo County,,﻿Little Waumadee,,,,44.2305638,-91.86346800000001,,,,,,,,,,,,,,1869.0,LaCrosse
+﻿lac.wi.0123,﻿station,not recorded,English,,,,﻿Buffalo County,,﻿Mandara,,,,44.2305638,-91.86346800000001,,,,,,,,,,,,,,1869.0,LaCrosse
+﻿lac.wi.0024,﻿station,not recorded,English,,,,﻿Buffalo County,,﻿Alma,﻿Alma,﻿WI,,44.321586700000005,-91.9144568,,,,,,,,,,,,,,1869.0,LaCrosse
+﻿lac.wi.0026,﻿station,not recorded,English,,,,﻿Chippewa County,,﻿Brusch Prairie,﻿Bloomer,﻿WI,,45.120907700000004,-91.4210511,,,,,,,,,,,,,,1869.0,LaCrosse
+﻿lac.wi.0124,﻿station,not recorded,English,,,,﻿Chippewa County,,﻿Courtes Oreilles,,,,45.120907700000004,-91.4210511,,,,,,,,,,,,,,1869.0,LaCrosse
+﻿lac.wi.0063,﻿station,not recorded,English,,,,﻿Chippewa County,,﻿Flambeau,﻿Holocombe,﻿WI,,45.26204084,-91.16075002,,,,,,,,,,,,,,1869.0,LaCrosse
+﻿lac.wi.0125,﻿station,not recorded,English,,,,﻿Chippewa County,,﻿Springfield,,,,45.26204084,-91.16075002,,,,,,,,,,,,,,1869.0,LaCrosse
+﻿lac.wi.0126,﻿station,not recorded,English,,,,﻿Clark County,,﻿Neilsville,,,,45.26204084,-91.16075002,,,,,,,,,,,,,,1869.0,LaCrosse
+﻿lac.wi.0127,﻿station,not recorded,English,,,,﻿Crawford County,,﻿Boydtown Bluffs,,,,45.26204084,-91.16075002,,,,,,,,,,,,,,1869.0,LaCrosse
+﻿lac.wi.0067,﻿station,not recorded,English,,,,﻿Douglas County,,﻿Superior City,﻿Superior,﻿WI,,46.7032077268766,-92.0468618601298,,,,,,,,,,,,,,1869.0,LaCrosse
+﻿lac.wi.0128,﻿station,not recorded,English,,,,﻿Dunn County,,﻿Fall City,,,,46.7032077268766,-92.0468618601298,,,,,,,,,,,,,,1869.0,LaCrosse
+﻿lac.wi.0031,﻿station,not recorded,English,,,,﻿Eau Claire County,,﻿Adams' Settlement,,﻿WI,,46.7032077268766,-92.0468618601298,,,,,,,,,,,,,,1869.0,LaCrosse
+﻿lac.wi.0129,﻿station,not recorded,English,,,,﻿Eau Claire County,,﻿Pleasant Valley,,,,46.7032077268766,-92.0468618601298,,,,,,,,,,,,,,1869.0,LaCrosse
+﻿lac.wi.0066,﻿station,not recorded,English,,,,﻿Jackson County,,﻿Black River Falls,﻿Black River Falls,﻿WI,,44.29479132,-90.85243008,,,,,,,,,,,,,,1869.0,LaCrosse
+﻿lac.wi.0130,﻿station,not recorded,English,,,,﻿Jackson County,,﻿Garden Valley,,,,44.29479132,-90.85243008,,,,,,,,,,,,,,1869.0,LaCrosse
+﻿lac.wi.0069,﻿station,not recorded,English,,,,﻿La Crosse County,,﻿Broswick Valley,﻿Stoddard,﻿WI,,43.72826278,-91.15108405,,,,,,,,,,,,,,1869.0,LaCrosse
+﻿lac.wi.0131,﻿station,not recorded,English,,,,﻿La Crosse County,,﻿Chipmunk,,,,43.72826278,-91.15108405,,,,,,,,,,,,,,1869.0,LaCrosse
+﻿lac.wi.0132,﻿station,not recorded,English,,,,﻿La Crosse County,,﻿Cooley,,,,43.72826278,-91.15108405,,,,,,,,,,,,,,1869.0,LaCrosse
+﻿lac.wi.0133,﻿station,not recorded,English,,,,﻿La Painte County,,﻿Bad River,,,,43.72826278,-91.15108405,,,,,,,,,,,,,,1869.0,LaCrosse
+﻿lac.wi.0134,﻿station,not recorded,English,,,,﻿Marathon County,,﻿Knowlton,,,,43.72826278,-91.15108405,,,,,,,,,,,,,,1869.0,LaCrosse
+﻿lac.wi.0135,﻿station,not recorded,English,,,,﻿Marathon County,,﻿Mosinee,,,,43.72826278,-91.15108405,,,,,,,,,,,,,,1869.0,LaCrosse
 ﻿lac.wi.0039,﻿station,not recorded,English,,,,﻿Monroe County,,﻿Toma,﻿Tomah,﻿WI,,43.9797033,-90.5076337,,,,,,,,,,,,,,1869.0,LaCrosse
-﻿lac.wi.0039,﻿station,not recorded,English,,,,﻿Monroe County,,﻿Tunnel City,﻿Tomah,﻿WI,,43.9797033,-90.5076337,,,,,,,,,,,,,,1869.0,LaCrosse
-﻿lac.wi.0039,﻿station,not recorded,English,,,,﻿Pepin County,,﻿Bear Creek,﻿Tomah,﻿WI,,43.9797033,-90.5076337,,,,,,,,,,,,,,1869.0,LaCrosse
+﻿lac.wi.0070,﻿station,not recorded,English,,,,﻿Monroe County,,﻿Tunnel City,﻿Tunnel City,﻿WI,,44.00656041,-90.56605055,,,,,,,,,,,,,,1869.0,LaCrosse
+﻿lac.wi.0071,﻿station,not recorded,English,,,,﻿Pepin County,,﻿Bear Creek,﻿Durand,﻿WI,,44.64085914,-91.93567119,,,,,,,,,,,,,,1869.0,LaCrosse
 ﻿lac.wi.0041,﻿station,not recorded,English,,,,﻿Pepin County,,﻿Durand,﻿Durand,﻿WI,,44.626354299999996,-91.965726,,,,,,,,,,,,,,1869.0,LaCrosse
-﻿lac.wi.0041,﻿station,not recorded,English,,,,﻿Pepin County,,﻿Pepin,﻿Durand,﻿WI,,44.626354299999996,-91.965726,,,,,,,,,,,,,,1869.0,LaCrosse
-﻿lac.wi.0041,﻿station,not recorded,English,,,,﻿Peirce County,,﻿Martell,﻿Durand,﻿WI,,44.626354299999996,-91.965726,,,,,,,,,,,,,,1869.0,LaCrosse
+﻿lac.wi.0072,﻿station,not recorded,English,,,,﻿Pepin County,,﻿Pepin,﻿Pepin,﻿WI,,44.44299763,-92.14894029999999,,,,,,,,,,,,,,1869.0,LaCrosse
+﻿lac.wi.0136,﻿station,not recorded,English,,,,﻿Peirce County,,﻿Martell,,,,44.44299763,-92.14894029999999,,,,,,,,,,,,,,1869.0,LaCrosse
 ﻿lac.wi.0044,﻿station,not recorded,English,,,,﻿Pierce County,,﻿Perrytown,,﻿WI,,44.58919428,-92.48567613,,,,,,,,,,,,,,1869.0,LaCrosse
 ﻿lac.wi.0043,﻿station,not recorded,English,,,,﻿Pierce County,,﻿Prescott,﻿Prescott,﻿WI,,44.7488565,-92.80214709999998,,,,,,,,,,,,,,1869.0,LaCrosse
 ﻿lac.wi.0045,﻿station,not recorded,English,,,,﻿Richland County,,﻿Richland Centre,﻿Richland Center,﻿WI,,43.334705299999996,-90.3867928,,,,,,,,,,,,,,1869.0,LaCrosse
-﻿lac.wi.0045,﻿station,not recorded,English,,,,﻿Richland County,,﻿Har's Creek,﻿Richland Center,﻿WI,,43.334705299999996,-90.3867928,,,,,,,,,,,,,,1869.0,LaCrosse
-﻿lac.wi.0045,﻿station,not recorded,English,,,,﻿Richland County,,﻿Melancthon Creek,﻿Richland Center,﻿WI,,43.334705299999996,-90.3867928,,,,,,,,,,,,,,1869.0,LaCrosse
-﻿lac.wi.0045,﻿station,not recorded,English,,,,﻿Richland County,,﻿Mullandy Creek,﻿Richland Center,﻿WI,,43.334705299999996,-90.3867928,,,,,,,,,,,,,,1869.0,LaCrosse
-﻿lac.wi.0045,﻿station,not recorded,English,,,,﻿Richland County,,﻿Pine Creek,﻿Richland Center,﻿WI,,43.334705299999996,-90.3867928,,,,,,,,,,,,,,1869.0,LaCrosse
-﻿lac.wi.0045,﻿station,not recorded,English,,,,﻿Sauk County,,﻿Bear Creek,﻿Richland Center,﻿WI,,43.334705299999996,-90.3867928,,,,,,,,,,,,,,1869.0,LaCrosse
-﻿lac.wi.0045,﻿station,not recorded,English,,,,﻿Sauk County,,﻿Marble Quarry,﻿Richland Center,﻿WI,,43.334705299999996,-90.3867928,,,,,,,,,,,,,,1869.0,LaCrosse
-﻿lac.wi.0045,﻿station,not recorded,English,,,,﻿Sauk County,,﻿Sugar Grove,﻿Richland Center,﻿WI,,43.334705299999996,-90.3867928,,,,,,,,,,,,,,1869.0,LaCrosse
+﻿lac.wi.0137,﻿station,not recorded,English,,,,﻿Richland County,,﻿Har's Creek,,,,43.334705299999996,-90.3867928,,,,,,,,,,,,,,1869.0,LaCrosse
+﻿lac.wi.0079,﻿station,not recorded,English,,,,﻿Richland County,,﻿Melancthon Creek,﻿Yuba,﻿WI,,43.51803626,-90.35899805,,,,,,,,,,,,,,1869.0,LaCrosse
+﻿lac.wi.0080,﻿station,not recorded,English,,,,﻿Richland County,,﻿Mullandy Creek,,﻿WI,,43.3333274769571,-90.4664555104342,,,,,,,,,,,,,,1869.0,LaCrosse
+﻿lac.wi.0081,﻿station,not recorded,English,,,,﻿Richland County,,﻿Pine Creek,﻿Richland Center,﻿WI,,43.41008072,-90.57915495,,,,,,﻿Sister,﻿Bruno,,﻿Directress,,,﻿pupil,,1869.0,LaCrosse
+﻿lac.wi.0138,﻿station,not recorded,English,,,,﻿Sauk County,,﻿Bear Creek,,,,43.41008072,-90.57915495,,,,,,,,,,,,,,1869.0,LaCrosse
+﻿lac.wi.0139,﻿station,not recorded,English,,,,﻿Sauk County,,﻿Marble Quarry,,,,43.41008072,-90.57915495,,,,,,,,,,,,,,1869.0,LaCrosse
+﻿lac.wi.0140,﻿station,not recorded,English,,,,﻿Sauk County,,﻿Sugar Grove,,,,43.41008072,-90.57915495,,,,,,,,,,,,,,1869.0,LaCrosse
 ﻿lac.wi.0054,﻿station,not recorded,English,,,,﻿St. Croix County,,﻿Pleasant Valley,﻿Pleasant Valley,﻿WI,,44.91420523,-92.48579584,,,,,,,,,,,,,,1869.0,LaCrosse
-﻿lac.wi.0054,﻿station,not recorded,English,,,,﻿St. Croix County,,﻿Bauen's Mills,﻿Pleasant Valley,﻿WI,,44.91420523,-92.48579584,,,,,,,,,,,,,,1869.0,LaCrosse
+﻿lac.wi.0077,﻿station,not recorded,English,,,,﻿St. Croix County,,﻿Bauen's Mills,,﻿WI,,45.0497844,-92.3875695,,,,,,,,,,,,,,1869.0,LaCrosse
 ﻿lac.wi.0057,﻿station,not recorded,English,,,,﻿Trempealeau County,,﻿Galesville,﻿Galesville,﻿WI,,44.08377532,-91.35846932,,,,,,,,,,,,,,1869.0,LaCrosse
-﻿lac.wi.0057,﻿station,not recorded,English,,,,﻿Trempealeau County,,﻿Hixton,﻿Galesville,﻿WI,,44.08377532,-91.35846932,,,,,,,,,,,,,,1869.0,LaCrosse
-﻿lac.wi.0057,﻿station,not recorded,English,,,,﻿Trempealeau County,,﻿Montoville,﻿Galesville,﻿WI,,44.08377532,-91.35846932,,,,,,,,,,,,,,1869.0,LaCrosse
+﻿lac.wi.0141,﻿station,not recorded,English,,,,﻿Trempealeau County,,﻿Hixton,,,,44.08377532,-91.35846932,,,,,,,,,,,,,,1869.0,LaCrosse
+﻿lac.wi.0142,﻿station,not recorded,English,,,,﻿Trempealeau County,,﻿Montoville,,,,44.08377532,-91.35846932,,,,,,,,,,,,,,1869.0,LaCrosse
 ﻿lac.wi.0056,﻿station,not recorded,English,,,,﻿Trempealeau County,,﻿Trempealeau City,﻿Trempealeau City,﻿WI,,44.0135266,-91.41572370000002,,,,,,,,,,,,,,1869.0,LaCrosse
 ﻿lac.wi.0078,﻿station,not recorded,English,,,,﻿Vernon County,,﻿Woodland,﻿Forest,﻿WI,,43.67912018,-90.50947674,,,,,,,,,,,,,,1869.0,LaCrosse
-﻿PG 201,﻿station,not recorded,English,,,,,,,,,,43.67912018,-90.50947674,,,,,,,,,,,,,,1869.0,LaCrosse
+﻿lac.wi.0082,﻿school,﻿St. Joseph's Parish School,English,,,,,,﻿La Crosse,﻿La Crosse,﻿WI,,43.80585313,-91.23661416,,,,,,﻿Sister,﻿Mary Sophia,,﻿Directress,,﻿Pupils,300,,1869.0,LaCrosse
+﻿lac.wi.0082,﻿school,﻿St. Joseph's Parish School,English,,,,,,﻿La Crosse,﻿La Crosse,﻿WI,,43.80585313,-91.23661416,,,,,,,,,,,﻿sisters,4,,1869.0,LaCrosse
+﻿lac.wi.0083,﻿school,﻿St. Mary's Parish School,English,﻿Directed by a lay teacher.,,,,,﻿Chippewa Falls,﻿Chippewa Falls,﻿WI,,44.93579099,-91.38720784,,,,,,,,,,,,,,1869.0,LaCrosse
+﻿lac.wi.0083,﻿school,103,English,﻿Directed by a lay teacher.,,,,,﻿Chippewa Falls,﻿Chippewa Falls,﻿WI,,44.93579099,-91.38720784,,,,,,,,,,,,,,1869.0,LaCrosse

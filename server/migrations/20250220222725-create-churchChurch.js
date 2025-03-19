@@ -2,39 +2,38 @@
 /** @type {import('sequelize-cli').Migration} */
 module.exports = {
   async up(queryInterface, Sequelize) {
-    await queryInterface.createTable('Church_People', {
+    await queryInterface.createTable('churchChurches', {
       id: {
-        type: Sequelize.INTEGER,
+        allowNull: false,
         autoIncrement: true,
-        primaryKey: true
+        primaryKey: true,
+        type: Sequelize.INTEGER
       },
       uniqueInstID: {
         type: Sequelize.STRING,
         allowNull: false,
-        primaryKey: true
       },
-      uniquePersID: {
+      uniqueAttendingInstID: {
         type: Sequelize.STRING,
         allowNull: false,
-        primaryKey: true
       },
       createdAt: {
-        allowNull: false,
+        allowNull: true,
         type: Sequelize.DATE
       },
       updatedAt: {
-        allowNull: false,
+        allowNull: true,
         type: Sequelize.DATE
       }
     });
 
-    await queryInterface.addConstraint('Church_People', {
-      fields: ['uniqueInstID', 'uniquePersID'],
+    await queryInterface.addConstraint('churchChurches', {
+      fields: ['uniqueInstID', 'uniqueAttendingInstID'],
       type: 'unique',
-      name: 'unique_church_person_constraint'
+      name: 'unique_churchChurch_constraint'
     });
   },
   async down(queryInterface, Sequelize) {
-    await queryInterface.dropTable('Church_People');
+    await queryInterface.dropTable('churchChurches');
   }
 };

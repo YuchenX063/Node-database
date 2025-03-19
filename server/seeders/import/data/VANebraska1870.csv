@@ -4,7 +4,7 @@
 ﻿oma.ne.0001,﻿church,﻿Church of St. Philomena,English,,,,,,﻿Omaha,﻿Omaha,﻿NE,,41.2565369,-95.93450340000001,,,,,﻿wil_mcginnis_001,﻿Rev.,﻿William McGinnis,,,,,,,1870.0,VANebraska
 ﻿oma.ne.0002,﻿church,﻿Church of St. Mary Magdalen,﻿german,,,,,,﻿Omaha,﻿Omaha,﻿NE,﻿NE,41.2050802,-95.9845069,,,,,﻿ott_groenebaum_001,﻿Rev.,﻿Ottoe Groenebaum,,﻿Pastor,,,,,1870.0,VANebraska
 ﻿oma.ne.0003,﻿church,﻿Church of St. Benedict,﻿german,,,,,,﻿Nebraska City,﻿Nebraska City,﻿NE,﻿NE,40.6765745,-95.85936159999999,,,,,﻿ema_hartig_001,﻿Rev.,﻿Emanuel Hartig,﻿O.S.B.,﻿Pastor,,,,,1870.0,VANebraska
-﻿oma.ne.0004,﻿church,not recorded,﻿german,,,,﻿Platte County,,﻿Columbus,﻿Columbus,﻿NE,﻿NE,41.4302973,-97.35939040000001,,,,,﻿j_m_ryan_002,﻿Rev.,﻿J. M. Ryan,,﻿Pastor,,,,,1870.0,VANebraska
+﻿oma.ne.0004,﻿church,not recorded,﻿german,,,,﻿Platte County,,﻿Columbus,﻿Columbus,﻿NE,﻿NE,41.4302973,-97.35939040000001,,,,,﻿jam_ryan_001,﻿Rev.,﻿J. M. Ryan,,﻿Pastor,,,,,1870.0,VANebraska
 ﻿oma.ne.0005,﻿church,﻿St. Patrick's,﻿german,,,,﻿Dakota County,,﻿Franklin,﻿Jackson,﻿NE,﻿NE,42.450708,-96.5712915,,,,,﻿pat_keenan_001,﻿Rev.,﻿Patrick Keenan,,﻿Pastor,,,,,1870.0,VANebraska
 ﻿oma.ne.0006,﻿church,not recorded,English,,,,﻿Richardson County,,﻿Rulo,﻿Rulo,﻿NE,﻿NE,40.0524616,-95.4292764,,,,,﻿the_majerus_001,﻿Rev.,﻿Theodore Majerus,,﻿Pastor,,,,,1870.0,VANebraska
 ﻿oma.ne.0007,﻿church,﻿St. Patrick's,English,,,,,,﻿Forest City,,﻿NE,﻿NE,"﻿41.13105296617946,",-96.27832634,,,,,﻿joh_lonergan_001,﻿Rev.,﻿John Lonergan,,﻿Pastor,,,,,1870.0,VANebraska
@@ -30,7 +30,7 @@
 ﻿oma.ne.0027,﻿station,not recorded,English,,,,,,﻿Shell Creek,﻿Shell Creek,﻿NE,﻿NE,41.49416595,-97.0590615,,,,,,,,,,﻿attended from Columbus,,,,1870.0,VANebraska
 ﻿oma.ne.0028,﻿station,not recorded,English,,,,,,﻿Tecumseh,﻿Tecumseh,﻿NE,﻿NE,40.3667541,-96.1957864,,,,,,,,,,﻿attended from Nebraska City,,,,1870.0,VANebraska
 ﻿oma.ne.0029,﻿station,not recorded,English,,,,﻿Hall County,,﻿Wood River,﻿Wood River,﻿NE,﻿NE,40.820569,-98.6000704,,,,,,,,,,﻿attended from Columbus,,,,1870.0,VANebraska
-﻿hel.mt.0001,﻿church,﻿Church of the Sacred Hearts of Jesus and Mary,English,,,﻿Territory of Montana,,,﻿Helena,﻿Helena,,﻿MT,46.5891452,-112.03910570000001,,,,,﻿l_v_gorp_001,﻿Rev.,﻿L. Van Gorp,﻿S.J.,﻿Pastor,,,,,1870.0,VANebraska
+﻿hel.mt.0001,﻿church,﻿Church of the Sacred Hearts of Jesus and Mary,English,,,﻿Territory of Montana,,,﻿Helena,﻿Helena,,﻿MT,46.5891452,-112.03910570000001,,,,,﻿l_van-gorp_001,﻿Rev.,﻿L. Van Gorp,﻿S.J.,﻿Pastor,,,,,1870.0,VANebraska
 ﻿hel.mt.0002,﻿church,not recorded,English,,,﻿Territory of Montana,,,﻿Boulder Valley,﻿Boulder,,﻿MT,45.8668713,-111.94554280000001,,,,,,,,,,﻿visited once in two weeks from Helena,,,,1870.0,VANebraska
 ﻿hel.mt.0003,﻿church,not recorded,English,,,﻿Territory of Montana,,,﻿Bannack City,﻿Bannack,,﻿MT,45.1610337,-112.99559070000001,,,,,,,,,,﻿visited once in two weeks from Helena,,,,1870.0,VANebraska
 ﻿hel.mt.0004,﻿church,not recorded,English,,,﻿Territory of Montana,,,﻿Carrie Gulch,,,﻿MT,46.8796822,-110.3625658,,,,,,,,,,﻿visited once in two weeks from Helena,,,,1870.0,VANebraska
@@ -58,7 +58,7 @@
 ﻿che.wy.0009,﻿church,not recorded,English,,,﻿Territory of Wyoming,,,﻿Sherman Station,,﻿WY,﻿WY,41.131111,-105.39805600000001,,,,,,,,,,﻿attended from Cheyenne occasionally,,,,1870.0,VANebraska
 ﻿che.wy.0010,﻿church,not recorded,English,,,﻿Territory of Wyoming,,,﻿Sydney,﻿Sidney,﻿WY,﻿NE,41.14321997,-102.9812572,,,,,,,,,,﻿attended from Cheyenne,,,,1870.0,VANebraska
 ﻿che.wy.0011,﻿church,not recorded,English,,,﻿Territory of Wyoming,,,﻿Pine Bluffs,﻿Pine Bluffs,﻿WY,﻿WY,41.1819261,-104.06911740000001,,,,,,,,,,﻿attended from Cheyenne,,,,1870.0,VANebraska
-﻿sio.sd.0001,﻿church,not recorded,English,,,﻿Territory of Dakota,﻿Union County,,﻿French Settlement,,,﻿SD,42.61173223,-96.53192785,,,,,﻿bouchet_001,﻿Rev. Fr.,﻿Bouchet,,﻿Pastor,,,,,1870.0,VANebraska
+﻿sio.sd.0001,﻿church,not recorded,English,,,﻿Territory of Dakota,﻿Union County,,﻿French Settlement,,,﻿SD,42.61173223,-96.53192785,,,,,﻿bouchet_002,﻿Rev. Fr.,﻿Bouchet,,﻿Pastor,,,,,1870.0,VANebraska
 ﻿sio.sd.0002,﻿church,not recorded,English,,,﻿Territory of Dakota,,,﻿Elk Point,﻿Elk Point,,﻿SD,42.68366888,-96.67796313,,,,,,,,,,﻿attended by Rev. Fr. Bouchet,,,,1870.0,VANebraska
 ﻿sio.sd.0003,﻿church,not recorded,English,,,﻿Territory of Dakota,,,﻿Sioux Point,,,﻿SD,42.51932889,-96.49612194,,,,,,,,,,﻿attended by Rev. Fr. Bouchet,,,,1870.0,VANebraska
 ﻿sio.sd.0004,﻿church,not recorded,English,,,﻿Territory of Dakota,,,﻿Yacton,﻿Yankton,,﻿SD,42.87210862,-97.40814165,,,,,,,,,,"﻿attended from St. Helena, Nebraska",,,,1870.0,VANebraska

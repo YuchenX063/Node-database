@@ -49,7 +49,7 @@
 ﻿har.ct.0035,﻿church,﻿St. Charles Borromeo's,English,,,,,﻿Providence County,﻿Woonsocket,﻿Woonsocket,﻿RI,,42.008323,-71.51378509999999,,,,,﻿joh_kelly_001,﻿Rev.,﻿John Kelly,,,,,,,1870.0,Hartford
 ﻿har.ct.0036,﻿church,﻿Church of the Assumption,English,,,,,﻿New Haven County,﻿Ansonia,﻿Ansonia,﻿CT,,41.3497369,-73.07969090000002,﻿har.ct.0041,﻿attended from Birmingham,,,,,,,,,,,,1870.0,Hartford
 ﻿har.ct.0037,﻿church,not recorded,English,,,,,﻿Hartford County,﻿Avon,﻿Avon,﻿CT,,41.809620100000004,-72.83051540000001,﻿har.ct.0052,﻿attended from Collinsville,,,,,,,,,,,,1870.0,Hartford
-﻿har.ct.0038,﻿church,﻿Immaculate Conception,English,,,,,﻿New London County,﻿Baltic,﻿Baltic,﻿CT,,41.6172065,-72.0850766,,,,,﻿aeg_v_laar_001,﻿Rev.,﻿Aegidius Van Laar,,﻿pastor,,,,,1870.0,Hartford
+﻿har.ct.0038,﻿church,﻿Immaculate Conception,English,,,,,﻿New London County,﻿Baltic,﻿Baltic,﻿CT,,41.6172065,-72.0850766,,,,,﻿aeg_van-laar_001,﻿Rev.,﻿Aegidius Van Laar,,﻿pastor,,,,,1870.0,Hartford
 ﻿har.ct.0039,﻿church,﻿St. Augustine's,English,,,,,﻿Fairfield County,﻿Bridgeport,﻿Bridgeport,﻿CT,,41.1804284,-73.1966099,,,,,﻿tho_j_sinnott_001,﻿Rev.,﻿Thomas J. Sinnott,,,,,,,1870.0,Hartford
 ﻿har.ct.0039,﻿church,﻿St. Augustine's,English,,,,,﻿Fairfield County,﻿Bridgeport,﻿Bridgeport,﻿CT,,41.1804284,-73.1966099,,,,,﻿js_fitzpatrick_001,﻿Rev.,﻿J.S. Fitzpatrick,,,,,,,1870.0,Hartford
 ﻿har.ct.0039,﻿church,﻿St. Augustine's,English,,,,,﻿Fairfield County,﻿Bridgeport,﻿Bridgeport,﻿CT,,41.1804284,-73.1966099,,,,,﻿wil_f_obrien_001,﻿Rev.,﻿William F. O'Brien,,,,,,,1870.0,Hartford
@@ -171,18 +171,18 @@
 ﻿har.ct.0137,﻿church,not recorded,English,,,,,﻿Middlesex County,﻿Westbrook,﻿Westbrook,﻿CT,,41.2959741,-72.4641563,﻿har.ct.0043,﻿attended from Branford,,,,,,,,,,,,1870.0,Hartford
 ﻿har.ct.0138,﻿church,not recorded,English,,,,,﻿Middlesex County,﻿Westbrook,﻿Westbrook,﻿CT,,41.2959741,-72.4641563,﻿har.ct.0043,﻿attended from Branford,,,,,,,,,,,,1870.0,Hartford
 ﻿har.ct.0139,﻿church,﻿Church of the Assumption,English,,,,,﻿Fairfield County,﻿Westport,﻿Westport,﻿CT,,41.1363191,-73.3652,﻿har.ct.0107,﻿attended from Norwalk,﻿twice a month,,,,,,,,,,,1870.0,Hartford
-﻿har.ct.0140,﻿church,﻿St. Joseph's Church,English,,,,,﻿Litchfield County,﻿Winsted,﻿Winsted,﻿CT,,41.9213905,-73.0646739,,,,,﻿leo_d_saracena_001,﻿Rev.,﻿Leo da Saracena,﻿O.S.F.,﻿pastor,,,,,1870.0,Hartford
+﻿har.ct.0140,﻿church,﻿St. Joseph's Church,English,,,,,﻿Litchfield County,﻿Winsted,﻿Winsted,﻿CT,,41.9213905,-73.0646739,,,,,﻿leo_da-saracena_001,﻿Rev.,﻿Leo da Saracena,﻿O.S.F.,﻿pastor,,,,,1870.0,Hartford
 ﻿har.ct.0140,﻿church,﻿St. Joseph's Church,English,,,,,﻿Litchfield County,﻿Winsted,﻿Winsted,﻿CT,,41.9213905,-73.0646739,,,,,﻿eug_pagani_001,﻿Rev.,﻿Eugene Pagani,﻿O.S.F.,,,,,,1870.0,Hartford
 ﻿har.ct.0140,﻿church,﻿St. Joseph's Church,English,,,,,﻿Litchfield County,﻿Winsted,﻿Winsted,﻿CT,,41.9213905,-73.0646739,,,,,﻿jer_collins_001,﻿Rev. Fr.,﻿Jerome Collins,﻿O.S.F.,,,,,,1870.0,Hartford
 ﻿har.ct.0141,﻿church,not recorded,English,﻿church not dedicated,,,,﻿Hartford County,﻿Windsor,﻿Windsor,﻿CT,,41.8525984,-72.64370219999999,﻿har.ct.0142,﻿attended from Windsor Locks,﻿every Sunday,,,,,,,,,,,1870.0,Hartford
 ﻿har.ct.0142,﻿church,﻿St. Mary's,English,,,,,﻿Hartford County,﻿Windsor Locks,﻿Windsor Locks,﻿CT,,41.9301847,-72.6295369,,,,,﻿jam_smyth_001,﻿Rev.,﻿James Smyth,,﻿pastor,,,,,1870.0,Hartford
 ﻿har.ct.0142,﻿church,﻿St. Mary's,English,,,,,﻿Hartford County,﻿Windsor Locks,﻿Windsor Locks,﻿CT,,41.9301847,-72.6295369,,,,,﻿p_fay_001,﻿Rev.,﻿P. Fay,,,,,,,1870.0,Hartford
-﻿har.ct.0143,﻿church,﻿St. Joseph's,English,,,,,﻿Windham County,﻿Willimantic,﻿Willimantic,﻿CT,,41.7132928,-72.2071266,,,,,﻿flo_d_bruycker_001,﻿Rev.,﻿Flor. de Bruycker,,﻿pastor,,,,,1870.0,Hartford
+﻿har.ct.0143,﻿church,﻿St. Joseph's,English,,,,,﻿Windham County,﻿Willimantic,﻿Willimantic,﻿CT,,41.7132928,-72.2071266,,,,,﻿flo_de-bruycker_001,﻿Rev.,﻿Flor. de Bruycker,,﻿pastor,,,,,1870.0,Hartford
 ﻿har.ct.0144,﻿church,﻿St. Francis of Assisium,English,,,,,﻿Litchfield County,﻿Wolcottville,﻿Torrington,﻿CT,,41.8003049,-73.1211715,﻿har.ct.0140,﻿attended from Winsted,,"﻿went with church, but could be convent",,,,,,,,,,1870.0,Hartford
 ﻿har.ct.0145,﻿church,not recorded,English,,,,,﻿Litchfield County,﻿Woodbury,﻿Woodbury,﻿CT,,41.544540399999995,-73.2090025,﻿har.ct.0092,﻿attended from Naugatuck,﻿every second Sunday,,,,,,,,,,,1870.0,Hartford
 ﻿har.ct.0146,﻿church,not recorded,English,,,,,﻿Hartford County,﻿Wethersfield,﻿Wethersfield,﻿CT,,41.7063537,-72.65962440000001,﻿har.ct.0077,"﻿attended from St. Peter's, Hartford",﻿twice a month,,,,,,,,,,,1870.0,Hartford
 ﻿har.ct.0147,﻿church,not recorded,English,,,,,﻿New London County,﻿Uncas,﻿Uncasville,﻿CT,,41.431721,-72.1100936,﻿har.ct.0095,﻿attended from New London,,,,,,,,,,,,1870.0,Hartford
-﻿har.ct.0148,﻿convent,﻿St. Joseph's Franciscan Convent,English,,,,,,﻿Winsted,﻿Winsted,﻿CT,,41.92142521,-73.06484628,,,,,﻿leo_d_saracena_001,﻿Rev.,﻿Leo da Saracena,﻿O.S.F.,﻿Pastor and ex-Definitor,,,,,1870.0,Hartford
+﻿har.ct.0148,﻿convent,﻿St. Joseph's Franciscan Convent,English,,,,,,﻿Winsted,﻿Winsted,﻿CT,,41.92142521,-73.06484628,,,,,﻿leo_da-saracena_001,﻿Rev.,﻿Leo da Saracena,﻿O.S.F.,﻿Pastor and ex-Definitor,,,,,1870.0,Hartford
 ﻿har.ct.0148,﻿convent,﻿St. Joseph's Franciscan Convent,English,,,,,,﻿Winsted,﻿Winsted,﻿CT,,41.92142521,-73.06484628,,,,,﻿eug_pagani_001,﻿Rev. Fr.,﻿Eugene Pagani,﻿O.S.F.,,,,,,1870.0,Hartford
 ﻿har.ct.0148,﻿convent,﻿St. Joseph's Franciscan Convent,English,,,,,,﻿Winsted,﻿Winsted,﻿CT,,41.92142521,-73.06484628,,,,,﻿jer_collins_001,﻿Rev. Fr.,﻿Jerome Collins,﻿O.S.F.,,,﻿brother,"﻿Number of Brothers, 8",,1870.0,Hartford
 ﻿har.ct.0149,﻿academy,﻿Academy of the Brothers of the Christian Schools at St. Patrick's,English,,,,,,﻿Hartford,﻿Hartford,﻿CT,,41.76920338,-72.67853048,,,,,,﻿Brother,﻿Simplicien,,﻿Director,,﻿pupil,"﻿Number of pupils in Academy, 75. Number of pupils in Free School, 410",,1870.0,Hartford

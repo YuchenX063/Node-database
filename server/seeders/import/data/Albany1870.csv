@@ -19,7 +19,7 @@
 ﻿alb.ny.0007,﻿church,﻿St. Ann's,English,,,,﻿,,﻿Albany City,﻿Albany,﻿NY,,42.6394278,-73.75769050000001,,,,,﻿tho_doran_001,﻿Rev.,﻿Thomas Doran,,,,,,,1870.0,Albany
 ﻿alb.ny.0008,﻿church,﻿Our Lady of Angels,English,,,,﻿,,﻿Albany City,﻿Albany,﻿NY,,42.706944,-73.81617469999999,,,,,﻿fra_neubauer_001,﻿Rev.,﻿Francis Neubauer,﻿O.M.C.,,,,,,1870.0,Albany
 ﻿alb.ny.0008,﻿church,﻿Our Lady of Angels,English,,,,﻿,,﻿Albany City,﻿Albany,﻿NY,,42.706944,-73.81617469999999,,,,,﻿nor_stoller_001,﻿Rev.,﻿Norbert Stoller,﻿O.M.C.,,,,,,1870.0,Albany
-﻿alb.ny.0009,﻿church,﻿Church of the Assumption,English,,,,﻿,,﻿Albany City,﻿Albany,﻿NY,,42.6525793,-73.7562317,,,,,﻿max_l_porte_001,﻿Rev.,﻿Maxime La Porte,,﻿Pastor,,,,,1870.0,Albany
+﻿alb.ny.0009,﻿church,﻿Church of the Assumption,English,,,,﻿,,﻿Albany City,﻿Albany,﻿NY,,42.6525793,-73.7562317,,,,,﻿max_la-porte_001,﻿Rev.,﻿Maxime La Porte,,﻿Pastor,,,,,1870.0,Albany
 ﻿alb.ny.0010,﻿convent,﻿Convent and Academy of the Sacred Heart,English,,﻿Kenwood,,﻿,,﻿Albany City,﻿Albany,﻿NY,,42.6236907,-73.77317690000001,,,,,﻿a_hattenberger_001,﻿Rev.,﻿A. Hattenberger,,﻿Chaplain,,,,,1870.0,Albany
 ﻿alb.ny.0011,﻿academy,﻿Academy of the Sacred Heart,English,,﻿Beaver street,,﻿,,﻿Albany City,﻿Albany,﻿NY,,42.6487685,-73.7535718,﻿alb.ny.0002,﻿attented from St. Joseph's,,,﻿fel_mcginn_001,﻿Rev.,﻿Feliz McGinn,,,,,,,1870.0,Albany
 ﻿alb.ny.0012,﻿asylum,﻿Boys Asylum,English,,,,﻿,,﻿Albany City,﻿Albany,﻿NY,,42.6525793,-73.7562317,,,,,﻿bar_j_obrien_001,﻿Rev.,﻿Bartholomew J. O'Brien,,﻿Chaplain,,,,,1870.0,Albany
@@ -76,17 +76,17 @@
 ﻿alb.ny.0061,﻿church,not recorded,English,,,,﻿Rensselaer County,,﻿Castleton,﻿Castleton-on-Hudson,﻿NY,,42.5331974,-73.7462997,﻿alb.ny.0016,﻿attended from East Albany,,,,,,,,,,,,1870.0,Albany
 ﻿alb.ny.0062,﻿church,﻿St. James',English,,,,﻿Madison County,﻿Madison County,﻿Cazenovia,﻿Cazenovia,﻿NY,,42.9300668,-75.8526915,,,,,﻿p_brady_001,﻿Rev.,﻿P. Brady,﻿.,,,,,,1870.0,Albany
 ﻿alb.ny.0063,﻿church,﻿St. Anne's,English,,,,﻿Clinton County,﻿Clinton County,﻿Centreville,﻿Mooers Forks,﻿NY,,44.9580936,-73.6406994,﻿alb.ny.0064,﻿attended from Champlain,,,,,,,,,,,,1870.0,Albany
-﻿alb.ny.0064,﻿church,﻿St. Mary's,English,,,,﻿Clinton County,﻿Clinton County,﻿Champlain,﻿Champlain,﻿NY,,44.9864273,-73.44652509999999,,,,,﻿o_l_salle_001,﻿Rev.,﻿O. La Salle,﻿.,,,,,,1870.0,Albany
-﻿alb.ny.0065,﻿church,﻿St. Patrick's,English,,,,﻿Franklin County,﻿Franklin County,﻿Chateaugay,﻿Chateaugay,﻿NY,,44.9259589,-74.08123459999999,,,,,﻿edm_d_pauw_001,﻿Rev.,﻿Edmund de Pauw,﻿.,,,,,,1870.0,Albany
+﻿alb.ny.0064,﻿church,﻿St. Mary's,English,,,,﻿Clinton County,﻿Clinton County,﻿Champlain,﻿Champlain,﻿NY,,44.9864273,-73.44652509999999,,,,,﻿o_la-salle_001,﻿Rev.,﻿O. La Salle,﻿.,,,,,,1870.0,Albany
+﻿alb.ny.0065,﻿church,﻿St. Patrick's,English,,,,﻿Franklin County,﻿Franklin County,﻿Chateaugay,﻿Chateaugay,﻿NY,,44.9259589,-74.08123459999999,,,,,﻿edm_de-pauw_001,﻿Rev.,﻿Edmund de Pauw,﻿.,,,,,,1870.0,Albany
 ﻿alb.ny.0066,﻿church,﻿St. James',English,,,,﻿,﻿Columbia County,﻿Chatham Centre,﻿Chatham Center,﻿NY,,42.4181391,-73.6140058,﻿alb.ny.0066,﻿attended from Chatham Four Corners,,,,,,,,,,,,1870.0,Albany
 ﻿alb.ny.0067,﻿church,﻿St. Patrick's,English,,,,﻿Columbia County,﻿Columbia County,﻿Chatham Four Corners,﻿Chatham,﻿NY,,42.3642516,-73.5948391,,,,,﻿j_j_moriarty_001,﻿Rev.,﻿J. J. Moriarty,﻿.,,,,,,1870.0,Albany
 ﻿alb.ny.0068,﻿church,﻿St. John the Baptist,English,,,,﻿Warren County,﻿Warren County,﻿Chester,﻿Chesterton,﻿NY,,43.6528618,-73.8012532,,,,,﻿edw_hoare_001,﻿Rev.,﻿Edward Hoare,﻿.,,,,,,1870.0,Albany
 ﻿alb.ny.0069,﻿church,not recorded,English,,,,﻿Schoharie County,﻿Schoharie County,﻿Cherry Valley,,﻿NY,,42.67097444,-74.51295598,﻿alb.ny.0083,﻿attended from Cooperstown,,,,,,,,,,,,1870.0,Albany
 ﻿alb.ny.0070,﻿church,not recorded,English,,,,﻿Clinton County,﻿Clinton County,﻿Chazy,﻿Chazy,﻿NY,,44.8895329,-73.4360334,﻿alb.ny.0223,﻿attended from Plattsburgh,,,,,,,,,,,,1870.0,Albany
 ﻿alb.ny.0071,﻿church,﻿St. Patrick's,English,,,,﻿,﻿Madison County,﻿Chittenango,﻿Chittenango,﻿NY,,43.0495999,-75.904525,﻿alb.ny.0062,﻿attended from Cazenovia,,,,,,,,,,,,1870.0,Albany
-﻿alb.ny.0072,﻿church,﻿St. Mary's,English,,"﻿Clayton, or French Creek, Jefferson Co.,",,﻿Jefferson County,﻿Jefferson County,"﻿Clayton, or French Creek",﻿Clayton,﻿NY,,44.239491,-76.0857759,,,,,﻿de_saunach_001,﻿Rev. Mr.,﻿De Saunach,﻿.,,,,,,1870.0,Albany
-﻿alb.ny.0073,﻿church,not recorded,English,,,,﻿Oneida County,﻿Oneida County,﻿Clayville,﻿Clayville,﻿NY,,42.98007,-75.2509965,,,,,﻿phi_smith_001,﻿Rev.,﻿Philip Smith of Waterville,﻿.,,,,,,1870.0,Albany
-﻿alb.ny.0074,﻿church,not recorded,English,,,,﻿St. Lawrence County,﻿St. Lawrence County,﻿Clifton,﻿Clifton,﻿NY,,44.1974671,-74.8878245,,,,,﻿jos_taney_001,﻿Rev.,﻿Joseph Taney of Potsdam,﻿.,,,,,,1870.0,Albany
+﻿alb.ny.0072,﻿church,﻿St. Mary's,English,,"﻿Clayton, or French Creek, Jefferson Co.,",,﻿Jefferson County,﻿Jefferson County,"﻿Clayton, or French Creek",﻿Clayton,﻿NY,,44.239491,-76.0857759,,,,,﻿de-saunach_001,﻿Rev. Mr.,﻿De Saunach,﻿.,,,,,,1870.0,Albany
+﻿alb.ny.0073,﻿church,not recorded,English,,,,﻿Oneida County,﻿Oneida County,﻿Clayville,﻿Clayville,﻿NY,,42.98007,-75.2509965,,,,,﻿phi_smith_001,﻿Rev.,﻿Philip Smith,﻿.,,﻿of Waterville,,,,1870.0,Albany
+﻿alb.ny.0074,﻿church,not recorded,English,,,,﻿St. Lawrence County,﻿St. Lawrence County,﻿Clifton,﻿Clifton,﻿NY,,44.1974671,-74.8878245,,,,,﻿jos_taney_001,﻿Rev.,﻿Joseph Taney,﻿.,,﻿of Potsdam,,,,1870.0,Albany
 ﻿alb.ny.0075,﻿church,﻿St. Mary's,English,,,,﻿Oneida County,﻿Oneida County,﻿Clinton,﻿Clinton,﻿NY,,43.0484029,-75.37850340000001,,,,,﻿p_oreilly_001,﻿Rev.,﻿P. O'Reilly,﻿.,,,,,,1870.0,Albany
 ﻿alb.ny.0076,﻿church,not recorded,English,,,,﻿Clinton County,﻿Clinton County,﻿Clintonville,﻿Clintonville,﻿NY,,44.4656034,-73.58263690000001,﻿alb.ny.0155,﻿attended from Keeseville,,,,,,,,,,,,1870.0,Albany
 ﻿alb.ny.0077,﻿church,not recorded,English,,,,﻿Albany County,﻿Albany County,﻿Coeysmans,﻿Coeymans,﻿NY,,42.4739705,-73.79234559999999,﻿alb.ny.0086,﻿attended from Coxsackie,,,,,,,,,,,,1870.0,Albany
@@ -139,17 +139,17 @@
 ﻿alb.ny.0123,﻿church,not recorded,English,,,,﻿Clinton County,﻿Clinton County,﻿Forest,,﻿NY,,44.90268117,-73.75624975,﻿alb.ny.0063,﻿attended from Centreville,,,,,,,,,,,,1870.0,Albany
 ﻿alb.ny.0124,﻿church,﻿—,English,,,,﻿Saratoga County,﻿Saratoga County,﻿Galway,﻿Galway,﻿NY,,43.0186858,-74.0315162,﻿alb.ny.0245,﻿attended from Saratoga,,,,,,,,,,,,1870.0,Albany
 ﻿alb.ny.0125,﻿church,﻿—,English,,,,﻿Onondaga County,﻿Onondaga County,﻿Geddes,﻿Geddes,﻿NY,,43.0787435,-76.21314740000001,,,,,,,,,,,,,,1870.0,Albany
-﻿alb.ny.0126,﻿church,﻿Church of Angel Guardians,English,,,,﻿Albany County,﻿Albany County,﻿Guilderland,﻿Guilderland,﻿NY,,42.7043568,-73.9116433,,,,,﻿b_j_oreilly_001,﻿Rev.,"﻿B. J. O'Reilly, of Albany",,,,,,,1870.0,Albany
+﻿alb.ny.0126,﻿church,﻿Church of Angel Guardians,English,,,,﻿Albany County,﻿Albany County,﻿Guilderland,﻿Guilderland,﻿NY,,42.7043568,-73.9116433,,,,,﻿b_j_oreilly_001,﻿Rev.,﻿B. J. O'Reilly,,,﻿of Albany,,,,1870.0,Albany
 ﻿alb.ny.0127,﻿church,﻿St. Joseph's,English,,,,﻿Albany County,﻿Albany County,﻿Green Island,﻿Green Island,﻿NY,,42.6572983,-73.7517887,,,,,﻿joh_mcmenoney_001,﻿Rev.,﻿John McMenoney,,,,,,,1870.0,Albany
 ﻿alb.ny.0128,﻿church,﻿St. Mary's,English,,,,﻿Warren County,﻿Warren County,﻿Glenn's Falls,﻿Glens Falls,﻿NY,,43.3095164,-73.6440058,,,,,﻿jas_mcdermot_001,﻿Rev.,﻿Jas. McDermot,,,,,,,1870.0,Albany
 ﻿alb.ny.0129,﻿church,﻿St. John Baptist,English,,,,﻿Warren County,﻿Warren County,﻿Glenn's Falls,﻿Glens Falls,﻿NY,,43.3095164,-73.6440058,,,,,﻿h_theberge_001,﻿Rev.,﻿H. Theberge,,,,,,,1870.0,Albany
 ﻿alb.ny.0130,﻿church,not recorded,English,,,,﻿St. Lawrence County,﻿St. Lawrence County,﻿Gouverneur,﻿Gouverneur,﻿NY,,44.3367281,-75.46299300000001,﻿alb.ny.0228,﻿attended from Potsdam,,,,,,,,,,,,1870.0,Albany
-﻿alb.ny.0131,﻿church,﻿St. Patrick's,English,,,,﻿Washington County,﻿Washington County,﻿Granville,﻿Granville,﻿NY,,43.4078495,-73.259553,,,,,﻿h_b_hannett_001,﻿Rev.,"﻿H. B. Hannett, of Middle Granville.",,,,,,,1870.0,Albany
+﻿alb.ny.0131,﻿church,﻿St. Patrick's,English,,,,﻿Washington County,﻿Washington County,﻿Granville,﻿Granville,﻿NY,,43.4078495,-73.259553,,,,,﻿h_b_hannett_001,﻿Rev.,﻿H. B. Hannett,,,﻿of Middle Granville.,,,,1870.0,Albany
 ﻿alb.ny.0132,﻿church,not recorded,English,,,,﻿Chenango County,﻿Chenango County,﻿Greene,﻿Greene,﻿NY,,42.3292408,-75.7699147,﻿alb.ny.0200,﻿attended from Norwich,,,,,,,,,,,,1870.0,Albany
 ﻿alb.ny.0133,﻿church,﻿—,English,,﻿Greenfield,,﻿Columbia County,,﻿Greenfield,,﻿NY,,42.31404598,-73.74542533,﻿alb.ny.0086,﻿attended from Coxsackie,,,,,,,,,,,,1870.0,Albany
 ﻿alb.ny.0134,﻿church,not recorded,English,,,,﻿Fulton County,,﻿Greensville,,﻿NY,,43.05334646,-74.50746099,﻿alb.ny.0151,﻿attended from Johnstown,,,,,,,,,,,,1870.0,Albany
 ﻿alb.ny.0135,﻿church,not recorded,English,,,,﻿Fulton County,﻿Fulton County,﻿Gloversville,﻿Gloversville,﻿NY,,43.0528506,-74.34374670000001,﻿alb.ny.0196,﻿attended from Newport,,,,,,,,,,,,1870.0,Albany
-﻿alb.ny.0136,﻿church,not recorded,English,,,,﻿,﻿Delaware County,﻿Hancock,﻿Hancock,﻿NY,,41.9539754,-75.2804502,,,,,﻿mj_griffith_001,﻿Rev.,"﻿M.J. Griffith, of Deposit",,,,,,,1870.0,Albany
+﻿alb.ny.0136,﻿church,not recorded,English,,,,﻿,﻿Delaware County,﻿Hancock,﻿Hancock,﻿NY,,41.9539754,-75.2804502,,,,,﻿mj_griffith_001,﻿Rev.,﻿M.J. Griffith,,,﻿of Deposit,,,,1870.0,Albany
 ﻿alb.ny.0137,﻿church,﻿St. —,English,,,,﻿Washington County,﻿Washington County,﻿Hampton,﻿Hampton,﻿NY,,43.5238461,-73.2528644,﻿alb.ny.0311,"﻿attended by John J. McDonnell, of Whitehall",,,,,,,,,,,,1870.0,Albany
 ﻿alb.ny.0138,﻿church,not recorded,English,,,,﻿Oneida County,﻿Oneida County,﻿Holland Patent,﻿Holland Patent,﻿NY,,43.2417364,-75.2568337,﻿alb.ny.0295,"﻿attended from St. John's Church, Utica.",,,,,,,,,,,,1870.0,Albany
 ﻿alb.ny.0139,﻿church,not recorded,English,,,,﻿Madison County,﻿Madison County,﻿Hamilton,﻿Hamilton,﻿NY,,42.8270136,-75.5446238,,,,,﻿a_p_ludden_001,﻿Rev.,﻿A. P. Ludden,,﻿Pastor,,,,,1870.0,Albany
@@ -162,7 +162,7 @@
 ﻿alb.ny.0147,﻿church,"﻿St. John Chrysostom,",﻿German,,,,﻿Oneida County,﻿Oneida County,﻿Hawkinsville,﻿Hawkinsville,﻿NY,,43.4936798,-75.27711409999999,﻿alb.ny.0184,﻿attended from Mohawk Hill,,,,,,,,,,,,1870.0,Albany
 ﻿alb.ny.0148,﻿church,not recorded,English,,,,﻿Washington County,﻿Washington County,﻿Hebron,﻿Hebron,﻿NY,,43.2672574,-73.3472901,﻿alb.ny.0178,﻿attended from Middle Granville.,,,,,,,,,,,,1870.0,Albany
 ﻿alb.ny.0149,﻿church,﻿Our Lady of the Annunciation,English,,,,﻿Herkimer County,﻿Herkimer County,﻿Ilion,﻿Ilion,﻿NY,,43.0150703,-75.03543470000001,,,,,﻿wil_howard_001,﻿Rev.,﻿William Howard,,,,,,,1870.0,Albany
-﻿alb.ny.0149,﻿church,﻿Our Lady of the Annunciation,English,,,,﻿,﻿Herkimer County,﻿Ilion,﻿Ilion,﻿NY,,43.0150703,-75.03543470000001,,,,,﻿mic_mullany_001,﻿Rev.,﻿Michael Mullany.,,,,,,,1870.0,Albany
+﻿alb.ny.0149,﻿church,﻿Our Lady of the Annunciation,English,,,,﻿,﻿Herkimer County,﻿Ilion,﻿Ilion,﻿NY,,43.0150703,-75.03543470000001,,,,,﻿mic_mullany_001,﻿Rev.,﻿Michael Mullany,,,,,,,1870.0,Albany
 ﻿alb.ny.0150,﻿church,not recorded,English,,,,﻿Essex County,﻿Essex County,﻿Jay,﻿Jay,﻿NY,,44.3750471,-73.728195,﻿alb.ny.0027,﻿attended from Ausable Forks,,,,,,,,,,,,1870.0,Albany
 ﻿alb.ny.0151,﻿church,﻿St. Patrick's,English,,,,﻿Fulton County,﻿Fulton County,﻿Johnstown,﻿Johnstown,﻿NY,,43.0067399,-74.36763559999999,,,,,﻿ber_mcmanus_001,﻿Rev.,﻿Bernard McManus,,,,,,,1870.0,Albany
 ﻿alb.ny.0152,﻿church,not recorded,English,,,,﻿Onondaga County,﻿Onondaga County,"﻿Jordan,",﻿Jordan,﻿NY,,43.0653441,-76.4729927,﻿alb.ny.0055,﻿attended from Camillus.,,,,,,,,,,,,1870.0,Albany
@@ -179,7 +179,7 @@
 ﻿alb.ny.0163,﻿church,﻿St. Mary's,English,,,,﻿Columbia County,﻿Columbia County,﻿Lebanon Springs,﻿New Lebanon,﻿NY,,42.4642991,-73.396804,﻿alb.ny.0067,﻿attended from Chatham Four Corners,,,,,,,,,,,,1870.0,Albany
 ﻿alb.ny.0164,﻿church,not recorded,English,,,,﻿Jefferson County,﻿Jefferson County,﻿Le Raysville,﻿Fort Drum,﻿NY,,44.0283973,-75.7854714,,﻿attended from —,,,,,,,,,,,,1870.0,Albany
 ﻿alb.ny.0165,﻿church,﻿St. Patrick's,English,,,,﻿Lewis County,,﻿Lewisburgh,,﻿NY,,43.840112,-75.4344727,﻿alb.ny.0168,﻿attended from Lowville,,,,,,,,,,,,1870.0,Albany
-﻿alb.ny.0166,﻿church,﻿Church of the Assumption,English,,,,﻿Herkimer County,﻿Herkimer County,﻿Little Falls,﻿Little Falls,﻿NY,,43.0434039,-74.8595957,,,,,﻿edw_f_campenhoudt_001,﻿Rev.,﻿Edward F. Van Campenhoudt,,﻿Pastor,,,,,1870.0,Albany
+﻿alb.ny.0166,﻿church,﻿Church of the Assumption,English,,,,﻿Herkimer County,﻿Herkimer County,﻿Little Falls,﻿Little Falls,﻿NY,,43.0434039,-74.8595957,,,,,﻿edw_f_van-campenhoudt_001,﻿Rev.,﻿Edward F. Van Campenhoudt,,﻿Pastor,,,,,1870.0,Albany
 ﻿alb.ny.0166,﻿church,﻿Church of the Assumption,English,,,,﻿,﻿Herkimer County,﻿Little Falls,﻿Little Falls,﻿NY,,43.0434039,-74.8595957,,,,,﻿jam_ludden_001,﻿Rev.,﻿James Ludden,,﻿Assistant,,,,,1870.0,Albany
 ﻿alb.ny.0167,﻿church,not recorded,English,,,,﻿Oswego County,﻿Oswego County,﻿Little France,﻿Little France,﻿NY,,43.3478471,-76.09658940000001,﻿alb.ny.0167,"﻿attended from Franciscan Convent, Syracuse",,,,,,,,,,,,1870.0,Albany
 ﻿alb.ny.0168,﻿church,﻿St. Joseph,English,,,,﻿Lewis County,﻿Lewis County,﻿Lowville,﻿Lowville,﻿NY,,43.786736,-75.4918505,,,,,﻿jos_fitzgerald_001,﻿Rev.,﻿Joseph Fitzgerald,,,,,,,1870.0,Albany
@@ -265,9 +265,9 @@
 ﻿alb.ny.0241,﻿church,not recorded,English,,,,﻿Jefferson County,﻿Jefferson County,﻿Sackett's Harbor,﻿Sackets Harbor,﻿NY,,43.9461707,-76.1190929,﻿alb.ny.0304,﻿attended from Watertown,,,,,,,,,,,,1870.0,Albany
 ﻿alb.ny.0242,﻿church,﻿Holy Cross,English,,,,﻿,﻿Washington County,﻿Salem,﻿Salem,﻿NY,,43.1761529,-73.3283601,﻿alb.ny.0053,﻿attended from Cambridge,,,,,,,,,,,,1870.0,Albany
 ﻿alb.ny.0243,﻿church,﻿St. Bridget's,English,,,,﻿Herkimer County,﻿Herkimer County,﻿Salisbury,﻿Salisbury,﻿NY,,43.1342367,-74.8240402,﻿alb.ny.0166,﻿attended from Little Falls,,,,,,,,,,,,1870.0,Albany
-﻿alb.ny.0244,﻿church,"﻿St. Mary's,",English,,,,﻿Washington County,﻿Washington County,﻿Sandy Hill,﻿Hudson Falls,﻿NY,,43.3006281,-73.5859487,﻿alb.ny.0128,﻿attended from Glenn's Falls,,,,,,,,,,,,1870.0,Albany
+﻿alb.ny.0244,﻿church,﻿St. Mary's,English,,,,﻿Washington County,﻿Washington County,﻿Sandy Hill,﻿Hudson Falls,﻿NY,,43.3006281,-73.5859487,﻿alb.ny.0128,﻿attended from Glenn's Falls,,,,,,,,,,,,1870.0,Albany
 ﻿alb.ny.0245,﻿church,﻿St. Peter's,English,,,,﻿Saratoga County,﻿Saratoga County,"﻿Saratoga Springs,",﻿Saratoga Springs,﻿NY,,43.0831301,-73.7845651,,,,,﻿mau_sheehan_001,﻿Rev.,﻿Maurice Sheehan,,,,,,,1870.0,Albany
-﻿alb.ny.0246,﻿church,"﻿St. John Baptist,",English,,,,﻿Rensselaer County,﻿Rensselaer County,﻿Schaghticoke,﻿Schaghticoke,﻿NY,,42.9000773,-73.5853939,,,,,﻿e_a_magher_001,﻿Rev.,﻿E. A. Magher,﻿O.S.A.,,,,,,1870.0,Albany
+﻿alb.ny.0246,﻿church,﻿St. John Baptist,English,,,,﻿Rensselaer County,﻿Rensselaer County,﻿Schaghticoke,﻿Schaghticoke,﻿NY,,42.9000773,-73.5853939,,,,,﻿e_a_magher_001,﻿Rev.,﻿E. A. Magher,﻿O.S.A.,,,,,,1870.0,Albany
 ﻿alb.ny.0247,﻿church,﻿St. John's,English,,,,﻿Schenectady County,﻿Schenectady County,﻿Schenectady,﻿Schenectady,﻿NY,,42.8585929,-73.9071752,,,,,﻿mic_clarke_001,﻿Rev.,﻿Michael Clarke,,,,,,,1870.0,Albany
 ﻿alb.ny.0248,﻿church,﻿St. Joseph's,English,,,,﻿Schenectady County,﻿Schenectady County,﻿Schenectady,﻿Schenectady,﻿NY,,42.8110524,-73.94006929999999,,,,,﻿m_ramsaeur_001,﻿Rev.,﻿M. Ramsaeur,﻿O.S.B>,,,,,,1870.0,Albany
 ﻿alb.ny.0249,﻿church,not recorded,English,,﻿new church,,﻿,﻿Clinton County,﻿Sciota,﻿Sciota,﻿NY,,44.8958723,-73.5493058,﻿alb.ny.0084,﻿attended from Corbeau,,,,,,,,,,,,1870.0,Albany
@@ -302,7 +302,7 @@
 ﻿alb.ny.0275,﻿church,﻿Church of the Assumption,English,﻿Has an Arch-Confraternity of the Immaculate Heart of Mary,,,﻿,﻿Onondaga County,﻿Syracuse,﻿Syracuse,﻿NY,,43.062549,-76.154036,,,,,﻿ave_szabo_001,﻿Rev.,﻿Avelinus Szabo,﻿O.M.C.,,,,,,1870.0,Albany
 ﻿alb.ny.0275,﻿church,﻿Church of the Assumption,English,﻿Has an Arch-Confraternity of the Immaculate Heart of Mary,,,﻿,﻿Onondaga County,﻿Syracuse,﻿Syracuse,﻿NY,,43.062549,-76.154036,,,,,﻿ber_ettenspeger_001,﻿Rev.,﻿Bernardus Ettenspeger,﻿O.M.C.,,,,,,1870.0,Albany
 ﻿alb.ny.0275,﻿church,﻿Church of the Assumption,English,﻿Has an Arch-Confraternity of the Immaculate Heart of Mary,,,﻿,﻿Onondaga County,﻿Syracuse,﻿Syracuse,﻿NY,,43.062549,-76.154036,,,,,﻿ant_gehring_001,﻿Rev.,﻿Antonius Gehring,﻿O.M.C.,,,,,,1870.0,Albany
-﻿alb.ny.0275,﻿church,﻿Church of the Assumption,English,﻿Has an Arch-Confraternity of the Immaculate Heart of Mary,,,﻿,﻿Onondaga County,﻿Syracuse,﻿Syracuse,﻿NY,,43.062549,-76.154036,,,,,﻿con_d_droster_001,﻿Rev.,﻿Constantine De Droster,﻿O.M.C.,,,,,,1870.0,Albany
+﻿alb.ny.0275,﻿church,﻿Church of the Assumption,English,﻿Has an Arch-Confraternity of the Immaculate Heart of Mary,,,﻿,﻿Onondaga County,﻿Syracuse,﻿Syracuse,﻿NY,,43.062549,-76.154036,,,,,﻿con_de-droster_001,﻿Rev.,﻿Constantine De Droster,﻿O.M.C.,,,,,,1870.0,Albany
 ﻿alb.ny.0275,﻿church,﻿Church of the Assumption,English,﻿Has an Arch-Confraternity of the Immaculate Heart of Mary,,,﻿,﻿Onondaga County,﻿Syracuse,﻿Syracuse,﻿NY,,43.062549,-76.154036,,,,,﻿gal_erhardt_001,﻿Rev.,﻿Gallus Erhardt,﻿O.M.C.,,,,,,1870.0,Albany
 ﻿alb.ny.0275,﻿church,﻿Church of the Assumption,English,﻿Has an Arch-Confraternity of the Immaculate Heart of Mary,,,﻿,﻿Onondaga County,﻿Syracuse,﻿Syracuse,﻿NY,,43.062549,-76.154036,,,,,﻿b_corney_001,﻿Rev.,﻿B. Corney,﻿O.M.C.,,,,,,1870.0,Albany
 ﻿alb.ny.0275,﻿church,﻿Church of the Assumption,English,﻿Has an Arch-Confraternity of the Immaculate Heart of Mary,,,﻿,﻿Onondaga County,﻿Syracuse,﻿Syracuse,﻿NY,,43.062549,-76.154036,,,,,﻿cle_luitz_001,﻿Rev.,﻿Clement Luitz,﻿O.M.C.,,,,,,1870.0,Albany
@@ -310,21 +310,21 @@
 ﻿alb.ny.0276,﻿church,﻿St. Joseph's,English,,,,﻿Onondaga County,﻿Onondaga County,﻿Syracuse,﻿Syracuse,﻿NY,,43.0481221,-76.1474244,,,,,﻿jos_gurdet_001,﻿Rev.,﻿Joseph Gurdet,,﻿Pastor,,,,,1870.0,Albany
 ﻿alb.ny.0276,﻿church,﻿St. Joseph's,English,,,,﻿,﻿Onondaga County,﻿Syracuse,﻿Syracuse,﻿NY,,43.0481221,-76.1474244,,,,,﻿pat_muldoon_001,﻿Rev.,﻿Patrick Muldoon,,﻿Assistant,,,,,1870.0,Albany
 ﻿alb.ny.0277,﻿church,﻿St. John the Baptist,English,,,,﻿Onondaga County,﻿Onondaga County,﻿Salina,﻿Salina,﻿NY,,43.1071537,-76.1762045,,,,,﻿jam_duffy_001,﻿Rev.,﻿James Duffy,,,,,,,1870.0,Albany
-﻿alb.ny.0278,﻿church,not recorded,English,,,,﻿Oneida County,﻿Oneida County,﻿Taberg,﻿Taberg,﻿NY,,43.3036805,-75.616848,﻿alb.ny.0113,﻿attended from Florence,,,﻿lou_desroches_001,,,,,,,,,1870.0,Albany
-﻿alb.ny.0279,﻿church,﻿St. Mary's,English,,,,﻿Essex County,﻿Essex County,﻿Ticonderoga,﻿Ticonderoga,﻿NY,,43.8486707,-73.42345309999999,,,,,﻿pet_havermans_001,﻿Rev.,﻿Louis Desroches,,,,,,,1870.0,Albany
-﻿alb.ny.0280,﻿church,﻿St. Mary's,English,,,,﻿Rensselaer County,﻿Rensselaer County,﻿Troy,﻿Troy,﻿NY,,42.7284117,-73.69178509999999,,,,,﻿jam_ohare_001,﻿Rev.,﻿Peter Havermans,,﻿Pastor,,,,,1870.0,Albany
-﻿alb.ny.0280,﻿church,﻿St. Mary's,English,,,,﻿,﻿Rensselaer County,﻿Troy,﻿Troy,﻿NY,,42.7284117,-73.69178509999999,,,,,﻿jam_fitzpatrick_001,﻿Rev.,﻿James O'Hare,,﻿Assistant,,,,,1870.0,Albany
-﻿alb.ny.0280,﻿church,﻿St. Mary's,English,,,,﻿,﻿Rensselaer County,﻿Troy,﻿Troy,﻿NY,,42.7284117,-73.69178509999999,,,,,﻿m_driscoll_001,﻿Rev.,﻿James Fitzpatrick,﻿D.D.,﻿Pastor,,,,,1870.0,Albany
-﻿alb.ny.0281,﻿church,﻿St. Joseph's,English,,,,﻿Rensselaer County,﻿Rensselaer County,﻿Troy,﻿Troy,﻿NY,,42.723515,-73.689427,,,,,﻿joh_fitzpatrick_001,﻿Rev.,﻿M. Driscoll,﻿S.J.,﻿Pastor,,,,,1870.0,Albany
-﻿alb.ny.0281,﻿church,﻿St. Joseph's,English,,,,﻿,﻿Rensselaer County,﻿Troy,﻿Troy,﻿NY,,42.723515,-73.689427,,,,,﻿fra_michell_001,﻿Rev.,"﻿John Fitzpatrick,",﻿S.J.,﻿Assistant,,,,,1870.0,Albany
-﻿alb.ny.0281,﻿church,﻿St. Joseph's,English,,,,﻿,﻿Rensselaer County,﻿Troy,﻿Troy,﻿NY,,42.723515,-73.689427,,,,,﻿jam_keveny_001,﻿Rev.,﻿Francis Michell,﻿D.D.,﻿Assistant,,,,,1870.0,Albany
-﻿alb.ny.0282,﻿church,﻿St. Peter's,English,,,,﻿Rensselaer County,,﻿Troy,﻿Troy,﻿NY,,42.7232146,-73.6888745,,,,,﻿joh_scully_001,﻿Rev.,﻿James Keveny,,﻿Pastor,,,,,1870.0,Albany
-﻿alb.ny.0282,﻿church,﻿St. Peter's,English,,,,﻿,,﻿Troy,﻿Troy,﻿NY,,42.7232146,-73.6888745,,,,,﻿hen_herfkerns_001,﻿Rev.,﻿John Scully,,﻿Assistant,,,,,1870.0,Albany
-﻿alb.ny.0283,﻿church,﻿St. Francis',English,,,,﻿Rensselaer County,,﻿Troy,﻿Troy,﻿NY,,42.7284117,-73.69178509999999,,,,,﻿geo_brown_001,﻿Rev.,﻿Henry Herfkerns,,,,,,,1870.0,Albany
-﻿alb.ny.0284,﻿church,﻿St. John the Baptist,English,,"﻿,",,﻿Rensselaer County,,﻿Troy,﻿Troy,﻿NY,,42.7284117,-73.69178509999999,,,,,,﻿Rev.,﻿George Brown,,,,,,,1870.0,Albany
-﻿alb.ny.0285,﻿church,﻿St. Lawrence,English,,,,﻿Rensselaer County,,﻿Troy,﻿Troy,﻿NY,,42.7284117,-73.69178509999999,,,,,﻿wil_f_sheehan_001,﻿Rev.,﻿—,,,,,,,1870.0,Albany
-﻿alb.ny.0286,﻿church,﻿St. Patrick's,English,,﻿Troy (West),,﻿Albany County,﻿Albany County,﻿Troy,﻿Troy,﻿NY,,42.7284117,-73.69178509999999,,,,,﻿wil_cullinan_001,﻿Rev.,﻿William F. Sheehan,,﻿Pastor,,,,,1870.0,Albany
-﻿alb.ny.0288,﻿church,not recorded,English,,,,﻿Oneida County,﻿Oneida County,﻿Trenton Falls,﻿Trenton,﻿NY,,43.228708,-75.2245693,,,,,,﻿Rev.,﻿William Cullinan,,,,,,,1870.0,Albany
+﻿alb.ny.0278,﻿church,not recorded,English,,,,﻿Oneida County,﻿Oneida County,﻿Taberg,﻿Taberg,﻿NY,,43.3036805,-75.616848,﻿alb.ny.0113,﻿attended from Florence,,,,,,,,,,,,1870.0,Albany
+﻿alb.ny.0279,﻿church,﻿St. Mary's,English,,,,﻿Essex County,﻿Essex County,﻿Ticonderoga,﻿Ticonderoga,﻿NY,,43.8486707,-73.42345309999999,,,,,﻿lou_desroches_001,﻿Rev.,﻿Louis Desroches,,,,,,,1870.0,Albany
+﻿alb.ny.0280,﻿church,﻿St. Mary's,English,,,,﻿Rensselaer County,﻿Rensselaer County,﻿Troy,﻿Troy,﻿NY,,42.7284117,-73.69178509999999,,,,,﻿pet_havermans_001,﻿Rev.,﻿Peter Havermans,,﻿Pastor,,,,,1870.0,Albany
+﻿alb.ny.0280,﻿church,﻿St. Mary's,English,,,,﻿,﻿Rensselaer County,﻿Troy,﻿Troy,﻿NY,,42.7284117,-73.69178509999999,,,,,﻿jam_ohare_001,﻿Rev.,﻿James O'Hare,,﻿Assistant,,,,,1870.0,Albany
+﻿alb.ny.0280,﻿church,﻿St. Mary's,English,,,,﻿,﻿Rensselaer County,﻿Troy,﻿Troy,﻿NY,,42.7284117,-73.69178509999999,,,,,﻿jam_fitzpatrick_001,﻿Rev.,﻿James Fitzpatrick,﻿D.D.,﻿Pastor,,,,,1870.0,Albany
+﻿alb.ny.0281,﻿church,﻿St. Joseph's,English,,,,﻿Rensselaer County,﻿Rensselaer County,﻿Troy,﻿Troy,﻿NY,,42.723515,-73.689427,,,,,﻿m_driscoll_001,﻿Rev.,﻿M. Driscoll,﻿S.J.,﻿Pastor,,,,,1870.0,Albany
+﻿alb.ny.0281,﻿church,﻿St. Joseph's,English,,,,﻿,﻿Rensselaer County,﻿Troy,﻿Troy,﻿NY,,42.723515,-73.689427,,,,,﻿joh_fitzpatrick_001,﻿Rev.,"﻿John Fitzpatrick,",﻿S.J.,﻿Assistant,,,,,1870.0,Albany
+﻿alb.ny.0281,﻿church,﻿St. Joseph's,English,,,,﻿,﻿Rensselaer County,﻿Troy,﻿Troy,﻿NY,,42.723515,-73.689427,,,,,﻿fra_michell_001,﻿Rev.,﻿Francis Michell,﻿D.D.,﻿Assistant,,,,,1870.0,Albany
+﻿alb.ny.0282,﻿church,﻿St. Peter's,English,,,,﻿Rensselaer County,,﻿Troy,﻿Troy,﻿NY,,42.7232146,-73.6888745,,,,,﻿jam_keveny_001,﻿Rev.,﻿James Keveny,,﻿Pastor,,,,,1870.0,Albany
+﻿alb.ny.0282,﻿church,﻿St. Peter's,English,,,,﻿,,﻿Troy,﻿Troy,﻿NY,,42.7232146,-73.6888745,,,,,﻿joh_scully_001,﻿Rev.,﻿John Scully,,﻿Assistant,,,,,1870.0,Albany
+﻿alb.ny.0283,﻿church,﻿St. Francis',English,,,,﻿Rensselaer County,,﻿Troy,﻿Troy,﻿NY,,42.7284117,-73.69178509999999,,,,,﻿hen_herfkerns_001,﻿Rev.,﻿Henry Herfkerns,,,,,,,1870.0,Albany
+﻿alb.ny.0284,﻿church,﻿St. John the Baptist,English,,"﻿,",,﻿Rensselaer County,,﻿Troy,﻿Troy,﻿NY,,42.7284117,-73.69178509999999,,,,,﻿geo_brown_001,﻿Rev.,﻿George Brown,,,,,,,1870.0,Albany
+﻿alb.ny.0285,﻿church,﻿St. Lawrence,English,,,,﻿Rensselaer County,,﻿Troy,﻿Troy,﻿NY,,42.7284117,-73.69178509999999,,,,,,﻿Rev.,﻿—,,,,,,,1870.0,Albany
+﻿alb.ny.0286,﻿church,﻿St. Patrick's,English,,﻿Troy (West),,﻿Albany County,﻿Albany County,﻿Troy,﻿Troy,﻿NY,,42.7284117,-73.69178509999999,,,,,﻿wil_f_sheehan_001,﻿Rev.,﻿William F. Sheehan,,﻿Pastor,,,,,1870.0,Albany
+﻿alb.ny.0288,﻿church,not recorded,English,,,,﻿Oneida County,﻿Oneida County,﻿Trenton Falls,﻿Trenton,﻿NY,,43.228708,-75.2245693,,,,,﻿wil_cullinan_001,﻿Rev.,﻿William Cullinan,,,,,,,1870.0,Albany
 ﻿alb.ny.0289,﻿church,﻿St. Bridget's,English,,,,﻿Franklin County,﻿Franklin County,﻿Trout River,﻿Trout River,﻿NY,,44.9914325,-74.3082502,﻿alb.ny.0173,﻿attended from Malone,,,,,,,,,,,,1870.0,Albany
 ﻿alb.ny.0290,﻿church,﻿St. Patrick's,English,,,,﻿Onondaga County,﻿Cortland County,﻿Truxton,﻿Truxton,﻿NY,,43.026819,-76.17837390000001,﻿alb.ny.0085,﻿attended from Cortland,,,,,,,,,,,,1870.0,Albany
 ﻿alb.ny.0291,﻿church,not recorded,English,,,,﻿Washington County,﻿Washington County,﻿Union Village,﻿Greenwich,﻿NY,,43.0901395,-73.4992824,﻿alb.ny.0053,﻿attended from Cambridge,,,,,,,,,,,,1870.0,Albany
@@ -392,8 +392,8 @@
 ﻿alb.ny.0332,"﻿school, asylum",﻿St. Joseph's School and Orphan Asylum,English,﻿Select School,,,,﻿Onondaga County,﻿Syracuse,﻿Syracuse,﻿NY,,43.0481221,-76.1474244,,,,,,,,,,,﻿orphan,﻿50 orphans,﻿Under the direction of the Christian Brothers,1870.0,Albany
 ﻿alb.ny.0333,﻿school,﻿St. John's Church Parochial School,English,,,,,﻿Onondaga County,﻿Syracuse,﻿Syracuse,﻿NY,,43.0481221,-76.1474244,,,,,,﻿Brother,﻿Stephen,,﻿Director,,﻿brother,﻿3 Brothers,﻿Under the direction of the Christian Brothers,1870.0,Albany
 ﻿alb.ny.0333,﻿school,﻿St. John's Church Parochial School,English,,,,,﻿Onondaga County,﻿Syracuse,﻿Syracuse,﻿NY,,43.0481221,-76.1474244,,,,,,,,,,,﻿boy,﻿300 boys,﻿Under the direction of the Christian Brothers,1870.0,Albany
-﻿alb.ny.0334,"﻿novitiate, academy",﻿Novitiate and Academy of the Sacred Heart,English,,,,,﻿Albany County,﻿Kenwood,﻿Albany,﻿NY,,42.6236907,-73.77317690000001,,,,,﻿a_hardy_001,﻿Madame,﻿A. Hardy,,﻿Provincial and Superior,,﻿pupil,﻿180 pupils,﻿Under the direction of the Ladies of the Sacred Heart,1870.0,Albany
-﻿alb.ny.0335,"﻿convent, academy",﻿Convent and Academy of the Sacred Heart,English,,﻿34 Beaver street,,,﻿Albany County,﻿Albany,﻿Albany,﻿NY,,42.6481806,-73.7522838,,,,,﻿jennings_001,﻿Madame,﻿Jennings,,﻿Superior,,﻿pupil,﻿96 pupils,﻿Under the direction of the Ladies of the Sacred Heart,1870.0,Albany
+﻿alb.ny.0334,"﻿novitiate, academy",﻿Novitiate and Academy of the Sacred Heart,English,,,,,﻿Albany County,﻿Kenwood,﻿Albany,﻿NY,,42.6236907,-73.77317690000001,,,,,,﻿Madame,﻿A. Hardy,,﻿Provincial and Superior,,﻿pupil,﻿180 pupils,﻿Under the direction of the Ladies of the Sacred Heart,1870.0,Albany
+﻿alb.ny.0335,"﻿convent, academy",﻿Convent and Academy of the Sacred Heart,English,,﻿34 Beaver street,,,﻿Albany County,﻿Albany,﻿Albany,﻿NY,,42.6481806,-73.7522838,,,,,,﻿Madame,﻿Jennings,,﻿Superior,,﻿pupil,﻿96 pupils,﻿Under the direction of the Ladies of the Sacred Heart,1870.0,Albany
 ﻿alb.ny.0336,﻿school,﻿St. Joseph's Select Parochial and Industrial School,English,,,,,﻿Albany County,﻿Albany,﻿Albany,﻿NY,,42.6525793,-73.7562317,,,,,,﻿Sister,﻿—,,﻿Superior,,﻿sister,﻿8 Sisters,﻿Under the direction of the Sisters of Charity,1870.0,Albany
 ﻿alb.ny.0336,﻿school,﻿St. Joseph's Select Parochial and Industrial School,English,,,,,﻿Albany County,﻿Albany,﻿Albany,﻿NY,,42.6525793,-73.7562317,,,,,,,,,,,﻿pupil,﻿325 pupils,﻿Under the direction of the Sisters of Charity,1870.0,Albany
 ﻿alb.ny.0337,﻿school,﻿St. Mary's Select and Parochial School,English,,,,,﻿Albany County,﻿Albany,﻿Albany,﻿NY,,42.6525793,-73.7562317,,,,,,﻿Sister,﻿Mary,,﻿Superior,,﻿sister,﻿6 Sisters,﻿Under the direction of the Sisters of Charity,1870.0,Albany

@@ -39,7 +39,7 @@
 ﻿stl.mo.0014,﻿church,﻿St. Liborius',﻿German,﻿residence adjoining,﻿Seventhteenth and North Market streets,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.649406899999995,-90.2176862,,,,,﻿e_hoeynck_001,﻿Rev.,﻿E. Hoeynck,,,,,,,1870.0,StLouis
 ﻿stl.mo.0015,﻿church,﻿St. John Nepomuk,﻿Bohemian,﻿residence adjoining,﻿Rosati and Soulard streets,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.6104333,-90.204319,,,,,﻿j_hessoun_001,﻿Rev.,﻿J. Hessoun,,,,,,,1870.0,StLouis
 ﻿stl.mo.0016,﻿church,﻿St. Malachy's,English,﻿residence adjoining,﻿Clark and Summit avenues,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.712000399999994,-90.24797840000001,,,,,﻿ch_ziegler_001,﻿Rev.,﻿Ch. Ziegler,,,,,,,1870.0,StLouis
-﻿stl.mo.0016,﻿church,﻿St. Malachy's,English,﻿residence adjoining,﻿Clark and Summit avenues,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.712000399999994,-90.24797840000001,,,,,,﻿Rev.,﻿— Dunn,,,,,,,1870.0,StLouis
+﻿stl.mo.0016,﻿church,﻿St. Malachy's,English,﻿residence adjoining,﻿Clark and Summit avenues,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.712000399999994,-90.24797840000001,,,,,﻿dunn_001,﻿Rev.,﻿— Dunn,,,,,,,1870.0,StLouis
 ﻿stl.mo.0017,﻿church,﻿Annunciation,English,﻿residence adjoining,"﻿Sixth street, near Chouteau avenue",,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.6237125,-90.2257213,,,,,﻿d_phelan_001,﻿Rev.,﻿D. Phelan,,,,,,,1870.0,StLouis
 ﻿stl.mo.0017,﻿church,﻿Annunciation,English,﻿residence adjoining,"﻿Sixth street, near Chouteau avenue",,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.6237125,-90.2257213,,,,,﻿e_kelly_001,﻿Rev.,﻿E. Kelly,,,,,,,1870.0,StLouis
 ﻿stl.mo.0018,﻿church,﻿Assumption,English,﻿residence adjoining,"﻿Sydney street, near Seventh street",,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.6040286,-90.21901329999999,,,,,﻿j_fox_001,﻿Rev.,﻿J. Fox,,,,,,,1870.0,StLouis
@@ -97,7 +97,7 @@
 ﻿stl.mo.0059,﻿church,﻿Station,English,,,,﻿Pettis County,,﻿Dresden,﻿Dresden,﻿MO,,38.7511259,-93.3349305,﻿stl.mo.0141,﻿Attended from Tipton,﻿occaisionally,,,,,,,,,,,1870.0,StLouis
 ﻿stl.mo.0060,﻿church,﻿St. Vincent's,English,,,,﻿Warren County,,﻿Dutzo,﻿Dutzo,﻿MO,,38.605607,-90.99458659999999,,,,,﻿jj_jockel_001,﻿Rev.,﻿J.J. Jockel,,,"﻿P.O. Washington, Franklin Co.",,,,1870.0,StLouis
 ﻿stl.mo.0061,﻿church,﻿St. Joseph's,English,,,,﻿Knox County,,﻿Edina,﻿Edina,﻿MO,,40.1675386,-92.1726821,,,,,﻿t_fitzgerald_001,﻿Rev.,﻿T. Fitzgerald,,,,,,,1870.0,StLouis
-﻿stl.mo.0062,﻿church,﻿St. Ferdinand's,English,,,,﻿St. Louis County,,﻿Florissant,﻿Florissant,﻿MO,,38.789217,-90.322614,,,,,﻿jud_f_assche_001,﻿Rev.,﻿Judocus F. Van Assche,﻿S.J.,,,,,,1870.0,StLouis
+﻿stl.mo.0062,﻿church,﻿St. Ferdinand's,English,,,,﻿St. Louis County,,﻿Florissant,﻿Florissant,﻿MO,,38.789217,-90.322614,,,,,﻿jud_f_van-assche_001,﻿Rev.,﻿Judocus F. Van Assche,﻿S.J.,,,,,,1870.0,StLouis
 ﻿stl.mo.0063,﻿church,﻿Sacred Heart,﻿German,,,,﻿St. Louis County,,﻿Florissant,﻿Florissant,﻿MO,,38.789217,-90.322614,,,,,﻿ign_peukert_001,﻿Rev.,﻿Ign. Peukert,﻿S.J.,,,,,,1870.0,StLouis
 ﻿stl.mo.0064,﻿church,﻿St. Philomena's,English,,,,﻿St. Genevieve County,,﻿Fourche a Duclos,﻿Fourche a Duclos,﻿MO,,37.99995055,-90.20951988,﻿stl.mo.0067,﻿Attended from French Village,,,,,,,,,,,,1870.0,StLouis
 ﻿stl.mo.0065,﻿church,not recorded,English,,,,﻿Saline County,,﻿Frankport,﻿Frankport,﻿MO,,39.194356400000004,-93.1779659,﻿stl.mo.0069,﻿Attended from Glasgow,,,,,,,,,,,,1870.0,StLouis
@@ -131,7 +131,7 @@
 ﻿stl.mo.0091,﻿church,not recorded,English,,,,﻿Pike County,,﻿Louisiana,﻿Louisiana,﻿MO,,39.4489351,-91.05152559999999,,,,,﻿p_murray_001,﻿Rev.,﻿P. Murray,,,,,,,1870.0,StLouis
 ﻿stl.mo.0092,﻿church,not recorded,English,,,,﻿Macon County,,﻿Macon City,﻿Macon City,﻿MO,,39.7422561,-92.4726859,,,,,﻿m_walsh_002,﻿Rev.,﻿M. Walsh,,,,,,,1870.0,StLouis
 ﻿stl.mo.0093,﻿church,﻿St. Malachy's,English,,,,﻿St. Louis County,,﻿Manchester,﻿Manchester,﻿MO,,38.5969977,-90.5092882,﻿stl.mo.0084,﻿Attended from Kirkwood,,,,,,,,,,,,1870.0,StLouis
-﻿stl.mo.0094,﻿church,﻿St. John's,English,,,,﻿Bollinger County,,﻿Marble Hill,﻿Marble Hill,﻿MO,,37.30588710000001,-89.97037929999999,,,,,,﻿Rev.,﻿— Bertens,,,,,,,1870.0,StLouis
+﻿stl.mo.0094,﻿church,﻿St. John's,English,,,,﻿Bollinger County,,﻿Marble Hill,﻿Marble Hill,﻿MO,,37.30588710000001,-89.97037929999999,,,,,﻿bertens_001,﻿Rev.,﻿— Bertens,,,,,,,1870.0,StLouis
 ﻿stl.mo.0095,﻿church,not recorded,English,,,,﻿Saline County,,﻿Marshall,﻿Marshall,﻿MO,,39.1214756,-93.1969313,,,,,﻿e_hamell_001,﻿Rev.,﻿E. Hamell,,,,,,,1870.0,StLouis
 ﻿stl.mo.0096,﻿church,﻿Assumption,English,,,,﻿St. Louis County,,﻿Mattis Creek,﻿Mattese Creek,﻿MO,,38.48183948,-90.34425058,﻿stl.mo.0097,﻿Attended from Merrimac,,,,,,,,,,,,1870.0,StLouis
 ﻿stl.mo.0097,﻿church,﻿Immaculate Conception,English,,,,﻿Jefferson County,,﻿Merrimac,﻿Merrimac,﻿MO,,37.9642529,-91.83183340000001,,,,,﻿h_brockhagen_001,﻿Rev.,﻿H. Brockhagen,,,﻿(Kimswick P.O.),,,,1870.0,StLouis
@@ -142,7 +142,7 @@
 ﻿stl.mo.0102,﻿church,not recorded,English,,,,﻿Scott County,,﻿New Hamburgh,﻿New Hamburg,﻿MO,,37.126439399999995,-89.59341979999999,,,,,﻿m_scherer_001,﻿Rev.,﻿M. Scherer,,,﻿(St. Lawrence P.O.),,,,1870.0,StLouis
 ﻿stl.mo.0103,﻿church,﻿St. John the Baptist's,English,,,,﻿New Madrid County,,,,﻿MO,,36.58644879999999,-89.5278547,,,﻿Vacant,,,,,,,,,,,1870.0,StLouis
 ﻿stl.mo.0104,﻿church,not recorded,English,,,,﻿St. Genevieve County,,﻿New Offenburgh,﻿New Offenburg,﻿MO,,37.9086641,-90.19734040000002,,,,,﻿t_stein_001,﻿Rev.,﻿T. Stein,,,,,,,1870.0,StLouis
-﻿stl.mo.0105,﻿church,﻿St. Ann's,English,,,,﻿St. Louis County,,﻿Normandy,﻿Normandy,﻿MO,,38.7071152,-90.30008620000001,,,,,﻿a_v_hulst_001,﻿Rev.,﻿A. Van Hulst,﻿S.J.,,,,,,1870.0,StLouis
+﻿stl.mo.0105,﻿church,﻿St. Ann's,English,,,,﻿St. Louis County,,﻿Normandy,﻿Normandy,﻿MO,,38.7071152,-90.30008620000001,,,,,﻿a_van-hulst_001,﻿Rev.,﻿A. Van Hulst,﻿S.J.,,,,,,1870.0,StLouis
 ﻿stl.mo.0106,﻿church,not recorded,English,,,,﻿Washington County,,﻿Old Mines,﻿Old Mines,﻿MO,,38.015327899999996,-90.75596440000001,,,,,﻿ed_shea_001,﻿Rev.,﻿Ed. Shea,,,,,,,1870.0,StLouis
 ﻿stl.mo.0107,﻿church,not recorded,English,,,,﻿Lincoln County,,﻿Old Monroe,﻿Old Monroe,﻿MO,,38.931717600000006,-90.74679240000002,,,,,﻿p_gerhard_001,﻿Rev.,﻿P. Gerhard,﻿O.C.,,,,,,1870.0,StLouis
 ﻿stl.mo.0108,﻿church,﻿Station,English,,,,﻿Cooper County,,﻿Otterville,﻿Otterville,﻿MO,,38.6997409,-93.0021426,﻿stl.mo.0141,﻿Attended occasionally from Tipton,﻿occasionally,,,,,,,,,,,1870.0,StLouis
@@ -152,7 +152,7 @@
 ﻿stl.mo.0112,﻿church,not recorded,English,,,,﻿Cooper County,,﻿Pilot Grove,﻿Pilot Grove,﻿MO,,38.874744,-92.9115825,﻿stl.mo.0042,﻿Attended from Boonville,,,,,,,,,,,,1870.0,StLouis
 ﻿stl.mo.0113,﻿church,not recorded,English,,,,﻿Iron County,,﻿Pilot Knob,﻿Pilot Knob,﻿MO,,37.6211611,-90.6404007,﻿stl.mo.0115,﻿Attended from Potosi,,,,,,,,,,,,1870.0,StLouis
 ﻿stl.mo.0114,﻿church,﻿St. Francis',English,,,,﻿St. Charles County,,﻿Portage,﻿Portage,﻿MO,,38.925048499999995,-90.34178059999999,﻿stl.mo.0129,"﻿Attended regularly by Rev.	H. Van Mierlo, S.J., St. Charles",,,,,,,,,,,,1870.0,StLouis
-﻿stl.mo.0115,﻿church,not recorded,English,,,,﻿Washington County,,﻿Potosi,﻿Potosi,﻿MO,,37.936438,-90.7879086,,,,,,﻿Rev.,﻿— O'Reilly,,,,,,,1870.0,StLouis
+﻿stl.mo.0115,﻿church,not recorded,English,,,,﻿Washington County,,﻿Potosi,﻿Potosi,﻿MO,,37.936438,-90.7879086,,,,,﻿oreilly_001,﻿Rev.,﻿— O'Reilly,,,,,,,1870.0,StLouis
 ﻿stl.mo.0115,﻿church,not recorded,English,,,,﻿Washington County,,﻿Potosi,﻿Potosi,﻿MO,,37.936438,-90.7879086,,,,,﻿p_murphy_002,﻿Rev.,﻿P. Murphy,,,,,,,1870.0,StLouis
 ﻿stl.mo.0116,﻿church,﻿St. Martin's,English,,,,﻿Montgomery County,,﻿Rhineland,﻿Rhineland,﻿MO,,38.7175443,-91.517388,,,,,﻿t_hellwing_001,﻿Rev.,﻿T. Hellwing,,,,,,,1870.0,StLouis
 ﻿stl.mo.0117,﻿church,not recorded,English,,,,﻿Howard County,,﻿Roanoke,﻿Roanoke,﻿MO,,39.2064126,-92.69838680000001,﻿stl.mo.0069,﻿Attended from Glasgow,,,,,,,,,,,,1870.0,StLouis
@@ -169,7 +169,7 @@
 ﻿stl.mo.0127,﻿church,﻿St. Gertrude,English,,,,﻿Franklin County,,,,﻿MO,,38.4974505,-91.04941590000001,,,,,﻿a_mathausheck_001,﻿Rev.,﻿A. Mathausheck,﻿S.J.,,,,,,1870.0,StLouis
 ﻿stl.mo.0128,﻿church,﻿St. John,English,,﻿Washington P.O.,,﻿Franklin County,,,,﻿MO,,38.5009625,-90.9425541,,,,,﻿w_sonnenschein_001,﻿Rev.,﻿W. Sonnenschein,,,,,,,1870.0,StLouis
 ﻿stl.mo.0129,﻿church,﻿St. Charles,English,,,,﻿St. Charles County,,﻿St. Charles,﻿St. Charles,﻿MO,,38.7881062,-90.4974359,,,,,﻿j_roes_001,﻿Rev.,﻿J. Roes,﻿S.J.,,,,,,1870.0,StLouis
-﻿stl.mo.0129,﻿church,﻿St. Charles,English,,,,﻿St. Charles County,,﻿St. Charles,﻿St. Charles,﻿MO,,38.7881062,-90.4974359,,,,,﻿h_v_mierlo_001,﻿Rev.,﻿H. Van Mierlo,﻿S.J.,,,,,,1870.0,StLouis
+﻿stl.mo.0129,﻿church,﻿St. Charles,English,,,,﻿St. Charles County,,﻿St. Charles,﻿St. Charles,﻿MO,,38.7881062,-90.4974359,,,,,﻿h_van-mierlo_001,﻿Rev.,﻿H. Van Mierlo,﻿S.J.,,,,,,1870.0,StLouis
 ﻿stl.mo.0129,﻿church,﻿St. Charles,English,,,,﻿St. Charles County,,﻿St. Charles,﻿St. Charles,﻿MO,,38.7881062,-90.4974359,,,,,﻿ign_panken_001,﻿Rev.,﻿Ign. Panken,﻿S.J.,,,,,,1870.0,StLouis
 ﻿stl.mo.0130,﻿church,﻿St. Peter's,﻿German,,,,﻿St. Charles County,,﻿St. Charles,﻿St. Charles,﻿MO,,38.7666386,-90.610943,,,,,﻿e_koch_001,﻿Rev.,﻿E. Koch,,,,,,,1870.0,StLouis
 ﻿stl.mo.0131,﻿church,﻿All Saints',English,,,,﻿St. Charles County,,﻿St. Peter's,﻿St. Peter's,﻿MO,,38.7874699,-90.6298922,,,,,﻿t_rotter_001,﻿Rev.,﻿T. Rotter,,,,,,,1870.0,StLouis
@@ -206,11 +206,11 @@
 ﻿stl.mo.0148,﻿university,﻿St. Louis University,English,,,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.6358876,-90.23412309999999,,,,,﻿fh_stuntebeck_001,﻿Rev.,﻿F.H. Stuntebeck,﻿S.J.,﻿President,,,,,1870.0,StLouis
 ﻿stl.mo.0148,﻿university,﻿St. Louis University,English,,,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.6358876,-90.23412309999999,,,,,﻿j_zealand_001,﻿Rev.,﻿J. Zealand,﻿S.J.,﻿Vice-President,,,,,1870.0,StLouis
 ﻿stl.mo.0148,﻿university,﻿St. Louis University,English,,,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.6358876,-90.23412309999999,,,,,﻿wh_hill_001,﻿Rev.,﻿W.H. Hill,﻿S.J.,﻿Socius,,,,,1870.0,StLouis
-﻿stl.mo.0148,﻿university,﻿St. Louis University,English,,,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.6358876,-90.23412309999999,,,,,﻿pj_d_smet_001,﻿Rev.,﻿P.J. De Smet,﻿S.J.,,,,,,1870.0,StLouis
-﻿stl.mo.0148,﻿university,﻿St. Louis University,English,,,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.6358876,-90.23412309999999,,,,,﻿jc_v_goch_001,﻿Rev.,﻿J.C. Van Goch,﻿S.J.,﻿Minister,,,,,1870.0,StLouis
-﻿stl.mo.0148,﻿university,﻿St. Louis University,English,,,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.6358876,-90.23412309999999,,,,,﻿p_d_meester_001,﻿Rev.,﻿P. De Meester,﻿S.J.,﻿Treasurer,,,,,1870.0,StLouis
-﻿stl.mo.0148,﻿university,﻿St. Louis University,English,,,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.6358876,-90.23412309999999,,,,,﻿a_v_hulst_001,﻿Rev.,﻿A. Van Hulst,﻿S.J.,,,,,,1870.0,StLouis
-﻿stl.mo.0148,﻿university,﻿St. Louis University,English,,,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.6358876,-90.23412309999999,,,,,﻿fp_nussbaum_001,﻿Rev.,﻿F.P. Nussbaum,﻿S.J.,,,,,,1870.0,StLouis
+﻿stl.mo.0148,﻿university,﻿St. Louis University,English,,,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.6358876,-90.23412309999999,,,,,﻿pj_de-smet_001,﻿Rev.,﻿P.J. De Smet,﻿S.J.,,,,,,1870.0,StLouis
+﻿stl.mo.0148,﻿university,﻿St. Louis University,English,,,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.6358876,-90.23412309999999,,,,,﻿jc_van-goch_001,﻿Rev.,﻿J.C. Van Goch,﻿S.J.,﻿Minister,,,,,1870.0,StLouis
+﻿stl.mo.0148,﻿university,﻿St. Louis University,English,,,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.6358876,-90.23412309999999,,,,,﻿p_de-meester_001,﻿Rev.,﻿P. De Meester,﻿S.J.,﻿Treasurer,,,,,1870.0,StLouis
+﻿stl.mo.0148,﻿university,﻿St. Louis University,English,,,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.6358876,-90.23412309999999,,,,,﻿a_van-hulst_001,﻿Rev.,﻿A. Van Hulst,﻿S.J.,,,,,,1870.0,StLouis
+﻿stl.mo.0148,﻿university,﻿St. Louis University,English,,,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.6358876,-90.23412309999999,,,,,﻿f_p_nussbaum_001,﻿Rev.,﻿F. P. Nussbaum,﻿S.J.,,,,,,1870.0,StLouis
 ﻿stl.mo.0148,﻿university,﻿St. Louis University,English,,,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.6358876,-90.23412309999999,,,,,﻿j_hayes_001,﻿Rev.,﻿J. Hayes,﻿S.J.,,,,,,1870.0,StLouis
 ﻿stl.mo.0148,﻿university,﻿St. Louis University,English,,,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.6358876,-90.23412309999999,,,,,﻿jg_venneman_001,﻿Rev.,﻿J.G. Venneman,﻿S.J.,,,,,,1870.0,StLouis
 ﻿stl.mo.0148,﻿university,﻿St. Louis University,English,,,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.6358876,-90.23412309999999,,,,,﻿p_leysen_001,﻿Rev.,﻿P. Leysen,﻿S.J.,,,,,,1870.0,StLouis
@@ -220,13 +220,13 @@
 ﻿stl.mo.0149,﻿novitiate,﻿St. Stanislaus' Noviate of Society of Jesus,English,,,,,,﻿Florissant,﻿Florissant,﻿MO,,38.805440999999995,-90.37007879999999,,,,,﻿ij_boudreaux_001,﻿Rev.,﻿I.J. Boudreaux,﻿S.J.,﻿Rector and Master of Novices,,,,,1870.0,StLouis
 ﻿stl.mo.0149,﻿novitiate,﻿St. Stanislaus' Noviate of Society of Jesus,English,,,,,,﻿Florissant,﻿Florissant,﻿MO,,38.805440999999995,-90.37007879999999,,,,,﻿jmj_converse_001,﻿Rev.,﻿J.M.J. Converse,﻿S.J.,﻿Minister,,,,,1870.0,StLouis
 ﻿stl.mo.0149,﻿novitiate,﻿St. Stanislaus' Noviate of Society of Jesus,English,,,,,,﻿Florissant,﻿Florissant,﻿MO,,38.805440999999995,-90.37007879999999,,,,,﻿c_coppens_001,﻿Rev.,﻿C. Coppens,﻿S.J.,,,,,,1870.0,StLouis
-﻿stl.mo.0149,﻿novitiate,﻿St. Stanislaus' Noviate of Society of Jesus,English,,,,,,﻿Florissant,﻿Florissant,﻿MO,,38.805440999999995,-90.37007879999999,,,,,﻿jfx_tehan_001,﻿Rev.,﻿J.F.X. Tehan,﻿S.J.,,,,,,1870.0,StLouis
+﻿stl.mo.0149,﻿novitiate,﻿St. Stanislaus' Noviate of Society of Jesus,English,,,,,,﻿Florissant,﻿Florissant,﻿MO,,38.805440999999995,-90.37007879999999,,,,,﻿j_f_tehan_001,﻿Rev.,﻿J. F. X. Tehan,﻿S.J.,,,,,,1870.0,StLouis
 ﻿stl.mo.0149,﻿novitiate,﻿St. Stanislaus' Noviate of Society of Jesus,English,,,,,,﻿Florissant,﻿Florissant,﻿MO,,38.805440999999995,-90.37007879999999,,,,,﻿m_callaghan_001,﻿Rev.,﻿M. Callaghan,﻿S.J.,,,,,,1870.0,StLouis
 ﻿stl.mo.0149,﻿novitiate,﻿St. Stanislaus' Noviate of Society of Jesus,English,,,,,,﻿Florissant,﻿Florissant,﻿MO,,38.805440999999995,-90.37007879999999,,,,,﻿ph_roas_001,﻿Rev.,﻿Ph. Roas,﻿S.J.,,,,,,1870.0,StLouis
-﻿stl.mo.0150,"﻿convent, academy",﻿Convent and Academy of the Sacred Heart,English,,,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.6270025,-90.1994042,,,,,﻿mj_gallwey_001,﻿Madame,﻿M.J. Gallwey,,﻿Superior,,﻿pupil,"﻿Number of pupils, 140",,1870.0,StLouis
+﻿stl.mo.0150,"﻿convent, academy",﻿Convent and Academy of the Sacred Heart,English,,,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.6270025,-90.1994042,,,,,,﻿Madame,﻿M.J. Gallwey,,﻿Superior,,﻿pupil,"﻿Number of pupils, 140",,1870.0,StLouis
 ﻿stl.mo.0150,"﻿convent, academy",﻿Convent and Academy of the Sacred Heart,English,,,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.6270025,-90.1994042,,,,,,,,,,,﻿pupil,"﻿Community, 52",,1870.0,StLouis
 ﻿stl.mo.0150,"﻿convent, academy",﻿Convent and Academy of the Sacred Heart,English,,,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.6270025,-90.1994042,,,,,,,,,,,﻿pupil,"﻿Pupils in the parish school, 140",,1870.0,StLouis
-﻿stl.mo.0151,"﻿convent, academy",﻿Convent and Academy of the Sacred Heart,English,,,,,,﻿St. Charles,﻿St. Charles,﻿MO,,38.7866299,-90.4817194,,,,,﻿miller_001,﻿Madame,﻿Miller,,﻿Superior,,,,,1870.0,StLouis
+﻿stl.mo.0151,"﻿convent, academy",﻿Convent and Academy of the Sacred Heart,English,,,,,,﻿St. Charles,﻿St. Charles,﻿MO,,38.7866299,-90.4817194,,,,,,﻿Madame,﻿Miller,,﻿Superior,,,,,1870.0,StLouis
 ﻿stl.mo.0152,"﻿convent, academy",﻿Convent and Academy of the Visitation,English,,,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.636719299999996,-90.44178570000001,,,,,,﻿Mother,﻿Vincentia Marotte,,﻿Superior,,﻿boarder,"﻿Number of boarders in Academy, 107",,1870.0,StLouis
 ﻿stl.mo.0152,"﻿convent, academy",﻿Convent and Academy of the Visitation,English,,,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.636719299999996,-90.44178570000001,,,,,,,,,,,﻿boarder,"﻿Community, 64",,1870.0,StLouis
 ﻿stl.mo.0153,"﻿convent, academy",﻿Convent and Academy of Loretto,English,,,,,,﻿Florissant,﻿Florissant,﻿MO,,38.7905559,-90.31366820000001,,,,,,﻿Mother,﻿Philomena,,﻿Superior,,,,,1870.0,StLouis
@@ -277,27 +277,27 @@
 ﻿stl.mo.0177,﻿academy,﻿Academy of St. Joseph,English,,,,,,﻿Hannibal,﻿Hannibal,﻿MO,,39.767457799999995,-94.846681,,,,,,﻿Sister,﻿Gabriel,,﻿Superior,,﻿pupil,﻿250 pupils,,1870.0,StLouis
 ﻿stl.mo.0178,﻿academy,﻿Academy of the Sisters of Loretto,English,,,,,,﻿Edina,﻿Edina,﻿MO,,40.1675386,-92.1726821,,,,,,,,,,,,,,1870.0,StLouis
 ﻿stl.mo.0179,﻿school,﻿Cathedral Schools,English,,,,,,,,﻿MO,,37.9642529,-91.83183340000001,,,,,,,,,,,﻿pupil,﻿400 pupils,﻿Conducted by Christian Brothers. Sisters of Charity.,1870.0,StLouis
-﻿stl.mo.0180,﻿school,﻿St. Patrick's,English,,,,,,,,﻿MO,,37.9642529,-91.83183340000001,,,,,,,,,,,﻿pupil,﻿800 pupils,﻿Conducted by Christian Brothers. Sisters of Charity.,1870.0,StLouis
-﻿stl.mo.0181,﻿school,﻿St. Vincent's,English,,,,,,,,﻿MO,,37.9642529,-91.83183340000001,,,,,,,,,,,﻿pupil,﻿350 pupils,﻿conducted by Christian Brothers,1870.0,StLouis
-﻿stl.mo.0181,﻿school,﻿St. Vincent's,English,,,,,,,,﻿MO,,37.9642529,-91.83183340000001,,,,,,,,,,,﻿pupil,250,﻿conducted by Sisters of St. Joseph,1870.0,StLouis
-﻿stl.mo.0182,﻿school,﻿St. Mary's,English,,,,,,,,﻿MO,,37.878941999999995,-89.949277,,,,,,,,,,,﻿pupil,﻿500 pupils,,1870.0,StLouis
-﻿stl.mo.0182,﻿school,﻿St. Mary's,English,,,,,,,,﻿MO,,37.878941999999995,-89.949277,,,,,,,,,,,﻿pupil,﻿conducted by 2 secular teachers and 4 Sisters of Notre Dame,﻿Sisters of Notre Dame,1870.0,StLouis
-﻿stl.mo.0183,﻿school,﻿St. Lawrence's,English,,,,,,,,﻿MO,,37.9642529,-91.83183340000001,,,,,,,,,,,﻿pupil,350,﻿conducted by Christian Brothers,1870.0,StLouis
-﻿stl.mo.0183,﻿school,﻿St. Lawrence's,English,,,,,,,,﻿MO,,37.9642529,-91.83183340000001,,,,,,,,,,,﻿pupil,﻿300 pupils,﻿conducted by Sisters of St. Joseph,1870.0,StLouis
-﻿stl.mo.0184,﻿school,﻿St. Francis Xavier's,English,,,,,,,,﻿MO,,37.9642529,-91.83183340000001,,,,,,,,,,,﻿pupil,﻿410 pupils,﻿conducted teachers under the direction of the Jesuit Fathers,1870.0,StLouis
-﻿stl.mo.0184,﻿school,﻿St. Francis Xavier's,English,,,,,,,,﻿MO,,37.9642529,-91.83183340000001,,,,,,,,,,,﻿girl,﻿150 girls,﻿under Sisters of St. Joseph,1870.0,StLouis
-﻿stl.mo.0185,﻿school,﻿SS. Peter and Paul,English,,,,,,,,﻿MO,,37.9642529,-91.83183340000001,,,,,,,,,,,﻿pupil,﻿1000 pupils,﻿conducted by Brothers and 8 Sisters of Notre Dame,1870.0,StLouis
-﻿stl.mo.0186,﻿school,﻿St. Joseph's,English,,,,,,,,﻿MO,,37.9642529,-91.83183340000001,,,,,,,,,,,﻿pupil,﻿800 pupils,﻿conducted by secular teachers and Sisters of Notre Dame,1870.0,StLouis
-﻿stl.mo.0187,﻿school,﻿St. John's,English,,,,,,,,﻿MO,,37.9642529,-91.83183340000001,,,,,,,,,,,﻿pupil,﻿415 pupils,﻿conducted by Christian Brothers and Sisters of St. Joseph,1870.0,StLouis
-﻿stl.mo.0188,﻿school,﻿St. Bridget's,English,,,,,,,,﻿MO,,37.9642529,-91.83183340000001,,,,,,,,,,,﻿pupil,﻿480 pupils,﻿conducted by secular teachers and Sisters of St. Joseph,1870.0,StLouis
-﻿stl.mo.0188,﻿school,﻿St. Bridget's,English,,,,,,,,﻿MO,,37.9642529,-91.83183340000001,,,,,,,,,,,﻿pupil,﻿480 pupils,﻿Sisters of St. Joseph,1870.0,StLouis
-﻿stl.mo.0189,﻿school,﻿St. Michael's,English,﻿conducted by secular teachers,,,,,,,﻿MO,,37.9642529,-91.83183340000001,,,,,,,,,,,﻿pupil,﻿165 pupils,,1870.0,StLouis
-﻿stl.mo.0190,﻿school,﻿St. Liborius',English,,,,,,,,﻿MO,,37.9642529,-91.83183340000001,,,,,,,,,,,﻿pupil,﻿300 pupils,﻿conducted by secular teachers and Sisters of Notre Dame,1870.0,StLouis
-﻿stl.mo.0191,﻿school,﻿Holy Trinity,English,,,,,,,,﻿MO,,37.9642529,-91.83183340000001,,,,,,,,,,,﻿pupil,﻿400 pupils,﻿conducted by secular teachers and Sisters of St. Francis,1870.0,StLouis
-﻿stl.mo.0192,﻿school,﻿Assumption Schools,English,,,,,,,,﻿MO,,37.9642529,-91.83183340000001,,,,,,,,,,,﻿pupil,﻿350 pupils,﻿by Sisters of St. Joseph and secular teachers,1870.0,StLouis
-﻿stl.mo.0193,﻿school,﻿St. Malachy Schools,English,,,,,,,,﻿MO,,37.9642529,-91.83183340000001,,,,,,,,,,,﻿boy,﻿100 boys,,1870.0,StLouis
-﻿stl.mo.0194,﻿school,﻿Annunciation School,English,﻿for girls,,,,,,,﻿MO,,37.9642529,-91.83183340000001,,,,,,,,,,,﻿girl,﻿100,﻿Sisters of Sacred Heart,1870.0,StLouis
-﻿stl.mo.0195,﻿school,﻿Annunciation School,English,﻿for boys,,,,,,,﻿MO,,37.9642529,-91.83183340000001,,,,,,,,,,,﻿boy,200,﻿Christian Brothers,1870.0,StLouis
-﻿stl.mo.0196,﻿school,﻿Bohemian School,English,,,,,,,,﻿MO,,37.9642529,-91.83183340000001,,,,,,,,,,,﻿pupil,﻿200 pupils,﻿conducted by secular teachers and Sisters of Notre Dame,1870.0,StLouis
-﻿stl.mo.0197,﻿school,﻿St. Mary's School,English,,,,,,﻿Carondelet,﻿St. Louis,﻿MO,,37.9642529,-91.83183340000001,,,,,,,,,,,﻿pupil,﻿300 pupils,﻿Christian Brothers,1870.0,StLouis
-﻿stl.mo.0197,﻿school,﻿St. Mary's School,English,,,,,,﻿Carondelet,﻿St. Louis,﻿MO,,37.9642529,-91.83183340000001,,,,,,,,,,,﻿pupil,﻿300 pupils,﻿Sisters of St. Joseph,1870.0,StLouis
+﻿stl.mo.0180,﻿school,﻿St. Patrick's,English,,,,,,,,﻿MO,,38.637800399999996,-90.1969904,,,,,,,,,,,﻿pupil,﻿800 pupils,﻿Conducted by Christian Brothers. Sisters of Charity.,1870.0,StLouis
+﻿stl.mo.0181,﻿school,﻿St. Vincent's,English,,,,,,,,﻿MO,,38.6270025,-90.1994042,,,,,,,,,,,﻿pupil,﻿350 pupils,﻿conducted by Christian Brothers,1870.0,StLouis
+﻿stl.mo.0181,﻿school,﻿St. Vincent's,English,,,,,,,,﻿MO,,38.6270025,-90.1994042,,,,,,,,,,,﻿pupil,250,﻿conducted by Sisters of St. Joseph,1870.0,StLouis
+﻿stl.mo.0182,﻿school,﻿St. Mary's,English,,,,,,,,﻿MO,,38.6270025,-90.1994042,,,,,,,,,,,﻿pupil,﻿500 pupils,,1870.0,StLouis
+﻿stl.mo.0182,﻿school,﻿St. Mary's,English,,,,,,,,﻿MO,,38.6270025,-90.1994042,,,,,,,,,,,﻿pupil,﻿conducted by 2 secular teachers and 4 Sisters of Notre Dame,﻿Sisters of Notre Dame,1870.0,StLouis
+﻿stl.mo.0183,﻿school,﻿St. Lawrence's,English,,,,,,,,﻿MO,,38.6388094,-90.1965561,,,,,,,,,,,﻿pupil,350,﻿conducted by Christian Brothers,1870.0,StLouis
+﻿stl.mo.0183,﻿school,﻿St. Lawrence's,English,,,,,,,,﻿MO,,38.6388094,-90.1965561,,,,,,,,,,,﻿pupil,﻿300 pupils,﻿conducted by Sisters of St. Joseph,1870.0,StLouis
+﻿stl.mo.0184,﻿school,﻿St. Francis Xavier's,English,,,,,,,,﻿MO,,38.63168764,-90.19243435,,,,,,,,,,,﻿pupil,﻿410 pupils,﻿conducted teachers under the direction of the Jesuit Fathers,1870.0,StLouis
+﻿stl.mo.0184,﻿school,﻿St. Francis Xavier's,English,,,,,,,,﻿MO,,38.63168764,-90.19243435,,,,,,,,,,,﻿girl,﻿150 girls,﻿under Sisters of St. Joseph,1870.0,StLouis
+﻿stl.mo.0185,﻿school,﻿SS. Peter and Paul,English,,,,,,,,﻿MO,,38.607361,-90.2027368,,,,,,,,,,,﻿pupil,﻿1000 pupils,﻿conducted by Brothers and 8 Sisters of Notre Dame,1870.0,StLouis
+﻿stl.mo.0186,﻿school,﻿St. Joseph's,English,,,,,,,,﻿MO,,38.637800399999996,-90.1969904,,,,,,,,,,,﻿pupil,﻿800 pupils,﻿conducted by secular teachers and Sisters of Notre Dame,1870.0,StLouis
+﻿stl.mo.0187,﻿school,﻿St. John's,English,,,,,,,,﻿MO,,38.628813,-90.20130429999999,,,,,,,,,,,﻿pupil,﻿415 pupils,﻿conducted by Christian Brothers and Sisters of St. Joseph,1870.0,StLouis
+﻿stl.mo.0188,﻿school,﻿St. Bridget's,English,,,,,,,,﻿MO,,38.6399842,-90.2231008,,,,,,,,,,,﻿pupil,﻿480 pupils,﻿conducted by secular teachers and Sisters of St. Joseph,1870.0,StLouis
+﻿stl.mo.0188,﻿school,﻿St. Bridget's,English,,,,,,,,﻿MO,,38.6399842,-90.2231008,,,,,,,,,,,﻿pupil,﻿480 pupils,﻿Sisters of St. Joseph,1870.0,StLouis
+﻿stl.mo.0189,﻿school,﻿St. Michael's,English,﻿conducted by secular teachers,,,,,,,﻿MO,,38.7882539,-90.3306515,,,,,,,,,,,﻿pupil,﻿165 pupils,,1870.0,StLouis
+﻿stl.mo.0190,﻿school,﻿St. Liborius',English,,,,,,,,﻿MO,,38.649406899999995,-90.2176862,,,,,,,,,,,﻿pupil,﻿300 pupils,﻿conducted by secular teachers and Sisters of Notre Dame,1870.0,StLouis
+﻿stl.mo.0191,﻿school,﻿Holy Trinity,English,,,,,,,,﻿MO,,38.6630835,-90.2013781,,,,,,,,,,,﻿pupil,﻿400 pupils,﻿conducted by secular teachers and Sisters of St. Francis,1870.0,StLouis
+﻿stl.mo.0192,﻿school,﻿Assumption Schools,English,,,,,,,,﻿MO,,38.6040286,-90.21901329999999,,,,,,,,,,,﻿pupil,﻿350 pupils,﻿by Sisters of St. Joseph and secular teachers,1870.0,StLouis
+﻿stl.mo.0193,﻿school,﻿St. Malachy Schools,English,,,,,,,,﻿MO,,38.712000399999994,-90.24797840000001,,,,,,,,,,,﻿boy,﻿100 boys,,1870.0,StLouis
+﻿stl.mo.0194,﻿school,﻿Annunciation School,English,﻿for girls,,,,,,,﻿MO,,38.6237125,-90.2257213,,,,,,,,,,,﻿girl,﻿100,﻿Sisters of Sacred Heart,1870.0,StLouis
+﻿stl.mo.0195,﻿school,﻿Annunciation School,English,﻿for boys,,,,,,,﻿MO,,38.6237125,-90.2257213,,,,,,,,,,,﻿boy,200,﻿Christian Brothers,1870.0,StLouis
+﻿stl.mo.0196,﻿school,﻿Bohemian School,English,,,,,,,,﻿MO,,38.6104333,-90.204319,,,,,,,,,,,﻿pupil,﻿200 pupils,﻿conducted by secular teachers and Sisters of Notre Dame,1870.0,StLouis
+﻿stl.mo.0197,﻿school,﻿St. Mary's School,English,,,,,,﻿Carondelet,﻿St. Louis,﻿MO,,38.6321029,-90.31096740000001,,,,,,,,,,,﻿pupil,﻿300 pupils,﻿Christian Brothers,1870.0,StLouis
+﻿stl.mo.0197,﻿school,﻿St. Mary's School,English,,,,,,﻿Carondelet,﻿St. Louis,﻿MO,,38.6321029,-90.31096740000001,,,,,,,,,,,﻿pupil,﻿300 pupils,﻿Sisters of St. Joseph,1870.0,StLouis

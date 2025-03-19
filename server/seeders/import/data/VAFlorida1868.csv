@@ -2,10 +2,17 @@
 ﻿sta.fl.0001,﻿church,﻿Church of St. Augustine,English,,,,﻿St. John's County,,﻿St. Augustine,﻿Saint Augustine,﻿FL,,29.8921835,-81.3139313,,,,,﻿dem_marogna_002,﻿Rev.,﻿Demetrius Marogna,﻿O.S.B.,,,,,,1868.0,VAFlorida
 ﻿sta.fl.0001,﻿church,﻿Church of St. Augustine,English,,,,﻿St. John's County,,﻿St. Augustine,﻿Saint Augustine,﻿FL,,29.8921835,-81.3139313,,,,,﻿a_sardi_001,﻿Rev.,﻿A. Sardi,﻿O.S.F.,,,,,,1868.0,VAFlorida
 ﻿sta.fl.0002,﻿church,﻿Church of the Immaculate Conception,English,"﻿The church of Jacksonville, together with the parochial residence, which was a large and comfortable building, was destroyed by fire during the war. The officers of the Government, regretting this sad occurence, have given boards to put up a temporary shelter to assemble the Catholics of the place. They are unable to rebuild the church and the house; it is therefore intended, as soon as circumstances will allow, to call on the sympathy and liberality of the Catholics of the North to remove, as soon as possible, these sad vestiges of the late troubles in the country",,,﻿Duval County,,﻿Jacksonville,﻿Jacksonville,﻿FL,,30.3292125,-81.65551359999999,,,,,﻿j_f_chambon_001,﻿Rev.,﻿J. F. B. Chambon,,,,,,,1868.0,VAFlorida
-﻿sta.fl.0005,﻿church,﻿Church of Mater Dolorosa,English,,﻿capital of Florida,,,,﻿Tallahassee,﻿Tallahassee,﻿FL,,30.438132799999998,-84.2825836,,,,,﻿j_b_ollard_001,﻿Rev.,﻿J. B. Ollard,,,,,,,1868.0,VAFlorida
+﻿sta.fl.0005,﻿church,﻿Church of Mater Dolorosa,English,,﻿capital of Florida,,,,﻿Tallahassee,﻿Tallahassee,﻿FL,,30.438132799999998,-84.2825836,,,,,﻿jb_allard_001,﻿Rev.,﻿J. B. Ollard,,,,,,,1868.0,VAFlorida
 ﻿sta.fl.0006,﻿church,not recorded,English,,﻿Amelia Island,,﻿Nassau County,,﻿Fernandina,﻿Fernandina Beach,﻿FL,,30.6669432,-81.4362671,,,,,﻿hen_clavreul_001,﻿Rev.,﻿Henry Clavreul,,,,,,,1868.0,VAFlorida
-﻿sta.fl.0007,﻿church,not recorded,English,,"﻿Moccasin Branch, Sampson Rogero's Settlement, Pellicer's Creek",,,,﻿Pilatka,﻿Palatka,﻿FL,,29.648580100000004,-81.6375819,﻿sta.fl.0001,﻿Attended from St. Augustine,,,,,,,,,,,,1868.0,VAFlorida
-﻿sta.fl.0011,﻿church,not recorded,English,,"﻿St. John's Bar, Middleburgh, Richard's Settlement, Diego",,,,﻿Mandarin,﻿Mandarin,﻿FL,,30.1494918,-81.6409217,﻿sta.fl.0001,﻿Attended from Jacksonvile,,,,,,,,,,,,1868.0,VAFlorida
+﻿sta.fl.0007,﻿church,not recorded,English,,,,,,﻿Pilatka,﻿Palatka,﻿FL,,29.648580100000004,-81.6375819,﻿sta.fl.0001,﻿Attended from St. Augustine,,,,,,,,,,,,1868.0,VAFlorida
+﻿sta.fl.0008,﻿church,not recorded,English,,,,,,﻿Moccasin Branch,﻿Armstrong,﻿FL,,29.7621914,-81.4478542,﻿sta.fl.0001,﻿Attended from St. Augustine,,,,,,,,,,,,1868.0,VAFlorida
+﻿sta.fl.0009,﻿church,not recorded,English,,,,,,﻿Sampson Rogero's Settlement,,﻿FL,,27.664827399999997,-81.5157535,﻿sta.fl.0001,﻿Attended from St. Augustine,,,,,,,,,,,,1868.0,VAFlorida
+﻿sta.fl.0010,﻿church,not recorded,English,,,,,,﻿Pellicer's Creek,﻿Saint Augustine,﻿FL,,29.6528,-81.32,﻿sta.fl.0001,﻿Attended from St. Augustine,,,,,,,,,,,,1868.0,VAFlorida
+﻿sta.fl.0011,﻿church,not recorded,English,,,,,,﻿Mandarin,﻿Mandarin,﻿FL,,30.1494918,-81.6409217,﻿sta.fl.0001,﻿Attended from Jacksonvile,,,,,,,,,,,,1868.0,VAFlorida
+﻿sta.fl.0012,﻿church,not recorded,English,,,,,,﻿St. John's Bar,﻿St. Johns,﻿FL,,30.0820653,-81.54712009999999,﻿sta.fl.0002,﻿Attended from Jacksonvile,,,,,,,,,,,,1868.0,VAFlorida
+﻿sta.fl.0013,﻿church,not recorded,English,,,,,,﻿Middleburgh,﻿Middleburg,﻿FL,,30.068851199999997,-81.8603778,﻿sta.fl.0002,﻿Attended from Jacksonvile,,,,,,,,,,,,1868.0,VAFlorida
+﻿sta.fl.0014,﻿church,not recorded,English,,,,,,﻿Richard's Settlement,,﻿FL,,29.99374565,-82.32910563,﻿sta.fl.0002,﻿Attended from Jacksonvile,,,,,,,,,,,,1868.0,VAFlorida
+﻿sta.fl.0015,﻿church,not recorded,English,,,,,,﻿Diego,,﻿FL,,30.16343173,-81.38997682,﻿sta.fl.0002,﻿Attended from Jacksonvile,,,,,,,,,,,,1868.0,VAFlorida
 ﻿sta.fl.0003,﻿church,﻿Church of St. Mary Star of the Sea,English,,,,,,﻿Key West,﻿Key West,﻿FL,,24.5530969,-81.79544090000002,,,,,,,,,,,,,,1868.0,VAFlorida
 ﻿sta.fl.0016,﻿church,﻿St. Louis,English,"﻿in honor of Louis Cancer, who suffered martyrdom on the coast, upward of three hundred years ago",,,,,﻿Tampa,﻿Tampa,﻿FL,,27.94941334,-82.45718064,,﻿attended from Key West,﻿for the present,,,,,,,,,,,1868.0,VAFlorida
 ﻿sta.fl.0021,﻿church,not recorded,English,,,,,,﻿Lake City,﻿Lake City,﻿FL,,30.189388300000005,-82.6394016,﻿sta.fl.0002,﻿Attended from Jacksonvile,,,,,,,,,,,,1868.0,VAFlorida
@@ -13,9 +20,9 @@
 ﻿sta.fl.0022,﻿church,not recorded,English,,,,,,﻿Tortugas Islands,﻿Dry Tortugas,﻿FL,,30.5452022,-83.8701636,﻿sta.fl.0002,﻿Attended from Jacksonvile,,,,,,,,,,,,1868.0,VAFlorida
 ﻿sta.fl.0023,﻿church,not recorded,English,,,,,,﻿St. Mark's,﻿St. Marks,﻿FL,,30.161037899999997,-84.2062825,﻿sta.fl.0002,﻿Attended from Jacksonvile,,,,,,,,,,,,1868.0,VAFlorida
 ﻿sta.fl.0024,﻿church,not recorded,English,,,,,,﻿Newport,﻿Newport,﻿FL,,30.209496,-84.1888,﻿sta.fl.0002,﻿Attended from Jacksonvile,,,,,,,,,,,,1868.0,VAFlorida
-﻿sta.fl.0017,﻿church,not recorded,English,,,,,,﻿Starke,﻿Starke,﻿FL,,30.209496,-84.1888,,﻿Attended from Fernandina,,,,,,,,,,,,1868.0,VAFlorida
-﻿sta.fl.0018,﻿church,not recorded,English,,,,,,﻿Gainesville,﻿Gainesville,﻿FL,,30.209496,-84.1888,,﻿Attended from Fernandina,,,,,,,,,,,,1868.0,VAFlorida
-﻿sta.fl.0019,﻿church,not recorded,English,,,,,,﻿Newmansville,﻿Newnansville,﻿FL,,30.209496,-84.1888,,﻿Attended from Fernandina,,,,,,,,,,,,1868.0,VAFlorida
-﻿sta.fl.0020,﻿church,not recorded,English,,,,,,﻿Cedar Key,﻿Cedar Key,﻿FL,,30.209496,-84.1888,,﻿Attended from Fernandina,,,,,,,,,,,,1868.0,VAFlorida
+﻿sta.fl.0017,﻿church,not recorded,English,,,,,,﻿Starke,﻿Starke,﻿FL,,29.9487760484553,-82.1111297228222,,﻿Attended from Fernandina,,,,,,,,,,,,1868.0,VAFlorida
+﻿sta.fl.0018,﻿church,not recorded,English,,,,,,﻿Gainesville,﻿Gainesville,﻿FL,,29.6695430235181,-82.3275330567321,,﻿Attended from Fernandina,,,,,,,,,,,,1868.0,VAFlorida
+﻿sta.fl.0019,﻿church,not recorded,English,,,,,,﻿Newmansville,﻿Newnansville,﻿FL,,29.804932819600502,-82.47716300980349,,﻿Attended from Fernandina,,,,,,,,,,,,1868.0,VAFlorida
+﻿sta.fl.0020,﻿church,not recorded,English,,,,,,﻿Cedar Key,﻿Cedar Key,﻿FL,,29.145322281101,-83.0426793850631,,﻿Attended from Fernandina,,,,,,,,,,,,1868.0,VAFlorida
 ﻿sta.fl.0026,﻿academy,﻿St. Augustine's Academy,English,"﻿The Brothers of the Christian Schools left their house during the war. It is expected they will return soon. In the mean time a male school is kept, under the patronage of the clergy.",,,,,,﻿St. Augustine,﻿FL,,29.87967819,-81.32869337,,,,,,,,,,,,,﻿The Brothers of the Christian Schools,1868.0,VAFlorida
-﻿sta.fl.0027,﻿academy,﻿St. Mary's Convent,English,﻿This is a convent of the Order founded by Mother McAuley. The Sisters keep an academy and a free school.,,,,,﻿St. Augustine,﻿St. Augustine,﻿FL,,29.87967819,-81.32869337,,,,,,﻿Mother,﻿McAuley,,﻿Founder,,,,,1868.0,VAFlorida
+﻿sta.fl.0027,﻿academy,﻿St. Mary's Convent,English,﻿This is a convent of the Order founded by Mother McAuley. The Sisters keep an academy and a free school.,,,,,﻿St. Augustine,﻿St. Augustine,﻿FL,,29.8921835,-81.3139313,,,,,,﻿Mother,﻿McAuley,,﻿Founder,,,,,1868.0,VAFlorida

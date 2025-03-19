@@ -38,7 +38,7 @@
 ﻿stl.mo.0014,﻿church,﻿St. Liborius',﻿German,﻿residence adjoining,﻿Seventhteenth and North Market streets,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.649406899999995,-90.2176862,,,,,﻿s_schweihoff_001,﻿Rev.,﻿S. Schweihoff,,,,,,,1869.0,StLouis
 ﻿stl.mo.0015,﻿church,﻿St. John Nepomuk,﻿Bohemian,﻿residence adjoining,﻿Rosati and Soulard streets,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.6104333,-90.204319,,,,,﻿j_hessoun_001,﻿Rev.,﻿J. Hessoun,,,,,,,1869.0,StLouis
 ﻿stl.mo.0016,﻿church,﻿St. Malachy's,English,﻿residence adjoining,﻿Clark and Summit avenues,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.712000399999994,-90.24797840000001,,,,,﻿ch_ziegler_001,﻿Rev.,﻿Ch. Ziegler,,,,,,,1869.0,StLouis
-﻿stl.mo.0016,﻿church,﻿St. Malachy's,English,﻿residence adjoining,﻿Clark and Summit avenues,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.712000399999994,-90.24797840000001,,,,,,﻿Rev.,﻿— Swift,,,,,,,1869.0,StLouis
+﻿stl.mo.0016,﻿church,﻿St. Malachy's,English,﻿residence adjoining,﻿Clark and Summit avenues,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.712000399999994,-90.24797840000001,,,,,﻿swift_001,﻿Rev.,﻿— Swift,,,,,,,1869.0,StLouis
 ﻿stl.mo.0017,﻿church,﻿Annunciation,English,﻿residence adjoining,"﻿Sixth street, near Chouteau avenue",,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.6237125,-90.2257213,,,,,﻿d_phelan_001,﻿Rev.,﻿D. Phelan,,,,,,,1869.0,StLouis
 ﻿stl.mo.0017,﻿church,﻿Annunciation,English,﻿residence adjoining,"﻿Sixth street, near Chouteau avenue",,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.6237125,-90.2257213,,,,,﻿e_fenlon_001,﻿Rev.,﻿E. Fenlon,,,,,,,1869.0,StLouis
 ﻿stl.mo.0018,﻿church,﻿Assumption,English,﻿residence adjoining,"﻿Sydney street, near Seventh street",,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.6040286,-90.21901329999999,,,,,﻿j_fox_001,﻿Rev.,﻿J. Fox,,,,,,,1869.0,StLouis
@@ -78,7 +78,7 @@
 ﻿stl.mo.0045,﻿church,not recorded,English,,,,﻿Lewis County,,﻿Canton,﻿Canton,﻿MO,,40.129412,-91.51867370000001,,﻿Attended from Marysville,,,,,,,,,,,,1869.0,StLouis
 ﻿stl.mo.0046,﻿church,﻿St. Vincent's,English,,,,﻿Cape Girardeau County,,﻿Cape Girardeau,﻿Cape Girardeau,﻿MO,,37.314843200000006,-89.5456724,﻿stl.mo.0147,﻿Attended by the Fathers of the Seminary,,,,,,,,,,,,1869.0,StLouis
 ﻿stl.mo.0047,﻿church,﻿St. Mary's,﻿German,,,,﻿Cape Girardeau County,,﻿Cape Girardeau,﻿Cape Girardeau,﻿MO,,37.3006256,-89.5266629,,,,,﻿jul_herde_001,﻿Rev.,﻿Jul. Herde,,,,,,,1869.0,StLouis
-﻿stl.mo.0048,﻿church,﻿St. Mary's,English,,,,﻿St. Louis County,,﻿Carondelet,﻿Carondelet,﻿MO,,38.6321029,-90.31096740000001,,,,,﻿m_mcfaul_001,﻿Rev.,﻿M. McFaul,,,"﻿""E. McFaul"" on 1870",,,,1869.0,StLouis
+﻿stl.mo.0048,﻿church,﻿St. Mary's,English,,,,﻿St. Louis County,,﻿Carondelet,﻿Carondelet,﻿MO,,38.6321029,-90.31096740000001,,,,,﻿e_mcfaul_001,﻿Rev.,﻿M. McFaul,,,"﻿""E. McFaul"" on 1870",,,,1869.0,StLouis
 ﻿stl.mo.0049,﻿church,﻿St. Boniface's,English,,,,﻿St. Louis County,,﻿Carondelet,﻿Carondelet,﻿MO,,38.555038700000004,-90.255974,,,,,﻿e_schindel_001,﻿Rev.,﻿E. Schindel,,,,,,,1869.0,StLouis
 ﻿stl.mo.0050,﻿chapel,﻿Chapel of the Sisters of St. Joseph,English,,,,﻿St. Louis County,,﻿Carondelet,﻿Carondelet,﻿MO,,38.555038700000004,-90.255974,,,,,﻿j_m_cyr_001,﻿Rev.,﻿J. M. J. St. Cyr.,,,,,,,1869.0,StLouis
 ﻿stl.mo.0051,﻿church,﻿St. James',English,,,,﻿St. Louis County,,﻿Cheltenham,﻿Cheltenham,﻿MO,,38.6103023,-90.4125181,,﻿Attended from St. Malachy's,,,,,,,,,,,,1869.0,StLouis
@@ -90,11 +90,11 @@
 ﻿stl.mo.0057,﻿church,not recorded,English,,﻿Wellsburgh P.O.,,﻿St. Charles County,,﻿Dog Prairie,﻿Dog Prairie,﻿MO,,38.7338885,-90.8294002,,,,,﻿c_tintrup_001,﻿Rev.,﻿C. Tintrup,,,,,,,1869.0,StLouis
 ﻿stl.mo.0058,﻿church,﻿St. Columbkille,English,,,,﻿Franklin County,,﻿Downpatrick,﻿Downpatrick,﻿MO,,38.395360100000005,-91.135302,﻿stl.mo.0038,﻿Attended from Armagh,,,,,,,,,,,,1869.0,StLouis
 ﻿stl.mo.0059,﻿church,﻿Station,English,,,,﻿Pettis County,,﻿Dresden,﻿Dresden,﻿MO,,38.7511259,-93.3349305,﻿stl.mo.0141,﻿Attended from Tipton,﻿occaisionally,,,,,,,,,,,1869.0,StLouis
-﻿stl.mo.0060,﻿church,﻿St. Vincent's,English,,,,﻿Warren County,,﻿Dutzo,﻿Dutzo,﻿MO,,38.605607,-90.99458659999999,,,,,﻿w_jockel_001,﻿Rev.,﻿W. Jockel,,,"﻿P.O. Washington, Franklin Co.",,,,1869.0,StLouis
+﻿stl.mo.0060,﻿church,﻿St. Vincent's,English,,,,﻿Warren County,,﻿Dutzo,﻿Dutzo,﻿MO,,38.605607,-90.99458659999999,,,,,﻿jj_jockel_001,﻿Rev.,﻿W. Jockel,,,"﻿P.O. Washington, Franklin Co.",,,,1869.0,StLouis
 ﻿stl.mo.0061,﻿church,﻿St. Joseph's,English,,,,﻿Knox County,,﻿Edina,﻿Edina,﻿MO,,40.1675386,-92.1726821,,,,,﻿m_monks_001,﻿Rev.,﻿M. Monks,,,,,,,1869.0,StLouis
-﻿stl.mo.0062,﻿church,﻿St. Ferdinand's,English,,,,﻿St. Louis County,,﻿Florissant,﻿Florissant,﻿MO,,38.789217,-90.322614,,,,,﻿jud_f_assche_001,﻿Rev.,﻿Judocus F. Van Assche,﻿S.J.,,,,,,1869.0,StLouis
+﻿stl.mo.0062,﻿church,﻿St. Ferdinand's,English,,,,﻿St. Louis County,,﻿Florissant,﻿Florissant,﻿MO,,38.789217,-90.322614,,,,,﻿jud_f_van-assche_001,﻿Rev.,﻿Judocus F. Van Assche,﻿S.J.,,,,,,1869.0,StLouis
 ﻿stl.mo.0063,﻿church,﻿Sacred Heart,﻿German,,,,﻿St. Louis County,,﻿Florissant,﻿Florissant,﻿MO,,38.789217,-90.322614,,,,,﻿ign_peukert_001,﻿Rev.,﻿Ign. Peukert,﻿S.J.,,,,,,1869.0,StLouis
-﻿stl.mo.0063,﻿church,﻿St. Ann's,﻿German,,,,﻿St. Louis County,,﻿Florissant Road,﻿Florissant,﻿MO,,38.789217,-90.322614,,,,,﻿a_v_hulst_001,﻿Rev.,﻿A Van Hulst,﻿S.J.,,,,,,1869.0,StLouis
+﻿stl.mo.0063,﻿church,﻿St. Ann's,﻿German,,,,﻿St. Louis County,,﻿Florissant Road,﻿Florissant,﻿MO,,38.789217,-90.322614,,,,,﻿a_van-hulst_001,﻿Rev.,﻿A Van Hulst,﻿S.J.,,,,,,1869.0,StLouis
 ﻿stl.mo.0064,﻿church,﻿St. Philomena's,English,,,,﻿St. Genevieve County,,﻿Fourche a Duclos,﻿Fourche a Duclos,﻿MO,,37.99995055,-90.20951988,﻿stl.mo.0067,﻿Attended from French Village,,,,,,,,,,,,1869.0,StLouis
 ﻿stl.mo.0065,﻿church,not recorded,English,﻿church in progress,,,﻿Saline County,,﻿Frankport,﻿Frankport,﻿MO,,39.194356400000004,-93.1779659,﻿stl.mo.0069,﻿Attended from Glasgow,,,,,,,,,,,,1869.0,StLouis
 ﻿stl.mo.0066,﻿church,﻿St. Michael's,English,,,,﻿Madison County,,﻿Fredericktown,﻿Fredericktown,﻿MO,,37.55977539999999,-90.2940069,,,,,﻿l_tucker_001,﻿Rev.,﻿L. Tucker,,,,,,,1869.0,StLouis
@@ -147,7 +147,7 @@
 ﻿stl.mo.0112,﻿church,not recorded,English,,,,﻿Cooper County,,﻿Pilot Grove,﻿Pilot Grove,﻿MO,,38.874744,-92.9115825,﻿stl.mo.0042,﻿Attended from Boonville,,,,,,,,,,,,1869.0,StLouis
 ﻿stl.mo.0113,﻿church,not recorded,English,,,,﻿Iron County,,﻿Pilot Knob,﻿Pilot Knob,﻿MO,,37.6211611,-90.6404007,,﻿Attended by the Franciscan Fathers,,,,,,,,,,,,1869.0,StLouis
 ﻿stl.mo.0114,﻿church,﻿St. Francis',English,,,,﻿St. Charles County,,﻿Portage,﻿Portage,﻿MO,,38.925048499999995,-90.34178059999999,﻿stl.mo.0129,"﻿Attended regularly by Rev.	H. Van Mierlo, S.J., St. Charles",,,,,,,,,,,,1869.0,StLouis
-﻿stl.mo.0115,﻿church,not recorded,English,,,,﻿Washington County,,﻿Potosi,﻿Potosi,﻿MO,,37.936438,-90.7879086,,,,,,﻿Rev.,﻿— O'Reilly,,,,,,,1869.0,StLouis
+﻿stl.mo.0115,﻿church,not recorded,English,,,,﻿Washington County,,﻿Potosi,﻿Potosi,﻿MO,,37.936438,-90.7879086,,,,,﻿oreilly_001,﻿Rev.,﻿— O'Reilly,,,,,,,1869.0,StLouis
 ﻿stl.mo.0116,﻿church,﻿St. Martin's,English,,,,﻿Montgomery County,,﻿Rhineland,﻿Rhineland,﻿MO,,38.7175443,-91.517388,,,,,﻿j_hellwing_001,﻿Rev.,﻿J. Hellwing,,,﻿name is T. Hellwing in 1870- could be typo?,,,,1869.0,StLouis
 ﻿stl.mo.0117,﻿church,not recorded,English,,,,﻿Howard County,,﻿Roanoke,﻿Roanoke,﻿MO,,39.2064126,-92.69838680000001,﻿stl.mo.0069,﻿Attended from Glasgow,,,,,,,,,,,,1869.0,StLouis
 ﻿stl.mo.0118,﻿church,not recorded,English,,,,﻿Phelps County,,﻿Rolla,﻿Rolla,﻿MO,,37.948544,-91.7715303,,,,,﻿tho_moran_001,﻿Rev.,﻿Thomas Moran,,,,,,,1869.0,StLouis
@@ -160,7 +160,7 @@
 ﻿stl.mo.0127,﻿church,﻿St. Gertrude,English,,,,﻿Franklin County,,,,﻿MO,,38.4974505,-91.04941590000001,﻿stl.mo.0144,﻿Attended from Washington,,,,,,,,,,,,1869.0,StLouis
 ﻿stl.mo.0128,﻿church,﻿St. John,English,,﻿Washington P.O.,,﻿Franklin County,,,,﻿MO,,38.5009625,-90.9425541,,,,,﻿t_a_stroombergen_001,﻿Rev.,﻿T. A. Stroombergen,,,,,,,1869.0,StLouis
 ﻿stl.mo.0129,﻿church,﻿St. Charles',English,,,,﻿St. Charles County,,﻿St. Charles,﻿St. Charles,﻿MO,,38.7881062,-90.4974359,,,,,﻿j_roes_001,﻿Rev.,﻿J. Roes,﻿S.J.,,,,,,1869.0,StLouis
-﻿stl.mo.0129,﻿church,﻿St. Charles',English,,,,﻿St. Charles County,,﻿St. Charles,﻿St. Charles,﻿MO,,38.7881062,-90.4974359,,,,,﻿h_v_mierlo_001,﻿Rev.,﻿H. Van Mierlo,﻿S.J.,,,,,,1869.0,StLouis
+﻿stl.mo.0129,﻿church,﻿St. Charles',English,,,,﻿St. Charles County,,﻿St. Charles,﻿St. Charles,﻿MO,,38.7881062,-90.4974359,,,,,﻿h_van-mierlo_001,﻿Rev.,﻿H. Van Mierlo,﻿S.J.,,,,,,1869.0,StLouis
 ﻿stl.mo.0129,﻿church,﻿St. Charles',English,,,,﻿St. Charles County,,﻿St. Charles,﻿St. Charles,﻿MO,,38.7881062,-90.4974359,,,,,﻿ign_panken_001,﻿Rev.,﻿Ign. Panken,﻿S.J.,,,,,,1869.0,StLouis
 ﻿stl.mo.0130,﻿church,﻿St. Peter's,﻿German,,,,﻿St. Charles County,,﻿St. Charles,﻿St. Charles,﻿MO,,38.7666386,-90.610943,,,,,﻿e_holthaus_001,﻿Rev.,﻿E. Holthaus,,,,,,,1869.0,StLouis
 ﻿stl.mo.0131,﻿church,﻿All Saints',English,,,,﻿St. Charles County,,﻿St. Peter's,﻿St. Peter's,﻿MO,,38.7874699,-90.6298922,,,,,﻿w_sonnenschein_001,﻿Rev.,﻿W. Sonnenschein,,,,,,,1869.0,StLouis
@@ -195,27 +195,27 @@
 ﻿stl.mo.0148,﻿university,﻿St. Louis University,English,,,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.6358876,-90.23412309999999,,,,,﻿fh_stuntebeck_001,﻿Rev.,﻿F.H. Stuntebeck,﻿S.J.,﻿President,,,,,1869.0,StLouis
 ﻿stl.mo.0148,﻿university,﻿St. Louis University,English,,,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.6358876,-90.23412309999999,,,,,﻿j_zealand_001,﻿Rev.,﻿J. Zealand,﻿S.J.,﻿Vice-President,,,,,1869.0,StLouis
 ﻿stl.mo.0148,﻿university,﻿St. Louis University,English,,,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.6358876,-90.23412309999999,,,,,﻿j_e_keller_001,﻿Rev.,﻿J. E. Keller,﻿S.J.,﻿Socius,,,,,1869.0,StLouis
-﻿stl.mo.0148,﻿university,﻿St. Louis University,English,,,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.6358876,-90.23412309999999,,,,,﻿pj_d_smet_001,﻿Rev.,﻿P.J. De Smet,﻿S.J.,,,,,,1869.0,StLouis
+﻿stl.mo.0148,﻿university,﻿St. Louis University,English,,,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.6358876,-90.23412309999999,,,,,﻿pj_de-smet_001,﻿Rev.,﻿P.J. De Smet,﻿S.J.,,,,,,1869.0,StLouis
 ﻿stl.mo.0148,﻿university,﻿St. Louis University,English,,,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.6358876,-90.23412309999999,,,,,﻿f_l_verreydt_001,﻿Rev.,﻿F. L. Verreydt,﻿S.J.,,,,,,1869.0,StLouis
 ﻿stl.mo.0148,﻿university,﻿St. Louis University,English,,,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.6358876,-90.23412309999999,,,,,﻿j_g_kernion_001,﻿Rev.,﻿J. G. Kernion,﻿S.J.,﻿Minister,,,,,1869.0,StLouis
 ﻿stl.mo.0148,﻿university,﻿St. Louis University,English,,,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.6358876,-90.23412309999999,,,,,﻿j_f_tehan_001,﻿Rev.,﻿J. F. X. Tehan,﻿S.J.,﻿Treasurer,,,,,1869.0,StLouis
 ﻿stl.mo.0148,﻿university,﻿St. Louis University,English,,,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.6358876,-90.23412309999999,,,,,﻿tho_oneil_001,﻿Rev.,﻿Thomas O'Neil,﻿S.J.,,,,,,1869.0,StLouis
-﻿stl.mo.0148,﻿university,﻿St. Louis University,English,,,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.6358876,-90.23412309999999,,,,,﻿a_v_hulst_001,﻿Rev.,﻿A. Van Hulst,﻿S.J.,,,,,,1869.0,StLouis
+﻿stl.mo.0148,﻿university,﻿St. Louis University,English,,,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.6358876,-90.23412309999999,,,,,﻿a_van-hulst_001,﻿Rev.,﻿A. Van Hulst,﻿S.J.,,,,,,1869.0,StLouis
 ﻿stl.mo.0148,﻿university,﻿St. Louis University,English,,,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.6358876,-90.23412309999999,,,,,﻿f_p_nussbaum_001,﻿Rev.,﻿F. P. Nussbaum,﻿S.J.,,,,,,1869.0,StLouis
 ﻿stl.mo.0148,﻿university,﻿St. Louis University,English,,,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.6358876,-90.23412309999999,,,,,﻿j_hayes_001,﻿Rev.,﻿J. Hayes,﻿S.J.,,,,,,1869.0,StLouis
 ﻿stl.mo.0148,﻿university,﻿St. Louis University,English,,,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.6358876,-90.23412309999999,,,,,﻿m_callaghan_001,﻿Rev.,﻿M. Callaghan,﻿S.J.,,,,,,1869.0,StLouis
-﻿stl.mo.0148,﻿university,﻿St. Louis University,English,,,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.6358876,-90.23412309999999,,,,,﻿j_g_menneman_001,﻿Rev.,﻿J. G. Menneman,﻿S.J.,,,,,,1869.0,StLouis
+﻿stl.mo.0148,﻿university,﻿St. Louis University,English,,,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.6358876,-90.23412309999999,,,,,﻿jg_venneman_001,﻿Rev.,﻿J. G. Menneman,﻿S.J.,,,,,,1869.0,StLouis
 ﻿stl.mo.0148,﻿university,﻿St. Louis University,English,,,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.6358876,-90.23412309999999,,,,,﻿p_leysen_001,﻿Rev.,﻿P. Leysen,﻿S.J.,,,,,,1869.0,StLouis
 ﻿stl.mo.0148,﻿university,﻿St. Louis University,English,,,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.6358876,-90.23412309999999,,,,,﻿p_ward_002,﻿Rev.,﻿P. Ward,﻿S.J.,,,,,,1869.0,StLouis
-﻿stl.mo.0148,﻿university,﻿St. Louis University,English,,,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.6358876,-90.23412309999999,,,,,﻿j_straetmans_001,﻿Rev.,﻿J. Straetmans,﻿S.J.,,,,,,1869.0,StLouis
+﻿stl.mo.0148,﻿university,﻿St. Louis University,English,,,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.6358876,-90.23412309999999,,,,,﻿j_straetmans_002,﻿Rev.,﻿J. Straetmans,﻿S.J.,,,,,,1869.0,StLouis
 ﻿stl.mo.0148,﻿university,﻿St. Louis University,English,,,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.6358876,-90.23412309999999,,,,,﻿j_busschotts_001,﻿Rev.,﻿J. Busschotts,﻿S.J.,,,,,,1869.0,StLouis
-﻿stl.mo.0148,﻿university,﻿St. Louis University,English,,,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.6358876,-90.23412309999999,,,,,﻿a_lambelin_001,﻿Rev.,﻿A. Lambelin,﻿S.J.,,,,,,1869.0,StLouis
+﻿stl.mo.0148,﻿university,﻿St. Louis University,English,,,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.6358876,-90.23412309999999,,,,,﻿a_lambelin_002,﻿Rev.,﻿A. Lambelin,﻿S.J.,,,,,,1869.0,StLouis
 ﻿stl.mo.0149,﻿novitiate,﻿St. Stanislaus' Noviate of Society of Jesus,English,,,,,,﻿Florissant,﻿Florissant,﻿MO,,38.805440999999995,-90.37007879999999,,,,,﻿ij_boudreaux_001,﻿Rev.,﻿I.J. Boudreaux,﻿S.J.,﻿Rector and Master of Novices,,,,,1869.0,StLouis
 ﻿stl.mo.0149,﻿novitiate,﻿St. Stanislaus' Noviate of Society of Jesus,English,,,,,,﻿Florissant,﻿Florissant,﻿MO,,38.805440999999995,-90.37007879999999,,,,,﻿c_coppens_001,﻿Rev.,﻿C. Coppens,﻿S.J.,,,,,,1869.0,StLouis
-﻿stl.mo.0150,"﻿convent, academy",﻿Convent and Academy of the Sacred Heart,English,,,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.6270025,-90.1994042,,,,,﻿mj_gallwey_001,﻿Madame,﻿M.J. Gallwey,,﻿Superior,,﻿pupil,"﻿Number of pupils, 140",,1869.0,StLouis
+﻿stl.mo.0150,"﻿convent, academy",﻿Convent and Academy of the Sacred Heart,English,,,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.6270025,-90.1994042,,,,,,﻿Madame,﻿M.J. Gallwey,,﻿Superior,,﻿pupil,"﻿Number of pupils, 140",,1869.0,StLouis
 ﻿stl.mo.0150,"﻿convent, academy",﻿Convent and Academy of the Sacred Heart,English,,,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.6270025,-90.1994042,,,,,,,,,,,﻿pupil,"﻿Community, 52",,1869.0,StLouis
 ﻿stl.mo.0150,"﻿convent, academy",﻿Convent and Academy of the Sacred Heart,English,,,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.6270025,-90.1994042,,,,,,,,,,,﻿pupil,"﻿Pupils in the parish school, 140",,1869.0,StLouis
-﻿stl.mo.0151,"﻿convent, academy",﻿Convent and Academy of the Sacred Heart,English,,,,,,﻿St. Charles,﻿St. Charles,﻿MO,,38.7866299,-90.4817194,,,,,﻿miller_001,﻿Madame,﻿Miller,,﻿Superior,,,,,1869.0,StLouis
+﻿stl.mo.0151,"﻿convent, academy",﻿Convent and Academy of the Sacred Heart,English,,,,,,﻿St. Charles,﻿St. Charles,﻿MO,,38.7866299,-90.4817194,,,,,,﻿Madame,﻿Miller,,﻿Superior,,,,,1869.0,StLouis
 ﻿stl.mo.0152,"﻿convent, academy",﻿Convent and Academy of the Visitation,English,,,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.636719299999996,-90.44178570000001,,,,,,﻿Mother,﻿Vincentia Marotte,,﻿Superior,,﻿boarder,"﻿Number of boarders in Academy, 107",,1869.0,StLouis
 ﻿stl.mo.0152,"﻿convent, academy",﻿Convent and Academy of the Visitation,English,,,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.636719299999996,-90.44178570000001,,,,,,,,,,,﻿boarder,"﻿Community, 64",,1869.0,StLouis
 ﻿stl.mo.0153,"﻿convent, academy",﻿Convent and Academy of Loretto,English,,,,,,﻿Florissant,﻿Florissant,﻿MO,,38.7905559,-90.31366820000001,,,,,,﻿Mother,﻿Philomena,,﻿Superior,,,,,1869.0,StLouis
@@ -242,7 +242,7 @@
 ﻿stl.mo.0164,"﻿asylum, hospital",﻿Biddle Infant Asylum and Lying-in Hospital,English,,,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.6378163,-90.1970241,,,,,,,,,,,﻿infant,"﻿infants, 70",﻿conducted by the Sisters of Charity.,1869.0,StLouis
 ﻿stl.mo.0165,﻿house,﻿Widows' House,English,,,,,,,,﻿MO,,37.9642529,-91.83183340000001,,,,,,,,,,,﻿widow,"﻿Number of widows, 30",,1869.0,StLouis
 ﻿stl.mo.0166,﻿institute,﻿St. Vincent's Institute for the Insane,English,"﻿founded Aug. 10, 1858",,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.6270025,-90.1994042,,,,,,﻿Sister,﻿Julia,,﻿Sister-Servant,,﻿patient,﻿100 patients,﻿conducted by the Sisters of Charity.,1869.0,StLouis
-﻿stl.mo.0166,﻿institute,﻿St. Vincent's Institute for the Insane,English,"﻿founded Aug. 10, 1858",,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.6270025,-90.1994042,,,,,,﻿Dr.,﻿Boduy,,﻿attendant physician,,﻿patient,﻿100 patients,﻿conducted by the Sisters of Charity.,1869.0,StLouis
+﻿stl.mo.0166,﻿institute,﻿St. Vincent's Institute for the Insane,English,"﻿founded Aug. 10, 1858",,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.6270025,-90.1994042,,,,,﻿boduy_001,﻿Dr.,﻿Boduy,,﻿attendant physician,,﻿patient,﻿100 patients,﻿conducted by the Sisters of Charity.,1869.0,StLouis
 ﻿stl.mo.0167,﻿house,﻿House of the Angel Guardian for Females,English,,,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.6270025,-90.1994042,,,,,,﻿Sister,﻿Anacaria,,﻿Sister-Servant,,﻿girl,﻿83 girls,﻿conducted by the Sisters of Charity,1869.0,StLouis
 ﻿stl.mo.0168,﻿asylum,﻿Mulanphy Orphan Asylum for Females,English,,,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.64262670000001,-90.1942219,,,,,,,,,,,﻿orphan,"﻿Orphans, 24",﻿conducted by the Ladies of the Sacred Heart,1869.0,StLouis
 ﻿stl.mo.0169,﻿asylum,﻿Male Orphan Asylum,English,,,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.6270025,-90.1994042,,,,,,﻿Mother,﻿Mary Joseph,,﻿Sister-Servant,,﻿orphan,"﻿Orphans, 350",﻿conducted by the Sisters of St. Joseph,1869.0,StLouis

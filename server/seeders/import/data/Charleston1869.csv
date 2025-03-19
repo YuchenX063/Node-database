@@ -5,7 +5,7 @@
 ﻿cha.sc.0002,﻿church,﻿St. Mary's,English,,﻿Hasell street,,,,﻿Charleston,﻿Charleston,﻿SC,,32.7817998,-79.9328247,,,,,﻿r_s_baker_001,﻿Very Rev.,﻿R. S. Baker,,,,,,,1869.0,Charleston
 ﻿cha.sc.0002,﻿church,﻿St. Mary's,English,,﻿Hasell street,,,,﻿Charleston,﻿Charleston,﻿SC,,32.7817998,-79.9328247,,,,,﻿cla_b_northrop_001,﻿Rev.,﻿Claudian B. Northrop,,,,,,,1869.0,Charleston
 ﻿cha.sc.0003,﻿church,﻿St. Patrick's,English,,,,,,﻿Charleston,﻿Charleston,﻿SC,,32.7882253,-79.9403921,,,,,﻿joh_moore_001,﻿Rev.,﻿John Moore,﻿D.D.,,,,,,1869.0,Charleston
-﻿cha.sc.0003,﻿church,﻿St. Patrick's,English,,,,,,﻿Charleston,﻿Charleston,﻿SC,,32.7882253,-79.9403921,,,,,﻿joh_schachte_001,﻿Rev.,﻿John Schachte,,,﻿1870 includes middle initial O.,,,,1869.0,Charleston
+﻿cha.sc.0003,﻿church,﻿St. Patrick's,English,,,,,,﻿Charleston,﻿Charleston,﻿SC,,32.7882253,-79.9403921,,,,,﻿joh_o_schachte_001,﻿Rev.,﻿John Schachte,,,﻿1870 includes middle initial O.,,,,1869.0,Charleston
 ﻿cha.sc.0004,﻿church,﻿St. Joseph's,English,,,,,,﻿Charleston,﻿Charleston,﻿SC,,32.784352,-79.946823,,,,,﻿cha_j_croghan_001,﻿Rev.,﻿Charles J. Croghan,,,,,,,1869.0,Charleston
 ﻿cha.sc.0005,﻿church,﻿St. Paul's,﻿German,,,,,,﻿Charleston,﻿Charleston,﻿SC,,32.928228999999995,-79.85591590000001,,,,,﻿fra_j_shadler_001,﻿Rev.,﻿Francis J. Shadler,,,,,,,1869.0,Charleston
 ﻿cha.sc.0006,﻿church,﻿St. Peter's,﻿African,,,,,,﻿Charleston,﻿Charleston,﻿SC,,32.81442,-80.0487527,,,,,﻿alo_folchi_001,﻿Rev.,﻿Aloysius Folchi,,,﻿different spelling from 1870,,,,1869.0,Charleston
@@ -13,7 +13,7 @@
 ﻿cha.sc.0024,﻿church,not recorded,English,,,,,,﻿Hilton Head,﻿Hilton Head,﻿SC,,32.216316,-80.752608,,﻿Attended from Charleston,,,,,,,,,,,,1869.0,Charleston
 ﻿cha.sc.0009,﻿church,not recorded,English,,,,,,﻿Georgetown,﻿Georgetown,﻿SC,,33.376834,-79.2944964,﻿cha.sc.0001,﻿Attended from Charleston,,,,,,,,,,,,1869.0,Charleston
 ﻿cha.sc.0007,﻿church,﻿St. John's,English,﻿name not on 1870,,,,,﻿Sullivan's Island,﻿Sullivan's Island,﻿SC,,32.7607326,-79.8584923,﻿cha.sc.0001,﻿Attended from Charleston,,,,,,,,,,,,1869.0,Charleston
-﻿cha.sc.0021,﻿church,﻿St. Mary's,English,﻿name changes in 1870,,,,,﻿Edgefield,﻿Edgefield,﻿SC,,33.7904312,-81.9303566999999,﻿cha.sc.0001,﻿Attended from Charleston,,,﻿ign_persico_001,﻿Rt. Rev.,﻿Ignatius Persico,,﻿Bishop of Gratianapolis,﻿in part missionary,,,,1869.0,Charleston
+﻿cha.sc.0021,﻿church,﻿St. Mary's,English,﻿name changes in 1870,,,,,﻿Edgefield,﻿Edgefield,﻿SC,,33.7904312,-81.9303566999999,﻿cha.sc.0001,﻿Attended from Charleston,,,﻿persico_001,﻿Rt. Rev.,﻿Ignatius Persico,,﻿Bishop of Gratianapolis,﻿in part missionary,,,,1869.0,Charleston
 ﻿cha.sc.0018,﻿church,not recorded,English,,,,,,﻿Aiken,﻿Aiken,﻿SC,,33.5576025,-81.7184673,,﻿Attended by Right Rev. Ignatius Persico,,,,,,,,,,,,1869.0,Charleston
 ﻿cha.sc.0017,﻿church,not recorded,English,,,,,,﻿Johnson's,﻿Johnston,﻿SC,,33.8311435269166,-81.8010213389443,﻿cha.sc.0001,﻿Attended by Right Rev. Ignatius Persico,,,,,,,,,,,,1869.0,Charleston
 ﻿cha.sc.0019,﻿church,not recorded,English,,,,,,﻿Graniteville,﻿Graniteville,﻿SC,,33.5633311,-81.8081622,﻿cha.sc.0001,﻿Attended by Right Rev. Ignatius Persico,,,,,,,,,,,,1869.0,Charleston
@@ -28,7 +28,7 @@
 ﻿cha.sc.0025,﻿church,﻿St. Peter's,English,,,,,,﻿Columbia,﻿Columbia,﻿SC,,34.005606799999995,-81.0380069,,,,,﻿j_p_oconnell_001,﻿Rev.,﻿J. P. O'Connell,﻿D.D.,,,,,,1869.0,Charleston
 ﻿cha.sc.0026,﻿church,not recorded,English,﻿Other stations on the Charlotte and South Carolina railroad are attended from Columbia,,,,,﻿Winnsboro,﻿Winnsboro,﻿SC,,34.380701200000004,-81.0864776,﻿cha.sc.0025,﻿Attended from Columbia,,,,,,,,,,,,1869.0,Charleston
 ﻿cha.sc.0027,﻿church,not recorded,English,﻿Other stations on the Charlotte and South Carolina railroad are attended from Columbia,,,,,﻿Chester,﻿Chester,﻿SC,,34.7042917,-81.2144455,﻿cha.sc.0025,﻿Attended from Columbia,,,,,,,,,,,,1869.0,Charleston
-﻿cha.sc.0027,﻿church,not recorded,English,﻿Other stations on the Charlotte and South Carolina railroad are attended from Columbia,,,,,﻿Union,﻿Chester,﻿SC,,34.7042917,-81.2144455,﻿cha.sc.0025,﻿Attended from Columbia,,,,,,,,,,,,1869.0,Charleston
+﻿cha.sc.0048,﻿church,not recorded,English,﻿Other stations on the Charlotte and South Carolina railroad are attended from Columbia,,,,,﻿Union,,﻿SC,,34.7042917,-81.2144455,﻿cha.sc.0025,﻿Attended from Columbia,,,,,,,,,,,,1869.0,Charleston
 ﻿cha.sc.0028,﻿church,not recorded,English,,,,,,﻿Greenville,﻿Greenville,﻿SC,,34.8526175999999,-82.3940104,,,,,﻿tho_mcmahon_001,﻿Rev.,﻿Thomas McMahon,,,﻿Services other stations on the Greenville and connecting railroads,,,,1869.0,Charleston
 ﻿cha.sc.0029,﻿church,not recorded,English,,,,,,﻿Anderson,﻿Anderson,﻿SC,,34.5034394,-82.6501332,,,,,﻿tho_mcmahon_001,﻿Rev.,﻿Thomas McMahon,,,﻿Services other stations on the Greenville and connecting railroads,,,,1869.0,Charleston
 ﻿cha.sc.0030,﻿church,not recorded,English,,,,,,﻿Pendleton,﻿Pendleton,﻿SC,,34.651773299999995,-82.78375140000001,,,,,﻿tho_mcmahon_001,﻿Rev.,﻿Thomas McMahon,,,﻿Services other stations on the Greenville and connecting railroads,,,,1869.0,Charleston
@@ -44,5 +44,5 @@
 ﻿cha.sc.0037,﻿convent,﻿Ursuline Convent and Academy of the Immaculate Conception,English,,﻿near Columbia,,,,﻿Valle Crucis,﻿Valle Crucis,﻿NC,,25.080351699999998,-77.32827900000001,,,,,,,,,,,﻿postulants,﻿3 postulants,,1869.0,Charleston
 ﻿cha.sc.0038,﻿convent,﻿Convent of the Sisters of Our Lady of Mercy,English,,,,,,﻿Charleston,﻿Charleston,﻿SC,,32.788386100000004,-79.9533047,,,,,,﻿Mother,﻿M. Teresa Barry,,﻿Superior,,,,,1869.0,Charleston
 ﻿cha.sc.0040,﻿female-orphan-asylum,﻿Girl's Orphan Asylum,English,,,,,,﻿Charleston,﻿Charleston,﻿SC,,32.788386100000004,-79.9533047,,,,,,,,,,,,,﻿Sisters of Our Lady of Mercy,1869.0,Charleston
-﻿cha.sc.0040,﻿academy,﻿Academy of the Sisters,English,,,,,,﻿Sumter,﻿Charleston,﻿SC,,32.788386100000004,-79.9533047,,,,,,﻿Sister,﻿M. Joseph Kent,,﻿Directress,,,,﻿Sisters of Our Lady of Mercy,1869.0,Charleston
+﻿cha.sc.0042,﻿academy,﻿Academy of the Sisters,English,,,,,,﻿Sumter,,﻿SC,,32.788386100000004,-79.9533047,,,,,,﻿Sister,﻿M. Joseph Kent,,﻿Directress,,,,,1869.0,Charleston
 ﻿cha.sc.0041,﻿male-orphan-asylum,﻿Boy's Orphan Asylum,English,,,,,,﻿Charleston,﻿Charleston,﻿SC,,32.7879734,-79.9494156,,,,,,﻿Sister,﻿M. de Sales Brenan,,﻿Directress,,,,,1869.0,Charleston

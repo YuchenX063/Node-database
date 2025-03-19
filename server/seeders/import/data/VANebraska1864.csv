@@ -1,0 +1,25 @@
+﻿instID,church_type,instName,language,instNote,placeName,region,county_orig,county_reg,city_orig,city_reg,state_orig,state_reg,latitude,longitude,attendingInstID,attendingChurch,attendingChurchFrequency,attendingChurchNote,persID,persTitle,persName,persSuffix,persRole,persNote,memberType,member,affiliated,year,diocese
+﻿oma.ne.0001,﻿church,﻿Church of St. Philomena,English,,,,,,﻿Omaha,﻿Omaha,﻿NE,﻿NE,41.2458942,-95.9290972,,,,,,﻿Rt. Rev.,﻿Jas. M. O'Gorman,,﻿D.D.,,,,,1864.0,VANebraska
+﻿oma.ne.0001,﻿church,﻿Church of St. Philomena,English,,,,,,﻿Omaha,﻿Omaha,﻿NE,,41.2458942,-95.9290972,,,,,,﻿Rev.,﻿R. J. Lawerence,,﻿Pastor,,,,,1864.0,VANebraska
+﻿oma.ne.0004,﻿church,not recorded,English,,,,﻿Platte County,,﻿Columbus,﻿Columbus,﻿NE,﻿NE,41.4302973,-97.35939040000001,,,,,,﻿Rev.,﻿Wm. Kelly,,,,,,,1864.0,VANebraska
+﻿oma.ne.0003,﻿church,not recorded,English,,,,﻿Otoe County,,﻿Nebraska City,﻿Nebraska City,﻿NE,﻿NE,40.6765745,-95.85936159999999,,,,,,﻿Rev.,﻿Emanuel Hartig,﻿O.S.B.,,,,,,1864.0,VANebraska
+﻿oma.ne.0025,﻿mission,not recorded,English,,,,﻿Cass County,,﻿Plattsmouth,﻿Plattsmouth,﻿NE,﻿NE,41.01111029999999,-95.8808424,,,,,,﻿Rev.,﻿J. Daxater,,,,,,,1864.0,VANebraska
+﻿oma.ne.0007,﻿mission,not recorded,English,,,,,,﻿Forest City,,﻿NE,﻿NE,41.1193937,-96.29071390000001,﻿oma.ne.0025,﻿Attended from Plattsmouth,,,,,,,,,,,,1864.0,VANebraska
+﻿oma.ne.0010,﻿mission,not recorded,English,,,,,,﻿St. Helena,﻿St. Helena,,﻿NE,42.8097196,-97.2489418,﻿oma.ne.0025,﻿Attended from Plattsmouth,,,,,,,,,,,,1864.0,VANebraska
+﻿oma.ne.0008,﻿mission,not recorded,English,,,,,,﻿West-Point,﻿West Point,﻿NE,﻿NE,41.841665899999995,-96.7086432,﻿oma.ne.0025,﻿Attended from Plattsmouth,,,,,,,,,,,,1864.0,VANebraska
+﻿oma.ne.0037,﻿mission,not recorded,English,,,,,,﻿Salt Creek,,﻿NE,,40.9930594,-96.3970884,﻿oma.ne.0025,﻿Attended from Plattsmouth,,,,,,,,,,,,1864.0,VANebraska
+﻿oma.ne.0037,﻿church,﻿St. John's,English,,,,,,﻿St. Patrick's Settlement,,﻿NE,,40.9930594,-96.3970884,,,,,,﻿Rev.,﻿R. J. Ryan,,,,,,,1864.0,VANebraska
+﻿oma.ne.0014,﻿church,not recorded,English,,,,,,﻿Fort Kearney,﻿Kearney,﻿NE,﻿NE,40.69933029999999,-99.08167840000002,﻿oma.ne.0004,﻿attended from Columbus,,,,,,,,,,,,1864.0,VANebraska
+﻿sio.sd.0005,﻿church,not recorded,English,,,,,,﻿Fort Randall,,﻿NE,﻿SD,43.0244399,-98.6242505,,﻿attended from St. John's,,,,,,,,,,,,1864.0,VANebraska
+﻿dub.ia.0130,﻿church,not recorded,English,,,,,,﻿Sioux City,﻿Sioux City,﻿IA,,42.4963416,-96.40494079999999,,﻿attended from St. John's,,,,,,,,,,,,1864.0,VANebraska
+﻿oma.ne.0024,﻿church,not recorded,English,,,,,,﻿Punka,﻿Punka,﻿NE,﻿NE,41.4925374,-99.9018131,,﻿attended from St. John's,,,,,,,,,,,,1864.0,VANebraska
+﻿oma.ne.0015,﻿church,not recorded,English,,,,,,﻿Cottonwood Springs,,﻿NE,﻿NE,41.481604499999996,-101.2977322,﻿oma.ne.0004,﻿attended from Columbus,,,,,,,,,,,,1864.0,VANebraska
+﻿oma.ne.0006,﻿church,not recorded,English,,,,﻿Richardson County,,﻿Rulo,﻿Rulo,﻿NE,﻿NE,40.0524616,-95.4292764,﻿oma.ne.0003,﻿Attended from Nebraska City,,,,,,,,,,,,1864.0,VANebraska
+﻿oma.ne.0013,﻿church,not recorded,English,,,,﻿Nemaha County,,﻿Brownsville,﻿Brownsville,﻿NE,﻿NE,40.4074745,-95.8142885,﻿oma.ne.0003,﻿Attended from Nebraska City,,,,,,,,,,,,1864.0,VANebraska
+﻿hel.mt.0016,﻿mission,﻿Indian Missions of the Rocky Mountains,English,,﻿in the Rocky Mountains,,,,,,,,20.593684,78.96288,,﻿attended by the Jesuit Fathers,,,,﻿Rev.,﻿J. Drorger,,﻿Superior,,,,,1864.0,VANebraska
+﻿dub.ia.0039,﻿church,not recorded,English,,,,,,﻿Council Bluffs,,﻿NE,﻿NE,41.2619444,-95.8608333,﻿oma.ne.0001,﻿Attended from Omaha City,,,,,,,,,,,,1864.0,VANebraska
+﻿oma.ne.0032,﻿school,﻿The Male and Female Schools of St. Philip Neri,English,,,,,,﻿Omaha,﻿Omaha,﻿NE,﻿NE,41.334818299999995,-95.9604175,,,,,,﻿Rev.,﻿R. J. Lawerence,,﻿President,,,,,1864.0,VANebraska
+﻿oma.ne.0032,﻿school,﻿The Male and Female Schools of St. Philip Neri,English,,,,,,﻿Omaha,﻿Omaha,﻿NE,,41.334818299999995,-95.9604175,,,,,,﻿children,﻿100 children,,,,,,,1864.0,VANebraska
+﻿oma.ne.0030,﻿school,not recorded,English,"﻿A Convent, nearly finished, will be ready by 1st of May, to commence their school for the females, boarders, and externs",,,,,﻿Omaha,﻿Omaha,﻿NE,﻿NE,41.2565369,-95.93450340000001,,,,,,,,,,,,,,1864.0,VANebraska
+﻿oma.ne.0033,﻿school,﻿St. Benedict's School for Males and Females,English,,,,,,﻿Nebraska City,﻿Nebraska City,﻿NE,﻿NE,40.669664399999995,-95.84099300000001,,,,,,﻿Rev.,﻿El. Hartig,,﻿Presiden,,,,,1864.0,VANebraska
+﻿oma.ne.0033,21,﻿St. Benedict's School for Males and Females,English,,,,,,﻿Nebraska City,﻿Nebraska City,﻿NE,,40.669664399999995,-95.84099300000001,,,,,,,,,,,,,,1864.0,VANebraska

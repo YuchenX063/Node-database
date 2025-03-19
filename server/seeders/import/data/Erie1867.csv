@@ -1,0 +1,48 @@
+﻿instID,church_type,instName,language,instNote,placeName,region,county_orig,county_reg,city_orig,city_reg,state_orig,state_reg,latitude,longitude,attendingInstID,attendingChurch,attendingChurchFrequency,attendingChurchNote,persID,persTitle,persName,persSuffix,persRole,persNote,memberType,member,affiliated,year,diocese
+﻿erie.pa.0001,﻿cathedral,﻿St. Patrick's,English,,﻿Fourth street,,﻿Erie County,,﻿Erie,﻿Erie,﻿PA,,42.1402924,-80.0621357,,,,,﻿j_d_coady_001,﻿Very Rev.,﻿J. D. Coady,,﻿Administrator,,,,,1867,Erie
+﻿erie.pa.0001,﻿cathedral,﻿St. Patrick's,English,,﻿Fourth street,,﻿Erie County,,﻿Erie,﻿Erie,﻿PA,,42.1402924,-80.0621357,,,,,﻿tho_carroll_001,﻿Rev.,﻿Thomas Carroll,,﻿Pastor,,,,,1867,Erie
+﻿erie.pa.0002,﻿church,﻿St. Mary's,English,,﻿Ninth street,,﻿Erie County,,﻿Erie,﻿Erie,﻿PA,,42.1288429,-80.0761177,,,,,﻿ben_hegele_001,﻿Rev.,﻿Benno Hegele,﻿O.S.B.,﻿Prior,,,,,1867,Erie
+﻿erie.pa.0002,﻿church,﻿St. Mary's,English,,﻿Ninth street,,﻿Erie County,,﻿Erie,﻿Erie,﻿PA,,42.1288429,-80.0761177,,,,,﻿tha_heinzelmayer_001,﻿Rev.,﻿Thaddeus Heinzelmayer,﻿O.S.B.,,,,,,1867,Erie
+﻿erie.pa.0003,﻿church,not recorded,English,"﻿New church, about being built on Federal Hill",﻿Federal Hill,,﻿Erie County,,﻿Erie,﻿Erie,﻿PA,,42.1111077,-80.0748299,,,,,﻿jos_stumpe_001,﻿Rev.,﻿Stumpe,,,,,,,1867,Erie
+﻿erie.pa.0046,﻿church,﻿St. Francis,English,,,,﻿Erie County,,﻿McKean Township,﻿McKean,﻿PA,,41.9968852,-80.1433144,,,,,,﻿Rev.,﻿A. Reck,,,,,,,1867,Erie
+﻿erie.pa.0010,﻿church,﻿St. Boniface,English,,,,﻿Erie County,,﻿Green Township,,﻿PA,,42.0666555,-79.9704256,,,,,,﻿Rev.,﻿F. J. Oberhofer,,,,,,,1867,Erie
+﻿erie.pa.0036,﻿church,﻿St. John's,English,,,,﻿Erie County,,﻿Girard Village,﻿Girard,﻿PA,,42.0003337,-80.3181193,,,,,,﻿Rev.,﻿P. F. Molony,,,,,,,1867,Erie
+﻿erie.pa.0054,﻿church,not recorded,English,﻿new chruch,,,﻿Erie County,,﻿North-East,﻿North East,﻿PA,,42.2156131,-79.8342163,﻿erie.pa.0078,﻿attended from Union,,,,﻿Rev.,﻿P. F. Molony,,,,,,,1867,Erie
+﻿erie.pa.0042,﻿church,not recorded,English,﻿church about being built,,,﻿Erie County,,﻿Jackson Station,﻿Summit Township,﻿PA,,42.0298052,-80.0423151,,,,,,﻿Rev.,﻿P. F. Molony,,,,,,,1867,Erie
+﻿erie.pa.0020,﻿church,﻿St. Thomas,English,,,,﻿Erie County,,﻿Corry,﻿Corry,﻿PA,,41.9203337,-79.6403287,,,,,﻿tho_lonergan_001,﻿Rev.,﻿Thomas Lonnergan,,,,,,,1867,Erie
+﻿erie.pa.0020,﻿church,﻿St. Bridget's,English,,,,﻿Erie County,,﻿Union Mills,﻿Corry,﻿PA,,41.9203337,-79.6403287,,,,,,﻿Rev.,﻿Thomas Lonnergan,,,﻿who is also assisted by Rev. Father Darcy,,,,1867,Erie
+﻿erie.pa.0048,﻿church,﻿St. Agatha's,English,﻿vacant,,,﻿Crawford County,,﻿Meadville,﻿Meadville,﻿PA,,41.6351647,-80.150752,,,,,,,,,,,,,,1867,Erie
+﻿erie.pa.0047,﻿church,﻿St. Bride's,English,,,,﻿Crawford County,,﻿Meadville,﻿Meadville,﻿PA,,41.635644,-80.1506365,,,,,﻿m_a_roque_001,﻿Rev.,﻿M. A. De La Rocque,,,,,,,1867,Erie
+﻿erie.pa.0017,﻿church,﻿St. Hippolytus,English,,,,﻿Crawford County,,﻿Mead Township,,﻿PA,,41.6620352,-80.1266814,,,,,,﻿Rev.,﻿Father Cogneville,,,,,,,1867,Erie
+﻿erie.pa.0024,﻿church,﻿Sts. Peter and Paul,English,,,,﻿Crawford County,,﻿Randolph Township,,﻿PA,,41.829255,-80.2375065,,,,,,﻿Rev.,﻿M. A. De La Rocque,,,,,,,1867,Erie
+﻿erie.pa.0076,﻿church,﻿St. Titus',English,,,,﻿Crawford County,,﻿Titusville,﻿Titusville,﻿PA,,41.6278904,-79.681405,,,,,﻿nap_mignault_001,﻿Rev.,﻿Nap. Mignault,,,,,,,1867,Erie
+﻿erie.pa.0076,﻿church,﻿St. Stephen's,English,,,,﻿Crawford County,,﻿Oil Creek,﻿Titusville,﻿PA,,41.6278904,-79.681405,,,,,﻿nap_mignault_001,﻿Rev.,﻿Nap. Mignault,,,,,,,1867,Erie
+﻿erie.pa.0026,﻿church,﻿Immaculate Heart of Mary,English,,,,﻿Crawford County,,﻿Rome Township,,﻿PA,,41.6661391,-80.2767327,,,,,﻿nap_mignault_001,﻿Rev.,﻿Nap. Mignault,,,,,,,1867,Erie
+﻿erie.pa.0023,﻿church,﻿St. Phillip's,English,,,,﻿Crawford County,,﻿Crossingville,﻿Crossingville,﻿PA,,41.8297778,-80.2389489,,,,,﻿j_q_adams_001,﻿Rev.,﻿J. Q. Adams,,,,,,,1867,Erie
+﻿erie.pa.0019,﻿church,﻿St. Peter's,English,,,,﻿Crawford County,,﻿Conneautville,﻿Conneautville,﻿PA,,41.757833,-80.3678424,,,,,,﻿Rev.,﻿J. Kearney,,,﻿once a month,,,,1867,Erie
+﻿erie.pa.0012,﻿station,not recorded,English,,,,﻿Crawford County,,﻿Linesville,,﻿PA,,41.6561656,-80.4239562,,,,,,﻿Rev.,﻿J. Kearney,,,,,,,1867,Erie
+﻿erie.pa.0005,﻿station,not recorded,English,,,,﻿Crawford County,,﻿Albion,﻿Albion,﻿PA,,41.8906112,-80.3664542,,,,,,﻿Rev.,﻿J. Kearney,,,,,,,1867,Erie
+﻿erie.pa.0049,﻿church,﻿All Saints',English,,,,﻿Mercer County,,﻿Mercer,﻿Mercer,﻿PA,,41.2270025,-80.2397852,,,,,﻿j_j_gallaher_001,﻿Rev.,﻿J. J. Gallaher,,,,,,,1867,Erie
+﻿erie.pa.0124,﻿church,﻿St. Rose of Lima,English,,,,﻿Mercer County,,﻿Sharon Mines,,﻿PA,,41.2331116,-80.4934035,,,,,﻿t_j_hartmann_001,﻿Rev.,﻿T. J. Hartmann,,,,,,,1867,Erie
+﻿erie.pa.0068,﻿church,not recorded,English,﻿church not dedicated,,,﻿Mercer County,,﻿Sharon,﻿Sharon,﻿PA,,41.2331116,-80.4934035,,,,,﻿joh_h_okeeffe_001,﻿Rev.,﻿Jerome O'Keeffe,,,,,,,1867,Erie
+﻿erie.pa.0038,﻿church,﻿St. Michael's,English,,,,﻿Mercer County,,﻿Greenville,﻿Greenville,﻿PA,,41.404499,-80.3911785,,,,,﻿k_obranigan_001,﻿Rev.,﻿K. O'Branigan,,,,,,,1867,Erie
+﻿erie.pa.0043,﻿church,not recorded,English,,,,﻿Mercer County,,﻿Jamestown,﻿Jamestown,﻿PA,,41.4847758,-80.4375687,﻿erie.pa.0038,﻿attended from Greenville,,,﻿k_obranigan_001,﻿Rev.,﻿K. O'Branigan,,,,,,,1867,Erie
+﻿erie.pa.0014,﻿church,not recorded,English,,,,﻿Mercer County,,﻿Clarksville,,﻿PA,,41.2861669,-80.4275684,﻿erie.pa.0038,﻿attended from Greensville,,,﻿k_obranigan_001,﻿Rev.,﻿K. O'Branigan,,,,,,,1867,Erie
+﻿erie.pa.0014,﻿church,not recorded,English,,,,﻿Mercer County,,﻿West-Salem,,﻿PA,,41.2861669,-80.4275684,,,,,﻿k_obranigan_001,﻿Rev.,﻿K. O'Branigan,,,,,,,1867,Erie
+﻿erie.pa.0050,﻿church,not recorded,English,,,,﻿Mercer County,,﻿Middlesex,﻿West Middlesex,﻿PA,,41.174224,-80.453402,,,,,﻿joh_h_okeeffe_001,﻿Rev.,﻿Jerome O'Keeffe,,,,,,,1867,Erie
+﻿erie.pa.0055,﻿church,﻿St. Joseph's,English,,,,﻿Venango County,,﻿Oil City,﻿Oil City,﻿PA,,41.4339484,-79.7064413,,,,,﻿joh_d_coady_001,﻿Very Rev.,﻿J. D. Coady,,,﻿who attends from Erie,,,,1867,Erie
+﻿erie.pa.0022,﻿church,not recorded,English,,,,﻿Venango County,,﻿Cranberry,﻿Cranberry Township,﻿PA,,41.3896611,-79.8296743,,,,,﻿j_l_maddigan_001,﻿Rev.,﻿J. L. Madigan,,,,,,,1867,Erie
+﻿erie.pa.0029,﻿church,not recorded,English,﻿church not dedicated,,,﻿Venango County,,﻿Franklin,﻿Franklin,﻿PA,,41.3978358,-79.8314437,,,,,﻿j_l_maddigan_001,﻿Rev.,﻿J. L. Madigan,,,,,,,1867,Erie
+﻿erie.pa.0058,﻿church,not recorded,English,,,,﻿Venango County,,﻿Pithole City,﻿Pithole,﻿PA,,41.520894,-79.5869943,,﻿Rev. J. L Finucane,﻿once a month,,,,,,,,,,,1867,Erie
+﻿erie.pa.0057,﻿church,not recorded,English,﻿new church,,,﻿Venango County,,﻿Petroleum Centre,﻿Petroleum Center,﻿PA,,41.5161706,-79.6822746,,,,,,﻿Rev.,﻿J. L. Finucane,,,,,,,1867,Erie
+﻿erie.pa.0061,﻿church,not recorded,English,,,,﻿Venango County,,﻿Plumer,﻿Cornplanter Township,﻿PA,,41.5101928,-79.6277523,,﻿from Petroleum Centre,﻿a station once a month,,,,,,,,,,,1867,Erie
+﻿erie.pa.0025,﻿church,not recorded,English,,,,﻿Venango County,,﻿Eagle Rock,﻿Oil City,﻿PA,,41.4339484,-79.7064413,,﻿attended from Tideoute,,,,,,,,,,,,1867,Erie
+﻿erie.pa.0013,﻿church,﻿Immaculate Conception,English,,,,﻿Clarion County,,﻿Clarion Town,,﻿PA,,41.2133846,-79.3812441,,,,,﻿joh_koch_001,﻿Rev.,﻿John Koch,,,,,,,1867,Erie
+﻿erie.pa.0011,﻿church,﻿St. Joseph's,English,,,,﻿Clarion County,,﻿Knox Township,,﻿PA,,41.3200651,-79.391605,,,,"﻿Corsica allegedly attends this church in 1868, but we believe that is wrong and it should still be Clarion (especially because Clarion itself attends Corsica this year).",﻿joh_koch_001,﻿Rev.,﻿John Kock,,,,,,,1867,Erie
+﻿erie.pa.0008,﻿church,﻿Help of Christians,English,,,,﻿Clarion County,,﻿Farmington Township,,﻿PA,,41.1982095,-79.4703885,,,,"﻿Corsica allegedly attends this church in 1868, but we believe that is wrong and it should still be Clarion (especially because Clarion itself attends Corsica this year).",﻿joh_koch_001,﻿Rev.,﻿John Kock,,,,,,,1867,Erie
+﻿erie.pa.0033,﻿church,﻿St. Michael's,English,,,,﻿Clarion County,,﻿Freyburgh,﻿Fryburg,﻿PA,,41.3536732,-79.4381013,,,,,﻿and_skopez_001,﻿Rev.,﻿Andrew Skopez,,,,,,,1867,Erie
+﻿erie.pa.0016,﻿church,﻿St. Nicholas's,English,,,,﻿Clarion County,,﻿Limestone Township,,﻿PA,,41.1238761,-79.3127543,,,,"﻿Corsica allegedly attends this church in 1868, but we believe that is wrong and it should still be Clarion (especially because Clarion itself attends Corsica this year).",,﻿Rev.,﻿David Snively,,,,,,,1867,Erie
+﻿erie.pa.0062,﻿church,not recorded,English,﻿a chapel,,,﻿Clarion County,,﻿Red Bank Township,﻿Farmington Township,﻿PA,,41.3580734,-79.2676668,,,,"﻿Corsica allegedly attends this church in 1868, but we believe that is wrong and it should still be Clarion (especially because Clarion itself attends Corsica this year).",,﻿Rev.,﻿David Snively,,,,,,,1867,Erie
+﻿erie.pa.0028,﻿church,not recorded,English,"﻿a new church, in process of erection",,,﻿Clarion County,,﻿Fiscisa,﻿Sigel,﻿PA,,41.2748782,-79.1131619,,,,"﻿Corsica allegedly attends this church in 1868, but we believe that is wrong and it should still be Clarion (especially because Clarion itself attends Corsica this year).",,﻿Rev.,﻿David Snively,,,,,,,1867,Erie
+﻿erie.pa.0009,﻿church,﻿Immaculate Conception,English,,,,﻿Jefferson County,,﻿Brookville,﻿Brookville,﻿PA,,41.1611746,-79.0830924,,,,,,﻿Rev.,﻿Father La Magie,,,,,,,1867,Erie
+﻿erie.pa.0021,﻿church,not recorded,English,,,,﻿Jefferson County,,﻿Corsica,﻿Corsica,﻿PA,,41.1811753,-79.2022618,,,,,,﻿Rev.,﻿David Snively,,,,,,,1867,Erie

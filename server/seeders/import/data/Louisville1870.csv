@@ -7,8 +7,8 @@
 ﻿lou.kt.0002,﻿church,﻿St. Boniface,﻿German,﻿residence adjoining,﻿Green street,,﻿Jefferson,,﻿Louisville,,﻿KY,,38.25117395,-85.74396093,,,"﻿Three regular Masses on Sundays and Holydays, with sermon at the second and third; High Mass at ten A.M. and half-past ten A.M.; Vespers at two and half-past two P.M.",,﻿ans_koch_001,﻿Rev.,﻿Anselm Koch,﻿O.S.F.,,,,,,1870.0,Louisville
 ﻿lou.kt.0002,﻿church,﻿St. Boniface,﻿German,﻿residence adjoining,﻿Green street,,﻿Jefferson,,﻿Louisville,,﻿KY,,38.25117395,-85.74396093,,,,,﻿wil_gansepohl_001,﻿Rev.,﻿William Gansepohl,﻿O.S.F.,,,,,,1870.0,Louisville
 ﻿lou.kt.0002,﻿church,﻿St. Boniface,﻿German,﻿residence adjoining,﻿Green street,,﻿Jefferson,,﻿Louisville,,﻿KY,,38.25117395,-85.74396093,,,,,﻿jos_m_roesl_001,﻿Rev.,﻿Joseph M. Roesl,﻿O.S.F.,,,,,,1870.0,Louisville
-﻿lou.kt.0003,﻿church,﻿Immaculate Conception,﻿German,﻿residence adjoining,﻿corner of Eighth and Grayson streets,,﻿Jefferson,,﻿Louisville,,﻿KY,,38.2931614,-85.63987840000001,,,﻿High Mass at ten and half-past ten A.M.; Vespers at half-past two and three P.M.,,﻿fx_v_deutekom_001,﻿Rev.,﻿F.X. Van Deutekom,,,,,,,1870.0,Louisville
-﻿lou.kt.0003,﻿church,﻿Immaculate Conception,﻿German,﻿residence adjoining,﻿corner of Eighth and Grayson streets,,﻿Jefferson,,﻿Louisville,,﻿KY,,38.2931614,-85.63987840000001,,,,,,﻿Rev.,﻿— Volk,,,,,,,1870.0,Louisville
+﻿lou.kt.0003,﻿church,﻿Immaculate Conception,﻿German,﻿residence adjoining,﻿corner of Eighth and Grayson streets,,﻿Jefferson,,﻿Louisville,,﻿KY,,38.2931614,-85.63987840000001,,,﻿High Mass at ten and half-past ten A.M.; Vespers at half-past two and three P.M.,,﻿fx_van-deutekom_001,﻿Rev.,﻿F.X. Van Deutekom,,,,,,,1870.0,Louisville
+﻿lou.kt.0003,﻿church,﻿Immaculate Conception,﻿German,﻿residence adjoining,﻿corner of Eighth and Grayson streets,,﻿Jefferson,,﻿Louisville,,﻿KY,,38.2931614,-85.63987840000001,,,,,﻿volk_001,﻿Rev.,﻿— Volk,,,,,,,1870.0,Louisville
 ﻿lou.kt.0004,﻿church,﻿St. Martin's,﻿German,﻿residence adjoining,﻿Shelby street,,﻿Jefferson,,﻿Louisville,,﻿KY,,38.2455346,-85.73924891,,,﻿High Mass at ten and half-past ten A.M.; Vespers at three and half-past three P.M.,,﻿lea_streber_001,﻿Rev.,﻿Leander Streber,﻿O.S.F.,,,,,,1870.0,Louisville
 ﻿lou.kt.0004,﻿church,﻿St. Martin's,﻿German,﻿residence adjoining,﻿Shelby street,,﻿Jefferson,,﻿Louisville,,﻿KY,,38.2455346,-85.73924891,,,,,﻿mar_beyhurst_001,﻿Rev.,﻿Martin Beyhurst,,,,,,,1870.0,Louisville
 ﻿lou.kt.0005,﻿church,﻿St. Patrick's,English,﻿residence adjoining,﻿Thirteenth street,,﻿Jefferson,,﻿Louisville,,﻿KY,,38.25719726,-85.77203595,,,﻿High Mass at nine and half-past nine A.M.; Vespers at three P.M.,,﻿md_lawler_001,﻿Rev.,﻿M.D. Lawler,,,,,,,1870.0,Louisville
@@ -22,7 +22,7 @@
 ﻿lou.kt.0009,﻿church,﻿St. Anthony of Padua,﻿German,,﻿cor. of Market and Thirteenth streets,,﻿Jefferson,,﻿Louisville,,﻿KY,,38.2583051,-85.78796434,,,,,﻿jos_lassen_001,﻿Rev.,﻿Joseph Lassen,﻿O.M.C.,,,,,,1870.0,Louisville
 ﻿lou.kt.0009,﻿church,﻿St. Anthony of Padua,﻿German,,﻿cor. of Market and Thirteenth streets,,﻿Jefferson,,﻿Louisville,,﻿KY,,38.2583051,-85.78796434,,,,,﻿cle_luitz_002,﻿Rev.,﻿Clement Luitz,﻿O.M.C.,,,,,,1870.0,Louisville
 ﻿lou.kt.0010,﻿church,﻿St. Augustine's,English,﻿for colored people,﻿Broadway and Fourteenth streets,,﻿Jefferson,,﻿Louisville,,﻿KY,,38.24767052,-85.77369413,,,,,﻿jl_spalding_001,﻿Rev.,﻿J.L. Spalding,,﻿Pastor,,,,,1870.0,Louisville
-﻿lou.kt.0011,﻿chapel,﻿Chapel of the Seven Sorrows,English,,"﻿Eighth street, attached to the Convent of the Good Shepherd",,﻿Jefferson,,﻿Louisville,,﻿KY,,38.2526647,-85.7584557,,,,,,﻿Rev.,﻿— Volk,,,,,,,1870.0,Louisville
+﻿lou.kt.0011,﻿chapel,﻿Chapel of the Seven Sorrows,English,,"﻿Eighth street, attached to the Convent of the Good Shepherd",,﻿Jefferson,,﻿Louisville,,﻿KY,,38.2526647,-85.7584557,,,,,﻿volk_001,﻿Rev.,﻿— Volk,,,,,,,1870.0,Louisville
 ﻿lou.kt.0012,﻿chapel,﻿Chapel of St. Francis Xavier,English,,﻿Fourth street,,﻿Jefferson,,﻿Louisville,,﻿KY,,38.251986,-85.75732990000002,,,,,﻿f_montariol_001,﻿Rev.,﻿F. Montariol,﻿A.B.,,,,,,1870.0,Louisville
 ﻿lou.kt.0013,﻿chapel,﻿Chapel of the Immaculate Conception,English,,﻿St. Vincent's Orphan Asylum,,﻿Jefferson,,﻿Louisville,,﻿KY,,38.2526647,-85.7584557,,,,,﻿ws_coomes_001,﻿Rev.,﻿W.S. Coomes,,,,,,,1870.0,Louisville
 ﻿lou.kt.0014,﻿church,﻿Notre Dame du Port (Portland),English,,,,﻿Jefferson,,﻿Louisville,,﻿KY,,38.27624468,-85.805653,,,"﻿Two Masses-- early Mass at half-past seven, and High Mass at ten and half-past ten",,﻿hug_peythieu_001,﻿Rev.,﻿Hugo Peythieu,,,﻿who resides at the church and is Chaplain of Cedar Grove Academy,,,,1870.0,Louisville
@@ -37,14 +37,14 @@
 ﻿lou.kt.0017,﻿chapel,﻿Chapel at Mt. St. Benedict's Academy of Sisters of Loretto,English,,﻿Mt. St. Benedict's Academy of Sisters of Loretto,,﻿Jefferson,,﻿Louisville,,﻿KY,,38.27540147,-85.80560759999999,,,,,﻿h_peythieu_001,﻿Rev.,﻿H. Peythieu,,,,,,,1870.0,Louisville
 ﻿lou.kt.0018,﻿chapel,﻿Chapel of St. Joseph's Infirmary of Sisters of Charity,English,,﻿St. Joseph's Infirmary of Sisters of Charity,,﻿Jefferson,,﻿Louisville,,﻿KY,,38.21466162,-85.74340377,,,,,,,,,,,,,﻿Attended by the Dominican Fathers,1870.0,Louisville
 ﻿lou.kt.0019,﻿chapel,﻿Chapel of St. Francis Xavier's Industrial School of Sisters of the Good Shepherd,English,,﻿St. Francis Xavier's Industrial School of Sisters of the Good Shepherd,,﻿Jefferson,,﻿Louisville,,﻿KY,,38.2526647,-85.7584557,,﻿Attended from St. Patrick's,,,,,,,,,,,,1870.0,Louisville
-﻿lou.kt.0020,﻿church,﻿St. Joseph's,English,,,,﻿Nelson,,﻿Bardstown,,﻿KY,,37.8104924,-85.4714237,,,,,﻿pet_d_fraine_001,﻿Rev.,﻿Peter De Fraine,,,,,,,1870.0,Louisville
+﻿lou.kt.0020,﻿church,﻿St. Joseph's,English,,,,﻿Nelson,,﻿Bardstown,,﻿KY,,37.8104924,-85.4714237,,,,,﻿pet_de-fraine_001,﻿Rev.,﻿Peter De Fraine,,,,,,,1870.0,Louisville
 ﻿lou.kt.0021,﻿chapel,﻿new chapel building,English,,,,,,﻿Bacon Creek,,﻿KY,,37.3786665,-85.9030233,,﻿Attended from Bowling Green,,,,,,,,,,,,1870.0,Louisville
 ﻿lou.kt.0022,﻿church,﻿St. Augustine's,English,,,,﻿Grayson,,﻿Bear Creek,,﻿KY,,37.45036268,-86.23246168,,,,,﻿jb_vandemergel_001,﻿Rev.,﻿J.B. Vandemergel,,,,,,,1870.0,Louisville
 ﻿lou.kt.0023,﻿church,not recorded,English,,,,﻿Trimble,,﻿Bedford,,﻿KY,,38.592563,-85.3177344,,﻿Attended from Shelbyville,,,,,,,,,,,,1870.0,Louisville
 ﻿lou.kt.0024,﻿church,not recorded,English,,,,﻿Crittenden,,﻿Bell's Coal Mines,,﻿KY,,37.50975787,-88.02216870000001,,"﻿Attended from the Sacred Heart, Union Co.",,,,,,,,,,,,1870.0,Louisville
 ﻿lou.kt.0025,﻿church,not recorded,English,,,,﻿Bullitt,,﻿Belmont Furnace,,﻿KY,,37.89272591,-85.69894914,,﻿Attended from New Haven,﻿occasionally,,,,,,,,,,,1870.0,Louisville
 ﻿lou.kt.0026,﻿church,﻿Immaculate Conception,English,,,,﻿Hardin,,﻿Bethlehem Convent,,﻿KY,,37.70141476,-85.99547652,,,,,﻿a_degauquier_001,﻿Rev.,﻿A. Degauquier,,﻿Chaplain and Director,,,,,1870.0,Louisville
-﻿lou.kt.0027,﻿church,﻿St. Joseph's,English,,,,﻿Warren,,﻿Bowling Green,,﻿KY,,37.0018551,-86.4471498,,,,,﻿jos_d_vries_001,﻿Rev.,﻿Joseph De Vries,,,,,,,1870.0,Louisville
+﻿lou.kt.0027,﻿church,﻿St. Joseph's,English,,,,﻿Warren,,﻿Bowling Green,,﻿KY,,37.0018551,-86.4471498,,,,,﻿jos_de-vries_001,﻿Rev.,﻿Joseph De Vries,,,,,,,1870.0,Louisville
 ﻿lou.kt.0028,﻿church,﻿St. Andrew's,English,,,,﻿Jefferson,,﻿Big Run,,﻿KY,,38.1445258,-85.81439878,,,,,﻿eng_bachman_001,﻿Rev.,﻿Englebert Bachman,,,,,,,1870.0,Louisville
 ﻿lou.kt.0029,﻿church,not recorded,English,,,,﻿Mead,,﻿Brandenburgh,,﻿KY,,38.0010277,-86.1721474,,﻿Attended from Flint Island,,,,,,,,,,,,1870.0,Louisville
 ﻿lou.kt.0030,﻿church,﻿St. Francis Assisium,English,,,,﻿Marion,,﻿Chicago,,﻿KY,,37.62635952,-85.43056317,,,,,﻿p_cassidy_001,﻿Rev.,﻿P. Cassidy,,,,,,,1870.0,Louisville
@@ -82,7 +82,7 @@
 ﻿lou.kt.0061,﻿church,﻿St. F. Xavier's,English,,,,﻿Bullitt,,﻿Mount Washington,,﻿KY,,38.0489592,-85.5396613,,,,,﻿jam_elliott_001,﻿Rev.,﻿James Elliott,,,﻿from Fairfield,,,,1870.0,Louisville
 ﻿lou.kt.0062,﻿church,﻿St. Vincent de Paul's,English,,,,﻿Nelson,,﻿Nazareth Convent,,﻿KY,,37.8481165,-85.4727346,,,,,﻿f_chambige_001,﻿Rev.,﻿F. Chambige,,,,,,,1870.0,Louisville
 ﻿lou.kt.0062,﻿church,﻿St. Vincent de Paul's,English,,,,﻿Nelson,,﻿Nazareth Convent,,﻿KY,,37.8481165,-85.4727346,,,,,﻿pol_fermont_001,﻿Rev.,﻿Polydore Fermont,,,,,,,1870.0,Louisville
-﻿lou.kt.0063,﻿church,﻿St. Catharine's,English,,,,﻿Nelson,,﻿New Haven,,﻿KY,,37.6603098,-85.5909759,,,,,﻿fra_d_meulder_001,﻿Rev.,﻿Francis De Meulder,,,,,,,1870.0,Louisville
+﻿lou.kt.0063,﻿church,﻿St. Catharine's,English,,,,﻿Nelson,,﻿New Haven,,﻿KY,,37.6603098,-85.5909759,,,,,﻿fra_de-meulder_001,﻿Rev.,﻿Francis De Meulder,,,,,,,1870.0,Louisville
 ﻿lou.kt.0064,﻿church,﻿St. Benedict's,English,,,,﻿Grayson,,﻿Nolin,,﻿KY,,37.34009472,-86.15931526,,,﻿once a month,,﻿jb_vandemergel_001,﻿Rev.,﻿J.B. Vandemergel,,,,,,,1870.0,Louisville
 ﻿lou.kt.0065,﻿church,﻿St. Stephen's,English,﻿new brick church completed,,,﻿Daviess,,﻿Owensboro',,﻿KY,,37.769766,-87.11591259999999,,,﻿every Sunday and holyday,,﻿eug_ocallaghan_001,﻿Rev.,﻿Eugene O'Callaghan,,,,,,,1870.0,Louisville
 ﻿lou.kt.0066,﻿church,﻿St. F. de Sales,English,,,,﻿McCracken,,﻿Paducah,,﻿KY,,37.0366907,-88.66957059999999,,,,,﻿ivo_schacht_001,﻿Rev.,﻿Ivo Schacht,,,"﻿who also attends Smithland, and other adjoining missions",,,,1870.0,Louisville
@@ -126,12 +126,12 @@
 ﻿lou.kt.0103,﻿church,﻿Church of the Assumption,English,,,,,,﻿Thompsonville,,﻿KY,,37.8393332,-84.2700179,,﻿Attended from St. Rose,﻿twice a month,,,,,,,,,,,1870.0,Louisville
 ﻿lou.kt.0104,﻿church,not recorded,English,﻿a spacious new church has been nearly completed,,,﻿Union,,﻿Uniontown,,﻿KY,,37.7753214,-87.9305827,,,,,﻿ej_durbin_001,﻿Rev.,﻿E.J. Durbin,,,,,,,1870.0,Louisville
 ﻿lou.kt.0104,﻿church,not recorded,English,﻿a spacious new church has been nearly completed,,,﻿Union,,﻿Uniontown,,﻿KY,,37.7753214,-87.9305827,,,,,﻿jam_m_martin_001,﻿Rev.,﻿James M. Martin,﻿D.D.,,,,,,1870.0,Louisville
-﻿lou.kt.0105,﻿seminary,﻿St. Joseph's Preparatory Seminary,English,,,,,,﻿Bardstown,,﻿KY,,37.8115083,-85.4711286,,,,,﻿p_d_fraine_001,﻿Rev.,﻿P. De Fraine,,﻿President,,﻿pupil,"﻿Number of pupils, 70",,1870.0,Louisville
+﻿lou.kt.0105,﻿seminary,﻿St. Joseph's Preparatory Seminary,English,,,,,,﻿Bardstown,,﻿KY,,37.8115083,-85.4711286,,,,,﻿p_de-fraine_001,﻿Rev.,﻿P. De Fraine,,﻿President,,﻿pupil,"﻿Number of pupils, 70",,1870.0,Louisville
 ﻿lou.kt.0105,﻿seminary,﻿St. Joseph's Preparatory Seminary,English,,,,,,﻿Bardstown,,﻿KY,,37.8115083,-85.4711286,,,,,﻿a_viala_001,﻿Rev.,﻿A. Viala,,﻿Vice-President,,﻿pupil,"﻿Number of pupils, 70",,1870.0,Louisville
 ﻿lou.kt.0105,﻿seminary,﻿St. Joseph's Preparatory Seminary,English,,,,,,﻿Bardstown,,﻿KY,,37.8115083,-85.4711286,,,,,﻿eug_crane_001,﻿Rev.,﻿Eugene Crane,,,,﻿pupil,"﻿Number of pupils, 70",,1870.0,Louisville
 ﻿lou.kt.0105,﻿seminary,﻿St. Joseph's Preparatory Seminary,English,,,,,,﻿Bardstown,,﻿KY,,37.8115083,-85.4711286,,,,,﻿joh_creary_001,﻿Rev.,﻿John Creary,,,,﻿pupil,"﻿Number of pupils, 70",,1870.0,Louisville
 ﻿lou.kt.0105,﻿seminary,﻿St. Joseph's Preparatory Seminary,English,,,,,,﻿Bardstown,,﻿KY,,37.8115083,-85.4711286,,,,,﻿d_odonovan_001,﻿Rev.,﻿D. O'Donovan,,,,﻿pupil,"﻿Number of pupils, 70",,1870.0,Louisville
-﻿lou.kt.0106,﻿seminary,﻿St. Thomas' Theological Seminary,English,,,,,,﻿Bardstown,,﻿KY,,37.7675024,-85.4903535,,,,,﻿p_d_fraine_001,﻿Rev.,﻿P. De Fraine,,﻿Professor of Dogmatic Theology,,﻿student,"﻿Number of students, 12",,1870.0,Louisville
+﻿lou.kt.0106,﻿seminary,﻿St. Thomas' Theological Seminary,English,,,,,,﻿Bardstown,,﻿KY,,37.7675024,-85.4903535,,,,,﻿p_de-fraine_001,﻿Rev.,﻿P. De Fraine,,﻿Professor of Dogmatic Theology,,﻿student,"﻿Number of students, 12",,1870.0,Louisville
 ﻿lou.kt.0106,﻿seminary,﻿St. Thomas' Theological Seminary,English,,,,,,﻿Bardstown,,﻿KY,,37.7675024,-85.4903535,,,,,﻿a_viala_001,﻿Rev.,﻿A. Viala,,﻿Professor of Moral Theology,,﻿student,"﻿Number of students, 12",,1870.0,Louisville
 ﻿lou.kt.0106,﻿seminary,﻿St. Thomas' Theological Seminary,English,,,,,,﻿Bardstown,,﻿KY,,37.7675024,-85.4903535,,,,,﻿eug_crane_001,﻿Rev.,﻿Eugene Crane,,,,﻿student,"﻿Number of students, 12",,1870.0,Louisville
 ﻿lou.kt.0106,﻿seminary,﻿St. Thomas' Theological Seminary,English,,,,,,﻿Bardstown,,﻿KY,,37.7675024,-85.4903535,,,,,﻿joh_creary_001,﻿Rev.,﻿John Creary,,,,﻿student,"﻿Number of students, 12",,1870.0,Louisville
@@ -239,15 +239,15 @@
 ﻿lou.kt.0165,﻿school,﻿Parochial School of St. Joseph's Church,English,,,,,,﻿Butchertown,,﻿KY,,38.2526647,-85.7584557,,,,,,,,,,,﻿little girls and little boys,"﻿I. Class, little girls and little boys, 80",,1870.0,Louisville
 ﻿lou.kt.0165,﻿school,﻿Parochial School of St. Joseph's Church,English,,,,,,﻿Butchertown,,﻿KY,,38.2526647,-85.7584557,,,,,,,,,,,﻿boy,"﻿II. Class, boys, 73",,1870.0,Louisville
 ﻿lou.kt.0166,﻿sisters,not recorded,English,,﻿Green Street,,,,﻿Louisville,,﻿KY,,38.2526647,-85.7584557,,,,,,,,,,,﻿professed sister,﻿6 professed Sisters,﻿SISTERS OF NOTRE DAME,1870.0,Louisville
-﻿lou.kt.0167,﻿school,﻿St. Boniface's Select Girls' School,English,,,,,,,,﻿KY,,37.8393332,-84.2700179,,,,,,,,,,,,,﻿conducted by the Sisters of Notre Dame,1870.0,Louisville
-﻿lou.kt.0168,﻿school,﻿St. Boniface's Common School,English,,,,,,,,﻿KY,,37.8393332,-84.2700179,,,,,,,,,,,﻿girl,"﻿Having, in all, about 420 girls under their charge",﻿conducted by the Sisters of Notre Dame,1870.0,Louisville
-﻿lou.kt.0169,﻿asylum,﻿St. Joseph's Orphan Asylum,﻿German,,﻿near St. Boniface's Church,,,,,,﻿KY,,37.8393332,-84.2700179,,,,,,,,,,,﻿orphan,﻿100 orphans,﻿conducted by the Sisters of Notre Dame,1870.0,Louisville
+﻿lou.kt.0167,﻿school,﻿St. Boniface's Select Girls' School,English,,,,,,,,﻿KY,,38.25117395,-85.74396093,,,,,,,,,,,,,﻿conducted by the Sisters of Notre Dame,1870.0,Louisville
+﻿lou.kt.0168,﻿school,﻿St. Boniface's Common School,English,,,,,,,,﻿KY,,38.25117395,-85.74396093,,,,,,,,,,,﻿girl,"﻿Having, in all, about 420 girls under their charge",﻿conducted by the Sisters of Notre Dame,1870.0,Louisville
+﻿lou.kt.0169,﻿asylum,﻿St. Joseph's Orphan Asylum,﻿German,,﻿near St. Boniface's Church,,,,,,﻿KY,,38.25117395,-85.74396093,,,,,,,,,,,﻿orphan,﻿100 orphans,﻿conducted by the Sisters of Notre Dame,1870.0,Louisville
 ﻿lou.kt.0170,﻿hospital,﻿Marin Hospital,English,,,,,,﻿Louisville,,﻿KY,,38.2766296,-85.7911675,,,,,,﻿Mother,﻿Ignatius,,﻿Superior,,,,,1870.0,Louisville
 ﻿lou.kt.0170,﻿hospital,﻿Marin Hospital,English,,,,,,﻿Louisville,,﻿KY,,38.2766296,-85.7911675,,,,,,,,,,,,,﻿under the charge of the Sisters of Mercy,1870.0,Louisville
 ﻿lou.kt.0170,﻿hospital,﻿Little Sisters of the Poor,English,,﻿Tenth and Magazine streets,,,,﻿Louisville,,﻿KY,,38.2503653,-85.782927,,,,,,,,,,,,,﻿under the charge of the Sisters of Mercy,1870.0,Louisville
-﻿lou.kt.0171,﻿asylum,﻿St. Thomas' Male Orphan Asylum,English,,,,,,,,﻿KY,,37.8393332,-84.2700179,,,,,,﻿Brother,﻿Florimont,,﻿Superior,,﻿orphan boy,﻿150 orphan boys,,1870.0,Louisville
-﻿lou.kt.0171,﻿asylum,﻿St. Thomas' Male Orphan Asylum,English,,,,,,,,﻿KY,,37.8393332,-84.2700179,,,,,,﻿Brother,﻿David,,﻿Superior,,﻿orphan boy,﻿150 orphan boys,,1870.0,Louisville
-﻿lou.kt.0171,﻿asylum,﻿St. Thomas' Male Orphan Asylum,English,,,,,,,,﻿KY,,37.8393332,-84.2700179,,,,,,,,,,,﻿brother,5,﻿conducted by the Brothers of the Sacred Heart.,1870.0,Louisville
+﻿lou.kt.0171,﻿asylum,﻿St. Thomas' Male Orphan Asylum,English,,,,,,,,﻿KY,,37.76689664,-85.48361091,,,,,,﻿Brother,﻿Florimont,,﻿Superior,,﻿orphan boy,﻿150 orphan boys,,1870.0,Louisville
+﻿lou.kt.0171,﻿asylum,﻿St. Thomas' Male Orphan Asylum,English,,,,,,,,﻿KY,,37.76689664,-85.48361091,,,,,,﻿Brother,﻿David,,﻿Superior,,﻿orphan boy,﻿150 orphan boys,,1870.0,Louisville
+﻿lou.kt.0171,﻿asylum,﻿St. Thomas' Male Orphan Asylum,English,,,,,,,,﻿KY,,37.76689664,-85.48361091,,,,,,,,,,,﻿brother,5,﻿conducted by the Brothers of the Sacred Heart.,1870.0,Louisville
 ﻿lou.kt.0172,﻿asylum,﻿Infant Asylum,English,,,,,,﻿Louisville,,﻿KY,,38.2526647,-85.7584557,,,,,,,,,,,,,﻿under care of the Sisters of Charity,1870.0,Louisville
 ﻿lou.kt.0173,﻿asylum,﻿St. Joseph's Orphan Asylum,﻿German,,,,,,﻿Louisville,,﻿KY,,38.2562211,-85.68965820000001,,,,,,,,,,,,,﻿under care of the Sisters of Charity,1870.0,Louisville
 ﻿lou.kt.0174,﻿hospital,﻿St. Vincent's Home,English,﻿A Charity Hospital,,,,,﻿Louisville,,﻿KY,,38.0883995,-85.88389609999999,,,,,,,,,,,﻿patient,"﻿Number of patients, 20",﻿under care of the Sisters of Charity,1870.0,Louisville

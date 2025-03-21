@@ -41,6 +41,7 @@ module.exports = (sequelize, DataTypes) => {
     attendingInstID: DataTypes.STRING,
     attendingChurch: DataTypes.STRING,
     attendingChurchFrequency: DataTypes.STRING,
+    attendingChurchNote: DataTypes.STRING,
     uniqueAttendingInstID: DataTypes.STRING,
   }, {
     sequelize,

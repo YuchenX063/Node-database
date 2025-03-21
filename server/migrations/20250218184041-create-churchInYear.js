@@ -69,6 +69,10 @@ module.exports = {
         type: Sequelize.STRING,
         allowNull: true
       },
+      attendingChurchNote: {
+        type: Sequelize.STRING,
+        allowNull: true
+      },
       uniqueAttendingInstID: {
         type: Sequelize.STRING,
         allowNull: true

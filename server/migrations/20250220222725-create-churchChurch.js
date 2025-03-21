@@ -17,6 +17,18 @@ module.exports = {
         type: Sequelize.STRING,
         allowNull: false,
       },
+      attendingChurch: {
+        type: Sequelize.STRING,
+        allowNull: true
+      },
+      attendingChurchFrequency: {
+        type: Sequelize.STRING,
+        allowNull: true
+      },
+      attendingChurchNote: {
+        type: Sequelize.STRING,
+        allowNull: true
+      },
       createdAt: {
         allowNull: true,
         type: Sequelize.DATE

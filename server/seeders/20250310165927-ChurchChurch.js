@@ -22,7 +22,7 @@ module.exports = {
 
 async function importData(data) {
 
-  const churchChurchKeys = ['uniqueInstID', 'uniqueAttendingInstID'];
+  const churchChurchKeys = ['uniqueInstID', 'uniqueAttendingInstID', 'attendingChurch', 'attendingChurchFrequency', 'attendingChurchNote'];
 
   //console.log(data[0]);
 

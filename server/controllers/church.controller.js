@@ -40,39 +40,55 @@ exports.findAll = (req, res) => {
     };
     let {limit, offset} = getPagination(page, size);
     let where = {};
-    //let { instName } = req.query;
-    //if (instName) {
-    //    where.instName = { [Op.like]: `%${instName}%` };
-    //};
+    let persWhere = {};
+    let { instName, city_reg, diocese, instYear, persName } = req.query;
+    if (instName) {
+        where.instName = { [Op.like]: `%${instName}%` };
+    };
+    if (diocese) {
+        where.diocese = { [Op.like]: `%${diocese}%` };
+    };
+    if (instYear) {
+        where.instYear = { [Op.like]: `%${instYear}%` };
+    };
+    if (city_reg) {
+        where.city_reg = { [Op.like]: `%${city_reg}%` };
+    };
+    if (persName) {
+        persWhere.persName = { [Op.like]: `%${persName}%` };
+    }
     church.findAndCountAll({
-        where: where,
         limit: limit,
         offset: offset,
+        distinct: true,
         attributes: ['instID'],
         include: [{
             model: churchInYear,
             as: 'churchInYear',
+            where: where,
             attributes: ['instName', 'instYear', 'language', 'church_type', 'instNote', 'city_reg', 'state_orig', 'diocese'],
             include: [{
                 model: person,
                 as: 'personInfo',
                 attributes: ['persID'],
                 through: {
-                    attributes: [
-                        'persName', 'persYear', 'persTitle', 'persSuffix', 'persNote'
-                    ]
+                model: churchPerson,
+                where: persWhere,
+                attributes: [
+                    'persName', 'persYear', 'persTitle', 'persSuffix', 'persNote'
+                ]
                 }}, {
                 model: churchInYear,
                 as: 'attendingChurches',
                 attributes: ['instID', 'instName', 'instYear'],
                 through: {
-                    attributes: []
+                    attributes: ['attendingChurch', 'attendingChurchFrequency', 'attendingChurchNote']
                 }}, {
                 model: churchInYear,
                 as: 'attendedBy',
                 attributes: ['instID', 'instName', 'instYear'],
                 through: {
-                    attributes: []
+                    attributes: ['attendingChurch', 'attendingChurchFrequency', 'attendingChurchNote']
                 }}]
         }]
         
@@ -103,7 +119,7 @@ exports.findByID = (req, res) => {
                 }},{
                     model: churchInYear,
                     as: 'attendedBy',
-                    attributes: ['instID', 'instName', 'instYear'],
+                    attributes: ['instID', 'instName', 'instYear', 'attendingChurch', 'attendingChurchFrequency', 'attendingChurchNote'],
                     through: {
                         attributes: []
                 }},{
@@ -145,7 +161,7 @@ exports.findOne = (req, res) => {
             }},{
                 model: churchInYear,
                 as: 'attendedBy',
-                attributes: ['instID', 'instName', 'instYear'],
+                attributes: ['instID', 'instName', 'instYear', 'attendingChurch', 'attendingChurchFrequency', 'attendingChurchNote'],
                 through: {
                     attributes: []
             }},{

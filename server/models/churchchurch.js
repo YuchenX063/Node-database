@@ -20,6 +20,9 @@ module.exports = (sequelize, DataTypes) => {
   churchChurch.init({
     uniqueInstID: DataTypes.STRING,
     uniqueAttendingInstID: DataTypes.STRING,
+    attendingChurch: DataTypes.STRING,
+    attendingChurchFrequency: DataTypes.STRING,
+    attendingChurchNote: DataTypes.STRING,
   }, {
     sequelize,
     modelName: 'churchChurch',

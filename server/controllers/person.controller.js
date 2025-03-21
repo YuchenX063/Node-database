@@ -39,24 +39,33 @@ exports.findAll = (req, res) => {
     };
     let {limit, offset} = getPagination(page, size);
     let where = {};
-    //let { instName } = req.query;
-    //if (instName) {
-    //    where.instName = { [Op.like]: `%${instName}%` };
-    //};
+    let instWhere = {};
+    let { persName, instName, diocese } = req.query;
+    if (persName) {
+        where.persName = { [Op.like]: `%${persName}%` };
+    };
+    if (instName) {
+        instWhere.instName = { [Op.like]: `%${instName}%` };
+    };
+    if (diocese) {
+        instWhere.diocese = { [Op.like]: `%${diocese}%` };
+    }
     person.findAndCountAll({
-        where: where,
         limit: limit,
         offset: offset,
+        distinct: true,
         attributes: ['persID'],
         include: [
             {
                 model: churchInYear,
+                where: instWhere,
                 as: 'church',
                 attributes: ['instID', 'instName', 'instYear', 'language', 'church_type', 'instNote', 'city_reg', 'state_orig', 'diocese'],
                 through: {
                     model: churchPerson,
+                    where: where,
                     as: 'personInfo',
-                    attributes: ['persYear', 'persTitle', 'persSuffix', 'persNote']
+                    attributes: ['persYear', 'persName', 'persTitle', 'persSuffix', 'persNote']
                 }
 
             }

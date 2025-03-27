@@ -55,6 +55,10 @@ async function preprocessCSV(filePath) {
         if (row['persName'] && row['persName'].startsWith('‒ ')) {
           row['persName'] = row['persName'].substring(2);
         }
+
+        if (row['persID'] && row['persYear']) {
+          row['uniquePersID'] = `${row['persYear']}_${row['persID']}`;
+        }
       };
     return data;
 }

@@ -22,7 +22,7 @@ module.exports = {
 
 async function importData(data) {
 
-  const churchPersonKeys = ['uniqueInstID','persID', 'persYear', 'persTitle', 'persName', 'persSuffix', 'persNote'];
+  const churchPersonKeys = ['uniqueInstID','uniquePersID'];
 
   //console.log(data[0]);
 
@@ -37,18 +37,18 @@ async function importData(data) {
   
   //console.log(churchPersonInfo[0]);
 
-  const uniqueChurchPersonInfo = Array.from(new Map(churchPersonInfo.map(item => [`${item.uniqueInstID}-${item.persID}`, item])).values());
+  const uniqueChurchPersonInfo = Array.from(new Map(churchPersonInfo.map(item => [`${item.uniqueInstID}-${item.uniquePersID}`, item])).values());
 
   //console.log(uniqueChurchPersonInfo[0]);
   
   for (const item of uniqueChurchPersonInfo) {
-    if (item.uniqueInstID && item.persID) {
+    if (item.uniqueInstID && item.uniquePersID) {
       try {
         await churchPerson.findOrCreate({
-          where: { uniqueInstID: item.uniqueInstID, persID: item.persID },
+          where: { uniqueInstID: item.uniqueInstID, uniquePersID: item.uniquePersID },
           defaults: item,
         });
-      //console.log(`Created churchPerson:${item.instID}, ${item.persID}`);
+      //console.log(`Created churchPerson:${item.instID}, ${item.uniquePersID}`);
       } catch (error) {
         console.error(`Error creating churchPerson: ${JSON.stringify(item)}`, error);
       }

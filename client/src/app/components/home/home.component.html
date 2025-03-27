@@ -1,0 +1,13 @@
+<p>{{ message }}</p>
+
+<button (click)="changeMessage()">Click me</button>
+
+<p *ngIf="isLoaded">
+    Page has been loaded!
+
+    <app-test 
+        message="TEST INPUT"
+        (itemClicked)="handleEmittedData($event)"
+    >
+    </app-test>
+</p>

@@ -11,10 +11,9 @@ module.exports = (sequelize, DataTypes) => {
      */
     static associate(models) {
       // define association here
-      churchInYear.belongsToMany(models.person, { through: models.churchPerson, foreignKey: 'uniqueInstID', as: 'personInfo' });
+      churchInYear.belongsToMany(models.personInYear, { through: models.churchPerson, foreignKey: 'uniqueInstID', as: 'personInfo' });
       churchInYear.belongsToMany(models.churchInYear, { through: models.churchChurch, foreignKey: 'uniqueAttendingInstID', as: 'attendingChurches'});
       churchInYear.belongsToMany(models.churchInYear, { through: models.churchChurch, foreignKey: 'uniqueInstID', as: 'attendedBy'});
-      // the foreign key for churchInYear should be "attendingInstID" rather than "instID"
       churchInYear.belongsTo(models.church, { foreignKey: 'instID', as: 'church' });
     }
   }

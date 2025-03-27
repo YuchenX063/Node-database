@@ -14,24 +14,19 @@ module.exports = (sequelize, DataTypes) => {
     static associate(models) {
       // define association here
       churchPerson.belongsTo(models.churchInYear, { foreignKey: 'uniqueInstID', as: 'church'});
-      churchPerson.belongsTo(models.person, { foreignKey: 'persID', as: 'person'});
+      churchPerson.belongsTo(models.personInYear, { foreignKey: 'uniquePersID', as: 'person'});
     }
   }
   churchPerson.init({
     uniqueInstID: DataTypes.STRING,
-    persID: DataTypes.STRING,
-    persName: DataTypes.STRING,
-    persYear: DataTypes.INTEGER,
-    persTitle: DataTypes.STRING,
-    persSuffix: DataTypes.STRING,
-    persNote: DataTypes.STRING,
+    uniquePersID: DataTypes.STRING,
   }, {
     sequelize,
     modelName: 'churchPerson',
     indexes: [
       {
         unique: true,
-        fields: ['uniqueInstID', 'persID']
+        fields: ['uniqueInstID', 'uniquePersID']
       }
     ]
     }

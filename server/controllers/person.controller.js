@@ -7,6 +7,7 @@ const getPagination = require("../utils/get-pagination");
 const churchInYear = db.churchInYear;
 const churchPerson = db.churchPerson;
 const person = db.person;
+const personInYear = db.personInYear;
 
 /*exports.create = (req, res) => {
     const persons = req.body;
@@ -38,7 +39,7 @@ exports.findAll = (req, res) => {
         size = 3;
     };
     let {limit, offset} = getPagination(page, size);
-    let where = {};
+    let persWhere = {};
     let instWhere = {};
     let { persName, instName, diocese } = req.query;
     if (persName) {
@@ -57,17 +58,22 @@ exports.findAll = (req, res) => {
         attributes: ['persID'],
         include: [
             {
-                model: churchInYear,
-                where: instWhere,
-                as: 'church',
-                attributes: ['instID', 'instName', 'instYear', 'language', 'church_type', 'instNote', 'city_reg', 'state_orig', 'diocese'],
-                through: {
-                    model: churchPerson,
-                    where: where,
-                    as: 'personInfo',
-                    attributes: ['persYear', 'persName', 'persTitle', 'persSuffix', 'persNote']
-                }
-
+                model: personInYear,
+                where: persWhere,
+                as: 'personInYear',
+                attributes: ['persYear', 'persName', 'persTitle', 'persSuffix', 'persNote'],
+                include: [
+                    {
+                        model: churchInYear,
+                        where: instWhere,
+                        as: 'churches',
+                        attributes: ['instID', 'instName', 'instYear', 'language', 'church_type', 'instNote', 'city_reg', 'state_orig', 'diocese'],
+                        through: {
+                            model: churchPerson,
+                            attributes: []
+                        }
+                    }
+                ]
             }
         ]
     }).then(data => {
@@ -86,14 +92,17 @@ exports.findByID = (req, res) => {
         attributes: ['persID'],
         include: [
             {
-                model: churchInYear,
-                as: 'church',
-                attributes: ['instID', 'instName', 'instYear', 'language', 'church_type', 'instNote', 'city_reg', 'state_orig', 'diocese'],
-                through: {
-                    model: churchPerson,
-                    as: 'personInfo',
-                    attributes: ['persYear', 'persName', 'persTitle', 'persSuffix', 'persNote']
-                }
+                model: personInYear,
+                as: 'personInYear',
+                attributes: ['persYear', 'persName', 'persTitle', 'persSuffix', 'persNote'],
+                include: [{
+                    model: churchInYear,
+                    as: 'churches',
+                    attributes: ['instID', 'instName', 'instYear', 'language', 'church_type', 'instNote', 'city_reg', 'state_orig', 'diocese'],
+                    through: {
+                        model: churchPerson,
+                        attributes: []
+                    }}]
             }]
             }
     ).then(data => {
@@ -112,16 +121,18 @@ exports.findByID = (req, res) => {
 };
 
 exports.findOne = (req, res) => {
-    const id = req.params.persID;
-    churchPerson.findOne({
-        where: { persID: id, persYear: req.params.persYear },
+    personInYear.findOne({
+        where: { persID: req.params.persID, persYear: req.params.persYear },
         attributes: ['persID', 'persName', 'persYear', 'persTitle', 'persSuffix', 'persNote'],
         include: [
             {
                 model: churchInYear,
-                as: 'church',
+                as: 'churches',
                 attributes: ['instID', 'instName', 'instYear', 'language', 'church_type', 'instNote', 'city_reg', 'state_orig', 'diocese'],
-            }
+                through: {
+                    model: churchPerson,
+                    attributes: []
+            }}
         ]
     }).then(data => {
         if (!data) {

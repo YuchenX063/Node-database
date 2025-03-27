@@ -13,29 +13,9 @@ module.exports = {
         type: Sequelize.STRING,
         allowNull: false,
       },
-      persID: {
+      uniquePersID: {
         type: Sequelize.STRING,
         allowNull: false,
-      },
-      persName: {
-        type: Sequelize.STRING,
-        allowNull: true
-      },
-      persYear: {
-        type: Sequelize.INTEGER,
-        allowNull: true
-      },
-      persTitle: {
-        type: Sequelize.STRING,
-        allowNull: true
-      },
-      persSuffix: {
-        type: Sequelize.STRING,
-        allowNull: true
-      },
-      persNote: {
-        type: Sequelize.STRING,
-        allowNull: true
       },
       createdAt: {
         allowNull: false,
@@ -48,7 +28,7 @@ module.exports = {
     });
 
     await queryInterface.addConstraint('churchPeople', {
-      fields: ['uniqueInstID', 'persID'],
+      fields: ['uniqueInstID', 'uniquePersID'],
       type: 'unique',
       name: 'unique_churchPerson_constraint'
     });

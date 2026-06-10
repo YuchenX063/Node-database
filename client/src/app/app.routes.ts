@@ -31,6 +31,16 @@ export const routes: Routes = [
     { path: 'networks/personal', component: PersonalNetworkContainerComponent },
     { path: 'maps', component: MapsComponent },
     { path: 'export', component: ExportComponent },
+    // Static content pages: drop .md or .html files into client/public/page-content/
+    // and they are served at /pages/<file path without extension>
+    // Lazy-loaded so the markdown parser stays out of the initial bundle
+    {
+        path: 'pages',
+        children: [{
+            path: '**',
+            loadComponent: () => import('./components/pages/page.component').then(m => m.PageComponent)
+        }]
+    },
     { path: '404', component: NotFoundComponent },
     { path: '**', redirectTo: '/404' }
 ];

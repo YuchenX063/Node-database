@@ -65,7 +65,7 @@ services:
       - DB_NAME=database
       - DB_LOCAL_PORT=3308
       - DB_PORT=3306
-      - WEB_PORT=8080
+      - WEB_PORT=8081
       - JWT_SECRET=secret
       - OWNER_USERNAME=catholic-almanacs-owner
       - OWNER_PASSWORD=password
@@ -81,4 +81,3 @@ volumes:
 
 networks:
   server-network:
-    driver: bridge

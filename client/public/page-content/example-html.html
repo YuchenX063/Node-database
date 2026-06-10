@@ -1,0 +1,27 @@
+<!--
+  Sample HTML page. Lives at client/public/page-content/example-html.html, served at /pages/example-html.
+  Only the fragment below is rendered (no <html>/<head>/<body> needed).
+-->
+<h1>Example HTML Page</h1>
+
+<p>
+  This page is plain HTML, for authors who want more control than Markdown
+  offers. It lives at <code>client/public/page-content/example-html.html</code>.
+</p>
+
+<div class="grid grid-cols-2 gap-4 not-prose">
+  <div class="rounded-lg border border-gray-300 p-4">
+    <strong>Tailwind works here</strong>
+    <p>You can use Tailwind utility classes for custom layouts.</p>
+  </div>
+  <div class="rounded-lg border border-gray-300 p-4">
+    <strong>Links stay in-app</strong>
+    <p>Try <a href="/pages/welcome">the welcome page</a> or
+       <a href="/people">browse people</a>.</p>
+  </div>
+</div>
+
+<p>
+  Note: <code>&lt;script&gt;</code> tags are not executed — pages are content,
+  not applications.
+</p>

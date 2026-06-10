@@ -4,6 +4,11 @@
 @use "tailwindcss" as *;
 @use '@angular/material' as mat;
 
+/* Typography defaults for static content pages (/pages/...) */
+@plugin "@tailwindcss/typography";
+/* Generate Tailwind classes used inside drop-in content files too */
+@source "../public/page-content/**/*.html";
+
 @include mat.core();
 
 @import url('https://fonts.googleapis.com/css2?family=Bungee+Spice&display=swap');
@@ -80,4 +85,8 @@ $dark-theme: (
 .dark-theme {
     color-scheme: dark;
     @include mat.theme($dark-theme);
+
+    .page-content {
+        @apply prose-invert;
+    }
 }

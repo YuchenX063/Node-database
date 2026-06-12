@@ -129,8 +129,13 @@ export class InstitutionDetailsComponent implements OnInit {
   fetchDendrogram (year?: number) {
     let url = 'institution/' + this.itemId + '/dendrogram';
     if (year != null) url += '?year=' + year;
-    this._api.getTypeRequest(url).subscribe((dendrogramRes: any) => {
-      this.dendrogramData = dendrogramRes;
+    this._api.getTypeRequest(url).subscribe({
+      next: (dendrogramRes: any) => {
+        this.dendrogramData = dendrogramRes;
+      },
+      error: () => {
+        this.dendrogramData = null;
+      }
     });
   }
 
@@ -141,9 +146,15 @@ export class InstitutionDetailsComponent implements OnInit {
     if (startYear != null) params.push('startYear=' + startYear);
     if (endYear != null) params.push('endYear=' + endYear);
     if (params.length) url += '?' + params.join('&');
-    this._api.getTypeRequest(url).subscribe((networkRes: any) => {
-      this.network = networkRes;
-      this.networkTimeWindowLoading = false;
+    this._api.getTypeRequest(url).subscribe({
+      next: (networkRes: any) => {
+        this.network = networkRes;
+        this.networkTimeWindowLoading = false;
+      },
+      error: () => {
+        this.network = { nodes: [], edges: [] };
+        this.networkTimeWindowLoading = false;
+      }
     });
   }
 

@@ -14,7 +14,28 @@
 
   <mat-form-field appearance="fill" style="min-width: 180px; margin-right: 8px;">
     <mat-label>Diocese</mat-label>
-    <input matInput [(ngModel)]="diocese" placeholder="Diocese name">
+    <mat-select [(ngModel)]="diocese">
+      <mat-option value="">All Dioceses</mat-option>
+      <mat-option *ngFor="let d of dioceseOptions" [value]="d">{{ d }}</mat-option>
+    </mat-select>
+  </mat-form-field>
+
+  <mat-form-field appearance="fill" style="min-width: 160px; margin-right: 8px;">
+    <mat-label>Role</mat-label>
+    <input matInput [(ngModel)]="role" placeholder="e.g. pastor">
+  </mat-form-field>
+
+  <mat-form-field appearance="fill" style="min-width: 140px; margin-right: 8px;">
+    <mat-label>Title</mat-label>
+    <input matInput [(ngModel)]="title" placeholder="e.g. Rev">
+  </mat-form-field>
+
+  <mat-form-field appearance="fill" style="min-width: 220px; margin-right: 8px;">
+    <mat-label>Religious Order</mat-label>
+    <mat-select [(ngModel)]="order">
+      <mat-option value="">All Orders</mat-option>
+      <mat-option *ngFor="let o of orderOptions" [value]="o">{{ o }}</mat-option>
+    </mat-select>
   </mat-form-field>
 
   <mat-form-field appearance="fill" style="min-width: 110px; margin-right: 8px;">
@@ -32,12 +53,20 @@
   </button>
 </div>
 
+<div class="network-error m-4 flex flex-row items-center gap-3" *ngIf="error">
+  <span>{{ error }}</span>
+  <button mat-stroked-button (click)="fetchNetwork()">Retry</button>
+</div>
+
 <app-network-graph
+  *ngIf="!error"
   label="People linked through institutions"
   [data]="network"
   [options]="networkOptions"
   [startYear]="startYear"
   [endYear]="endYear"
   [timeWindowLoading]="loading"
+  [truncated]="truncated"
+  [totalNodes]="totalNodes"
   (timeWindowChange)="onTimeWindowChange($event)">
 </app-network-graph>

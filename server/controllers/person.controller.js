@@ -1,6 +1,16 @@
 // Returns a network graph of all people connected by shared institutions, with optional filters
 exports.getAllPersonNetwork = async (req, res) => {
-    const { diocese, state, city, startYear, endYear } = req.query;
+    const { diocese, state, city, role, title, order } = req.query;
+    const params = parseNetworkParams(req.query);
+    if (params.error) {
+        return res.status(400).json({ message: params.error });
+    }
+    const { startYear, endYear, limit } = params;
+
+    const key = cacheKey('person/network', req.query);
+    const cached = networkCache.get(key);
+    if (cached) return res.send(cached);
+
     // Build WHERE clauses for almanacRecord (not person)
     // These filters must be applied to ar1 and ar2
     const arWhere = [];
@@ -17,17 +27,32 @@ exports.getAllPersonNetwork = async (req, res) => {
         arWhere.push('ar1.cityOrig LIKE :city');
         replacements.city = `%${city}%`;
     }
+    // role/title live on the person-record join (piar1), which is present in
+    // every query these clauses are used in
+    if (role) {
+        arWhere.push('piar1.role LIKE :role');
+        replacements.role = `%${role}%`;
+    }
+    if (title) {
+        arWhere.push('piar1.title LIKE :title');
+        replacements.title = `%${title}%`;
+    }
+    if (order) {
+        // Restrict to records of institutions run by the given religious order
+        arWhere.push('ar1.ID IN (SELECT oiar.almanacRecordID FROM orderInAlmanacRecords oiar WHERE oiar.`order` LIKE :order)');
+        replacements.order = `%${order}%`;
+    }
     // Year filter
-    if (startYear && endYear) {
+    if (startYear != null && endYear != null) {
         arWhere.push('ar1.year BETWEEN :startYear AND :endYear');
-        replacements.startYear = Number(startYear);
-        replacements.endYear = Number(endYear);
-    } else if (startYear) {
+        replacements.startYear = startYear;
+        replacements.endYear = endYear;
+    } else if (startYear != null) {
         arWhere.push('ar1.year >= :startYear');
-        replacements.startYear = Number(startYear);
-    } else if (endYear) {
+        replacements.startYear = startYear;
+    } else if (endYear != null) {
         arWhere.push('ar1.year <= :endYear');
-        replacements.endYear = Number(endYear);
+        replacements.endYear = endYear;
     }
     // Compose WHERE clause
     const arWhereClause = arWhere.length ? 'WHERE ' + arWhere.join(' AND ') : '';
@@ -78,65 +103,33 @@ exports.getAllPersonNetwork = async (req, res) => {
         }
         if (connectedIDs.size === 0) return res.send({ nodes: [], edges: [] });
 
-        // For each person, find the most recent diocese for which there is an edge (shared institution)
-        // 1. For each edge, get the institution and year, and diocese_reg
-        // 2. For each person, keep the diocese_reg from the most recent year
+        // For each connected person, take name and diocese from their most recent
+        // record matching the filters — one batched query instead of one per edge
         const personMeta = {};
-        // Map: persID -> { year, diocese, name }
-        for (const row of edges) {
-            // For each edge, get all shared institutions and years
-            // Find all almanacRecords where both persons worked at the same institution in the same year
-            const sharedRecords = await db.sequelize.query(
-                `SELECT ar1.year, ar1.diocese_reg, piar1.name as name1, piar2.name as name2
-                 FROM personInAlmanacRecords piar1
-                 JOIN almanacRecords ar1 ON piar1.almanacRecordID = ar1.ID
-                 JOIN personInAlmanacRecords piar2 ON piar2.almanacRecordID = ar1.ID
-                 WHERE piar1.persID = :persID1 AND piar2.persID = :persID2`,
-                {
-                    replacements: { persID1: row.persID1, persID2: row.persID2 },
-                    type: db.Sequelize.QueryTypes.SELECT
-                }
-            );
-            for (const rec of sharedRecords) {
-                // For persID1
-                if (!personMeta[row.persID1] || rec.year > personMeta[row.persID1].year) {
-                    personMeta[row.persID1] = {
-                        year: rec.year,
-                        diocese: rec.diocese_reg || 'Unknown',
-                        name: rec.name1 || row.persID1
-                    };
-                }
-                // For persID2
-                if (!personMeta[row.persID2] || rec.year > personMeta[row.persID2].year) {
-                    personMeta[row.persID2] = {
-                        year: rec.year,
-                        diocese: rec.diocese_reg || 'Unknown',
-                        name: rec.name2 || row.persID2
-                    };
-                }
+        const metaWhere = ['piar1.persID IN (:connectedIDs)', ...arWhere];
+        const metaRows = await db.sequelize.query(
+            `SELECT piar1.persID, piar1.name, ar1.year, ar1.diocese_reg
+             FROM personInAlmanacRecords piar1
+             JOIN almanacRecords ar1 ON piar1.almanacRecordID = ar1.ID
+             WHERE ${metaWhere.join(' AND ')}`,
+            {
+                replacements: { ...replacements, connectedIDs: Array.from(connectedIDs) },
+                type: db.Sequelize.QueryTypes.SELECT
+            }
+        );
+        for (const rec of metaRows) {
+            if (!personMeta[rec.persID] || rec.year > personMeta[rec.persID].year) {
+                personMeta[rec.persID] = {
+                    year: rec.year,
+                    diocese: rec.diocese_reg || 'Unknown',
+                    name: rec.name || rec.persID
+                };
             }
         }
-        // Fallback: if a person has no edge meta, get their latest name and diocese
+        // Every connected person matched the filters, but guard against gaps anyway
         for (const persID of connectedIDs) {
             if (!personMeta[persID]) {
-                const rec = await personInAlmanacRecord.findOne({
-                    where: { persID },
-                    attributes: ['name', 'almanacRecordID'],
-                    order: [['almanacRecordID', 'DESC']]
-                });
-                let diocese = null;
-                if (rec && rec.almanacRecordID) {
-                    const ar = await almanacRecord.findOne({
-                        where: { ID: rec.almanacRecordID },
-                        attributes: ['diocese_reg']
-                    });
-                    diocese = ar ? ar.diocese_reg : null;
-                }
-                personMeta[persID] = {
-                    year: null,
-                    diocese: diocese || 'Unknown',
-                    name: rec ? rec.name : persID
-                };
+                personMeta[persID] = { year: null, diocese: 'Unknown', name: persID };
             }
         }
 
@@ -150,49 +143,10 @@ exports.getAllPersonNetwork = async (req, res) => {
 
         // Weighted PageRank (using shared-institution counts as edge weights)
         const nodeIDs = Array.from(connectedIDs);
-        const N = nodeIDs.length;
-        const d = 0.85;
-        const iterations = 50;
-
-        const neighbors = {};
-        const weightedDegree = {};
-        for (const id of nodeIDs) { neighbors[id] = []; weightedDegree[id] = 0; }
-        for (const e of edgeList) {
-            const w = e.weight;
-            neighbors[e.from].push({ id: e.to, weight: w });
-            neighbors[e.to].push({ id: e.from, weight: w });
-            weightedDegree[e.from] += w;
-            weightedDegree[e.to] += w;
-        }
-
-        let pr = {};
-        for (const id of nodeIDs) pr[id] = 1 / N;
-
-        for (let i = 0; i < iterations; i++) {
-            const newPr = {};
-            for (const id of nodeIDs) {
-                let rank = (1 - d) / N;
-                for (const { id: neighborID, weight } of neighbors[id]) {
-                    if (weightedDegree[neighborID] > 0) {
-                        rank += d * pr[neighborID] * (weight / weightedDegree[neighborID]);
-                    }
-                }
-                newPr[id] = rank;
-            }
-            pr = newPr;
-        }
-
-        // Normalize PageRank to [0, 1]
-        const prValues = Object.values(pr);
-        const prMin = Math.min(...prValues);
-        const prMax = Math.max(...prValues);
-        const prRange = prMax - prMin || 1;
-        for (const id of nodeIDs) {
-            pr[id] = (pr[id] - prMin) / prRange;
-        }
+        const pr = computePageRank(nodeIDs, edgeList);
 
         // Build nodes, include diocese as group and pageRank for sizing
-        const nodes = nodeIDs.map(id => {
+        const allNodes = nodeIDs.map(id => {
             let diocese = personMeta[id].diocese;
             if (!diocese || typeof diocese !== 'string' || !diocese.trim()) {
                 diocese = 'Unknown';
@@ -209,7 +163,12 @@ exports.getAllPersonNetwork = async (req, res) => {
                 value: pr[id]
             };
         });
-        res.send({ nodes, edges: edgeList });
+
+        // Cap the response at the most central nodes so huge unfiltered
+        // queries stay renderable; truncated/totalNodes let the UI say so
+        const result = truncateToTopNodes(allNodes, edgeList, limit);
+        networkCache.set(key, result);
+        res.send(result);
     } catch (error) {
         return res.status(500).json({ message: error.message });
     }
@@ -220,6 +179,7 @@ const Op = db.Sequelize.Op;
 const { Sequelize } = db.sequelize;
 
 const getPagination = require("../utils/get-pagination");
+const { parseNetworkParams, computePageRank, truncateToTopNodes, networkCache, cacheKey } = require("../utils/network");
 const religiousOrderDict = require('../config/religiousOrderDict.json')
 
 const almanacRecord = db.almanacRecord;
@@ -566,8 +526,11 @@ exports.findOne = async (req, res) => {
 
 exports.getPersonNetwork = async (req, res) => {
     const id = req.params.id;
-    const startYear = req.query.startYear ? parseInt(req.query.startYear, 10) : null;
-    const endYear = req.query.endYear ? parseInt(req.query.endYear, 10) : null;
+    const params = parseNetworkParams(req.query);
+    if (params.error) {
+        return res.status(400).json({ message: params.error });
+    }
+    const { startYear, endYear } = params;
 
     // Build an optional year-range clause applied to almanacRecord joins
     const yearClause = (alias) => {

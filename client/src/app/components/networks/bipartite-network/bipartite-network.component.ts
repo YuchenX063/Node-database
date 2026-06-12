@@ -1,4 +1,4 @@
-import { Component, OnInit, OnDestroy, Input } from '@angular/core';
+import { Component, OnInit, OnDestroy } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { HttpClient } from '@angular/common/http';
 import { Subscription } from 'rxjs';
@@ -7,11 +7,11 @@ import { MatFormFieldModule } from '@angular/material/form-field';
 import { MatInputModule } from '@angular/material/input';
 import { MatSelectModule } from '@angular/material/select';
 import { MatButtonModule } from '@angular/material/button';
-import { ApiService } from '../../../../services/api.service';
-import { NetworkGraphComponent } from "../../../common/network-graph/network-graph.component";
+import { ApiService } from '../../../services/api.service';
+import { NetworkGraphComponent } from "../../common/network-graph/network-graph.component";
 
 @Component({
-  selector: 'app-personal-network',
+  selector: 'app-bipartite-network',
   imports: [
     CommonModule,
     FormsModule,
@@ -21,17 +21,13 @@ import { NetworkGraphComponent } from "../../../common/network-graph/network-gra
     MatButtonModule,
     NetworkGraphComponent
   ],
-  templateUrl: './personal-network.component.html',
-  styleUrl: './personal-network.component.scss'
+  templateUrl: './bipartite-network.component.html',
+  styleUrl: './bipartite-network.component.scss'
 })
-export class PersonalNetworkComponent implements OnInit, OnDestroy {
-  @Input() initialState: string = '';
-  @Input() initialCity: string = '';
-  @Input() initialDiocese: string = '';
+export class BipartiteNetworkComponent implements OnInit, OnDestroy {
   loading: boolean = true;
   error: string | null = null;
   network: any = { nodes: [], edges: [] };
-  networkOptions: any = {};
   truncated = false;
   totalNodes: number | null = null;
   private fetchSubscription: Subscription | null = null;
@@ -40,14 +36,14 @@ export class PersonalNetworkComponent implements OnInit, OnDestroy {
   state: string = '';
   city: string = '';
   diocese: string = '';
-  role: string = '';
-  title: string = '';
+  instType: string = '';
   order: string = '';
   startYear: number | null = null;
   endYear: number | null = null;
 
   // Dropdown options loaded from the CSVs in public/
   dioceseOptions: string[] = [];
+  typeOptions: string[] = [];
   orderOptions: string[] = [];
 
   usStates = [
@@ -107,16 +103,8 @@ export class PersonalNetworkComponent implements OnInit, OnDestroy {
   constructor(private _api: ApiService, private _http: HttpClient) { }
 
   ngOnInit(): void {
-    if (this.initialState) {
-      this.state = this.initialState;
-    }
-    if (this.initialCity) {
-      this.city = this.initialCity;
-    }
-    if (this.initialDiocese) {
-      this.diocese = this.initialDiocese;
-    }
     this.loadCsvOptions('diocese.csv', options => this.dioceseOptions = options);
+    this.loadCsvOptions('types.csv', options => this.typeOptions = options);
     this.loadCsvOptions('order.csv', options => this.orderOptions = options);
     this.fetchNetwork();
   }
@@ -134,13 +122,12 @@ export class PersonalNetworkComponent implements OnInit, OnDestroy {
     this.loading = true;
     const start = overrideStartYear ?? this.startYear;
     const end = overrideEndYear ?? this.endYear;
-    let url = 'person/network';
+    let url = 'institution/network/bipartite';
     const params: string[] = [];
     if (this.state) params.push('state=' + encodeURIComponent(this.state));
     if (this.city) params.push('city=' + encodeURIComponent(this.city));
     if (this.diocese) params.push('diocese=' + encodeURIComponent(this.diocese));
-    if (this.role) params.push('role=' + encodeURIComponent(this.role));
-    if (this.title) params.push('title=' + encodeURIComponent(this.title));
+    if (this.instType) params.push('instType=' + encodeURIComponent(this.instType));
     if (this.order) params.push('order=' + encodeURIComponent(this.order));
     if (start != null) params.push('startYear=' + start);
     if (end != null) params.push('endYear=' + end);
@@ -153,7 +140,6 @@ export class PersonalNetworkComponent implements OnInit, OnDestroy {
         this.network = res;
         this.truncated = !!res.truncated;
         this.totalNodes = res.totalNodes ?? null;
-        this.networkOptions = this.buildDioceseGroups(res.nodes);
         this.loading = false;
       },
       error: (err: any) => {
@@ -175,23 +161,4 @@ export class PersonalNetworkComponent implements OnInit, OnDestroy {
     this.endYear = event.endYear;
     this.fetchNetwork(event.startYear, event.endYear);
   }
-
-  buildDioceseGroups(nodes: any[]): any {
-    // Collect unique dioceses
-    const dioceses = Array.from(new Set(nodes.map(n => n.diocese || n.group || 'Unknown')));
-    // Assign a color to each diocese
-    const palette = [
-      '#1976d2', '#388e3c', '#fbc02d', '#d32f2f', '#7b1fa2', '#0288d1', '#c2185b', '#ffa000', '#388e3c', '#455a64', '#f57c00', '#0097a7', '#afb42b', '#5d4037', '#c62828', '#00897b', '#6d4c41', '#303f9f', '#7e57c2', '#0288d1', '#43a047', '#fbc02d', '#d84315', '#8e24aa', '#1976d2', '#cddc39', '#ffb300', '#e64a19', '#009688', '#607d8b', '#fbc02d', '#d32f2f', '#7b1fa2', '#0288d1', '#c2185b', '#ffa000', '#388e3c', '#455a64', '#f57c00', '#0097a7', '#afb42b', '#5d4037', '#c62828', '#00897b', '#6d4c41', '#303f9f', '#7e57c2', '#0288d1', '#43a047', '#fbc02d', '#d84315', '#8e24aa', '#1976d2', '#cddc39', '#ffb300', '#e64a19', '#009688', '#607d8b'
-    ];
-    const groups: any = {};
-    dioceses.forEach((d, i) => {
-      groups[d] = {
-        color: { background: palette[i % palette.length], border: '#333' },
-        borderWidth: 2,
-        shape: 'dot'
-      };
-    });
-    return { groups };
-  }
-
 }

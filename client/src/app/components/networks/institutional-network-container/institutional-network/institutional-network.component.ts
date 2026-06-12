@@ -1,5 +1,7 @@
-import { Component, OnInit, Input } from '@angular/core';
+import { Component, OnInit, OnDestroy, Input } from '@angular/core';
 import { CommonModule } from '@angular/common';
+import { HttpClient } from '@angular/common/http';
+import { Subscription } from 'rxjs';
 import { FormsModule } from '@angular/forms';
 import { MatFormFieldModule } from '@angular/material/form-field';
 import { MatInputModule } from '@angular/material/input';
@@ -22,20 +24,34 @@ import { NetworkGraphComponent } from "../../../common/network-graph/network-gra
   templateUrl: './institutional-network.component.html',
   styleUrl: './institutional-network.component.scss'
 })
-export class InstitutionalNetworkComponent implements OnInit {
+export class InstitutionalNetworkComponent implements OnInit, OnDestroy {
   @Input() initialState: string = '';
   @Input() initialCity: string = '';
   @Input() initialDiocese: string = '';
   loading: boolean = true;
+  error: string | null = null;
   network: any = { nodes: [], edges: [] };
   networkOptions: any = {};
+  truncated = false;
+  totalNodes: number | null = null;
+  private fetchSubscription: Subscription | null = null;
 
   // Filter fields
   state: string = '';
   city: string = '';
   diocese: string = '';
+  instType: string = '';
+  instFunction: string = '';
+  language: string = '';
+  order: string = '';
   startYear: number | null = null;
   endYear: number | null = null;
+
+  // Dropdown options loaded from the CSVs in public/
+  dioceseOptions: string[] = [];
+  typeOptions: string[] = [];
+  functionOptions: string[] = [];
+  orderOptions: string[] = [];
 
   usStates = [
     { abbr: '', name: 'All States' },
@@ -91,7 +107,7 @@ export class InstitutionalNetworkComponent implements OnInit {
     { abbr: 'WY', name: 'Wyoming' }
   ];
 
-  constructor(private _api: ApiService) { }
+  constructor(private _api: ApiService, private _http: HttpClient) { }
 
   ngOnInit(): void {
     if (this.initialState) {
@@ -103,7 +119,20 @@ export class InstitutionalNetworkComponent implements OnInit {
     if (this.initialDiocese) {
       this.diocese = this.initialDiocese;
     }
+    this.loadCsvOptions('diocese.csv', options => this.dioceseOptions = options);
+    this.loadCsvOptions('types.csv', options => this.typeOptions = options);
+    this.loadCsvOptions('functions.csv', options => this.functionOptions = options);
+    this.loadCsvOptions('order.csv', options => this.orderOptions = options);
     this.fetchNetwork();
+  }
+
+  private loadCsvOptions(file: string, assign: (options: string[]) => void): void {
+    this._http.get(file, { responseType: 'text' }).subscribe({
+      next: data => assign(
+        data.split('\n').map(line => line.replace(/\uFEFF/g, '').trim()).filter(line => line.length > 0)
+      ),
+      error: () => assign([])
+    });
   }
 
   fetchNetwork(overrideStartYear?: number, overrideEndYear?: number): void {
@@ -115,14 +144,36 @@ export class InstitutionalNetworkComponent implements OnInit {
     if (this.state) params.push('state=' + encodeURIComponent(this.state));
     if (this.city) params.push('city=' + encodeURIComponent(this.city));
     if (this.diocese) params.push('diocese=' + encodeURIComponent(this.diocese));
+    if (this.instType) params.push('instType=' + encodeURIComponent(this.instType));
+    if (this.instFunction) params.push('instFunction=' + encodeURIComponent(this.instFunction));
+    if (this.language) params.push('language=' + encodeURIComponent(this.language));
+    if (this.order) params.push('order=' + encodeURIComponent(this.order));
     if (start != null) params.push('startYear=' + start);
     if (end != null) params.push('endYear=' + end);
     if (params.length) url += '?' + params.join('&');
-    this._api.getTypeRequest(url).subscribe((res: any) => {
-      this.network = res;
-      this.networkOptions = this.buildDioceseGroups(res.nodes);
-      this.loading = false;
+    this.error = null;
+    // Cancel any in-flight request so a stale response can't overwrite a newer one
+    this.fetchSubscription?.unsubscribe();
+    this.fetchSubscription = this._api.getTypeRequest(url).subscribe({
+      next: (res: any) => {
+        this.network = res;
+        this.truncated = !!res.truncated;
+        this.totalNodes = res.totalNodes ?? null;
+        this.networkOptions = this.buildDioceseGroups(res.nodes);
+        this.loading = false;
+      },
+      error: (err: any) => {
+        this.network = { nodes: [], edges: [] };
+        this.truncated = false;
+        this.totalNodes = null;
+        this.error = err?.error?.message || 'Could not load the network. Check your connection and try again.';
+        this.loading = false;
+      }
     });
+  }
+
+  ngOnDestroy(): void {
+    this.fetchSubscription?.unsubscribe();
   }
 
   onTimeWindowChange(event: { startYear: number; endYear: number }): void {

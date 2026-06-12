@@ -3,6 +3,7 @@ module.exports = app => {
     var router = require('express').Router();
     //router.post('/', controller.create);
     router.get('/network', controller.getAllInstitutionNetwork);
+    router.get('/network/bipartite', controller.getBipartiteNetwork);
     router.get('/', controller.findAll);
     router.get('/:id', controller.findByID);
     router.get('/:id/network', controller.getPersonNetwork);

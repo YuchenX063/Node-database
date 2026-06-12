@@ -71,9 +71,15 @@ export class PersonDetailsComponent implements OnInit{
     if (startYear != null) params.push('startYear=' + startYear);
     if (endYear != null) params.push('endYear=' + endYear);
     if (params.length) url += '?' + params.join('&');
-    this._api.getTypeRequest(url).subscribe((networkRes: any) => {
-      this.network = networkRes;
-      this.networkTimeWindowLoading = false;
+    this._api.getTypeRequest(url).subscribe({
+      next: (networkRes: any) => {
+        this.network = networkRes;
+        this.networkTimeWindowLoading = false;
+      },
+      error: () => {
+        this.network = { nodes: [], edges: [] };
+        this.networkTimeWindowLoading = false;
+      }
     });
   }
 

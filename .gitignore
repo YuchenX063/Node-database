@@ -5,6 +5,7 @@ Thumbs.db
 
 certbot/
 */coverage/
+.claude
 
 # Static Generated doc files
 server/pages/docs

@@ -1,0 +1,131 @@
+:host {
+  display: block;
+}
+
+.dashboard {
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 24px 16px 48px;
+}
+
+.dashboard-header {
+  h1 {
+    font-size: 1.8rem;
+    font-weight: 700;
+    margin: 0 0 6px;
+  }
+
+  .subtitle {
+    margin: 0 0 16px;
+    color: #555;
+    font-size: 0.95rem;
+    max-width: 680px;
+  }
+}
+
+.controls {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  margin-bottom: 8px;
+
+  .control-row {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 10px;
+  }
+
+  .control-label {
+    font-size: 0.85rem;
+    color: #555;
+  }
+
+  .field {
+    min-width: 200px;
+
+    &.narrow { min-width: 150px; }
+  }
+
+  .kind-toggle {
+    height: 40px;
+  }
+}
+
+.headline {
+  margin: 14px 0 10px;
+  padding: 12px 14px;
+  background: rgba(47, 111, 159, 0.07);
+  border-left: 3px solid #2f6f9f;
+  border-radius: 4px;
+  font-size: 0.98rem;
+  line-height: 1.5;
+  color: #233;
+}
+
+.legend {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 18px;
+  margin: 6px 0 8px;
+
+  .legend-item {
+    display: inline-flex;
+    align-items: center;
+    gap: 7px;
+    font-size: 0.85rem;
+    color: #333;
+  }
+
+  .legend-line {
+    width: 20px;
+    height: 3px;
+    border-radius: 2px;
+    flex-shrink: 0;
+  }
+}
+
+.warn {
+  margin: 4px 0;
+  font-size: 0.8rem;
+  color: #8a5a00;
+  max-width: 680px;
+}
+
+.chart {
+  width: 100%;
+  position: relative;
+  margin-top: 8px;
+
+  &.hidden { display: none; }
+
+  ::ng-deep .chart-tooltip {
+    position: absolute;
+    pointer-events: none;
+    background: rgba(255, 255, 255, 0.97);
+    border: 1px solid rgba(0, 0, 0, 0.15);
+    border-radius: 6px;
+    padding: 6px 9px;
+    font-size: 0.78rem;
+    line-height: 1.4;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.18);
+    opacity: 0;
+    transition: opacity 0.1s;
+    z-index: 5;
+    white-space: nowrap;
+  }
+}
+
+.state-msg {
+  padding: 48px 16px;
+  text-align: center;
+  color: #666;
+
+  &.error { color: #b71c1c; }
+
+  button {
+    margin-left: 10px;
+    padding: 4px 12px;
+    cursor: pointer;
+  }
+}

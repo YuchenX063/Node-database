@@ -48,8 +48,8 @@ export class MapComponent implements OnInit {
   loading: boolean = true;
   data: any[] = [];
   isPlaying: boolean = false;
-  year: number = 1834;
-  yearMin: number = 1834;
+  year: number = 1833;
+  yearMin: number = 1833;
   yearMax: number = 1870;
   isMobile: boolean = false;
 

@@ -6,17 +6,17 @@ import { MatButtonModule } from '@angular/material/button';
 import { MatCardModule } from '@angular/material/card';
 
 @Component({
-  selector: 'app-networks',
+  selector: 'app-dashboards',
   imports: [MatIconModule, MatButtonModule, MatCardModule],
-  templateUrl: './networks.component.html',
-  styleUrl: './networks.component.scss'
+  templateUrl: './dashboards.component.html',
+  styleUrl: './dashboards.component.scss'
 })
-export class NetworksComponent {
+export class DashboardsComponent {
 
-    constructor(private router: Router) { }
+  constructor(private router: Router) { }
 
-    navigate(path: string) {
-        this.router.navigate([path]);
-    }
+  navigate(path: string) {
+    this.router.navigate([path]);
+  }
 
 }

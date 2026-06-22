@@ -52,12 +52,41 @@
                   "maximumError": "8kB"
                 }
               ],
-              "outputHashing": "all"
+              "outputHashing": "all",
+              "fileReplacements": [
+                {
+                  "replace": "src/environments/environment.ts",
+                  "with": "src/environments/environment.prod.ts"
+                }
+              ],
+              "baseHref": "/ds/catholic-almanacs/"
             },
             "development": {
               "optimization": false,
               "extractLicenses": false,
               "sourceMap": true
+            },
+            "dev": {
+              "budgets": [
+                {
+                  "type": "initial",
+                  "maximumWarning": "1MB",
+                  "maximumError": "2MB"
+                },
+                {
+                  "type": "anyComponentStyle",
+                  "maximumWarning": "4kB",
+                  "maximumError": "8kB"
+                }
+              ],
+              "outputHashing": "all",
+              "fileReplacements": [
+                {
+                  "replace": "src/environments/environment.ts",
+                  "with": "src/environments/environment.dev.ts"
+                }
+              ],
+              "baseHref": "/ds/catholic-almanacs-dev/"
             }
           },
           "defaultConfiguration": "production"
@@ -70,6 +99,9 @@
             },
             "development": {
               "buildTarget": "catholic-almanacs:build:development"
+            },
+            "dev": {
+              "buildTarget": "catholic-almanacs:build:dev"
             }
           },
           "defaultConfiguration": "development"

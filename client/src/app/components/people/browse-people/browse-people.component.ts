@@ -71,7 +71,7 @@ filterFields: FilterField[] = [
   { type: 'autocomplete', label: 'State', keyword: 'stateOrig', active: false },
   { type: 'autocomplete', label: 'Diocese', keyword: 'diocese', active: false, autocompleteOptions: [] },
   { type: 'input', label: 'Institution Name', keyword: 'instName', active: false },
-  { type: 'range', keywordStart: 'instStartYear', keywordEnd: 'instEndYear', label: 'Year', min: 1834, max: 1870, active: true },
+  { type: 'range', keywordStart: 'instStartYear', keywordEnd: 'instEndYear', label: 'Year', min: 1833, max: 1870, active: true },
 ]
 
 constructor(

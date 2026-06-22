@@ -1,0 +1,88 @@
+:host {
+	display: block;
+}
+
+.dashboards-wrapper {
+	max-width: 1100px;
+	margin: 0 auto;
+	padding: 48px 24px 64px;
+}
+
+.dashboard-group + .dashboard-group {
+	margin-top: 56px;
+}
+
+.group-title {
+	font-size: 1.5rem;
+	font-weight: 700;
+	margin: 0;
+}
+
+.group-subtitle {
+	margin: 4px 0 20px;
+	color: #666;
+	font-size: 1rem;
+}
+
+.dashboards-grid {
+	display: grid;
+	grid-template-columns: repeat(3, minmax(0, 1fr));
+	gap: 32px;
+	width: 100%;
+}
+
+.dashboard-card {
+	display: flex;
+	flex-direction: column;
+	height: 100%;
+	min-height: 320px;
+	cursor: pointer;
+	transition: box-shadow 0.2s, transform 0.2s;
+	box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+	border-radius: 18px;
+	outline: none;
+}
+.dashboard-card:focus, .dashboard-card:hover {
+	box-shadow: 0 6px 24px rgba(25, 118, 210, 0.18);
+	transform: translateY(-2px) scale(1.03);
+}
+.card-icon {
+  font-size: 2.5rem;
+  width: 2.5rem;
+  height: 2.5rem;
+	line-height: 1;
+	display: block;
+  margin-bottom: 8px;
+}
+
+mat-card-content {
+	flex: 1;
+}
+
+.dashboard-desc {
+	margin: 12px 0 0 0;
+	color: #555;
+	font-size: 1.08rem;
+}
+
+mat-card-actions {
+	margin-top: 18px;
+	padding-top: 4px;
+}
+
+@media (max-width: 1024px) {
+	.dashboards-grid {
+		grid-template-columns: repeat(2, minmax(0, 1fr));
+	}
+}
+
+@media (max-width: 700px) {
+	.dashboards-wrapper {
+		padding: 32px 16px 48px;
+	}
+
+	.dashboards-grid {
+		grid-template-columns: 1fr;
+		gap: 20px;
+	}
+}

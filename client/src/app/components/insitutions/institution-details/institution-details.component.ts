@@ -25,7 +25,7 @@ import { ApiService } from '../../../services/api.service';
   selector: 'app-institution-details',
   imports: [CommonModule, MatCardModule, MatListModule, MatTableModule, MatButtonModule,
             RouterLink, SelectYearComponent, MatTooltipModule, GoogleMapsModule, MatIcon,
-            MatIconModule, DialogComponent, MatProgressSpinnerModule, MapComponent,
+            MatIconModule, MatProgressSpinnerModule, MapComponent,
             NetworkGraphComponent, TreeGraphComponent
   ],
   templateUrl: './institution-details.component.html',

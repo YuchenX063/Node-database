@@ -8,4 +8,5 @@ module.exports = app => {
     require('./searchAll.routes.js')(app);
     require('./dioceseInfo.routes.js')(app);
     require('./getFileDate.routes.js')(app);
+    require('./stats.routes.js')(app);
 };

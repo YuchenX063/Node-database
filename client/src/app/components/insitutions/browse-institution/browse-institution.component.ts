@@ -76,7 +76,7 @@ export class BrowseInstitutionComponent implements OnInit {
     { type: 'autocomplete', label: 'Diocese', keyword: 'diocese', active: false, autocompleteOptions: [] },
     { type: 'autocomplete', label: 'Religious Order', keyword: 'religiousOrder', active: false, autocompleteOptions: []},
     { type: 'input', label: 'Person Name', keyword: 'persName', active: false },
-    { type: 'range', keywordStart: 'instStartYear', keywordEnd: 'instEndYear', label: 'Year', min: 1834, max:1870, active: true },
+    { type: 'range', keywordStart: 'instStartYear', keywordEnd: 'instEndYear', label: 'Year', min: 1833, max:1870, active: true },
   ]
   
 

@@ -1,0 +1,132 @@
+:host {
+  display: block;
+}
+
+.dashboard {
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 24px 16px 48px;
+}
+
+.dashboard-header {
+  h1 {
+    font-size: 1.8rem;
+    font-weight: 700;
+    margin: 0 0 6px;
+  }
+
+  .subtitle {
+    margin: 0 0 16px;
+    color: #555;
+    font-size: 0.95rem;
+    max-width: 660px;
+  }
+}
+
+.scopes {
+  margin-bottom: 12px;
+}
+
+.scope-card {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 10px;
+  padding: 6px 10px 6px 14px;
+  margin-bottom: 8px;
+  border-left: 4px solid #ccc;
+  background: rgba(0, 0, 0, 0.015);
+  border-radius: 4px;
+
+  .field {
+    &.kind { min-width: 130px; }
+    &.place { min-width: 180px; }
+    &.year { min-width: 110px; }
+  }
+
+  .scope-total {
+    font-size: 0.8rem;
+    color: #666;
+    margin-left: auto;
+    white-space: nowrap;
+  }
+
+  .remove {
+    flex-shrink: 0;
+  }
+}
+
+.scope-actions {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  margin-top: 4px;
+}
+
+.legend {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16px;
+  margin: 16px 0 8px;
+
+  .legend-item {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    font-size: 0.85rem;
+    color: #333;
+
+    &.muted { color: #aaa; }
+
+    .empty-flag {
+      color: #b08400;
+      font-size: 0.78rem;
+    }
+  }
+
+  .legend-swatch {
+    width: 14px;
+    height: 14px;
+    border-radius: 3px;
+    flex-shrink: 0;
+  }
+}
+
+.mode-hint {
+  margin: 0 0 12px;
+  font-size: 0.82rem;
+  color: #777;
+  max-width: 660px;
+}
+
+.chart {
+  width: 100%;
+  position: relative;
+
+  &.hidden { display: none; }
+
+  ::ng-deep .chart-tooltip {
+    position: absolute;
+    pointer-events: none;
+    background: rgba(255, 255, 255, 0.97);
+    border: 1px solid rgba(0, 0, 0, 0.15);
+    border-radius: 6px;
+    padding: 6px 9px;
+    font-size: 0.78rem;
+    line-height: 1.35;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.18);
+    opacity: 0;
+    transition: opacity 0.1s;
+    z-index: 5;
+    white-space: nowrap;
+  }
+}
+
+.state-msg {
+  padding: 48px 16px;
+  text-align: center;
+  color: #666;
+
+  &.error { color: #b71c1c; }
+}

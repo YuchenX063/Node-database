@@ -26,8 +26,8 @@ import { NavigationService } from '../../../services/navigation.service';
 export class MapComponent {
   data: any[] = [];
   isPlaying: boolean = false;
-  year: number = 1834;
-  yearMin: number = 1834;
+  year: number = 1833;
+  yearMin: number = 1833;
   yearMax: number = 1870;
 
   private dioceseColorMap: { [key: string]: string } = {};

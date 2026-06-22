@@ -21,6 +21,14 @@ export const routes: Routes = [
     { path: 'networks/personal', loadComponent: () => import('./components/networks/personal-network-container/personal-network-container.component').then(m => m.PersonalNetworkContainerComponent) },
     { path: 'networks/bipartite', loadComponent: () => import('./components/networks/bipartite-network/bipartite-network.component').then(m => m.BipartiteNetworkComponent) },
     { path: 'maps', loadComponent: () => import('./components/maps/maps.component').then(m => m.MapsComponent) },
+    { path: 'dashboards', loadComponent: () => import('./components/dashboards/dashboards.component').then(m => m.DashboardsComponent) },
+    { path: 'dashboards/composition', loadComponent: () => import('./components/dashboards/composition/composition.component').then(m => m.CompositionDashboardComponent) },
+    { path: 'dashboards/people-composition', loadComponent: () => import('./components/dashboards/people-composition/people-composition.component').then(m => m.PeopleCompositionDashboardComponent) },
+    { path: 'dashboards/comparison', loadComponent: () => import('./components/dashboards/comparison/comparison.component').then(m => m.ComparisonDashboardComponent) },
+    { path: 'dashboards/people-comparison', loadComponent: () => import('./components/dashboards/people-comparison/people-comparison.component').then(m => m.PeopleComparisonDashboardComponent) },
+    { path: 'dashboards/subset-vs-whole', loadComponent: () => import('./components/dashboards/subset-vs-whole/subset-vs-whole.component').then(m => m.SubsetVsWholeDashboardComponent) },
+    { path: 'dashboards/people-subset-vs-whole', loadComponent: () => import('./components/dashboards/people-subset-vs-whole/people-subset-vs-whole.component').then(m => m.PeopleSubsetVsWholeDashboardComponent) },
+    { path: 'dashboards/clergy-hierarchy', loadComponent: () => import('./components/dashboards/people-hierarchy/people-hierarchy.component').then(m => m.PeopleHierarchyDashboardComponent) },
     { path: 'export', loadComponent: () => import('./components/export/export.component').then(m => m.ExportComponent) },
     // Static content pages: drop .md or .html files into client/public/page-content/
     // and they are served at /pages/<file path without extension>

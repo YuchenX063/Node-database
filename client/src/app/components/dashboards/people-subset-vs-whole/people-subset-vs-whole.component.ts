@@ -131,6 +131,18 @@ export class PeopleSubsetVsWholeDashboardComponent implements OnInit, AfterViewI
     if (this.viewInitialized) this.render();
   }
 
+  // Renders once the chart actually has width. After a refetch the chart is
+  // briefly hidden (loading), so a single render() can hit a 0-width element and
+  // no-op; retry across a few frames until the element is laid out again.
+  private renderWhenReady(attempts = 0): void {
+    if (!this.chartRef) return;
+    if (this.chartRef.nativeElement.clientWidth > 0) {
+      this.render();
+    } else if (attempts < 10) {
+      requestAnimationFrame(() => this.renderWhenReady(attempts + 1));
+    }
+  }
+
   fetchData(): void {
     if (!this.category || !this.subsetValue) return;
     this.loading = true;
@@ -156,7 +168,7 @@ export class PeopleSubsetVsWholeDashboardComponent implements OnInit, AfterViewI
           this.baseYear = this.defaultBaseYear(this.years);
         }
         this.loading = false;
-        if (this.viewInitialized) setTimeout(() => this.render());
+        if (this.viewInitialized) this.renderWhenReady();
       },
       error: (err: any) => {
         this.error = err?.error?.message || 'Could not load comparison data.';

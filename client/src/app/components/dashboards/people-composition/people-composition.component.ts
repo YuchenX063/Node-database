@@ -1,5 +1,6 @@
 import { Component, OnInit, OnDestroy, AfterViewInit, ViewChild, ElementRef } from '@angular/core';
 import { CommonModule } from '@angular/common';
+import { SpaceNamePipe, spaceName } from '../../../pipes/space-name.pipe';
 import { HttpClient } from '@angular/common/http';
 import { FormsModule } from '@angular/forms';
 import { Subscription } from 'rxjs';
@@ -20,6 +21,7 @@ interface CompositionRow {
 @Component({
   selector: 'app-people-composition-dashboard',
   imports: [
+    SpaceNamePipe,
     CommonModule,
     FormsModule,
     MatFormFieldModule,
@@ -156,7 +158,7 @@ export class PeopleCompositionDashboardComponent implements OnInit, AfterViewIni
   }
 
   get scopeLabel(): string {
-    if (this.diocese) return `Diocese of ${this.diocese}`;
+    if (this.diocese) return `Diocese of ${spaceName(this.diocese)}`;
     if (this.state) return `State of ${this.state}`;
     return 'National';
   }

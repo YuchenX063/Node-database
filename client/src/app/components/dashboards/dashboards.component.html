@@ -1,5 +1,27 @@
 <div class="dashboards-wrapper">
     <section class="dashboard-group">
+        <h2 class="group-title">Geography</h2>
+        <p class="group-subtitle">Where the church was, and how it moved across the continent over time.</p>
+        <div class="dashboards-grid">
+            <mat-card class="dashboard-card" (click)="navigate('/dashboards/spread')" tabindex="0" (keydown.enter)="navigate('/dashboards/spread')">
+                <mat-card-header>
+                    <mat-icon class="card-icon">public</mat-icon>
+                </mat-card-header>
+                <mat-card-title>The Spread of the Church</mat-card-title>
+                <mat-card-content>
+                    <div class="dashboard-desc">Press play and watch Catholic institutions bloom westward across the map year by year — and the church's geographic centre of gravity march with them.</div>
+                </mat-card-content>
+                <mat-card-actions>
+                    <button mat-stroked-button color="primary" (click)="$event.stopPropagation(); navigate('/dashboards/spread')">
+                        Open
+                        <mat-icon>arrow_forward</mat-icon>
+                    </button>
+                </mat-card-actions>
+            </mat-card>
+        </div>
+    </section>
+
+    <section class="dashboard-group">
         <h2 class="group-title">Institutions</h2>
         <p class="group-subtitle">How the network of Catholic institutions grew and shifted in shape.</p>
         <div class="dashboards-grid">

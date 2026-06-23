@@ -6,12 +6,15 @@ import { MatButtonModule } from '@angular/material/button';
 import { MatIconModule } from '@angular/material/icon';
 import { MatSliderModule } from '@angular/material/slider';
 import { MatInput, MatInputModule } from '@angular/material/input';
+import { MatSelectModule } from '@angular/material/select';
+import { MatFormFieldModule } from '@angular/material/form-field';
 import { MatProgressSpinnerModule } from '@angular/material/progress-spinner';
 import { FormsModule } from  '@angular/forms';
 import { Observable } from 'rxjs';
 import { Router } from '@angular/router';
 import { MatProgressBarModule } from '@angular/material/progress-bar';
-import { MapComponent as CommonMapComponent} from '../../common/map/map.component';
+import { MapVisComponent } from '../../common/map-vis/map-vis.component';
+import { buildGrouping, LegendEntry } from '../../common/map-vis/map-grouping';
 
 import { ApiService } from '../../../services/api.service';
 import { FilterService } from '../../../services/filter.service';
@@ -36,7 +39,8 @@ interface FilterField {
   selector: 'app-institutions-map',
   imports: [FilterComponent, MatCardModule, CommonModule,
     MatButtonModule, MatIconModule, MatSliderModule, MatInputModule, FormsModule,
-    MatProgressSpinnerModule, MatProgressBarModule, CommonMapComponent, A11yModule],
+    MatProgressSpinnerModule, MatProgressBarModule, MapVisComponent, A11yModule,
+    MatSelectModule, MatFormFieldModule],
   templateUrl: './map.component.html',
   styleUrl: './map.component.scss',
   changeDetection: ChangeDetectionStrategy.OnPush
@@ -55,9 +59,21 @@ export class MapComponent implements OnInit {
 
   mapOptions = {
               zoom: 4.4,
+              mode: 'point' as const,
+              modeControl: true,
               center: { lat: 39, lng: -98 },
               size: { width: '900px', height: '600px' },
           }
+
+  // "Colour by" grouping — recolours the same points without refetching.
+  groupBy: 'function' | 'type' | 'diocese' = 'function';
+  groupOptions = [
+    { value: 'function', label: 'Function' },
+    { value: 'type', label: 'Institution Type' },
+    { value: 'diocese', label: 'Diocese' }
+  ];
+  legend: LegendEntry[] = [];
+  private rawPoints: any[] = [];
 
   filterValues$!: Observable<any>; //! = can be null
   filterValues: any = {
@@ -177,15 +193,32 @@ export class MapComponent implements OnInit {
           }
         }
       };
-      this.data = institutionData;
-      this.data = this.data.map(item => ({
-        ...item,
-        color: this.getCircleColor(item.instFunction)
-      }));
+      this.rawPoints = institutionData;
+      this.applyGrouping();
       this.loading = false;
       //console.log(this.data);
     })
   };
+
+  /** Recolour the current points by the active "Colour by" field + build the legend. */
+  applyGrouping() {
+    const field = this.groupBy === 'type' ? 'instType' : this.groupBy === 'diocese' ? 'diocese' : 'instFunction';
+    const mode = this.groupBy === 'function' ? 'function' : 'categorical';
+    const grouping = buildGrouping(this.rawPoints.map(p => p[field]), mode);
+    this.legend = grouping.legend;
+    this.data = this.rawPoints.map(item => ({
+      latitude: item.latitude,
+      longitude: item.longitude,
+      title: item.instName || '',
+      internalLink: item.id ? '/institutions/' + item.id : '',
+      options: { color: grouping.colorFor(item[field]), radius: 6 }
+    }));
+    this.cdr.markForCheck();
+  }
+
+  onGroupChange() {
+    this.applyGrouping();
+  }
 
   clickMap(item: any) {
     this._router.navigate(['/institutions', item.id]);

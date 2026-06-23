@@ -1,5 +1,6 @@
 import { Component, OnInit, OnDestroy } from '@angular/core';
 import { CommonModule } from '@angular/common';
+import { SpaceNamePipe } from '../../../pipes/space-name.pipe';
 import { HttpClient } from '@angular/common/http';
 import { Subscription } from 'rxjs';
 import { FormsModule } from '@angular/forms';
@@ -13,6 +14,7 @@ import { NetworkGraphComponent } from "../../common/network-graph/network-graph.
 @Component({
   selector: 'app-bipartite-network',
   imports: [
+    SpaceNamePipe,
     CommonModule,
     FormsModule,
     MatFormFieldModule,

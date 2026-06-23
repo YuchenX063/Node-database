@@ -12,7 +12,7 @@
       <mat-label>Diocese</mat-label>
       <mat-select [(ngModel)]="diocese" (ngModelChange)="state = ''; onScopeChange()">
         <mat-option value="">All Dioceses (national)</mat-option>
-        <mat-option *ngFor="let d of dioceseOptions" [value]="d">{{ d }}</mat-option>
+        <mat-option *ngFor="let d of dioceseOptions" [value]="d">{{ d | spaceName }}</mat-option>
       </mat-select>
     </mat-form-field>
 

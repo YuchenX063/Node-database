@@ -1,5 +1,6 @@
 import { Component, OnInit, OnDestroy, AfterViewInit, ViewChild, ElementRef } from '@angular/core';
 import { CommonModule } from '@angular/common';
+import { SpaceNamePipe, spaceName } from '../../../pipes/space-name.pipe';
 import { HttpClient } from '@angular/common/http';
 import { FormsModule } from '@angular/forms';
 import { Subscription } from 'rxjs';
@@ -14,6 +15,7 @@ interface SeriesPoint { year: number; count: number; }
 @Component({
   selector: 'app-subset-vs-whole-dashboard',
   imports: [
+    SpaceNamePipe,
     CommonModule,
     FormsModule,
     MatFormFieldModule,
@@ -98,7 +100,7 @@ export class SubsetVsWholeDashboardComponent implements OnInit, AfterViewInit, O
 
   get subsetLabel(): string {
     if (this.subsetKind === 'state') return this.usStates.find(s => s.abbr === this.subsetValue)?.name ?? this.subsetValue;
-    return this.subsetValue;
+    return spaceName(this.subsetValue);
   }
 
   // Function values are already plural phrases ("educational institutions");

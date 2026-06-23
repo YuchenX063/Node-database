@@ -9,4 +9,17 @@ import { environment } from '../environments/environment';
 export const Settings = {
     apiUrl: environment.apiUrl,
     exportEnabled: environment.exportEnabled,
+        // multiple styles (first style is the default)
+    mapTilesUrl: [{
+        name: 'OpenStreetMap',
+        url: 'https://raw.githubusercontent.com/go2garret/maps/main/src/assets/json/openStreetMap.json',
+    }, {
+        name: 'Map Libre Demo Tiles',
+        url: 'https://demotiles.maplibre.org/globe.json',
+    }, {
+        name: 'CartoDB Voyager',
+        url: 'https://basemaps.cartocdn.com/gl/voyager-gl-style/style.json'
+    }],
+    mapTilesAttribution: 'Powered by MapLibre... Use of OpenStreetMap and CartoDB for dev phase only',
+    mapTilesMaxZoom: 18
 };

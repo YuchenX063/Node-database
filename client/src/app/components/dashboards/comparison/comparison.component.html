@@ -26,7 +26,7 @@
         <mat-form-field appearance="fill" class="field place" *ngIf="scope.kind === 'diocese'">
           <mat-label>Diocese</mat-label>
           <mat-select [(ngModel)]="scope.place" (ngModelChange)="onScopeChange()">
-            <mat-option *ngFor="let d of dioceseOptions" [value]="d">{{ d }}</mat-option>
+            <mat-option *ngFor="let d of dioceseOptions" [value]="d">{{ d | spaceName }}</mat-option>
           </mat-select>
         </mat-form-field>
 

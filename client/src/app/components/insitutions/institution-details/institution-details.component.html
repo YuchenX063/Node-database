@@ -219,32 +219,34 @@
                             <map-marker [position]="{lat: data.latitude, lng: data.longitude}" [title]="data.instName" (mapClick)="clickMap($event)">
                             </map-marker>
                         </google-map> -->
-                        <app-map [data]="data"
+                        <app-map-vis [data]="mapData"
+                            [simple]="true"
                             [options]="{
-                            zoom:6, 
+                            zoom:6,
                             center: {
-                                lat: data.latitude || 40, 
+                                lat: data.latitude || 40,
                                 lng: data.longitude || -100
                             },
                             size: {width: '400px', height: '250px'}
                         }">
-                        </app-map>
+                        </app-map-vis>
                     </div>
                     <div class="map-container md:w-auto !hidden md:!flex">
                         <!--<google-map [options]="mapOptionsWide" width="500px" height="350px">
                             <map-marker [position]="{lat: data.latitude, lng: data.longitude}" [title]="data.instName" (mapClick)="clickMap($event)">
                             </map-marker>
                         </google-map>-->
-                        <app-map [data]="data"
+                        <app-map-vis [data]="mapData"
+                            [simple]="true"
                             [options]="{
-                            zoom:6, 
+                            zoom:6,
                             center: {
-                                lat: data.latitude || 40, 
+                                lat: data.latitude || 40,
                                 lng: data.longitude || -100
                             },
                             size: {width: '500px', height: '400px'}
                         }">
-                        </app-map>
+                        </app-map-vis>
                     </div>
                     @if (network.nodes.length > 1) {
                 <div class="w-full mt-4" style="width: 500px;">

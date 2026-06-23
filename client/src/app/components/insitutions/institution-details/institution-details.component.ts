@@ -15,7 +15,7 @@ import { MatIcon, MatIconModule } from '@angular/material/icon';
 import { DialogComponent } from '../../common/dialog/dialog.component';
 import { MatDialog } from '@angular/material/dialog';
 import { MatProgressSpinnerModule } from '@angular/material/progress-spinner';
-import { MapComponent } from '../../common/map/map.component';
+import { MapVisComponent } from '../../common/map-vis/map-vis.component';
 import { NetworkGraphComponent } from '../../common/network-graph/network-graph.component';
 import { TreeGraphComponent, DendrogramNode } from '../../common/tree-graph/tree-graph.component';
 
@@ -25,7 +25,7 @@ import { ApiService } from '../../../services/api.service';
   selector: 'app-institution-details',
   imports: [CommonModule, MatCardModule, MatListModule, MatTableModule, MatButtonModule,
             RouterLink, SelectYearComponent, MatTooltipModule, GoogleMapsModule, MatIcon,
-            MatIconModule, MatProgressSpinnerModule, MapComponent,
+            MatIconModule, MatProgressSpinnerModule, MapVisComponent,
             NetworkGraphComponent, TreeGraphComponent
   ],
   templateUrl: './institution-details.component.html',
@@ -35,6 +35,7 @@ export class InstitutionDetailsComponent implements OnInit {
   loading = true;
   itemId: any;
   data: any = {};
+  mapData: any[] = [];
   dioceseInfo: any = [];
   instIDInYear: any = {};
   network: any = { nodes: [], edges: [] };
@@ -109,6 +110,7 @@ export class InstitutionDetailsComponent implements OnInit {
     this.loading = true;
     this._api.getTypeRequest('institution/' + this.itemId).subscribe((res: any) => {
       this.data = res;
+      this.buildMapData();
       this.instIDInYear = res.instIDInYear;
       this.loading = false;
       this.networkStartYear = res.year?.[0] ?? null;
@@ -124,6 +126,23 @@ export class InstitutionDetailsComponent implements OnInit {
         this.dendrogramData = dendrogramRes;
       });
     });
+  }
+
+  /** Shape the single institution into the marker array the map-vis component expects. */
+  private buildMapData (): void {
+    if (this.data?.latitude && this.data?.longitude) {
+      // The aggregated detail record exposes instID as an array (one per year);
+      // use the route id (always a scalar) for the marker's navigation target.
+      const id = this.itemId ?? (Array.isArray(this.data.instID) ? this.data.instID[0] : this.data.instID);
+      this.mapData = [{
+        latitude: this.data.latitude,
+        longitude: this.data.longitude,
+        title: Array.isArray(this.data.instName) ? this.data.instName[0] : (this.data.instName || ''),
+        internalLink: id ? ['/institutions', id] : null
+      }];
+    } else {
+      this.mapData = [];
+    }
   }
 
   fetchDendrogram (year?: number) {
@@ -184,6 +203,7 @@ export class InstitutionDetailsComponent implements OnInit {
       const allYears = this.data.year;
       this.data = res;
       this.data.year = allYears;
+      this.buildMapData();
       this.itemId = this.data.instID;
       this.fetchDendrogram(y);
       this._api.getTypeRequest('diocese?diocese=' + this.data.diocese[0] + '&year=' + year).subscribe((dioceseInfoData: any) => {

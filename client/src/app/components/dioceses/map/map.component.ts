@@ -9,7 +9,10 @@ import { MatInput, MatInputModule } from '@angular/material/input';
 import { FormsModule } from  '@angular/forms';
 import { Observable } from 'rxjs';
 import { Router } from '@angular/router';
-import { MapComponent as CommonMapComponent} from '../../common/map/map.component';
+import { MapVisComponent } from '../../common/map-vis/map-vis.component';
+import { buildGrouping, LegendEntry } from '../../common/map-vis/map-grouping';
+import { MatSelectModule } from '@angular/material/select';
+import { MatFormFieldModule } from '@angular/material/form-field';
 
 import { ApiService } from '../../../services/api.service';
 import { FilterService } from '../../../services/filter.service';
@@ -19,12 +22,19 @@ import { NavigationService } from '../../../services/navigation.service';
   selector: 'app-diocese-map',
   imports: [FilterComponent, MatCardModule, CommonModule, 
     MatButtonModule, MatIconModule, MatSliderModule, MatInputModule, FormsModule,
-    CommonMapComponent],
+    MapVisComponent, MatSelectModule, MatFormFieldModule],
   templateUrl: './map.component.html',
   styleUrl: './map.component.scss'
 })
 export class MapComponent {
   data: any[] = [];
+  groupBy: 'diocese' | 'type' = 'diocese';
+  groupOptions = [
+    { value: 'diocese', label: 'Diocese' },
+    { value: 'type', label: 'Institution Type' }
+  ];
+  legend: LegendEntry[] = [];
+  private rawPoints: any[] = [];
   isPlaying: boolean = false;
   year: number = 1833;
   yearMin: number = 1833;
@@ -104,13 +114,28 @@ export class MapComponent {
           }
         }
       };
-      this.data = institutionData;
-      this.data = this.data.map(item => ({
-        ...item,
-        color: this.getCircleColor(item.diocese_reg)
-      }));
+      this.rawPoints = institutionData;
+      this.applyGrouping();
     })
   };
+
+  /** Recolour the current points by the active "Colour by" field + build the legend. */
+  applyGrouping() {
+    const field = this.groupBy === 'type' ? 'instType' : 'diocese_reg';
+    const grouping = buildGrouping(this.rawPoints.map(p => p[field]), 'categorical');
+    this.legend = grouping.legend;
+    this.data = this.rawPoints.map(item => ({
+      latitude: item.latitude,
+      longitude: item.longitude,
+      title: item.instName || '',
+      internalLink: item.instID ? '/institutions/' + item.instID : '',
+      options: { color: grouping.colorFor(item[field]), radius: 6 }
+    }));
+  }
+
+  onGroupChange() {
+    this.applyGrouping();
+  }
 
   clickMap(item: any) {
     this._router.navigate(['/institutions', item.instID]);

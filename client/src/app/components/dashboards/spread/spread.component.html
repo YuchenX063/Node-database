@@ -1,0 +1,79 @@
+<div class="dashboard">
+  <header class="dashboard-header">
+    <h1>The Spread of the Church</h1>
+    <p class="subtitle">
+      Watch the Catholic Church move across the continent. Each point is a place the almanac
+      recorded that year; press play to see the density bloom westward — and the church's
+      geographic centre of gravity march with it.
+    </p>
+  </header>
+
+  <div class="controls">
+    <mat-button-toggle-group [(ngModel)]="entity" (ngModelChange)="onEntityChange()" class="entity-toggle">
+      <mat-button-toggle value="institutions">Institutions</mat-button-toggle>
+      <mat-button-toggle value="people">People</mat-button-toggle>
+    </mat-button-toggle-group>
+
+    <div class="function-filter">
+      @for (f of functions; track f.key) {
+        <button type="button" class="fn-chip" [class.off]="!enabled.has(f.key)"
+                (click)="toggleFunction(f.key)">
+          <span class="fn-swatch" [style.background]="f.color"></span>{{ f.label }}
+        </button>
+      }
+    </div>
+  </div>
+
+  <div class="state-msg" *ngIf="loading">Loading…</div>
+  <div class="state-msg error" *ngIf="error">
+    {{ error }}
+    <button (click)="fetchData()">Retry</button>
+  </div>
+
+  <div class="content" [class.hidden]="loading || error">
+    <!-- Scrubber + play -->
+    <div class="timeline" *ngIf="currentStat">
+      <button class="play-btn" type="button" (click)="togglePlay()"
+              [attr.aria-label]="isPlaying ? 'Pause' : 'Play'">
+        <mat-icon>{{ isPlaying ? 'pause' : 'play_arrow' }}</mat-icon>
+      </button>
+      <div class="year-readout">{{ currentStat.year }}</div>
+      <mat-slider class="year-slider" [min]="0" [max]="years.length - 1" step="1" discrete
+                  [displayWith]="formatYear">
+        <input matSliderThumb [(ngModel)]="yearIndex" (input)="onScrub()" />
+      </mat-slider>
+    </div>
+
+    <!-- Stat strip -->
+    <div class="stat-strip" *ngIf="currentStat">
+      <div class="stat">
+        <div class="stat-value">{{ visibleTotal | number }}</div>
+        <div class="stat-label">{{ entity === 'people' ? 'people-years' : 'institution-years' }} recorded in {{ currentStat.year }}</div>
+      </div>
+      <div class="stat">
+        <div class="stat-value">{{ centroidLabel(currentStat) }}</div>
+        <div class="stat-label">centre of gravity</div>
+      </div>
+      <div class="stat" *ngIf="westwardDriftDeg > 0.05">
+        <div class="stat-value">{{ westwardDriftMiles | number }} mi</div>
+        <div class="stat-label">moved west since {{ years[0].year }}</div>
+      </div>
+    </div>
+
+    <app-map-vis
+      [data]="mapData"
+      [isOpen]="true"
+      [legend]="legend"
+      label="Spread of the Church"
+      [options]="mapOptions">
+    </app-map-vis>
+
+    <!-- Westward-drift sparkline -->
+    <div class="drift-panel">
+      <div class="drift-title">Westward drift — the recorded centre of gravity, by longitude</div>
+      <div class="drift" #drift></div>
+    </div>
+  </div>
+
+  <p class="caveat" *ngIf="note">{{ note }}</p>
+</div>

@@ -2,7 +2,7 @@
 // All counts are per-almanac-year snapshots: each institution appears at most
 // once per year, so COUNT(DISTINCT instID) per year is "institutions recorded
 // in the almanac for that year" — never a true census. The data is two islands
-// of years (roughly 3-1840 and 1860-1870) with a gap between, so absolute
+// of years (roughly 1833-1840 and 1860-1870) with a gap between, so absolute
 // counts across the gap conflate real growth with the source's growing reach.
 // Composition (share) metrics are far more robust to that and are the default.
 
@@ -277,6 +277,93 @@ exports.getSubsetVsWhole = async (req, res) => {
             },
             whole: toSeries(wholeRows),
             subset: toSeries(subsetRows)
+        };
+        networkCache.set(key, result);
+        res.send(result);
+    } catch (error) {
+        return res.status(500).json({ message: error.message });
+    }
+};
+
+// Geo points for the "Spread of the Church" map dashboard. Returns every
+// almanac-year location aggregated to a ~0.1 degree grid (so the payload stays
+// small and the heatmap weights are meaningful), tagged with its primary
+// function, plus a per-year timeline of total count and the geographic
+// centre-of-gravity (mean lng/lat). The client animates a single year at a time
+// and reads the centroid marching west as the headline "spread" signal.
+//
+// entity=institutions (default): weight = institution-years at that cell.
+// entity=people: weight = people-years serving institutions at that cell.
+exports.getGeo = async (req, res) => {
+    const entity = req.query.entity === 'people' ? 'people' : 'institutions';
+
+    const key = cacheKey('stats/geo', { entity });
+    const cached = networkCache.get(key);
+    if (cached) return res.send(cached);
+
+    try {
+        let rows;
+        if (entity === 'people') {
+            rows = await db.sequelize.query(
+                `SELECT ar.latitude AS lat, ar.longitude AS lng, ar.year AS year,
+                        ar.instFunction AS fn, COUNT(piar.persID) AS weight
+                 FROM personInAlmanacRecords piar
+                 JOIN almanacRecords ar ON ar.ID = piar.almanacRecordID
+                 WHERE ar.latitude IS NOT NULL AND ar.longitude IS NOT NULL AND ar.year IS NOT NULL
+                 GROUP BY ar.ID, ar.latitude, ar.longitude, ar.year, ar.instFunction`,
+                { type: db.Sequelize.QueryTypes.SELECT }
+            );
+        } else {
+            rows = await db.sequelize.query(
+                `SELECT latitude AS lat, longitude AS lng, year AS year,
+                        instFunction AS fn, 1 AS weight
+                 FROM almanacRecords
+                 WHERE latitude IS NOT NULL AND longitude IS NOT NULL AND year IS NOT NULL`,
+                { type: db.Sequelize.QueryTypes.SELECT }
+            );
+        }
+
+        const pointMap = new Map();   // "year|lat|lng|fn" -> summed weight
+        const yearStats = new Map();  // year -> { total, sumLng, sumLat }
+        for (const r of rows) {
+            const w = Number(r.weight) || 0;
+            if (!w) continue;
+            const lat = Number(r.lat);
+            const lng = Number(r.lng);
+            if (!Number.isFinite(lat) || !Number.isFinite(lng)) continue;
+            const fn = primaryFunction(r.fn);
+            const rlat = Math.round(lat * 10) / 10;
+            const rlng = Math.round(lng * 10) / 10;
+            const pkey = `${r.year}|${rlat}|${rlng}|${fn}`;
+            pointMap.set(pkey, (pointMap.get(pkey) || 0) + w);
+            let ys = yearStats.get(r.year);
+            if (!ys) { ys = { total: 0, sumLng: 0, sumLat: 0 }; yearStats.set(r.year, ys); }
+            ys.total += w;
+            ys.sumLng += lng * w;
+            ys.sumLat += lat * w;
+        }
+
+        const points = [];
+        for (const [pkey, weight] of pointMap) {
+            const [year, lat, lng, fn] = pkey.split('|');
+            points.push({ year: Number(year), lat: Number(lat), lng: Number(lng), fn, weight });
+        }
+        const years = Array.from(yearStats.entries())
+            .map(([year, s]) => ({
+                year,
+                total: s.total,
+                centroidLng: s.sumLng / s.total,
+                centroidLat: s.sumLat / s.total
+            }))
+            .sort((a, b) => a.year - b.year);
+
+        const result = {
+            meta: {
+                entity,
+                note: `Each point is an almanac-year location snapped to a ~0.1° grid; weight is the number of ${entity === 'people' ? 'people-years serving institutions' : 'institution-years'} there. Coverage grows across the two year-islands, so absolute spread partly reflects the source's widening reach.`
+            },
+            years,
+            points
         };
         networkCache.set(key, result);
         res.send(result);

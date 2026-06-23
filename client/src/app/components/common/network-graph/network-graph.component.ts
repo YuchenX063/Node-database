@@ -1,5 +1,6 @@
 import { Component, OnInit, AfterViewInit, Input, OnChanges, OnDestroy, Output, EventEmitter, SimpleChanges, ViewChild, ElementRef, NgZone } from '@angular/core';
 import { CommonModule } from '@angular/common';
+import { SpaceNamePipe, spaceName } from '../../../pipes/space-name.pipe';
 import { FormsModule } from '@angular/forms';
 import { Router } from '@angular/router';
 import { DataSet, Network } from "vis-network/standalone";
@@ -16,6 +17,7 @@ import { Settings } from '../../../app.settings';
 @Component({
   selector: 'app-network-graph',
   imports: [
+    SpaceNamePipe,
     CommonModule,
     FormsModule,
     MatButtonModule,
@@ -747,7 +749,7 @@ export class NetworkGraphComponent implements OnInit, AfterViewInit, OnChanges, 
       this.network.cluster({
         joinCondition: (nodeOptions: any) => (nodeOptions.group ?? 'Unknown') === group,
         processProperties: (clusterOptions: any, childNodes: any[]) => {
-          clusterOptions.label = `${group} (${childNodes.length})`;
+          clusterOptions.label = `${spaceName(group)} (${childNodes.length})`;
           clusterOptions.value = childNodes.length;
           return clusterOptions;
         },

@@ -12,7 +12,7 @@ import { MatTooltipModule } from '@angular/material/tooltip';
 import { MatIcon, MatIconModule } from '@angular/material/icon';
 import { Location } from '@angular/common';
 import { MatProgressSpinnerModule } from '@angular/material/progress-spinner';
-import { MapComponent } from '../../common/map/map.component';
+import { MapVisComponent } from '../../common/map-vis/map-vis.component';
 import { NetworkGraphComponent } from '../../common/network-graph/network-graph.component';
 
 import { ApiService } from '../../../services/api.service';
@@ -22,7 +22,7 @@ import { ApiService } from '../../../services/api.service';
   selector: 'app-person-details',
   imports: [CommonModule, MatCardModule, MatListModule, MatTableModule, MatButtonModule,
     RouterLink, SelectYearComponent, MatTooltipModule, MatIconModule,
-    MatIcon, MatProgressSpinnerModule, MapComponent, NetworkGraphComponent],
+    MatIcon, MatProgressSpinnerModule, MapVisComponent, NetworkGraphComponent],
   templateUrl: './person-details.component.html',
   styleUrl: './person-details.component.scss'
 })
@@ -32,6 +32,7 @@ export class PersonDetailsComponent implements OnInit{
   loading = true;
   itemId: any;
   data: any = [];
+  mapData: any[] = [];
   network: any = { nodes: [], edges: [] };
   networkTimeWindowLoading = false;
   networkStartYear: number | null = null;
@@ -57,11 +58,25 @@ export class PersonDetailsComponent implements OnInit{
     this.loading = true;
     this._api.getTypeRequest('person/' + this.itemId).subscribe((res: any) => {
       this.data = res;
+      this.buildMapData();
       this.loading = false;
       this.networkStartYear = res.year?.[0] ?? null;
       this.networkEndYear = res.year?.[res.year.length - 1] ?? null;
       this.fetchNetwork(this.networkStartYear ?? undefined, this.networkEndYear ?? undefined);
     });
+  }
+
+  /** Shape this person's institutions into the marker array the map-vis component expects. */
+  private buildMapData (): void {
+    const insts = Array.isArray(this.data?.allInstitutions) ? this.data.allInstitutions : [];
+    this.mapData = insts
+      .filter((inst: any) => inst?.latitude && inst?.longitude)
+      .map((inst: any) => ({
+        latitude: inst.latitude,
+        longitude: inst.longitude,
+        title: inst.instName || '',
+        internalLink: inst.instID ? ['/institutions', inst.instID] : null
+      }));
   }
 
   fetchNetwork (startYear?: number, endYear?: number) {
@@ -103,6 +118,7 @@ export class PersonDetailsComponent implements OnInit{
       const allYears = this.data.year;
       this.data = res;
       this.data.year = allYears;
+      this.buildMapData();
       this.itemId = this.data.persID;
       });
   }};

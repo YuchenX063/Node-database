@@ -1,5 +1,6 @@
 import { Component, OnInit, OnDestroy, AfterViewInit, ViewChild, ElementRef } from '@angular/core';
 import { CommonModule } from '@angular/common';
+import { SpaceNamePipe, spaceName } from '../../../pipes/space-name.pipe';
 import { HttpClient } from '@angular/common/http';
 import { FormsModule } from '@angular/forms';
 import { forkJoin, Subscription } from 'rxjs';
@@ -32,6 +33,7 @@ interface Scope {
 @Component({
   selector: 'app-people-comparison-dashboard',
   imports: [
+    SpaceNamePipe,
     CommonModule,
     FormsModule,
     MatFormFieldModule,
@@ -195,7 +197,7 @@ export class PeopleComparisonDashboardComponent implements OnInit, AfterViewInit
 
   scopeLabel(scope: Scope): string {
     const place = scope.kind === 'national' ? 'National'
-      : scope.kind === 'diocese' ? scope.place
+      : scope.kind === 'diocese' ? spaceName(scope.place)
       : (this.usStates.find(s => s.abbr === scope.place)?.name ?? scope.place);
     return `${place} ${scope.year}`;
   }

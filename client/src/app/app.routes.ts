@@ -29,6 +29,7 @@ export const routes: Routes = [
     { path: 'dashboards/subset-vs-whole', loadComponent: () => import('./components/dashboards/subset-vs-whole/subset-vs-whole.component').then(m => m.SubsetVsWholeDashboardComponent) },
     { path: 'dashboards/people-subset-vs-whole', loadComponent: () => import('./components/dashboards/people-subset-vs-whole/people-subset-vs-whole.component').then(m => m.PeopleSubsetVsWholeDashboardComponent) },
     { path: 'dashboards/clergy-hierarchy', loadComponent: () => import('./components/dashboards/people-hierarchy/people-hierarchy.component').then(m => m.PeopleHierarchyDashboardComponent) },
+    { path: 'dashboards/spread', loadComponent: () => import('./components/dashboards/spread/spread.component').then(m => m.SpreadDashboardComponent) },
     { path: 'export', loadComponent: () => import('./components/export/export.component').then(m => m.ExportComponent) },
     // Static content pages: drop .md or .html files into client/public/page-content/
     // and they are served at /pages/<file path without extension>

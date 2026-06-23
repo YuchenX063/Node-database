@@ -1,0 +1,69 @@
+<div class="map-vis" [class.map-vis--simple]="simple">
+
+  <!-- Chrome (title, base-map / display controls) — only in the full panel -->
+  @if (!simple) {
+    <div #headerRef class="map-vis__header">
+      <div class="map-vis__title">
+        <button type="button" class="map-vis__toggle" (click)="togglePanel()"
+                [attr.aria-label]="isOpen ? 'Collapse map' : 'Expand map'">
+          <mat-icon>{{ isOpen ? 'expand_less' : 'expand_more' }}</mat-icon>
+        </button>
+        <span>{{ label }}</span>
+      </div>
+
+      @if (isOpen && (multipleStyles || options.modeControl)) {
+        <div #dropdownRef class="map-vis__controls">
+          @if (multipleStyles) {
+            <mat-form-field appearance="outline" class="map-vis__select" subscriptSizing="dynamic">
+              <mat-label>Base map</mat-label>
+              <mat-select [value]="currentStyle" (selectionChange)="changeMapStyle($event.value)">
+                @for (style of mapStyleOptions; track style.url) {
+                  <mat-option [value]="style.url">{{ style.name }}</mat-option>
+                }
+              </mat-select>
+            </mat-form-field>
+          }
+          @if (options.modeControl) {
+            <mat-form-field appearance="outline" class="map-vis__select" subscriptSizing="dynamic">
+              <mat-label>Display</mat-label>
+              <mat-select [value]="currentMode" (selectionChange)="changeMapMode($event.value)">
+                @for (m of possibleModes; track m.value) {
+                  <mat-option [value]="m.value">{{ m.label }}</mat-option>
+                }
+              </mat-select>
+            </mat-form-field>
+          }
+        </div>
+      }
+    </div>
+  }
+
+  <!-- Map body: kept in the DOM (hidden, not destroyed) so the ViewChild persists -->
+  <div class="map-vis__body" [class.map-vis__body--hidden]="!simple && !isOpen">
+    <div #map class="map-vis__canvas"
+         [style.width]="options.size.width || '100%'"
+         [style.height]="options.size.height || '400px'"></div>
+
+    @if (loading) {
+      <div class="map-vis__loading">Loading map…</div>
+    }
+
+    @if (legend.length && currentMode !== 'heatmap') {
+      <div class="map-vis__legend">
+        @for (entry of legend; track entry.label) {
+          <div class="map-vis__legend-row">
+            <span class="map-vis__legend-swatch" [style.background]="entry.color"></span>
+            <span class="map-vis__legend-label">{{ entry.label }}</span>
+          </div>
+        }
+      </div>
+    }
+
+    @if (!simple) {
+      <div #resizeBarRef class="map-vis__resize" (mousedown)="startResize($event)"
+           title="Drag to resize the map">
+        <span class="map-vis__resize-grip"></span>
+      </div>
+    }
+  </div>
+</div>

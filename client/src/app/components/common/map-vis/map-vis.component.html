@@ -27,7 +27,7 @@
             <mat-form-field appearance="outline" class="map-vis__select" subscriptSizing="dynamic">
               <mat-label>Display</mat-label>
               <mat-select [value]="currentMode" (selectionChange)="changeMapMode($event.value)">
-                @for (m of possibleModes; track m.value) {
+                @for (m of displayModes; track m.value) {
                   <mat-option [value]="m.value">{{ m.label }}</mat-option>
                 }
               </mat-select>

@@ -14,6 +14,8 @@ export const routes: Routes = [
     { path: 'people', loadComponent: () => import('./components/people/browse-people/browse-people.component').then(m => m.BrowsePeopleComponent) },
     { path: 'people/:id', loadComponent: () => import('./components/people/person-details/person-details.component').then(m => m.PersonDetailsComponent) },
     { path: 'dashboards', loadComponent: () => import('./components/dashboards/dashboards.component').then(m => m.DashboardsComponent) },
+    { path: 'dashboards/overview', loadComponent: () => import('./components/dashboards/overview/overview.component').then(m => m.OverviewDashboardComponent) },
+    { path: 'dashboards/coverage', loadComponent: () => import('./components/dashboards/coverage/coverage.component').then(m => m.CoverageComponent) },
     { path: 'dashboards/composition', loadComponent: () => import('./components/dashboards/composition/composition.component').then(m => m.CompositionDashboardComponent) },
     { path: 'dashboards/people-composition', loadComponent: () => import('./components/dashboards/people-composition/people-composition.component').then(m => m.PeopleCompositionDashboardComponent) },
     { path: 'dashboards/comparison', loadComponent: () => import('./components/dashboards/comparison/comparison.component').then(m => m.ComparisonDashboardComponent) },

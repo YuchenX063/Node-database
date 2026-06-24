@@ -8,6 +8,8 @@
 
 const db = require("../models");
 const { parseIntParam, networkCache, cacheKey } = require("../utils/network");
+const { childIds, buildOverview } = require("../utils/overview");
+const { buildCoverage } = require("../utils/coverage");
 
 // The five canonical institution functions (from functions.csv). instFunction
 // can be a compound string like "consecrated life institutions and educational
@@ -392,6 +394,136 @@ exports.getGeo = async (req, res) => {
             years,
             points
         };
+        networkCache.set(key, result);
+        res.send(result);
+    } catch (error) {
+        return res.status(500).json({ message: error.message });
+    }
+};
+
+// ---- Overview dashboard ("god view"): server-side cross-filtering ----
+//
+// The browser holds NO data. It posts the current filter state to /overview and
+// gets back only the panel results. We aggregate in-memory over a fact array
+// built once per process (the corpus is static), so each request is cheap and
+// the payload is a few KB instead of the whole ~700 KB corpus.
+
+const OVERVIEW_NOTE = 'Counts are distinct institutions (or distinct people), deduplicated across years; branching identities are counted as separate houses. Coverage grows across the two year-islands (c. 1834-1840 and 1860-1870), so totals reflect the source\'s widening reach as much as real growth.';
+
+// Internal fact array, built once. Each fact:
+//   { i,y,f,t,d,s,lat,lng, pp:[personIds], o:[orders], _c:[childInstitutionIds] }
+let _factsPromise = null;
+let _factYears = [];
+
+function loadFacts() {
+    if (!_factsPromise) _factsPromise = buildFactArray();
+    return _factsPromise;
+}
+
+async function buildFactArray() {
+    // GROUP BY ar.ID (the PK) lets MySQL treat the other ar.* columns as
+    // functionally dependent. orders fan-out is collapsed by GROUP_CONCAT.
+    const rows = await db.sequelize.query(
+        `SELECT ar.ID AS recID, ar.instID AS instID, ar.year AS year,
+                ar.instFunction AS fn, ar.instType AS type,
+                ar.diocese_reg AS diocese, ar.stateOrig AS state,
+                ar.latitude AS lat, ar.longitude AS lng,
+                GROUP_CONCAT(DISTINCT oiar.\`order\`) AS orders
+         FROM almanacRecords ar
+         LEFT JOIN orderInAlmanacRecords oiar ON oiar.almanacRecordID = ar.ID
+         WHERE ar.year IS NOT NULL
+         GROUP BY ar.ID`,
+        { type: db.Sequelize.QueryTypes.SELECT }
+    );
+
+    // Person ids per record (separate query, not GROUP_CONCAT, to avoid
+    // truncation on big institutions). recID -> [persID, ...].
+    const personRows = await db.sequelize.query(
+        `SELECT piar.almanacRecordID AS recID, piar.persID AS persID
+         FROM personInAlmanacRecords piar
+         JOIN almanacRecords ar ON ar.ID = piar.almanacRecordID
+         WHERE ar.year IS NOT NULL AND piar.persID IS NOT NULL
+         GROUP BY piar.almanacRecordID, piar.persID`,
+        { type: db.Sequelize.QueryTypes.SELECT }
+    );
+    const personsByRec = new Map();
+    for (const pr of personRows) {
+        let arr = personsByRec.get(pr.recID);
+        if (!arr) { arr = []; personsByRec.set(pr.recID, arr); }
+        arr.push(pr.persID);
+    }
+
+    const clean = v => (v && String(v).trim() ? String(v).trim() : null);
+    const round = n => {
+        const x = Number(n);
+        return Number.isFinite(x) ? Math.round(x * 1000) / 1000 : null;
+    };
+
+    const facts = rows.map(r => {
+        const i = r.instID;
+        return {
+            i,
+            y: Number(r.year),
+            f: primaryFunction(r.fn),
+            t: clean(r.type),
+            d: clean(r.diocese) || 'Unknown',
+            s: clean(r.state),
+            lat: round(r.lat),
+            lng: round(r.lng),
+            pp: personsByRec.get(r.recID) || [],
+            o: r.orders ? String(r.orders).split(',').map(s => s.trim()).filter(Boolean) : [],
+            _c: childIds(i)
+        };
+    });
+    _factYears = Array.from(new Set(facts.map(f => f.y))).sort((a, b) => a - b);
+    return facts;
+}
+
+// POST /api/stats/overview  body: { entity, years[], functions[], types[], dioceses[] }
+// Returns { kpis, functions, types, dioceses, years, map, meta } — just the panels.
+exports.getOverview = async (req, res) => {
+    const body = req.body || {};
+    const entity = body.entity === 'people' ? 'people' : 'institutions';
+    const arr = v => (Array.isArray(v) ? v : []);
+    const yearsArr = arr(body.years).map(Number).filter(Number.isFinite);
+    const fnArr = arr(body.functions).map(String);
+    const typeArr = arr(body.types).map(String);
+    const dioArr = arr(body.dioceses).map(String);
+
+    // Stable cache key (data is static, so identical filter states are free).
+    const j = a => a.slice().sort().join(',');
+    const key = `stats/overview?e=${entity}&y=${j(yearsArr.map(String))}&f=${j(fnArr)}&t=${j(typeArr)}&d=${j(dioArr)}`;
+    const cached = networkCache.get(key);
+    if (cached) return res.send(cached);
+
+    try {
+        const facts = await loadFacts();
+        const state = {
+            years: new Set(yearsArr),
+            functions: new Set(fnArr),
+            types: new Set(typeArr),
+            dioceses: new Set(dioArr)
+        };
+        const result = buildOverview(facts, state, entity, _factYears, [...FUNCTION_BUCKETS, OTHER_BUCKET]);
+        result.meta = { entity, years: _factYears, note: OVERVIEW_NOTE };
+        networkCache.set(key, result);
+        res.send(result);
+    } catch (error) {
+        return res.status(500).json({ message: error.message });
+    }
+};
+
+// GET /api/stats/coverage — "shape of the data": diocese x year matrix plus a
+// spatial 0.5deg binned heatmap. Aggregated over the same cached fact array.
+exports.getCoverage = async (req, res) => {
+    const key = cacheKey('stats/coverage', {});
+    const cached = networkCache.get(key);
+    if (cached) return res.send(cached);
+
+    try {
+        const facts = await loadFacts();
+        const result = buildCoverage(facts, _factYears);
+        result.note = 'Coverage = distinct institutions recorded for a diocese in a year. It reflects how thoroughly the almanacs documented each see over time, not the true size of the church — empty cells are years a diocese was not published or collected.';
         networkCache.set(key, result);
         res.send(result);
     } catch (error) {

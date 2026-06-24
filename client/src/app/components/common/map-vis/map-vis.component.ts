@@ -1,6 +1,6 @@
 import {
-  Component, Input, OnInit, AfterViewInit, ViewChild, ElementRef, OnChanges, SimpleChanges,
-  HostListener, ChangeDetectorRef
+  Component, Input, Output, EventEmitter, OnInit, AfterViewInit, ViewChild, ElementRef,
+  OnChanges, SimpleChanges, HostListener, ChangeDetectorRef
 } from '@angular/core';
 import { FormsModule } from '@angular/forms';
 import { CommonModule } from '@angular/common';
@@ -36,9 +36,22 @@ export class MapVisComponent {
   @Input() fillScreen: boolean = false;
   /** Legend entries (label + colour) overlaid on the map; empty = hidden. */
   @Input() legend: LegendEntry[] = [];
+  /**
+   * Opt-in: turn the map into a cross-filter control. When true, clicking near
+   * any data point emits that point's payload via (featureClick) — works in
+   * every display mode (heatmap included) by hit-testing the data directly, not
+   * a specific layer. Off by default so existing maps are unaffected.
+   */
+  @Input() clickToSelect: boolean = false;
+  @Output() featureClick = new EventEmitter<any>();
+  /** Display modes to hide from the in-map control, e.g. ['cluster']. */
+  @Input() excludeModes: string[] = [];
+  /** When false, the map does NOT recenter on data updates (the host controls
+   *  the view, e.g. via fitToBounds). Initial centering still applies. */
+  @Input() autoCenter: boolean = true;
   @Input() options: {
     zoom?: number;
-    mode?: 'normal' | 'heatmap' | 'cluster' | 'point';
+    mode?: 'normal' | 'heatmap' | 'cluster' | 'point' | 'bins';
     modeControl?: boolean;
     modeOptions?: any;
     center?: { lat: number; lng: number };
@@ -64,8 +77,17 @@ export class MapVisComponent {
     { value: 'normal', label: 'Normal' },
     { value: 'heatmap', label: 'Heatmap' },
     { value: 'cluster', label: 'Cluster' },
-    { value: 'point', label: 'Points' }
+    { value: 'point', label: 'Points' },
+    { value: 'bins', label: 'Grid' }
   ];
+  private binsPopup?: any;
+  private binsConfig: any = null;
+  private binsViewHandler?: any;
+
+  /** Modes shown in the Display control, minus any the host excluded. */
+  get displayModes() {
+    return this.possibleModes.filter(m => !this.excludeModes.includes(m.value));
+  }
   loading: boolean = true;
 
   private isResizing = false;
@@ -154,7 +176,7 @@ export class MapVisComponent {
    */
   ngOnChanges(changes: SimpleChanges): void {
     if (!this.map) return;
-    if (changes['data'] && Array.isArray(this.data) && this.data.length > 0) {
+    if (changes['data'] && Array.isArray(this.data) && this.data.length > 0 && this.autoCenter) {
       this.updateMapCenter();
     }
     // Honour a user-selected mode over options.mode so it survives data updates.
@@ -249,6 +271,41 @@ export class MapVisComponent {
     this.map.on('load', () => {
       this.renderMapFeatures();
     });
+
+    // Cross-filter mode: a single map-level click/hover hit-test against the
+    // data, so selection works regardless of the active display mode.
+    if (this.clickToSelect) {
+      this.map.on('click', (e: any) => {
+        const hit = this.nearestPoint(e.point);
+        if (hit) this.featureClick.emit(hit);
+      });
+      this.map.on('mousemove', (e: any) => {
+        this.map.getCanvas().style.cursor = this.nearestPoint(e.point) ? 'pointer' : '';
+      });
+    }
+  }
+
+  /**
+   * Returns the data point whose projected position is within ~22px of the given
+   * screen point, or null. Used by clickToSelect mode to hit-test in any display
+   * mode (the heatmap has no clickable features of its own).
+   */
+  private nearestPoint(screenPoint: { x: number; y: number }): any {
+    if (!this.map || !Array.isArray(this.data)) return null;
+    let best: any = null;
+    let bestDist = Infinity;
+    for (const d of this.data) {
+      const lat = Number(d.latitude), lng = Number(d.longitude);
+      // Skip missing or out-of-range coords — project() throws on those.
+      if (!Number.isFinite(lat) || !Number.isFinite(lng) || Math.abs(lat) > 90 || Math.abs(lng) > 180) continue;
+      let p;
+      try { p = this.map.project([lng, lat]); } catch { continue; }
+      const dx = p.x - screenPoint.x;
+      const dy = p.y - screenPoint.y;
+      const dist = dx * dx + dy * dy;
+      if (dist < bestDist) { bestDist = dist; best = d; }
+    }
+    return best && Math.sqrt(bestDist) <= 22 ? best : null;
   }
 
   /**
@@ -323,7 +380,9 @@ export class MapVisComponent {
       this.addClusterLayer(geojson);
     } else if (this.currentMode === 'point') {
       this.addPointLayer(geojson);
-    }else {
+    } else if (this.currentMode === 'bins') {
+      this.addBinsLayer();
+    } else {
       this.addMarkerLayer();
     }
   }
@@ -359,6 +418,153 @@ export class MapVisComponent {
         this.router.navigate([feature.properties.internalLink]);
       }
     });
+  }
+
+  /**
+   * Grid-binning mode: aggregate the data points into a lat/lng grid and render
+   * each occupied cell as a filled square shaded (discrete sqrt levels) by its
+   * total — a lightweight gridded choropleth. Reusable for any density/coverage
+   * view.
+   *
+   * Each point contributes its `options.value` (default 1) to the cell it falls
+   * in. By default the grid REFINES as you zoom in (cells halve each zoom level)
+   * so detail emerges on zoom. Configurable via options.modeOptions.bins:
+   *   { size?: degrees at base zoom (default 0.5), ramp?: string[] light->dark,
+   *     opacity?: number, adaptive?: boolean (default true), minSize?: degrees }
+   */
+  private addBinsLayer(): void {
+    const cfg = this.options.modeOptions?.bins || {};
+    const ramp: string[] = cfg.ramp || ['#bdd7e7', '#6baed6', '#3182bd', '#08519c', '#08306b'];
+    this.binsConfig = {
+      baseSize: cfg.size || 0.5,
+      ramp,
+      opacity: cfg.opacity ?? 0.82,
+      adaptive: cfg.adaptive !== false,
+      // Scale the colour ramp to the darkest cell currently IN VIEW (not the
+      // global max), so local variation stays visible when you zoom past
+      // outliers. Recomputed on every pan/zoom.
+      viewportScale: cfg.viewportScale !== false,
+      baseZoom: this.options.zoom || 3,
+      minSize: cfg.minSize || (cfg.size || 0.5) / 16
+    };
+
+    // Discrete colour per level (1..N) — reads variation better than a gradient.
+    const matchExpr: any[] = ['match', ['get', 'level']];
+    ramp.forEach((col, i) => matchExpr.push(i + 1, col));
+    matchExpr.push(ramp[ramp.length - 1]);
+
+    this.map.addSource('data-bins-src', { type: 'geojson', data: this.binsGeojson() });
+    this.map.addLayer({
+      id: 'data-bins-fill',
+      type: 'fill',
+      source: 'data-bins-src',
+      paint: {
+        'fill-color': matchExpr,
+        'fill-opacity': this.binsConfig.opacity,
+        'fill-outline-color': 'rgba(255,255,255,0.25)'
+      }
+    });
+
+    // Hover shows the cell's total.
+    this.binsPopup = new maplibregl.Popup({ closeButton: false, closeOnClick: false, offset: 4 });
+    this.map.on('mousemove', 'data-bins-fill', (e: any) => {
+      const f = e.features?.[0];
+      if (!f) return;
+      this.map.getCanvas().style.cursor = 'pointer';
+      this.binsPopup.setLngLat(e.lngLat).setHTML(`<strong>${f.properties.value}</strong>`).addTo(this.map);
+    });
+    this.map.on('mouseleave', 'data-bins-fill', () => {
+      this.map.getCanvas().style.cursor = '';
+      this.binsPopup?.remove();
+    });
+
+    // Recompute on pan/zoom: re-bin at the zoom-appropriate size and re-scale
+    // the colour ramp to the cells now in view.
+    if (this.binsConfig.adaptive || this.binsConfig.viewportScale) {
+      this.binsViewHandler = () => {
+        const src = this.map?.getSource('data-bins-src');
+        if (src) src.setData(this.binsGeojson());
+      };
+      this.map.on('moveend', this.binsViewHandler);
+    }
+  }
+
+  /** Cell size for the current zoom (halves each level in beyond base zoom). */
+  private currentBinSize(): number {
+    const c = this.binsConfig;
+    if (!c.adaptive || !this.map) return c.baseSize;
+    const steps = Math.max(0, Math.round(this.map.getZoom() - c.baseZoom));
+    return Math.max(c.minSize, c.baseSize / Math.pow(2, steps));
+  }
+
+  /** Aggregate this.data into square cells of the current size; one feature each. */
+  private binsGeojson(): any {
+    const size = this.currentBinSize();
+    const cells = new Map<string, { lat: number; lng: number; value: number }>();
+    for (const item of this.data) {
+      const lat = Number(item.latitude), lng = Number(item.longitude);
+      if (!Number.isFinite(lat) || !Number.isFinite(lng) || Math.abs(lat) > 90 || Math.abs(lng) > 180) continue;
+      const blat = Math.floor(lat / size) * size;
+      const blng = Math.floor(lng / size) * size;
+      const key = blat.toFixed(4) + '|' + blng.toFixed(4);
+      let c = cells.get(key);
+      if (!c) { c = { lat: blat, lng: blng, value: 0 }; cells.set(key, c); }
+      c.value += (item.options?.value ?? 1);
+    }
+
+    // Scale the ramp to the darkest cell IN VIEW (so local variation survives
+    // big outliers like New York), falling back to the global max if the
+    // viewport is empty.
+    let bounds: any = null;
+    if (this.binsConfig.viewportScale && this.map) { try { bounds = this.map.getBounds(); } catch { /* not ready */ } }
+    let max = 0;
+    for (const c of cells.values()) {
+      if (bounds) {
+        const clat = c.lat + size / 2, clng = c.lng + size / 2;
+        if (clat < bounds.getSouth() || clat > bounds.getNorth() || clng < bounds.getWest() || clng > bounds.getEast()) continue;
+      }
+      if (c.value > max) max = c.value;
+    }
+    if (!max) for (const c of cells.values()) if (c.value > max) max = c.value;
+    max = max || 1;
+
+    const n = this.binsConfig.ramp.length;
+    const sm = Math.sqrt(max);
+    const features = Array.from(cells.values()).map(c => ({
+      type: 'Feature',
+      properties: { value: c.value, level: Math.min(n, Math.max(1, Math.ceil((Math.sqrt(c.value) / sm) * n))) },
+      geometry: {
+        type: 'Polygon',
+        coordinates: [[
+          [c.lng, c.lat], [c.lng + size, c.lat], [c.lng + size, c.lat + size], [c.lng, c.lat + size], [c.lng, c.lat]
+        ]]
+      }
+    }));
+    return { type: 'FeatureCollection', features };
+  }
+
+  /** Fit the map to the current data points (used to focus a selection). */
+  fitToData(padding = 48): void {
+    const b = this.boundsOfPoints(this.data);
+    if (b) this.fitToBounds(b, padding);
+  }
+
+  /** Fit the map to an explicit [west, south, east, north] box. */
+  fitToBounds(b: [number, number, number, number], padding = 48): void {
+    if (!this.map) return;
+    this.map.fitBounds([[b[0], b[1]], [b[2], b[3]]], { padding, maxZoom: 9, duration: 0 });
+  }
+
+  private boundsOfPoints(pts: any[]): [number, number, number, number] | null {
+    if (!Array.isArray(pts) || !pts.length) return null;
+    let w = Infinity, e = -Infinity, s = Infinity, n = -Infinity;
+    for (const d of pts) {
+      const lat = Number(d.latitude), lng = Number(d.longitude);
+      if (!Number.isFinite(lat) || !Number.isFinite(lng) || Math.abs(lat) > 90 || Math.abs(lng) > 180) continue;
+      if (lng < w) w = lng; if (lng > e) e = lng;
+      if (lat < s) s = lat; if (lat > n) n = lat;
+    }
+    return w === Infinity ? null : [w, s, e, n];
   }
 
   /**
@@ -545,13 +751,13 @@ export class MapVisComponent {
     [
       'data-heatmap', 'data-heatmap-points',
       'data-cluster', 'data-cluster-count', 'data-unclustered-point',
-      'data-point-layer'
+      'data-point-layer', 'data-bins-fill'
     ].forEach(layerId => {
       if (this.map && this.map.getLayer(layerId)) {
         this.map.removeLayer(layerId);
       }
     });
-    ['data-heatmap-src', 'data-cluster-src', 'data-point-src'].forEach(srcId => {
+    ['data-heatmap-src', 'data-cluster-src', 'data-point-src', 'data-bins-src'].forEach(srcId => {
       if (this.map && this.map.getSource(srcId)) {
         this.map.removeSource(srcId);
       }
@@ -563,6 +769,10 @@ export class MapVisComponent {
       this.map.off('mouseenter', 'data-cluster');
       this.map.off('mouseleave', 'data-cluster');
       this.map.off('click', 'data-point-layer');
+      this.map.off('mousemove', 'data-bins-fill');
+      this.map.off('mouseleave', 'data-bins-fill');
+      if (this.binsViewHandler) { this.map.off('moveend', this.binsViewHandler); this.binsViewHandler = undefined; }
+      this.binsPopup?.remove();
     }
   }
 

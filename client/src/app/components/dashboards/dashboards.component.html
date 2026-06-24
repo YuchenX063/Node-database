@@ -1,5 +1,43 @@
 <div class="dashboards-wrapper">
     <section class="dashboard-group">
+        <h2 class="group-title">Start here</h2>
+        <p class="group-subtitle">One interactive board over the whole collection — click anything to filter everything.</p>
+        <div class="dashboards-grid">
+            <mat-card class="dashboard-card featured-card" (click)="navigate('/dashboards/overview')" tabindex="0" (keydown.enter)="navigate('/dashboards/overview')">
+                <mat-card-header>
+                    <mat-icon class="card-icon">dashboard</mat-icon>
+                </mat-card-header>
+                <mat-card-title>The Almanac at a Glance</mat-card-title>
+                <mat-card-content>
+                    <div class="dashboard-desc">A single "god view" of every institution the almanacs recorded. Map, function and type breakdowns, diocese rankings, and a year timeline — all linked, so clicking any function, diocese, type, or year filters the entire board at once.</div>
+                </mat-card-content>
+                <mat-card-actions>
+                    <button mat-stroked-button color="primary" (click)="$event.stopPropagation(); navigate('/dashboards/overview')">
+                        Open
+                        <mat-icon>arrow_forward</mat-icon>
+                    </button>
+                </mat-card-actions>
+            </mat-card>
+
+            <mat-card class="dashboard-card" (click)="navigate('/dashboards/coverage')" tabindex="0" (keydown.enter)="navigate('/dashboards/coverage')">
+                <mat-card-header>
+                    <mat-icon class="card-icon">grid_on</mat-icon>
+                </mat-card-header>
+                <mat-card-title>Coverage — the Shape of the Data</mat-card-title>
+                <mat-card-content>
+                    <div class="dashboard-desc">A GitHub-style grid of which dioceses were recorded in which years, beside a binned map of where records concentrate — so you can see how thoroughly the almanacs documented the church across time and space.</div>
+                </mat-card-content>
+                <mat-card-actions>
+                    <button mat-stroked-button color="primary" (click)="$event.stopPropagation(); navigate('/dashboards/coverage')">
+                        Open
+                        <mat-icon>arrow_forward</mat-icon>
+                    </button>
+                </mat-card-actions>
+            </mat-card>
+        </div>
+    </section>
+
+    <section class="dashboard-group">
         <h2 class="group-title">Geography</h2>
         <p class="group-subtitle">Where the church was, and how it moved across the continent over time.</p>
         <div class="dashboards-grid">

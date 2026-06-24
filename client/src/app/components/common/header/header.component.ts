@@ -39,16 +39,8 @@ export class HeaderComponent implements OnInit {
       route: 'people'
     },
     {
-      name: 'Institutions Map',
-      route: 'institutions/map'
-    },
-    {
-      name: 'People Map',
-      route: 'people/map'
-    },
-    {
-      name: 'Dioceses Map',
-      route: 'dioceses/map'
+      name: 'Dashboards',
+      route: 'dashboards'
     },
   ]
 

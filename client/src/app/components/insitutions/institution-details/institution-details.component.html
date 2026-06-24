@@ -177,10 +177,13 @@
                             <div class="row">
                                 <div class="cell">Attending Institutions</div>
                                 <div class="cell">
-                                    <div style="display: flex; flex-wrap: wrap; gap: 8px;">
-                                        <button mat-button class="!text-xs md:!text-sm custom-font" color="primary" *ngFor="let item of data.attendingInstitutions" [matTooltip]="item.latestInstName + ' (' + item.latestYear + ')'">
+                                    <div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center"  *ngFor="let item of data.attendingInstitutions">
+                                        <button mat-button class="!text-xs md:!text-sm custom-font" color="primary" [matTooltip]="item.latestInstName + ' (' + item.latestYear + ')'">
                                             <div [routerLink]="'/institutions/' + item.instID">{{ item.instName }}</div>
                                         </button>
+                                        @if (item.attendingFrequency) {
+                                        <div>({{ item.attendingFrequency }})</div>
+                                    }
                                     </div>
                                     <div *ngIf="data.attendingInstitutions.length === 0">None</div>
                                 </div>
@@ -190,10 +193,13 @@
                         <div class="row">
                             <div class="cell">Attended From</div>
                             <div class="cell">
-                                <div style="display: flex; flex-wrap: wrap; gap: 8px;">
-                                    <button mat-button class="!text-xs md:!text-sm custom-font" color="primary" *ngFor="let item of data.attendedBy" [matTooltip]="item.latestInstName + ' (' + item.latestYear + ')'">
+                                <div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center" *ngFor="let item of data.attendedBy">
+                                    <button mat-button class="!text-xs md:!text-sm custom-font" color="primary" [matTooltip]="item.latestInstName + ' (' + item.latestYear + ')'">
                                         <div [routerLink]="'/institutions/' + item.instID">{{ item.instName }}</div>
                                     </button>
+                                    @if (item.attendingFrequency) {
+                                        <div>({{ item.attendingFrequency }})</div>
+                                    }
                                 </div>
                                 <div *ngIf="data.attendedBy.length === 0">None</div>
                             </div>
@@ -201,40 +207,62 @@
                     }
                     </div>
                     </div>
+                    @if (dendrogramData && dendrogramData.children && dendrogramData.children.length > 0) {
+                        <div class="w-full mt-4">
+                            <app-tree-graph [data]="dendrogramData" [label]="data.instName + ' — Associated Institutions'" (nodeDoubleClick)="onDendrogramNodeDoubleClick($event)"></app-tree-graph>
+                        </div>
+                    }
                 </div>
-                <div class="w-full flex flex-col justify-center items-center">
+                <div class="w-full flex flex-col justify-content items-center">
                     <div class="map-container w-full md:!hidden flex justify-center items-center">
                         <!--<google-map [options]="mapOptionsSmall" width="400px" height="250px">
                             <map-marker [position]="{lat: data.latitude, lng: data.longitude}" [title]="data.instName" (mapClick)="clickMap($event)">
                             </map-marker>
                         </google-map> -->
-                        <app-map [data]="data"
+                        <app-map-vis [data]="mapData"
+                            [simple]="true"
                             [options]="{
-                            zoom:6, 
+                            zoom:6,
                             center: {
-                                lat: data.latitude || 40, 
+                                lat: data.latitude || 40,
                                 lng: data.longitude || -100
                             },
                             size: {width: '400px', height: '250px'}
                         }">
-                        </app-map>
+                        </app-map-vis>
                     </div>
                     <div class="map-container md:w-auto !hidden md:!flex">
                         <!--<google-map [options]="mapOptionsWide" width="500px" height="350px">
                             <map-marker [position]="{lat: data.latitude, lng: data.longitude}" [title]="data.instName" (mapClick)="clickMap($event)">
                             </map-marker>
                         </google-map>-->
-                        <app-map [data]="data"
+                        <app-map-vis [data]="mapData"
+                            [simple]="true"
                             [options]="{
-                            zoom:6, 
+                            zoom:6,
                             center: {
-                                lat: data.latitude || 40, 
+                                lat: data.latitude || 40,
                                 lng: data.longitude || -100
                             },
                             size: {width: '500px', height: '400px'}
                         }">
-                        </app-map>
+                        </app-map-vis>
                     </div>
+                    @if (network.nodes.length > 1) {
+                <div class="w-full mt-4" style="width: 500px;">
+                    <app-network-graph
+                        [data]="network"
+                        [label]="data.instName + ' — People Network'"
+                        [options]="networkOptions"
+                        [startYear]="networkStartYear"
+                        [endYear]="networkEndYear"
+                        [minYear]="data.year[0]"
+                        [maxYear]="data.year[data.year.length - 1]"
+                        [timeWindowLoading]="networkTimeWindowLoading"
+                        (timeWindowChange)="onNetworkTimeWindowChange($event)">
+                    </app-network-graph>
+                </div>
+                }
                 </div>
             </div>
             <button mat-button class="tertiary-btn custom-font" (click)="goBack()">

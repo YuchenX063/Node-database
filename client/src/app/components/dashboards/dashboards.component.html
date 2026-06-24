@@ -1,0 +1,281 @@
+<div class="dashboards-wrapper">
+    <section class="dashboard-group">
+        <h2 class="group-title">Start here</h2>
+        <p class="group-subtitle">One interactive board over the whole collection — click anything to filter everything.</p>
+        <div class="dashboards-grid">
+            <mat-card class="dashboard-card featured-card" (click)="navigate('/dashboards/overview')" tabindex="0" (keydown.enter)="navigate('/dashboards/overview')">
+                <mat-card-header>
+                    <mat-icon class="card-icon">dashboard</mat-icon>
+                </mat-card-header>
+                <mat-card-title>The Almanac at a Glance</mat-card-title>
+                <mat-card-content>
+                    <div class="dashboard-desc">A single unified view of every institution the almanacs recorded. Map, function and type breakdowns, diocese rankings, and a year timeline — all linked, so clicking any function, diocese, type, or year filters the entire board at once.</div>
+                </mat-card-content>
+                <mat-card-actions>
+                    <button mat-stroked-button color="primary" (click)="$event.stopPropagation(); navigate('/dashboards/overview')">
+                        Open
+                        <mat-icon>arrow_forward</mat-icon>
+                    </button>
+                </mat-card-actions>
+            </mat-card>
+            <mat-card class="dashboard-card" (click)="navigate('/dashboards/coverage')" tabindex="0" (keydown.enter)="navigate('/dashboards/coverage')">
+                <mat-card-header>
+                    <mat-icon class="card-icon">grid_on</mat-icon>
+                </mat-card-header>
+                <mat-card-title>Coverage — the Shape of the Data</mat-card-title>
+                <mat-card-content>
+                    <div class="dashboard-desc">A GitHub-style grid of which dioceses were recorded in which years, beside a binned map of where records concentrate — so you can see how thoroughly the almanacs documented the church across time and space.</div>
+                </mat-card-content>
+                <mat-card-actions>
+                    <button mat-stroked-button color="primary" (click)="$event.stopPropagation(); navigate('/dashboards/coverage')">
+                        Open
+                        <mat-icon>arrow_forward</mat-icon>
+                    </button>
+                </mat-card-actions>
+            </mat-card>
+        </div>
+    </section>
+    <section class="dashboard-group">
+        <h2 class="group-title">Geography</h2>
+        <p class="group-subtitle">Where the church was, and how it moved across the continent over time.</p>
+        <div class="dashboards-grid">
+            <mat-card class="dashboard-card" (click)="navigate('/dashboards/spread')" tabindex="0" (keydown.enter)="navigate('/dashboards/spread')">
+                <mat-card-header>
+                    <mat-icon class="card-icon">public</mat-icon>
+                </mat-card-header>
+                <mat-card-title>The Spread of the Church</mat-card-title>
+                <mat-card-content>
+                    <div class="dashboard-desc">Press play and watch Catholic institutions bloom westward across the map year by year — and the church's geographic centre of gravity march with them.</div>
+                </mat-card-content>
+                <mat-card-actions>
+                    <button mat-stroked-button color="primary" (click)="$event.stopPropagation(); navigate('/dashboards/spread')">
+                        Open
+                        <mat-icon>arrow_forward</mat-icon>
+                    </button>
+                </mat-card-actions>
+            </mat-card>
+
+            <mat-card class="dashboard-card" (click)="navigate('/dashboards/diocese-tracker')" tabindex="0" (keydown.enter)="navigate('/dashboards/diocese-tracker')">
+                <mat-card-header>
+                    <mat-icon class="card-icon">map</mat-icon>
+                </mat-card-header>
+                <mat-card-title>Diocese by Diocese</mat-card-title>
+                <mat-card-content>
+                    <div class="dashboard-desc">Trace the spread of the church one jurisdiction at a time — a map coloured by diocese that you can play through the years or filter to a single see.</div>
+                </mat-card-content>
+                <mat-card-actions>
+                    <button mat-stroked-button color="primary" (click)="$event.stopPropagation(); navigate('/dashboards/diocese-tracker')">
+                        Open
+                        <mat-icon>arrow_forward</mat-icon>
+                    </button>
+                </mat-card-actions>
+            </mat-card>
+        </div>
+    </section>
+
+    <section class="dashboard-group">
+        <h2 class="group-title">Institutions</h2>
+        <p class="group-subtitle">How the network of Catholic institutions grew and shifted in shape.</p>
+        <div class="dashboards-grid">
+            <mat-card class="dashboard-card" (click)="navigate('/dashboards/composition')" tabindex="0" (keydown.enter)="navigate('/dashboards/composition')">
+                <mat-card-header>
+                    <mat-icon class="card-icon">insights</mat-icon>
+                </mat-card-header>
+                <mat-card-title>The Shape of the Church</mat-card-title>
+                <mat-card-content>
+                    <div class="dashboard-desc">See how the mix of institutions — parishes, schools, hospitals, and charities — shifted across the almanac years.</div>
+                </mat-card-content>
+                <mat-card-actions>
+                    <button mat-stroked-button color="primary" (click)="$event.stopPropagation(); navigate('/dashboards/composition')">
+                        Open
+                        <mat-icon>arrow_forward</mat-icon>
+                    </button>
+                </mat-card-actions>
+            </mat-card>
+
+            <mat-card class="dashboard-card" (click)="navigate('/dashboards/comparison')" tabindex="0" (keydown.enter)="navigate('/dashboards/comparison')">
+                <mat-card-header>
+                    <mat-icon class="card-icon">bar_chart</mat-icon>
+                </mat-card-header>
+                <mat-card-title>Comparing Places</mat-card-title>
+                <mat-card-content>
+                    <div class="dashboard-desc">Set dioceses, states, or years side by side to compare how many institutions of each kind each one had.</div>
+                </mat-card-content>
+                <mat-card-actions>
+                    <button mat-stroked-button color="primary" (click)="$event.stopPropagation(); navigate('/dashboards/comparison')">
+                        Open
+                        <mat-icon>arrow_forward</mat-icon>
+                    </button>
+                </mat-card-actions>
+            </mat-card>
+
+            <mat-card class="dashboard-card" (click)="navigate('/dashboards/subset-vs-whole')" tabindex="0" (keydown.enter)="navigate('/dashboards/subset-vs-whole')">
+                <mat-card-header>
+                    <mat-icon class="card-icon">trending_up</mat-icon>
+                </mat-card-header>
+                <mat-card-title>A Part Against the Whole</mat-card-title>
+                <mat-card-content>
+                    <div class="dashboard-desc">Track one order, diocese, or state against the national total of the same kind to see who grew faster.</div>
+                </mat-card-content>
+                <mat-card-actions>
+                    <button mat-stroked-button color="primary" (click)="$event.stopPropagation(); navigate('/dashboards/subset-vs-whole')">
+                        Open
+                        <mat-icon>arrow_forward</mat-icon>
+                    </button>
+                </mat-card-actions>
+            </mat-card>
+
+            <mat-card class="dashboard-card" (click)="navigate('/dashboards/network-institutions')" tabindex="0" (keydown.enter)="navigate('/dashboards/network-institutions')">
+                <mat-card-header>
+                    <mat-icon class="card-icon">hub</mat-icon>
+                </mat-card-header>
+                <mat-card-title>The Institution Network</mat-card-title>
+                <mat-card-content>
+                    <div class="dashboard-desc">Explore how institutions connect through the people they shared — an interactive web you can filter, cluster, and search by place, type, and year.</div>
+                </mat-card-content>
+                <mat-card-actions>
+                    <button mat-stroked-button color="primary" (click)="$event.stopPropagation(); navigate('/dashboards/network-institutions')">
+                        Open
+                        <mat-icon>arrow_forward</mat-icon>
+                    </button>
+                </mat-card-actions>
+            </mat-card>
+            <!--
+            <mat-card class="dashboard-card" (click)="navigate('/dashboards/explore-institutions')" tabindex="0" (keydown.enter)="navigate('/dashboards/explore-institutions')">
+                <mat-card-header>
+                    <mat-icon class="card-icon">travel_explore</mat-icon>
+                </mat-card-header>
+                <mat-card-title>Explore Institutions on the Map</mat-card-title>
+                <mat-card-content>
+                    <div class="dashboard-desc">Browse every institution on the map — filter by name, type, or diocese, step through the years, and click any point to open its full record.</div>
+                </mat-card-content>
+                <mat-card-actions>
+                    <button mat-stroked-button color="primary" (click)="$event.stopPropagation(); navigate('/dashboards/explore-institutions')">
+                        Open
+                        <mat-icon>arrow_forward</mat-icon>
+                    </button>
+                </mat-card-actions>
+            </mat-card>
+            -->
+        </div>
+    </section>
+
+    <section class="dashboard-group">
+        <h2 class="group-title">People</h2>
+        <p class="group-subtitle">The clergy and religious behind those institutions, across time.</p>
+        <div class="dashboards-grid">
+            <mat-card class="dashboard-card" (click)="navigate('/dashboards/people-composition')" tabindex="0" (keydown.enter)="navigate('/dashboards/people-composition')">
+                <mat-card-header>
+                    <mat-icon class="card-icon">groups</mat-icon>
+                </mat-card-header>
+                <mat-card-title>Who Served the Church</mat-card-title>
+                <mat-card-content>
+                    <div class="dashboard-desc">See the makeup of Catholic personnel over time by the kind of institution — parish, school, hospital, charity — they served.</div>
+                </mat-card-content>
+                <mat-card-actions>
+                    <button mat-stroked-button color="primary" (click)="$event.stopPropagation(); navigate('/dashboards/people-composition')">
+                        Open
+                        <mat-icon>arrow_forward</mat-icon>
+                    </button>
+                </mat-card-actions>
+            </mat-card>
+
+            <mat-card class="dashboard-card" (click)="navigate('/dashboards/clergy-hierarchy')" tabindex="0" (keydown.enter)="navigate('/dashboards/clergy-hierarchy')">
+                <mat-card-header>
+                    <mat-icon class="card-icon">church</mat-icon>
+                </mat-card-header>
+                <mat-card-title>The Shape of the Clergy</mat-card-title>
+                <mat-card-content>
+                    <div class="dashboard-desc">Watch the hierarchy grow — archbishops, bishops, vicars, and priests — by the rank in each person's title.</div>
+                </mat-card-content>
+                <mat-card-actions>
+                    <button mat-stroked-button color="primary" (click)="$event.stopPropagation(); navigate('/dashboards/clergy-hierarchy')">
+                        Open
+                        <mat-icon>arrow_forward</mat-icon>
+                    </button>
+                </mat-card-actions>
+            </mat-card>
+
+            <mat-card class="dashboard-card" (click)="navigate('/dashboards/people-comparison')" tabindex="0" (keydown.enter)="navigate('/dashboards/people-comparison')">
+                <mat-card-header>
+                    <mat-icon class="card-icon">diversity_3</mat-icon>
+                </mat-card-header>
+                <mat-card-title>Comparing People</mat-card-title>
+                <mat-card-content>
+                    <div class="dashboard-desc">Set places and years side by side to compare how many people served institutions of each kind.</div>
+                </mat-card-content>
+                <mat-card-actions>
+                    <button mat-stroked-button color="primary" (click)="$event.stopPropagation(); navigate('/dashboards/people-comparison')">
+                        Open
+                        <mat-icon>arrow_forward</mat-icon>
+                    </button>
+                </mat-card-actions>
+            </mat-card>
+
+            <mat-card class="dashboard-card" (click)="navigate('/dashboards/people-subset-vs-whole')" tabindex="0" (keydown.enter)="navigate('/dashboards/people-subset-vs-whole')">
+                <mat-card-header>
+                    <mat-icon class="card-icon">moving</mat-icon>
+                </mat-card-header>
+                <mat-card-title>People: A Part Against the Whole</mat-card-title>
+                <mat-card-content>
+                    <div class="dashboard-desc">Track the people serving one order, diocese, or state against the national total serving the same kind of institution.</div>
+                </mat-card-content>
+                <mat-card-actions>
+                    <button mat-stroked-button color="primary" (click)="$event.stopPropagation(); navigate('/dashboards/people-subset-vs-whole')">
+                        Open
+                        <mat-icon>arrow_forward</mat-icon>
+                    </button>
+                </mat-card-actions>
+            </mat-card>
+
+            <mat-card class="dashboard-card" (click)="navigate('/dashboards/network-people')" tabindex="0" (keydown.enter)="navigate('/dashboards/network-people')">
+                <mat-card-header>
+                    <mat-icon class="card-icon">share</mat-icon>
+                </mat-card-header>
+                <mat-card-title>The People Network</mat-card-title>
+                <mat-card-content>
+                    <div class="dashboard-desc">See how people connect through the institutions they served together — an interactive web of shared service across the church.</div>
+                </mat-card-content>
+                <mat-card-actions>
+                    <button mat-stroked-button color="primary" (click)="$event.stopPropagation(); navigate('/dashboards/network-people')">
+                        Open
+                        <mat-icon>arrow_forward</mat-icon>
+                    </button>
+                </mat-card-actions>
+            </mat-card>
+
+            <mat-card class="dashboard-card" (click)="navigate('/dashboards/network-service')" tabindex="0" (keydown.enter)="navigate('/dashboards/network-service')">
+                <mat-card-header>
+                    <mat-icon class="card-icon">account_tree</mat-icon>
+                </mat-card-header>
+                <mat-card-title>People Serving Institutions</mat-card-title>
+                <mat-card-content>
+                    <div class="dashboard-desc">People and institutions together in one web, linked by who served where — the connective tissue between the two.</div>
+                </mat-card-content>
+                <mat-card-actions>
+                    <button mat-stroked-button color="primary" (click)="$event.stopPropagation(); navigate('/dashboards/network-service')">
+                        Open
+                        <mat-icon>arrow_forward</mat-icon>
+                    </button>
+                </mat-card-actions>
+            </mat-card>
+            <!--
+            <mat-card class="dashboard-card" (click)="navigate('/dashboards/explore-people')" tabindex="0" (keydown.enter)="navigate('/dashboards/explore-people')">
+                <mat-card-header>
+                    <mat-icon class="card-icon">person_pin_circle</mat-icon>
+                </mat-card-header>
+                <mat-card-title>Explore People on the Map</mat-card-title>
+                <mat-card-content>
+                    <div class="dashboard-desc">Browse people by where they served — filter by name or diocese, step through the years, and click any point to open the institution they served.</div>
+                </mat-card-content>
+                <mat-card-actions>
+                    <button mat-stroked-button color="primary" (click)="$event.stopPropagation(); navigate('/dashboards/explore-people')">
+                        Open
+                        <mat-icon>arrow_forward</mat-icon>
+                    </button>
+                </mat-card-actions>
+            </mat-card>
+            -->
+        </div>
+    </section>
+</div>

@@ -81,31 +81,47 @@
                 </div>
                 <div class="w-full flex flex-col justify-center items-center">
                     <div class="map-container w-full md:!hidden flex justify-center items-center">
-                        <app-map 
-                        [data]="data.allInstitutions"
+                        <app-map-vis
+                        [data]="mapData"
+                        [simple]="true"
                         [options]="{
-                            zoom:6, 
+                            zoom:6,
                             center: {
-                                lat: (data.allInstitutions[0]?.latitude || 40), 
+                                lat: (data.allInstitutions[0]?.latitude || 40),
                                 lng: (data.allInstitutions[0]?.longitude || -100)
                             },
                             size: {width: '400px', height: '250px'}
                         }">
-                        </app-map>
+                        </app-map-vis>
                     </div>
                     <div class="map-container w-full md:w-auto !hidden md:!flex">
-                        <app-map 
-                            [data]="data.allInstitutions"
+                        <app-map-vis
+                            [data]="mapData"
+                            [simple]="true"
                             [options]="{
-                            zoom:6, 
+                            zoom:6,
                             center: {
-                                lat: (data.allInstitutions[0]?.latitude || 40), 
+                                lat: (data.allInstitutions[0]?.latitude || 40),
                                 lng: (data.allInstitutions[0]?.longitude || -100)
                             },
                             size: {width: '500px', height: '400px'}
                         }">
-                        </app-map>
+                        </app-map-vis>
                     </div>
+                    @if (network.nodes.length > 1) {
+            <div class="w-full mt-4" style="width: 500px;">
+                <app-network-graph
+                    [data]="network"
+                    [label]="(data.title ? data.title + ' ' : '') + longestName + (data.suffix ? ' ' + data.suffix : '') + ' — People Network'"
+                    [startYear]="networkStartYear"
+                    [endYear]="networkEndYear"
+                    [minYear]="data.year[0]"
+                    [maxYear]="data.year[data.year.length - 1]"
+                    [timeWindowLoading]="networkTimeWindowLoading"
+                    (timeWindowChange)="onNetworkTimeWindowChange($event)">
+                </app-network-graph>
+            </div>
+            }
                 </div>
         </div>
         <div>

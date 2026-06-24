@@ -31,6 +31,8 @@ export class FilterComponent implements OnInit{
   filterValues: any = {
   };
 
+  @Output() filterButtonPressed = new EventEmitter<void>();
+
   constructor(public filterService: FilterService) {
   }
 
@@ -78,6 +80,10 @@ export class FilterComponent implements OnInit{
       filter.filteredOptions = [];
     }
     this.updateFilter(filter);
+  }
+
+  onFilterButtonClick() {
+    this.filterButtonPressed.emit();
   }
 
 }

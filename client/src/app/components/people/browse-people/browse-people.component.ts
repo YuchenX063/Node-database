@@ -71,7 +71,7 @@ filterFields: FilterField[] = [
   { type: 'autocomplete', label: 'State', keyword: 'stateOrig', active: false },
   { type: 'autocomplete', label: 'Diocese', keyword: 'diocese', active: false, autocompleteOptions: [] },
   { type: 'input', label: 'Institution Name', keyword: 'instName', active: false },
-  { type: 'range', keywordStart: 'instStartYear', keywordEnd: 'instEndYear', label: 'Year', min: 1834, max: 1870, active: true },
+  { type: 'range', keywordStart: 'instStartYear', keywordEnd: 'instEndYear', label: 'Year', min: 1833, max: 1870, active: true },
 ]
 
 constructor(
@@ -117,16 +117,23 @@ ngOnInit () {
   this.currentPage$ = this.paginationService.currentPage$;
   this.itemsPerPage$ = this.paginationService.pageSize$;
   this.filterValues$ = this.filterService.filterValues$;
+
+  // Subscribe to filter values to update local state without calling getData()
+  this.filterValues$.subscribe(filterValues => {
+    this.filterValues = filterValues;
+  });
+
+  // Subscribe to pagination changes to update local state
   combineLatest([
     this.currentPage$,
-    this.itemsPerPage$,
-    this.filterValues$
-  ]).subscribe(([currentPage, itemsPerPage, filterValues]) => {
+    this.itemsPerPage$
+  ]).subscribe(([currentPage, itemsPerPage]) => {
     this.currentPage = currentPage;
     this.itemsPerPage = itemsPerPage;
-    this.filterValues = filterValues;
-    this.getData();
   });
+
+  // Load initial data on page load
+  this.getData();
 }
 
 
@@ -172,6 +179,15 @@ getData () {
 changePage (e: PageEvent) {
   this.paginationService.setPageSize(e.pageSize);
   this.paginationService.setCurrentPage(e.pageIndex);
+  this.getData();
+}
+
+/**
+ * Called when the filter button is clicked
+ * Resets pagination to first page and fetches data with current filter values
+ */
+onFilterButtonClicked() {
+  this.paginationService.setCurrentPage(0);
   this.getData();
 }
 

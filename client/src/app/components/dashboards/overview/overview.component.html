@@ -1,0 +1,117 @@
+<div class="overview">
+  <header class="ov-header">
+    <div class="ov-title">
+      <h1>The Almanac at a Glance</h1>
+      <p class="ov-sub">Every institution the almanacs recorded, in one place. Click any
+        function, diocese, type, or year to filter the whole board — then click again to release it.</p>
+    </div>
+    <mat-button-toggle-group class="entity-toggle" [(ngModel)]="entity" (change)="onEntityChange()"
+        aria-label="Count by" hideSingleSelectionIndicator>
+      <mat-button-toggle value="institutions">Institutions</mat-button-toggle>
+      <mat-button-toggle value="people">People</mat-button-toggle>
+    </mat-button-toggle-group>
+  </header>
+
+  <div class="ov-progress" *ngIf="fetching" aria-hidden="true"></div>
+  <div class="ov-loading" *ngIf="loading">Loading the almanac…</div>
+  <div class="ov-error" *ngIf="error">{{ error }}</div>
+
+  <ng-container *ngIf="!loading && !error">
+    <!-- KPI strip: live totals over the fully-filtered set -->
+    <div class="kpi-strip">
+      <div class="kpi"><span class="kpi-num">{{ kpis.institutions | number }}</span><span class="kpi-label">institutions</span></div>
+      <div class="kpi"><span class="kpi-num">{{ kpis.people | number }}</span><span class="kpi-label">people</span></div>
+      <div class="kpi"><span class="kpi-num">{{ kpis.dioceses | number }}</span><span class="kpi-label">dioceses</span></div>
+      <div class="kpi"><span class="kpi-num">{{ kpis.states | number }}</span><span class="kpi-label">states</span></div>
+      <div class="kpi"><span class="kpi-num">{{ kpis.yearSpan }}</span><span class="kpi-label">year span</span></div>
+      <div class="kpi kpi-wide"><span class="kpi-num">{{ kpis.topFunction }}</span><span class="kpi-label">largest function</span></div>
+    </div>
+
+    <p class="metric-note">
+      <ng-container *ngIf="entity === 'institutions'">Bars count <strong>distinct institutions</strong> — deduplicated across years, with branching identities counted as separate houses.</ng-container>
+      <ng-container *ngIf="entity === 'people'">Bars count <strong>distinct people</strong> — each person counted once, however many institutions or years they served.</ng-container>
+    </p>
+
+    <!-- Active cross-filters -->
+    <div class="chip-bar" *ngIf="chips.length; else hint">
+      <span class="chip-lead">Filtering by</span>
+      <button class="chip" *ngFor="let c of chips" (click)="removeChip(c)">
+        <span class="chip-dim">{{ c.dim === 'years' ? 'year' : (c.dim === 'dioceses' ? 'diocese' : c.dim.slice(0, -1)) }}</span>
+        {{ c.label }}
+        <mat-icon>close</mat-icon>
+      </button>
+      <button class="chip-clear" (click)="clearAll()">Clear all</button>
+    </div>
+    <ng-template #hint>
+      <div class="chip-bar chip-hint">
+        <mat-icon>touch_app</mat-icon>
+        Nothing selected — every panel below is also a filter. Pick a bar to start exploring.
+      </div>
+    </ng-template>
+
+    <div class="ov-breakdowns">
+      <!-- Function + type composition -->
+      <section class="panel panel-comp">
+        <h3 class="panel-title">By function</h3>
+        <div class="bars">
+          <button class="bar-row" *ngFor="let b of functionBars"
+              [class.sel]="b.selected" [class.dim]="fnActive && !b.selected"
+              (click)="toggleFunction(b.key)">
+            <span class="bar-label">{{ b.label }}</span>
+            <span class="bar-track"><span class="bar-fill" [style.width.%]="b.pct" [style.background]="b.color"></span></span>
+            <span class="bar-value">{{ b.value | number }}</span>
+          </button>
+        </div>
+        <h3 class="panel-title">Top types</h3>
+        <div class="bars">
+          <button class="bar-row" *ngFor="let b of typeBars"
+              [class.sel]="b.selected" (click)="toggleType(b.key)">
+            <span class="bar-label" [title]="b.label">{{ b.label }}</span>
+            <span class="bar-track"><span class="bar-fill" [style.width.%]="b.pct" [style.background]="b.color"></span></span>
+            <span class="bar-value">{{ b.value | number }}</span>
+          </button>
+          <p class="bars-empty" *ngIf="!typeBars.length">No typed records in this selection.</p>
+        </div>
+      </section>
+
+      <!-- Diocese ranking -->
+      <section class="panel panel-dio">
+        <h3 class="panel-title">Top dioceses</h3>
+        <div class="bars">
+          <button class="bar-row" *ngFor="let b of dioceseBars"
+              [class.sel]="b.selected" (click)="toggleDiocese(b.key)">
+            <span class="bar-label" [title]="b.label">{{ b.label }}</span>
+            <span class="bar-track"><span class="bar-fill" [style.width.%]="b.pct" [style.background]="b.color"></span></span>
+            <span class="bar-value">{{ b.value | number }}</span>
+          </button>
+        </div>
+      </section>
+
+    </div>
+
+    <!-- Timeline (full width) -->
+    <section class="panel panel-time">
+      <h3 class="panel-title">By year <span class="panel-hint">— two almanac eras, with the unpublished gap between</span></h3>
+      <div class="year-bars">
+        <ng-container *ngFor="let y of yearBars">
+          <span class="year-gap" *ngIf="y.gapBefore" aria-hidden="true"></span>
+          <button class="year-bar" [class.sel]="y.selected"
+              [class.dim]="yearActive && !y.selected"
+              (click)="toggleYear(y.year)" [title]="y.year + ': ' + (y.value | number)">
+            <span class="ybar-track"><span class="ybar-fill" [style.height.%]="y.pct"></span></span>
+            <span class="ybar-label">{{ y.year }}</span>
+          </button>
+        </ng-container>
+      </div>
+    </section>
+
+    <!-- Map (full width) — click a point to filter to its diocese -->
+    <section class="panel panel-map">
+      <h3 class="panel-title">Where <span class="panel-hint">— click a point to filter to its diocese</span></h3>
+      <app-map-vis [data]="mapData" [isOpen]="true" [legend]="legend" [options]="mapOptions"
+        [clickToSelect]="true" [excludeModes]="['cluster']" (featureClick)="onMapSelect($event)"></app-map-vis>
+    </section>
+
+    <p class="ov-caveat">{{ note }}</p>
+  </ng-container>
+</div>

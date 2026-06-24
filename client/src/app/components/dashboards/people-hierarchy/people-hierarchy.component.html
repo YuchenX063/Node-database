@@ -1,0 +1,60 @@
+<div class="dashboard">
+  <header class="dashboard-header">
+    <h1>The Shape of the Clergy</h1>
+    <p class="subtitle">
+      The American Catholic hierarchy as it grew — archbishops, bishops, vicars, priests, and
+      those below — counted by the rank implied in each person's title, {{ scopeLabel }}.
+    </p>
+  </header>
+
+  <div class="controls">
+    <mat-form-field appearance="fill" class="control">
+      <mat-label>Diocese</mat-label>
+      <mat-select [(ngModel)]="diocese" (ngModelChange)="state = ''; onScopeChange()">
+        <mat-option value="">All Dioceses (national)</mat-option>
+        <mat-option *ngFor="let d of dioceseOptions" [value]="d">{{ d | spaceName }}</mat-option>
+      </mat-select>
+    </mat-form-field>
+
+    <mat-form-field appearance="fill" class="control">
+      <mat-label>State</mat-label>
+      <mat-select [(ngModel)]="state" (ngModelChange)="diocese = ''; onScopeChange()">
+        <mat-option *ngFor="let s of usStates" [value]="s.abbr">{{ s.name }}</mat-option>
+      </mat-select>
+    </mat-form-field>
+
+    <mat-button-toggle-group [(ngModel)]="mode" (ngModelChange)="onModeChange()" class="mode-toggle">
+      <mat-button-toggle value="count">Count</mat-button-toggle>
+      <mat-button-toggle value="share">Share</mat-button-toggle>
+    </mat-button-toggle-group>
+  </div>
+
+  <p class="mode-hint" *ngIf="mode === 'count'">
+    Showing raw counts — best for seeing the leadership ranks grow. Because the almanac's coverage
+    widened over time, counts across the gap overstate real growth; switch to <strong>Share</strong>
+    to compare the pyramid's proportions.
+  </p>
+  <p class="mode-hint" *ngIf="mode === 'share'">
+    Most clergy are listed simply as “Rev.”, so the priest band dominates and the leadership ranks
+    are thin slivers at the top. Switch to <strong>Count</strong> to see those ranks grow.
+  </p>
+
+  <div class="legend" *ngIf="!loading && !error">
+    <span class="legend-item" *ngFor="let item of legend">
+      <span class="legend-swatch" [style.background]="item.color"></span>{{ item.label }}
+    </span>
+  </div>
+
+  <div class="state-msg" *ngIf="loading">Loading…</div>
+  <div class="state-msg error" *ngIf="error">
+    {{ error }}
+    <button (click)="fetchData()">Retry</button>
+  </div>
+  <div class="state-msg" *ngIf="!loading && !error && !years.length">
+    No clergy recorded for this scope.
+  </div>
+
+  <div class="chart" #chart [class.hidden]="loading || error"></div>
+
+  <p class="caveat" *ngIf="note">{{ note }}</p>
+</div>

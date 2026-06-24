@@ -1,0 +1,157 @@
+.coverage {
+  padding: 16px clamp(12px, 3vw, 32px) 40px;
+  max-width: 1600px;
+  margin: 0 auto;
+}
+
+.cov-header {
+  margin-bottom: 16px;
+  h1 { margin: 0 0 4px; font-size: 1.7rem; }
+  .cov-sub { margin: 0; max-width: 72ch; opacity: 0.75; font-size: 0.9rem; line-height: 1.4; }
+}
+
+.cov-loading, .cov-error { padding: 48px 0; text-align: center; opacity: 0.7; }
+.cov-error { color: #d32f2f; }
+
+.cov-layout {
+  display: grid;
+  grid-template-columns: auto 1fr;
+  gap: 16px;
+  align-items: start;
+}
+@media (max-width: 1024px) {
+  .cov-layout { grid-template-columns: 1fr; }
+}
+
+.cov-panel {
+  background: var(--mat-sys-surface-container-low, rgba(127,127,127,0.05));
+  border: 1px solid var(--mat-sys-outline-variant, rgba(127,127,127,0.18));
+  border-radius: 12px;
+  padding: 14px 16px;
+  min-width: 0;
+}
+.cov-panel-head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  margin-bottom: 12px;
+  flex-wrap: wrap;
+  h3 { margin: 0; font-size: 0.95rem; font-weight: 600; }
+  .cov-hint { font-weight: 400; opacity: 0.5; font-size: 0.78rem; }
+}
+
+.cov-map-controls {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  flex-wrap: wrap;
+}
+.cov-year-select { width: 130px; }
+
+/* ---- Legend ---- */
+.cov-legend {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  .cov-legend-label { font-size: 0.72rem; opacity: 0.55; }
+  .cov-sw { width: 13px; height: 13px; border-radius: 3px; }
+}
+
+/* ---- Diocese x year grid ---- */
+.cov-grid-scroll {
+  max-height: 72vh;
+  overflow: auto;
+  padding-top: 26px;   /* room for the rotated year labels */
+}
+.cov-grid { width: max-content; }
+
+.cov-row {
+  display: flex;
+  align-items: center;
+  gap: 3px;
+  height: 15px;
+  margin-bottom: 3px;
+}
+.cov-head {
+  height: auto;
+  align-items: flex-end;
+  margin-bottom: 6px;
+}
+.cov-name {
+  width: 150px;
+  min-width: 150px;
+  font-size: 0.7rem;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  text-align: right;
+  padding-right: 6px;
+  opacity: 0.85;
+  /* button reset */
+  border: none;
+  background: transparent;
+  color: inherit;
+  font-family: inherit;
+  cursor: pointer;
+  &:hover { opacity: 1; text-decoration: underline; }
+  &.sel { opacity: 1; font-weight: 700; color: var(--mat-sys-primary, #1559a8); }
+}
+.cov-cell {
+  width: 14px;
+  height: 14px;
+  flex: 0 0 14px;
+  border-radius: 2px;
+  border: none;
+  padding: 0;
+  cursor: pointer;
+  &:hover { outline: 2px solid rgba(0,0,0,0.45); outline-offset: -1px; }
+  &.col-sel { outline: 2px solid var(--mat-sys-primary, #1559a8); outline-offset: -1px; }
+}
+.row-sel .cov-cell { outline: 1px solid rgba(21,95,168,0.6); outline-offset: -1px; }
+.cov-gap { width: 14px; flex: 0 0 14px; }
+.cov-ylabel {
+  width: 14px;
+  flex: 0 0 14px;
+  font-size: 0.62rem;
+  opacity: 0.6;
+  white-space: nowrap;
+  transform: rotate(-60deg);
+  transform-origin: left bottom;
+  height: 14px;
+  /* button reset */
+  border: none;
+  background: transparent;
+  color: inherit;
+  padding: 0;
+  cursor: pointer;
+  &:hover { opacity: 1; }
+  &.sel { opacity: 1; font-weight: 700; color: var(--mat-sys-primary, #1559a8); }
+}
+
+/* Active-diocese chip by the map */
+.cov-dio-chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  border: none;
+  cursor: pointer;
+  background: var(--mat-sys-secondary-container, #d7e3ff);
+  color: var(--mat-sys-on-secondary-container, #001b3f);
+  border-radius: 14px;
+  padding: 3px 10px;
+  font-size: 0.8rem;
+  &:hover { filter: brightness(0.95); }
+  .cov-dio-x { font-size: 1rem; line-height: 1; opacity: 0.7; }
+}
+
+/* ---- Map (app-map-vis renders its own sized container) ---- */
+.cov-map { display: block; width: 100%; }
+
+.cov-caveat {
+  margin-top: 18px;
+  font-size: 0.78rem;
+  opacity: 0.55;
+  line-height: 1.45;
+  max-width: 90ch;
+}

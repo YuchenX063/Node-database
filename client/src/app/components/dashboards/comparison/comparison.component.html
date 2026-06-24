@@ -1,0 +1,86 @@
+<div class="dashboard">
+  <header class="dashboard-header">
+    <h1>Comparing Places</h1>
+    <p class="subtitle">
+      Set any two to four places and years side by side to compare how many institutions
+      of each kind each one had — a young frontier diocese next to an established one, or
+      the same diocese at two moments.
+    </p>
+  </header>
+
+  <div class="state-msg" *ngIf="loading">Loading…</div>
+  <div class="state-msg error" *ngIf="error">{{ error }}</div>
+
+  <ng-container *ngIf="!loading && !error">
+    <div class="scopes">
+      <div class="scope-card" *ngFor="let scope of scopes; let i = index" [style.border-left-color]="scope.color">
+        <mat-form-field appearance="fill" class="field kind">
+          <mat-label>Level</mat-label>
+          <mat-select [(ngModel)]="scope.kind" (ngModelChange)="scope.place=''; onScopeChange()">
+            <mat-option value="national">National</mat-option>
+            <mat-option value="diocese">Diocese</mat-option>
+            <mat-option value="state">State</mat-option>
+          </mat-select>
+        </mat-form-field>
+
+        <mat-form-field appearance="fill" class="field place" *ngIf="scope.kind === 'diocese'">
+          <mat-label>Diocese</mat-label>
+          <mat-select [(ngModel)]="scope.place" (ngModelChange)="onScopeChange()">
+            <mat-option *ngFor="let d of dioceseOptions" [value]="d">{{ d | spaceName }}</mat-option>
+          </mat-select>
+        </mat-form-field>
+
+        <mat-form-field appearance="fill" class="field place" *ngIf="scope.kind === 'state'">
+          <mat-label>State</mat-label>
+          <mat-select [(ngModel)]="scope.place" (ngModelChange)="onScopeChange()">
+            <mat-option *ngFor="let s of usStates" [value]="s.abbr">{{ s.name }}</mat-option>
+          </mat-select>
+        </mat-form-field>
+
+        <mat-form-field appearance="fill" class="field year">
+          <mat-label>Year</mat-label>
+          <mat-select [(ngModel)]="scope.year" (ngModelChange)="onScopeChange()">
+            <mat-option *ngFor="let y of years" [value]="y">{{ y }}</mat-option>
+          </mat-select>
+        </mat-form-field>
+
+        <span class="scope-total" *ngIf="isReady(scope) && scopeTotal(scope) !== null">
+          {{ scopeTotal(scope) }} total
+        </span>
+
+        <button mat-icon-button class="remove" (click)="removeScope(i)"
+                [disabled]="scopes.length <= 1" aria-label="Remove">
+          <mat-icon>close</mat-icon>
+        </button>
+      </div>
+
+      <div class="scope-actions">
+        <button mat-stroked-button (click)="addScope()" [disabled]="scopes.length >= maxScopes">
+          <mat-icon>add</mat-icon> Add place
+        </button>
+        <mat-button-toggle-group [(ngModel)]="mode" (ngModelChange)="onModeChange()">
+          <mat-button-toggle value="count">Count</mat-button-toggle>
+          <mat-button-toggle value="share">Share</mat-button-toggle>
+        </mat-button-toggle-group>
+      </div>
+    </div>
+
+    <div class="legend">
+      <span class="legend-item" *ngFor="let scope of scopes" [class.muted]="!isReady(scope)">
+        <span class="legend-swatch" [style.background]="scope.color"></span>
+        {{ isReady(scope) ? scopeLabel(scope) : 'choose a place' }}
+        <span class="empty-flag" *ngIf="isReady(scope) && scopeTotal(scope) === 0">(no records)</span>
+      </span>
+    </div>
+
+    <p class="mode-hint">
+      Comparing different places in the <strong>same year</strong> is fair on raw counts.
+      Comparing <strong>across years</strong> is safer in Share, since the almanac’s coverage grew over time.
+    </p>
+
+  </ng-container>
+
+  <!-- Kept outside *ngIf so the ViewChild ref exists at init and the
+       ResizeObserver can attach (fixes a blank chart on first navigation) -->
+  <div class="chart" #chart [class.hidden]="loading || error"></div>
+</div>

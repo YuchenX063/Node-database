@@ -1,0 +1,21 @@
+.tree-graph-container {
+  width: 100%;
+  overflow-x: auto;
+  overflow-y: auto;
+
+  svg {
+    display: block;
+  }
+
+  .node circle {
+    cursor: pointer;
+  }
+
+  .node text {
+    user-select: none;
+  }
+
+  .link {
+    fill: none;
+  }
+}

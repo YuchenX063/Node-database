@@ -5,9 +5,14 @@ Thumbs.db
 
 certbot/
 */coverage/
+.claude
+CLAUDE.md
 
 # Static Generated doc files
 server/pages/docs
+
+# code graph
+graphify-out
 
 # === IDEs and editors ===
 /.idea

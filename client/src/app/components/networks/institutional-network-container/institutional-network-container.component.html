@@ -1,0 +1,23 @@
+<h2 class="text-2xl font-bold m-4">Institutional Network</h2>
+<div class="flex flex-row justify-start items-center w-full">
+    
+    @if (!comparisonNetwork) {
+        <div class="w-full">
+            <app-institutional-network></app-institutional-network>
+        </div>
+    } @else {
+        <div class="comparison-row">
+            <app-institutional-network initialState="NY" class="comparison-pane"></app-institutional-network>
+            <app-institutional-network initialState="NJ" class="comparison-pane"></app-institutional-network>
+        </div>
+    }
+    @if (!comparisonNetwork) {
+        <button mat-icon-button color="accent" (click)="toggleComparisonNetwork()" class="m-4">
+            <mat-icon>add</mat-icon>
+        </button>
+    } @else {
+        <button mat-icon-button color="accent" (click)="toggleComparisonNetwork()" class="m-4">
+            <mat-icon>remove</mat-icon>
+        </button>
+    }
+</div>

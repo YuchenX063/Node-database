@@ -1,0 +1,83 @@
+
+<div class="network-filter-bar flex flex-row flex-wrap items-center justify-start m-4 gap-2">
+  <mat-form-field appearance="fill" style="min-width: 180px; margin-right: 8px;">
+    <mat-label>State</mat-label>
+    <mat-select [(ngModel)]="state">
+      <mat-option *ngFor="let s of usStates" [value]="s.abbr">{{ s.name }}</mat-option>
+    </mat-select>
+  </mat-form-field>
+
+  <mat-form-field appearance="fill" style="min-width: 180px; margin-right: 8px;">
+    <mat-label>City</mat-label>
+    <input matInput [(ngModel)]="city" placeholder="City name">
+  </mat-form-field>
+
+  <mat-form-field appearance="fill" style="min-width: 180px; margin-right: 8px;">
+    <mat-label>Diocese</mat-label>
+    <mat-select [(ngModel)]="diocese">
+      <mat-option value="">All Dioceses</mat-option>
+      <mat-option *ngFor="let d of dioceseOptions" [value]="d">{{ d | spaceName }}</mat-option>
+    </mat-select>
+  </mat-form-field>
+
+  <mat-form-field appearance="fill" style="min-width: 160px; margin-right: 8px;">
+    <mat-label>Type</mat-label>
+    <mat-select [(ngModel)]="instType">
+      <mat-option value="">All Types</mat-option>
+      <mat-option *ngFor="let t of typeOptions" [value]="t">{{ t }}</mat-option>
+    </mat-select>
+  </mat-form-field>
+
+  <mat-form-field appearance="fill" style="min-width: 200px; margin-right: 8px;">
+    <mat-label>Function</mat-label>
+    <mat-select [(ngModel)]="instFunction">
+      <mat-option value="">All Functions</mat-option>
+      <mat-option *ngFor="let f of functionOptions" [value]="f">{{ f }}</mat-option>
+    </mat-select>
+  </mat-form-field>
+
+  <mat-form-field appearance="fill" style="min-width: 220px; margin-right: 8px;">
+    <mat-label>Religious Order</mat-label>
+    <mat-select [(ngModel)]="order">
+      <mat-option value="">All Orders</mat-option>
+      <mat-option *ngFor="let o of orderOptions" [value]="o">{{ o }}</mat-option>
+    </mat-select>
+  </mat-form-field>
+
+  <mat-form-field appearance="fill" style="min-width: 140px; margin-right: 8px;">
+    <mat-label>Language</mat-label>
+    <input matInput [(ngModel)]="language" placeholder="e.g. German">
+  </mat-form-field>
+
+  <mat-form-field appearance="fill" style="min-width: 110px; margin-right: 8px;">
+    <mat-label>Start Year</mat-label>
+    <input matInput type="number" [(ngModel)]="startYear" placeholder="e.g. 1850">
+  </mat-form-field>
+
+  <mat-form-field appearance="fill" style="min-width: 110px; margin-right: 8px;">
+    <mat-label>End Year</mat-label>
+    <input matInput type="number" [(ngModel)]="endYear" placeholder="e.g. 1900">
+  </mat-form-field>
+
+  <button mat-raised-button color="primary" (click)="fetchNetwork()" [disabled]="loading">
+    Filter
+  </button>
+</div>
+
+<div class="network-error m-4 flex flex-row items-center gap-3" *ngIf="error">
+  <span>{{ error }}</span>
+  <button mat-stroked-button (click)="fetchNetwork()">Retry</button>
+</div>
+
+<app-network-graph
+  *ngIf="!error"
+  label="Institutions linked through people"
+  [data]="network"
+  [options]="networkOptions"
+  [startYear]="startYear"
+  [endYear]="endYear"
+  [timeWindowLoading]="loading"
+  [truncated]="truncated"
+  [totalNodes]="totalNodes"
+  (timeWindowChange)="onTimeWindowChange($event)">
+</app-network-graph>

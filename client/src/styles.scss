@@ -4,6 +4,11 @@
 @use "tailwindcss" as *;
 @use '@angular/material' as mat;
 
+/* Typography defaults for static content pages (/pages/...) */
+@plugin "@tailwindcss/typography";
+/* Generate Tailwind classes used inside drop-in content files too */
+@source "../public/page-content/**/*.html";
+
 @include mat.core();
 
 @import url('https://fonts.googleapis.com/css2?family=Bungee+Spice&display=swap');
@@ -80,4 +85,26 @@ $dark-theme: (
 .dark-theme {
     color-scheme: dark;
     @include mat.theme($dark-theme);
+
+    .page-content {
+        @apply prose-invert;
+    }
+}
+
+/* Light-mode surface overrides. Must come AFTER the mat.theme includes:
+   the mixin emits its tokens in its own `:root` rule, so an override inside
+   the same block gets clobbered by source order.
+   The defaults come from the generated `neutral` palette in
+   app_theme-colors.scss (tones 98/96/94...), which inherits a gray-purple
+   cast from the #030D24 primary. These are warm off-whites instead.
+   (.dark-theme re-declares the tokens on its own element, so dark mode
+   is unaffected.) */
+:root {
+    --mat-sys-background: #fcfdff;            /* page background */
+    --mat-sys-surface: #fdfcf7;               /* most component surfaces */
+    --mat-sys-surface-container-lowest: #ffffff;
+    --mat-sys-surface-container-low: #faf8f1; /* cards */
+    --mat-sys-surface-container: #f7f4ec;     /* panels, dialogs */
+    --mat-sys-surface-container-high: #f3f0e7;
+    --mat-sys-surface-container-highest: #efece2;
 }

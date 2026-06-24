@@ -1,0 +1,102 @@
+<div class="dashboard">
+  <header class="dashboard-header">
+    <h1>People: A Part Against the Whole</h1>
+    <p class="subtitle">
+      Track the people serving one slice — a religious order, a diocese, or a state — against the
+      national total serving the same kind of institution, to ask whether the part grew faster or slower.
+    </p>
+  </header>
+
+  <div class="controls">
+    <div class="control-row">
+      <span class="control-label">Count people at</span>
+      <mat-button-toggle-group [(ngModel)]="categoryKind" (ngModelChange)="onCategoryKindChange()" class="kind-toggle">
+        <mat-button-toggle value="type">institutions of a type</mat-button-toggle>
+        <mat-button-toggle value="function">a function</mat-button-toggle>
+      </mat-button-toggle-group>
+      <mat-form-field appearance="fill" class="field">
+        <mat-label>Institution category</mat-label>
+        <mat-select [(ngModel)]="category" (ngModelChange)="onSelectionChange()">
+          <mat-option *ngFor="let c of categoryOptions" [value]="c">{{ c }}</mat-option>
+        </mat-select>
+      </mat-form-field>
+    </div>
+
+    <div class="control-row">
+      <span class="control-label">Compare the subset in</span>
+      <mat-form-field appearance="fill" class="field narrow">
+        <mat-label>Slice by</mat-label>
+        <mat-select [(ngModel)]="subsetKind" (ngModelChange)="onSubsetKindChange()">
+          <mat-option value="order">Religious order</mat-option>
+          <mat-option value="diocese">Diocese</mat-option>
+          <mat-option value="state">State</mat-option>
+        </mat-select>
+      </mat-form-field>
+
+      <mat-form-field appearance="fill" class="field" *ngIf="subsetKind === 'order'">
+        <mat-label>Order</mat-label>
+        <mat-select [(ngModel)]="subsetValue" (ngModelChange)="onSelectionChange()">
+          <mat-option *ngFor="let o of orderOptions" [value]="o">{{ o }}</mat-option>
+        </mat-select>
+      </mat-form-field>
+      <mat-form-field appearance="fill" class="field" *ngIf="subsetKind === 'diocese'">
+        <mat-label>Diocese</mat-label>
+        <mat-select [(ngModel)]="subsetValue" (ngModelChange)="onSelectionChange()">
+          <mat-option *ngFor="let d of dioceseOptions" [value]="d">{{ d | spaceName }}</mat-option>
+        </mat-select>
+      </mat-form-field>
+      <mat-form-field appearance="fill" class="field" *ngIf="subsetKind === 'state'">
+        <mat-label>State</mat-label>
+        <mat-select [(ngModel)]="subsetValue" (ngModelChange)="onSelectionChange()">
+          <mat-option *ngFor="let s of usStates" [value]="s.abbr">{{ s.name }}</mat-option>
+        </mat-select>
+      </mat-form-field>
+    </div>
+
+    <div class="control-row">
+      <mat-button-toggle-group [(ngModel)]="mode" (ngModelChange)="onViewChange()" class="kind-toggle">
+        <mat-button-toggle value="indexed">Indexed growth</mat-button-toggle>
+        <mat-button-toggle value="count">Raw count</mat-button-toggle>
+      </mat-button-toggle-group>
+      <mat-form-field appearance="fill" class="field narrow" *ngIf="mode === 'indexed'">
+        <mat-label>Base year</mat-label>
+        <mat-select [(ngModel)]="baseYear" (ngModelChange)="onViewChange()">
+          <mat-option *ngFor="let y of baseYearOptions" [value]="y">{{ y }}</mat-option>
+        </mat-select>
+      </mat-form-field>
+    </div>
+  </div>
+
+  <div class="state-msg" *ngIf="loading">Loading…</div>
+  <div class="state-msg error" *ngIf="error">{{ error }} <button (click)="fetchData()">Retry</button></div>
+
+  <ng-container *ngIf="!loading && !error">
+    <p class="headline" *ngIf="headline">
+      Between <strong>{{ headline.base }}</strong> and <strong>{{ headline.last }}</strong>,
+      all people at <strong>{{ categoryDisplay }}</strong>
+      <ng-container *ngIf="headline.wholePct !== null">
+        grew <strong>{{ headline.wholePct }}%</strong> ({{ headline.wholeBase }} → {{ headline.wholeLast }})</ng-container>,
+      while those in <strong>{{ subsetLabel }}</strong>
+      <ng-container *ngIf="headline.subsetPct !== null; else noSubsetBase">
+        grew <strong>{{ headline.subsetPct }}%</strong> ({{ headline.subsetBase }} → {{ headline.subsetLast }}).</ng-container>
+      <ng-template #noSubsetBase>&ngsp;had no recorded people in {{ headline.base }}.</ng-template>
+    </p>
+
+    <div class="legend">
+      <span class="legend-item"><span class="legend-line" [style.background]="'#9aa0a6'"></span> All people at {{ categoryDisplay }} (the whole)</span>
+      <span class="legend-item"><span class="legend-line" [style.background]="'#2f6f9f'"></span> {{ subsetLabel }} (the subset)</span>
+    </div>
+
+    <p class="warn" *ngIf="subsetKind === 'order' && subsetSpan">
+      In the current data this order is tagged only across {{ subsetSpan.first }}–{{ subsetSpan.last }},
+      and order tagging is sparse, so order subsets rest on small numbers.
+    </p>
+    <p class="warn" *ngIf="minSubsetCount > 0 && minSubsetCount < 5">
+      The subset dips as low as {{ minSubsetCount }} people in some years — read the indexed growth
+      cautiously and check the raw counts.
+    </p>
+  </ng-container>
+
+  <!-- Kept outside *ngIf so the ViewChild ref survives refetches -->
+  <div class="chart" #chart [class.hidden]="loading || error"></div>
+</div>

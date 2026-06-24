@@ -1,0 +1,7 @@
+<div class="flex justify-center px-4 py-8">
+    <article *ngIf="content"
+        class="page-content prose max-w-3xl w-full"
+        [innerHTML]="content"
+        (click)="onContentClick($event)">
+    </article>
+</div>

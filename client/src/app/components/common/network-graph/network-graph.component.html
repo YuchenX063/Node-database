@@ -1,0 +1,91 @@
+<mat-card [hidden]="loading" class="w-full panel shaded-header">
+  <mat-card-header class="rounded-t-lg">
+    <mat-card-title>
+      <div class="flex flex-row justify-between items-center">
+        <div class="w-full text-xl">{{ label }}</div>
+        <button mat-icon-button (click)="togglePanel()">
+          <mat-icon>{{ isOpen ? 'expand_less' : 'expand_more' }}</mat-icon>
+        </button>
+      </div>
+    </mat-card-title>
+  </mat-card-header>
+  <mat-card-content>
+    <div class="graph-controls" *ngIf="isOpen && !isEmpty">
+      <div class="search-box">
+        <mat-form-field appearance="outline" subscriptSizing="dynamic" class="search-field">
+          <mat-icon matPrefix>search</mat-icon>
+          <input matInput type="text" placeholder="Find a node…"
+                 [(ngModel)]="searchText"
+                 (ngModelChange)="onSearchChange()"
+                 (focus)="onSearchFocus()"
+                 (blur)="onSearchBlur()">
+          <button mat-icon-button matSuffix *ngIf="searchText" (click)="clearSearch()" aria-label="Clear search">
+            <mat-icon>close</mat-icon>
+          </button>
+        </mat-form-field>
+        <div class="search-results" *ngIf="searchFocused && searchMatches.length">
+          <button type="button" class="search-result" *ngFor="let match of searchMatches"
+                  (click)="selectSearchResult(match)">
+            {{ match.label }}
+          </button>
+        </div>
+      </div>
+      <div class="weight-filter" *ngIf="maxEdgeWeight > 1">
+        <label>Min shared: {{ minEdgeWeight }}</label>
+        <input type="range" min="1" [max]="maxEdgeWeight" step="1"
+               [(ngModel)]="minEdgeWeight" (ngModelChange)="onMinWeightChange()">
+      </div>
+      <button mat-stroked-button class="cluster-btn" *ngIf="legendEntries.length > 1" (click)="toggleClustering()">
+        <mat-icon>{{ clustered ? 'unfold_more' : 'workspaces' }}</mat-icon>
+        {{ clustered ? 'Expand groups' : 'Cluster groups' }}
+      </button>
+    </div>
+    <div class="legend" *ngIf="isOpen && legendEntries.length > 1">
+      <button type="button" class="legend-chip" *ngFor="let entry of legendEntries"
+              [class.legend-hidden]="entry.hidden"
+              (click)="toggleLegendGroup(entry)"
+              [attr.aria-pressed]="entry.hidden"
+              title="Click to show/hide this group">
+        <span class="legend-swatch" [style.background]="entry.color"></span>
+        {{ entry.group | spaceName }}
+      </button>
+    </div>
+    <div class="truncation-note" *ngIf="isOpen && truncated && totalNodes">
+      <mat-icon inline>info</mat-icon>
+      Showing the {{ protectedData.nodes.length || 'most' }} most connected of {{ totalNodes }} matching nodes — narrow the filters to see the rest.
+    </div>
+    <div class="empty-state" *ngIf="isOpen && isEmpty">
+      No connections matched these filters. Try widening the year range or clearing a filter.
+    </div>
+    <div class="w-full h-full min-w-0 overflow-hidden relative" #visNetworkContainer>
+      <div class="time-window-overlay" *ngIf="showTimeWindowControls && isOpen">
+        <div class="time-window-inputs">
+          <mat-form-field appearance="outline" subscriptSizing="dynamic">
+            <input matInput type="number" placeholder="From" [min]="minYear" [max]="maxYear" [(ngModel)]="timeWindowStartYear" (ngModelChange)="onTimeWindowInputChange()">
+          </mat-form-field>
+          <span class="year-sep">–</span>
+          <mat-form-field appearance="outline" subscriptSizing="dynamic">
+            <input matInput type="number" placeholder="To" [min]="minYear" [max]="maxYear" [(ngModel)]="timeWindowEndYear" (ngModelChange)="onTimeWindowInputChange()">
+          </mat-form-field>
+          <button mat-icon-button type="button" (click)="toggleTimeWindowPlayback()" [disabled]="timeWindowLoading" class="play-btn">
+            <mat-icon>{{ timeWindowPlaybackActive ? 'stop' : 'play_arrow' }}</mat-icon>
+          </button>
+        </div>
+        <div class="time-window-status" *ngIf="timeWindowStartYear !== null && timeWindowEndYear !== null">
+          {{ timeWindowStartYear }}&ndash;{{ timeWindowEndYear }}<span *ngIf="timeWindowLoading"> &middot; updating&hellip;</span>
+        </div>
+      </div>
+        <div class="w-full min-w-0 overflow-hidden" [hidden]="!isOpen">
+          <div id="vis-network" class="vis-network" #visNetwork></div>
+        </div>
+        <div id="vis-loading-bar" #visLoadingBar [hidden]="!isOpen">
+            <div class="vis-outer-border" #visOuterBorder>
+                <div id="vis-text" #visText>0%</div>
+                <div id="vis-inner-border" #visInnerBorder>
+                    <div id="vis-bar" #visBar></div>
+                </div>
+            </div>
+        </div>
+      </div>
+  </mat-card-content>
+</mat-card>

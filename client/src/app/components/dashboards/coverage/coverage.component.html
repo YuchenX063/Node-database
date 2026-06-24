@@ -1,0 +1,78 @@
+<div class="coverage">
+  <header class="cov-header">
+    <h1>Coverage — the shape of the data</h1>
+    <p class="cov-sub">How thoroughly the almanacs recorded each diocese, year by year, and where those
+      records concentrate. Darker means more institutions recorded — empty means a diocese was not
+      published or collected that year.</p>
+  </header>
+
+  <div class="cov-loading" *ngIf="loading">Loading coverage…</div>
+  <div class="cov-error" *ngIf="error">{{ error }}</div>
+
+  <ng-container *ngIf="!loading && !error">
+    <div class="cov-layout">
+      <!-- Diocese x year grid -->
+      <section class="cov-panel cov-grid-panel">
+        <div class="cov-panel-head">
+          <h3>Diocese &times; year <span class="cov-hint">— click a year or diocese to focus the map</span></h3>
+          <div class="cov-legend">
+            <span class="cov-legend-label">fewer</span>
+            <span class="cov-sw" [style.background]="cellColor(0)"></span>
+            <span class="cov-sw" *ngFor="let c of ramp" [style.background]="c"></span>
+            <span class="cov-legend-label">more</span>
+          </div>
+        </div>
+
+        <div class="cov-grid-scroll">
+          <div class="cov-grid">
+            <div class="cov-row cov-head">
+              <div class="cov-name"></div>
+              <ng-container *ngFor="let h of headerYears">
+                <div class="cov-gap" *ngIf="h.gapBefore" aria-hidden="true"></div>
+                <button class="cov-ylabel" [class.sel]="isYearSel(h.year)" (click)="pickYear(h.year)" title="Show this year on the map">{{ h.year }}</button>
+              </ng-container>
+            </div>
+
+            <div class="cov-row" *ngFor="let r of rows" [class.row-sel]="isDioceseSel(r.key)">
+              <button class="cov-name" [class.sel]="isDioceseSel(r.key)" (click)="pickDiocese(r.key)"
+                  [title]="r.name + ' — ' + r.total + ' institutions · ' + r.span + ' (click to focus the map)'">{{ r.name }}</button>
+              <ng-container *ngFor="let c of r.cells">
+                <div class="cov-gap" *ngIf="c.gapBefore" aria-hidden="true"></div>
+                <button class="cov-cell" [class.col-sel]="isYearSel(c.year)"
+                    [style.background]="cellColor(c.level)" [title]="cellTitle(r.name, c)"
+                    (click)="pickCell(r.key, c.year)"></button>
+              </ng-container>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- Spatial binned heatmap (map-vis grid mode) -->
+      <section class="cov-panel cov-map-panel">
+        <div class="cov-panel-head">
+          <h3>Where records concentrate <span class="cov-hint">— zoom in to refine the grid</span></h3>
+          <div class="cov-map-controls">
+            <mat-form-field appearance="outline" subscriptSizing="dynamic" class="cov-year-select">
+              <mat-label>Year</mat-label>
+              <mat-select [(ngModel)]="selectedYear" (selectionChange)="onYearChange()">
+                <mat-option value="all">All years</mat-option>
+                <mat-option *ngFor="let y of years" [value]="y">{{ y }}</mat-option>
+              </mat-select>
+            </mat-form-field>
+            <button class="cov-dio-chip" *ngIf="selectedDiocese" (click)="clearDiocese()" title="Clear diocese filter">
+              {{ selectedDioceseLabel }} <span class="cov-dio-x">&times;</span>
+            </button>
+            <div class="cov-legend">
+              <span class="cov-legend-label">fewer</span>
+              <span class="cov-sw" *ngFor="let c of ramp" [style.background]="c"></span>
+              <span class="cov-legend-label">more</span>
+            </div>
+          </div>
+        </div>
+        <app-map-vis class="cov-map" [data]="mapData" [isOpen]="true" [options]="mapOptions" [autoCenter]="false"></app-map-vis>
+      </section>
+    </div>
+
+    <p class="cov-caveat">{{ note }}</p>
+  </ng-container>
+</div>

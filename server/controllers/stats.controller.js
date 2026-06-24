@@ -294,10 +294,17 @@ exports.getSubsetVsWhole = async (req, res) => {
 //
 // entity=institutions (default): weight = institution-years at that cell.
 // entity=people: weight = people-years serving institutions at that cell.
+//
+// by=function (default): each point is tagged with its primary function (`fn`).
+// by=diocese: each point is tagged with its registered diocese (`diocese`), and
+//   meta.categories lists every diocese with its total weight (biggest first) so
+//   the "Diocese by Diocese" tracker can build a selector + legend.
 exports.getGeo = async (req, res) => {
     const entity = req.query.entity === 'people' ? 'people' : 'institutions';
+    const by = req.query.by === 'diocese' ? 'diocese' : 'function';
+    const catField = by === 'diocese' ? 'diocese' : 'fn';
 
-    const key = cacheKey('stats/geo', { entity });
+    const key = cacheKey('stats/geo', { entity, by });
     const cached = networkCache.get(key);
     if (cached) return res.send(cached);
 
@@ -306,36 +313,43 @@ exports.getGeo = async (req, res) => {
         if (entity === 'people') {
             rows = await db.sequelize.query(
                 `SELECT ar.latitude AS lat, ar.longitude AS lng, ar.year AS year,
-                        ar.instFunction AS fn, COUNT(piar.persID) AS weight
+                        ar.instFunction AS fn, ar.diocese_reg AS diocese, COUNT(piar.persID) AS weight
                  FROM personInAlmanacRecords piar
                  JOIN almanacRecords ar ON ar.ID = piar.almanacRecordID
                  WHERE ar.latitude IS NOT NULL AND ar.longitude IS NOT NULL AND ar.year IS NOT NULL
-                 GROUP BY ar.ID, ar.latitude, ar.longitude, ar.year, ar.instFunction`,
+                 GROUP BY ar.ID, ar.latitude, ar.longitude, ar.year, ar.instFunction, ar.diocese_reg`,
                 { type: db.Sequelize.QueryTypes.SELECT }
             );
         } else {
             rows = await db.sequelize.query(
                 `SELECT latitude AS lat, longitude AS lng, year AS year,
-                        instFunction AS fn, 1 AS weight
+                        instFunction AS fn, diocese_reg AS diocese, 1 AS weight
                  FROM almanacRecords
                  WHERE latitude IS NOT NULL AND longitude IS NOT NULL AND year IS NOT NULL`,
                 { type: db.Sequelize.QueryTypes.SELECT }
             );
         }
 
-        const pointMap = new Map();   // "year|lat|lng|fn" -> summed weight
-        const yearStats = new Map();  // year -> { total, sumLng, sumLat }
+        // Category for each row: a function bucket, or the diocese (raw value).
+        const categoryOf = r => by === 'diocese'
+            ? (r.diocese && String(r.diocese).trim() ? String(r.diocese).trim() : 'Unknown')
+            : primaryFunction(r.fn);
+
+        const pointMap = new Map();    // "year|lat|lng|cat" -> summed weight
+        const yearStats = new Map();   // year -> { total, sumLng, sumLat }
+        const catTotals = new Map();   // category -> total weight (all years)
         for (const r of rows) {
             const w = Number(r.weight) || 0;
             if (!w) continue;
             const lat = Number(r.lat);
             const lng = Number(r.lng);
             if (!Number.isFinite(lat) || !Number.isFinite(lng)) continue;
-            const fn = primaryFunction(r.fn);
+            const cat = categoryOf(r);
             const rlat = Math.round(lat * 10) / 10;
             const rlng = Math.round(lng * 10) / 10;
-            const pkey = `${r.year}|${rlat}|${rlng}|${fn}`;
+            const pkey = `${r.year}|${rlat}|${rlng}|${cat}`;
             pointMap.set(pkey, (pointMap.get(pkey) || 0) + w);
+            catTotals.set(cat, (catTotals.get(cat) || 0) + w);
             let ys = yearStats.get(r.year);
             if (!ys) { ys = { total: 0, sumLng: 0, sumLat: 0 }; yearStats.set(r.year, ys); }
             ys.total += w;
@@ -345,8 +359,15 @@ exports.getGeo = async (req, res) => {
 
         const points = [];
         for (const [pkey, weight] of pointMap) {
-            const [year, lat, lng, fn] = pkey.split('|');
-            points.push({ year: Number(year), lat: Number(lat), lng: Number(lng), fn, weight });
+            // Split off the trailing category (diocese names contain no '|').
+            const idx = pkey.indexOf('|');
+            const idx2 = pkey.indexOf('|', idx + 1);
+            const idx3 = pkey.indexOf('|', idx2 + 1);
+            const year = Number(pkey.slice(0, idx));
+            const lat = Number(pkey.slice(idx + 1, idx2));
+            const lng = Number(pkey.slice(idx2 + 1, idx3));
+            const cat = pkey.slice(idx3 + 1);
+            points.push({ year, lat, lng, [catField]: cat, weight });
         }
         const years = Array.from(yearStats.entries())
             .map(([year, s]) => ({
@@ -357,9 +378,15 @@ exports.getGeo = async (req, res) => {
             }))
             .sort((a, b) => a.year - b.year);
 
+        const categories = Array.from(catTotals.entries())
+            .map(([key, total]) => ({ key, total }))
+            .sort((a, b) => b.total - a.total);
+
         const result = {
             meta: {
                 entity,
+                by,
+                categories,
                 note: `Each point is an almanac-year location snapped to a ~0.1° grid; weight is the number of ${entity === 'people' ? 'people-years serving institutions' : 'institution-years'} there. Coverage grows across the two year-islands, so absolute spread partly reflects the source's widening reach.`
             },
             years,

@@ -34,14 +34,6 @@ export class SidenavComponent implements OnInit {
       route: 'people'
     },
     {
-      name: 'Maps',
-      route: 'maps'
-    },
-    {
-      name: 'Networks',
-      route: 'networks'
-    },
-    {
       name: 'Dashboards',
       route: 'dashboards'
     }

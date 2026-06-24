@@ -18,6 +18,22 @@
                     </button>
                 </mat-card-actions>
             </mat-card>
+
+            <mat-card class="dashboard-card" (click)="navigate('/dashboards/diocese-tracker')" tabindex="0" (keydown.enter)="navigate('/dashboards/diocese-tracker')">
+                <mat-card-header>
+                    <mat-icon class="card-icon">map</mat-icon>
+                </mat-card-header>
+                <mat-card-title>Diocese by Diocese</mat-card-title>
+                <mat-card-content>
+                    <div class="dashboard-desc">Trace the spread of the church one jurisdiction at a time — a map coloured by diocese that you can play through the years or filter to a single see.</div>
+                </mat-card-content>
+                <mat-card-actions>
+                    <button mat-stroked-button color="primary" (click)="$event.stopPropagation(); navigate('/dashboards/diocese-tracker')">
+                        Open
+                        <mat-icon>arrow_forward</mat-icon>
+                    </button>
+                </mat-card-actions>
+            </mat-card>
         </div>
     </section>
 
@@ -67,6 +83,38 @@
                 </mat-card-content>
                 <mat-card-actions>
                     <button mat-stroked-button color="primary" (click)="$event.stopPropagation(); navigate('/dashboards/subset-vs-whole')">
+                        Open
+                        <mat-icon>arrow_forward</mat-icon>
+                    </button>
+                </mat-card-actions>
+            </mat-card>
+
+            <mat-card class="dashboard-card" (click)="navigate('/dashboards/network-institutions')" tabindex="0" (keydown.enter)="navigate('/dashboards/network-institutions')">
+                <mat-card-header>
+                    <mat-icon class="card-icon">hub</mat-icon>
+                </mat-card-header>
+                <mat-card-title>The Institution Network</mat-card-title>
+                <mat-card-content>
+                    <div class="dashboard-desc">Explore how institutions connect through the people they shared — an interactive web you can filter, cluster, and search by place, type, and year.</div>
+                </mat-card-content>
+                <mat-card-actions>
+                    <button mat-stroked-button color="primary" (click)="$event.stopPropagation(); navigate('/dashboards/network-institutions')">
+                        Open
+                        <mat-icon>arrow_forward</mat-icon>
+                    </button>
+                </mat-card-actions>
+            </mat-card>
+
+            <mat-card class="dashboard-card" (click)="navigate('/dashboards/explore-institutions')" tabindex="0" (keydown.enter)="navigate('/dashboards/explore-institutions')">
+                <mat-card-header>
+                    <mat-icon class="card-icon">travel_explore</mat-icon>
+                </mat-card-header>
+                <mat-card-title>Explore Institutions on the Map</mat-card-title>
+                <mat-card-content>
+                    <div class="dashboard-desc">Browse every institution on the map — filter by name, type, or diocese, step through the years, and click any point to open its full record.</div>
+                </mat-card-content>
+                <mat-card-actions>
+                    <button mat-stroked-button color="primary" (click)="$event.stopPropagation(); navigate('/dashboards/explore-institutions')">
                         Open
                         <mat-icon>arrow_forward</mat-icon>
                     </button>
@@ -137,6 +185,54 @@
                 </mat-card-content>
                 <mat-card-actions>
                     <button mat-stroked-button color="primary" (click)="$event.stopPropagation(); navigate('/dashboards/people-subset-vs-whole')">
+                        Open
+                        <mat-icon>arrow_forward</mat-icon>
+                    </button>
+                </mat-card-actions>
+            </mat-card>
+
+            <mat-card class="dashboard-card" (click)="navigate('/dashboards/network-people')" tabindex="0" (keydown.enter)="navigate('/dashboards/network-people')">
+                <mat-card-header>
+                    <mat-icon class="card-icon">share</mat-icon>
+                </mat-card-header>
+                <mat-card-title>The People Network</mat-card-title>
+                <mat-card-content>
+                    <div class="dashboard-desc">See how people connect through the institutions they served together — an interactive web of shared service across the church.</div>
+                </mat-card-content>
+                <mat-card-actions>
+                    <button mat-stroked-button color="primary" (click)="$event.stopPropagation(); navigate('/dashboards/network-people')">
+                        Open
+                        <mat-icon>arrow_forward</mat-icon>
+                    </button>
+                </mat-card-actions>
+            </mat-card>
+
+            <mat-card class="dashboard-card" (click)="navigate('/dashboards/network-service')" tabindex="0" (keydown.enter)="navigate('/dashboards/network-service')">
+                <mat-card-header>
+                    <mat-icon class="card-icon">account_tree</mat-icon>
+                </mat-card-header>
+                <mat-card-title>People Serving Institutions</mat-card-title>
+                <mat-card-content>
+                    <div class="dashboard-desc">People and institutions together in one web, linked by who served where — the connective tissue between the two.</div>
+                </mat-card-content>
+                <mat-card-actions>
+                    <button mat-stroked-button color="primary" (click)="$event.stopPropagation(); navigate('/dashboards/network-service')">
+                        Open
+                        <mat-icon>arrow_forward</mat-icon>
+                    </button>
+                </mat-card-actions>
+            </mat-card>
+
+            <mat-card class="dashboard-card" (click)="navigate('/dashboards/explore-people')" tabindex="0" (keydown.enter)="navigate('/dashboards/explore-people')">
+                <mat-card-header>
+                    <mat-icon class="card-icon">person_pin_circle</mat-icon>
+                </mat-card-header>
+                <mat-card-title>Explore People on the Map</mat-card-title>
+                <mat-card-content>
+                    <div class="dashboard-desc">Browse people by where they served — filter by name or diocese, step through the years, and click any point to open the institution they served.</div>
+                </mat-card-content>
+                <mat-card-actions>
+                    <button mat-stroked-button color="primary" (click)="$event.stopPropagation(); navigate('/dashboards/explore-people')">
                         Open
                         <mat-icon>arrow_forward</mat-icon>
                     </button>

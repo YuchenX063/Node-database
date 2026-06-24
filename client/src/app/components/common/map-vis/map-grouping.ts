@@ -3,6 +3,8 @@
 // each category and a legend describing them. Used by the browse maps and the
 // map dashboards so colours/legends stay consistent across the app.
 
+import { spaceName } from '../../../pipes/space-name.pipe';
+
 export interface LegendEntry {
   label: string;
   color: string;
@@ -28,7 +30,7 @@ export const OTHER_COLOR = '#9e9e9e';
 const OTHER_LABEL = 'other / unspecified';
 
 // A wide qualitative palette for open-ended categories (type, diocese, …).
-const PALETTE = [
+export const PALETTE = [
   '#1976d2', '#388e3c', '#fbc02d', '#d32f2f', '#7b1fa2', '#0288d1', '#c2185b',
   '#ffa000', '#455a64', '#f57c00', '#0097a7', '#afb42b', '#5d4037', '#00897b',
   '#6d4c41', '#303f9f', '#7e57c2', '#43a047', '#d84315', '#8e24aa', '#cddc39',
@@ -84,7 +86,8 @@ export function buildGrouping(
     colorMap[value] = value === OTHER_LABEL ? OTHER_COLOR : PALETTE[i % PALETTE.length];
   });
   const legend: LegendEntry[] = distinct.map(value => ({
-    label: value === OTHER_LABEL ? OTHER_LABEL : titleCase(value),
+    // spaceName splits run-together names (e.g. NewYorkCity -> New York City).
+    label: value === OTHER_LABEL ? OTHER_LABEL : titleCase(spaceName(value)),
     color: colorMap[value]
   }));
   return {

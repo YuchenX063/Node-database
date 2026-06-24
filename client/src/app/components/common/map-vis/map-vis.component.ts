@@ -57,6 +57,9 @@ export class MapVisComponent {
   currentStyle: string = Array.isArray(Settings.mapTilesUrl) ? Settings.mapTilesUrl[0].url : Settings.mapTilesUrl;
   settings = Settings;
   currentMode: string = 'normal';
+  // Once the user picks a display mode from the control, remember it so a data
+  // update (e.g. the parent changing the year) doesn't revert to options.mode.
+  private userMode: string | null = null;
   possibleModes = [
     { value: 'normal', label: 'Normal' },
     { value: 'heatmap', label: 'Heatmap' },
@@ -154,7 +157,8 @@ export class MapVisComponent {
     if (changes['data'] && Array.isArray(this.data) && this.data.length > 0) {
       this.updateMapCenter();
     }
-    this.currentMode = this.options.mode || 'normal';
+    // Honour a user-selected mode over options.mode so it survives data updates.
+    this.currentMode = this.userMode ?? (this.options.mode || 'normal');
     this.renderMapFeatures();
     // Data often arrives just as the map becomes visible (e.g. a dashboard
     // revealing it after a fetch). The ResizeObserver can miss that hidden->
@@ -185,6 +189,7 @@ export class MapVisComponent {
    */
   changeMapMode(mode: string): void {
     this.currentMode = mode;
+    this.userMode = mode;
     this.renderMapFeatures();
   }
 

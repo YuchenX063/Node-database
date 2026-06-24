@@ -1,0 +1,76 @@
+<div class="dashboard">
+  <header class="dashboard-header">
+    <h1>Diocese by Diocese</h1>
+    <p class="subtitle">
+      How the spread of the church breaks down by jurisdiction. Each point is a place the almanac
+      recorded that year, coloured by its diocese — pick one to trace its own spread, or press play
+      to watch the whole patchwork fill in.
+    </p>
+  </header>
+
+  <div class="controls">
+    <mat-form-field appearance="fill" class="diocese-select" subscriptSizing="dynamic">
+      <mat-label>Diocese</mat-label>
+      <mat-select [(ngModel)]="selected" (selectionChange)="onSelectChange()">
+        <mat-option value="">All dioceses</mat-option>
+        @for (d of dioceses; track d.key) {
+          <mat-option [value]="d.key">{{ d.key | spaceName }}</mat-option>
+        }
+      </mat-select>
+    </mat-form-field>
+  </div>
+
+  <div class="state-msg" *ngIf="loading">Loading…</div>
+  <div class="state-msg error" *ngIf="error">
+    {{ error }}
+    <button (click)="fetchData()">Retry</button>
+  </div>
+
+  <div class="content" [class.hidden]="loading || error">
+    <!-- Scrubber + play -->
+    <div class="timeline" *ngIf="currentStat">
+      <button class="play-btn" type="button" (click)="togglePlay()"
+              [attr.aria-label]="isPlaying ? 'Pause' : 'Play'">
+        <mat-icon>{{ isPlaying ? 'pause' : 'play_arrow' }}</mat-icon>
+      </button>
+      <div class="year-readout">{{ currentStat.year }}</div>
+      <mat-slider class="year-slider" [min]="0" [max]="years.length - 1" step="1" discrete
+                  [displayWith]="formatYear">
+        <input matSliderThumb [(ngModel)]="yearIndex" (input)="onScrub()" />
+      </mat-slider>
+    </div>
+
+    <!-- Stat strip -->
+    <div class="stat-strip" *ngIf="currentStat">
+      <div class="stat">
+        <div class="stat-value">{{ visibleTotal | number }}</div>
+        <div class="stat-label">institution-years recorded in {{ currentStat.year }}</div>
+      </div>
+      @if (selected) {
+        <div class="stat" *ngIf="selectedSpan">
+          <div class="stat-value">{{ selectedSpan.first }}–{{ selectedSpan.last }}</div>
+          <div class="stat-label">years {{ selected | spaceName }} appears</div>
+        </div>
+      } @else {
+        <div class="stat">
+          <div class="stat-value">{{ activeDioceseCount }}</div>
+          <div class="stat-label">dioceses represented in {{ currentStat.year }}</div>
+        </div>
+      }
+    </div>
+
+    <app-map-vis
+      [data]="mapData"
+      [isOpen]="true"
+      [legend]="legend"
+      label="Diocese by Diocese"
+      [options]="mapOptions">
+    </app-map-vis>
+
+    <!-- Growth sparkline -->
+    <div class="growth-panel">
+      <div class="growth-title">{{ growthTitle }}</div>
+      <div class="growth" #growth></div>
+    </div>
+  </div>
+</div>

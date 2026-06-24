@@ -83,6 +83,8 @@ export class MapVisComponent {
   private binsPopup?: any;
   private binsConfig: any = null;
   private binsViewHandler?: any;
+  private heatConfig: any = null;
+  private heatViewHandler?: any;
 
   /** Modes shown in the Display control, minus any the host excluded. */
   get displayModes() {
@@ -584,8 +586,10 @@ export class MapVisComponent {
    */
   private addHeatmapLayer(geojson: any): void {
     let heatZoom = this.options.modeOptions?.heat?.maxZoom || 10;
-    let heatPaint = this.options.modeOptions?.heat?.paint || {
-      'heatmap-weight': ['interpolate', ['linear'], ['get', 'value'], 0, 0, 1, 1],
+    const customPaint = this.options.modeOptions?.heat?.paint;
+    let heatPaint = customPaint || {
+      // Heavier cells weigh more, capped so a single outlier doesn't dominate.
+      'heatmap-weight': ['interpolate', ['linear'], ['get', 'value'], 0, 0, 10, 1],
       'heatmap-intensity': ['interpolate', ['linear'], ['zoom'], 0, 1, 10, 3],
       'heatmap-color': [
         'interpolate', ['linear'], ['heatmap-density'],
@@ -596,7 +600,9 @@ export class MapVisComponent {
         0.8, 'rgb(239,138,98)',
         1, 'rgb(178,24,43)'
       ],
-      'heatmap-radius': ['interpolate', ['linear'], ['zoom'], 0, 2, 10, 20],
+      // Roughly-constant pixel radius so points separate (merge less) as you
+      // zoom in, and blend together when zoomed out.
+      'heatmap-radius': ['interpolate', ['linear'], ['zoom'], 0, 4, 5, 16, 10, 16],
       'heatmap-opacity': ['interpolate', ['linear'], ['zoom'], 7, 1, 10, 0]
     };
     let pointZoom = this.options.modeOptions?.point?.minZoom || 10;
@@ -628,6 +634,54 @@ export class MapVisComponent {
           this.router.navigate([feature.properties.internalLink]);
         }
       });
+
+    // Auto-exposure: rescale the heatmap's colour to the points currently in
+    // view, recomputed on pan/zoom (unless the host supplied custom paint).
+    this.heatConfig = { viewportScale: !customPaint && this.options.modeOptions?.heat?.viewportScale !== false };
+    if (this.heatConfig.viewportScale) {
+      this.tuneHeatmap();
+      this.heatViewHandler = () => this.tuneHeatmap();
+      this.map.on('moveend', this.heatViewHandler);
+    }
+  }
+
+  /**
+   * Auto-expose the heatmap to the points in view: estimate the densest visible
+   * cluster (a coarse viewport grid of capped per-cell weight) and set intensity
+   * inversely — sparse views get brighter, dense views dimmer — so local
+   * variation stays readable on pan/zoom. Only intensity is touched, so the
+   * heatmap never washes out to nothing.
+   */
+  private tuneHeatmap(): void {
+    if (!this.map || !this.map.getLayer('data-heatmap')) return;
+    let bounds: any = null;
+    try { bounds = this.map.getBounds(); } catch { /* not ready */ }
+    const W = bounds ? bounds.getWest() : -180, E = bounds ? bounds.getEast() : 180;
+    const S = bounds ? bounds.getSouth() : -90, N = bounds ? bounds.getNorth() : 90;
+
+    const GRID = 28;
+    const cells = new Map<string, number>();
+    let peak = 0, any = false;
+    for (const item of this.data) {
+      const lat = Number(item.latitude), lng = Number(item.longitude);
+      if (!Number.isFinite(lat) || !Number.isFinite(lng)) continue;
+      if (lat < S || lat > N || lng < W || lng > E) continue;
+      any = true;
+      const w = Math.min(1, (item.options?.value ?? 1) / 10);   // matches the weight cap
+      const gx = Math.min(GRID - 1, Math.floor(((lng - W) / ((E - W) || 1)) * GRID));
+      const gy = Math.min(GRID - 1, Math.floor(((lat - S) / ((N - S) || 1)) * GRID));
+      const k = gx + '_' + gy;
+      const nv = (cells.get(k) || 0) + w;
+      cells.set(k, nv);
+      if (nv > peak) peak = nv;
+    }
+    if (!any) peak = 1;
+    peak = peak || 1;
+
+    // Densest visible cell should land near the top of the colour ramp.
+    const base = Math.max(0.8, Math.min(6, 7 / peak));
+    this.map.setPaintProperty('data-heatmap', 'heatmap-intensity',
+      ['interpolate', ['linear'], ['zoom'], 0, base, 10, base * 2.6]);
   }
 
   /**
@@ -772,6 +826,7 @@ export class MapVisComponent {
       this.map.off('mousemove', 'data-bins-fill');
       this.map.off('mouseleave', 'data-bins-fill');
       if (this.binsViewHandler) { this.map.off('moveend', this.binsViewHandler); this.binsViewHandler = undefined; }
+      if (this.heatViewHandler) { this.map.off('moveend', this.heatViewHandler); this.heatViewHandler = undefined; }
       this.binsPopup?.remove();
     }
   }

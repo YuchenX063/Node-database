@@ -49,13 +49,6 @@
       </div>
     </ng-template>
 
-    <!-- Map (full width) — click a point to filter to its diocese -->
-    <section class="panel panel-map">
-      <h3 class="panel-title">Where <span class="panel-hint">— click a point to filter to its diocese</span></h3>
-      <app-map-vis [data]="mapData" [isOpen]="true" [legend]="legend" [options]="mapOptions"
-        [clickToSelect]="true" [excludeModes]="['cluster']" (featureClick)="onMapSelect($event)"></app-map-vis>
-    </section>
-
     <div class="ov-breakdowns">
       <!-- Function + type composition -->
       <section class="panel panel-comp">
@@ -110,6 +103,13 @@
           </button>
         </ng-container>
       </div>
+    </section>
+
+    <!-- Map (full width) — click a point to filter to its diocese -->
+    <section class="panel panel-map">
+      <h3 class="panel-title">Where <span class="panel-hint">— click a point to filter to its diocese</span></h3>
+      <app-map-vis [data]="mapData" [isOpen]="true" [legend]="legend" [options]="mapOptions"
+        [clickToSelect]="true" [excludeModes]="['cluster']" (featureClick)="onMapSelect($event)"></app-map-vis>
     </section>
 
     <p class="ov-caveat">{{ note }}</p>

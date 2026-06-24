@@ -9,7 +9,7 @@
                 </mat-card-header>
                 <mat-card-title>The Almanac at a Glance</mat-card-title>
                 <mat-card-content>
-                    <div class="dashboard-desc">A single "god view" of every institution the almanacs recorded. Map, function and type breakdowns, diocese rankings, and a year timeline — all linked, so clicking any function, diocese, type, or year filters the entire board at once.</div>
+                    <div class="dashboard-desc">A single unified view of every institution the almanacs recorded. Map, function and type breakdowns, diocese rankings, and a year timeline — all linked, so clicking any function, diocese, type, or year filters the entire board at once.</div>
                 </mat-card-content>
                 <mat-card-actions>
                     <button mat-stroked-button color="primary" (click)="$event.stopPropagation(); navigate('/dashboards/overview')">
@@ -18,7 +18,6 @@
                     </button>
                 </mat-card-actions>
             </mat-card>
-
             <mat-card class="dashboard-card" (click)="navigate('/dashboards/coverage')" tabindex="0" (keydown.enter)="navigate('/dashboards/coverage')">
                 <mat-card-header>
                     <mat-icon class="card-icon">grid_on</mat-icon>
@@ -36,7 +35,6 @@
             </mat-card>
         </div>
     </section>
-
     <section class="dashboard-group">
         <h2 class="group-title">Geography</h2>
         <p class="group-subtitle">Where the church was, and how it moved across the continent over time.</p>
@@ -142,7 +140,7 @@
                     </button>
                 </mat-card-actions>
             </mat-card>
-
+            <!--
             <mat-card class="dashboard-card" (click)="navigate('/dashboards/explore-institutions')" tabindex="0" (keydown.enter)="navigate('/dashboards/explore-institutions')">
                 <mat-card-header>
                     <mat-icon class="card-icon">travel_explore</mat-icon>
@@ -158,6 +156,7 @@
                     </button>
                 </mat-card-actions>
             </mat-card>
+            -->
         </div>
     </section>
 
@@ -260,7 +259,7 @@
                     </button>
                 </mat-card-actions>
             </mat-card>
-
+            <!--
             <mat-card class="dashboard-card" (click)="navigate('/dashboards/explore-people')" tabindex="0" (keydown.enter)="navigate('/dashboards/explore-people')">
                 <mat-card-header>
                     <mat-icon class="card-icon">person_pin_circle</mat-icon>
@@ -276,6 +275,7 @@
                     </button>
                 </mat-card-actions>
             </mat-card>
+            -->
         </div>
     </section>
 </div>

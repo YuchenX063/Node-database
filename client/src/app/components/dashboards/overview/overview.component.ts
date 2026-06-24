@@ -66,9 +66,11 @@ export class OverviewDashboardComponent implements OnInit, OnDestroy {
 
   mapData: any[] = [];
   legend: LegendEntry[] = [];
+  // Default to the (viewport-adaptive) heatmap for the density view; points stay
+  // available via the in-map Display control. Click-to-filter works in any mode.
   mapOptions = {
     zoom: 3.5,
-    mode: 'point' as const,
+    mode: 'heatmap' as const,
     modeControl: true,
     center: { lat: 39, lng: -95 },
     size: { width: '100%', height: '520px' }

@@ -24,6 +24,7 @@ interface GeoPoint {
   lng: number;
   fn: string;
   weight: number;
+  i?: string;   // institution id (detail mode) — enables click-through
 }
 
 // The six function buckets the server tags points with, in legend order.
@@ -59,6 +60,7 @@ export class SpreadDashboardComponent implements OnInit, AfterViewInit, OnDestro
 
   mapData: any[] = [];
   legend: LegendEntry[] = [];
+  centroidMarker: { lat: number; lng: number; color?: string; title?: string }[] = [];
   mapOptions = {
     zoom: 3.4,
     mode: 'heatmap' as const,
@@ -103,7 +105,7 @@ export class SpreadDashboardComponent implements OnInit, AfterViewInit, OnDestro
     this.error = null;
     this.stop();
     this.fetchSubscription?.unsubscribe();
-    this.fetchSubscription = this._api.getTypeRequest('stats/geo?entity=' + this.entity).subscribe({
+    this.fetchSubscription = this._api.getTypeRequest('stats/geo?entity=' + this.entity + '&detail=1').subscribe({
       next: (res: any) => {
         this.years = res.years ?? [];
         this.note = res.meta?.note ?? '';
@@ -168,6 +170,8 @@ export class SpreadDashboardComponent implements OnInit, AfterViewInit, OnDestro
       latitude: p.lat,
       longitude: p.lng,
       title: '',
+      // In the discrete Points/Normal modes, clicking navigates to the church.
+      internalLink: p.i ? '/institutions/' + p.i : undefined,
       options: {
         color: this.colorFor(this.bucket(p.fn)),
         value: p.weight,
@@ -177,6 +181,12 @@ export class SpreadDashboardComponent implements OnInit, AfterViewInit, OnDestro
     this.legend = this.functions
       .filter(f => this.enabled.has(f.key))
       .map(f => ({ label: f.label, color: f.color }));
+
+    // Centre of gravity: a marker at the current year's weighted centroid.
+    this.centroidMarker = stat
+      ? [{ lat: stat.centroidLat, lng: stat.centroidLng, color: '#ffc107', title: `Centre of gravity · ${stat.year}` }]
+      : [];
+
     this.cdr.markForCheck();
   }
 

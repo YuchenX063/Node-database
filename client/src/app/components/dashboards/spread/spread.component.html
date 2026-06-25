@@ -2,9 +2,7 @@
   <header class="dashboard-header">
     <h1>The Spread of the Church</h1>
     <p class="subtitle">
-      Watch the Catholic Church move across the continent. Each point is a place the almanac
-      recorded that year; press play to see the density bloom westward — and the church's
-      geographic centre of gravity march with it.
+      Watch the Catholic Church expand across the continent as the United States grows its borders. Each point is an institution the almanac recorded that year. Press play to see the Church grow in the West and the church's geographic center of gravity march westward with it.<br><br>By default, all types of institutions display. Click a type to remove those institutions from the visualization.
     </p>
   </header>
 
@@ -64,9 +62,14 @@
       [data]="mapData"
       [isOpen]="true"
       [legend]="legend"
+      [overlayMarkers]="centroidMarker"
       label="Spread of the Church"
       [options]="mapOptions">
     </app-map-vis>
+
+    <p class="cog-hint" *ngIf="currentStat">
+      <span class="cog-dot"></span> The amber marker is the recorded <strong>centre of gravity</strong> — the weighted average location of every institution recorded that year.
+    </p>
 
     <!-- Westward-drift sparkline -->
     <div class="drift-panel">

@@ -166,3 +166,21 @@
 .hidden {
   display: none;
 }
+
+.cog-hint {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin: 8px 2px 0;
+  font-size: 0.82rem;
+  opacity: 0.75;
+}
+.cog-dot {
+  flex: 0 0 auto;
+  width: 13px;
+  height: 13px;
+  border-radius: 50%;
+  background: #ffc107;
+  border: 2px solid #fff;
+  box-shadow: 0 0 0 3px rgba(255, 193, 7, 0.25);
+}

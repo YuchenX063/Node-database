@@ -49,6 +49,10 @@ export class MapVisComponent {
   /** When false, the map does NOT recenter on data updates (the host controls
    *  the view, e.g. via fitToBounds). Initial centering still applies. */
   @Input() autoCenter: boolean = true;
+  /** Emphasised marker(s) drawn on top of the data layer (e.g. a centroid). */
+  @Input() overlayMarkers: { lat: number; lng: number; color?: string; title?: string }[] = [];
+  /** A polyline [lng,lat][] drawn under the markers (e.g. a centroid's path). */
+  @Input() overlayTrack: [number, number][] = [];
   @Input() options: {
     zoom?: number;
     mode?: 'normal' | 'heatmap' | 'cluster' | 'point' | 'bins';
@@ -387,6 +391,69 @@ export class MapVisComponent {
     } else {
       this.addMarkerLayer();
     }
+    this.renderOverlay();   // emphasised markers + track, always on top
+  }
+
+  /**
+   * Draws the optional `track` polyline and emphasised `markers` on top of the
+   * data layer — e.g. a centroid and the path it has travelled. Re-rendered
+   * after every data/mode change so it stays above the data.
+   */
+  private renderOverlay(): void {
+    if (!this.map) return;
+    if (!this.map.isStyleLoaded()) { this.map.once('idle', () => this.renderOverlay()); return; }
+    this.removeOverlay();
+
+    if (Array.isArray(this.overlayTrack) && this.overlayTrack.length > 1) {
+      const coords = this.overlayTrack.filter(c => Array.isArray(c) && Number.isFinite(c[0]) && Number.isFinite(c[1]));
+      if (coords.length > 1) {
+        this.map.addSource('overlay-track-src', {
+          type: 'geojson',
+          data: { type: 'Feature', geometry: { type: 'LineString', coordinates: coords }, properties: {} }
+        });
+        this.map.addLayer({
+          id: 'overlay-track', type: 'line', source: 'overlay-track-src',
+          layout: { 'line-cap': 'round', 'line-join': 'round' },
+          paint: { 'line-color': '#3e2723', 'line-width': 2, 'line-opacity': 0.65, 'line-dasharray': [1.5, 1.2] }
+        });
+      }
+    }
+
+    const pts = (this.overlayMarkers || []).filter(m => m && Number.isFinite(m.lat) && Number.isFinite(m.lng));
+    if (pts.length) {
+      this.map.addSource('overlay-markers-src', {
+        type: 'geojson',
+        data: {
+          type: 'FeatureCollection',
+          features: pts.map(m => ({
+            type: 'Feature',
+            geometry: { type: 'Point', coordinates: [m.lng, m.lat] },
+            properties: { color: m.color || '#ffc107', title: m.title || '' }
+          }))
+        }
+      });
+      this.map.addLayer({
+        id: 'overlay-markers-halo', type: 'circle', source: 'overlay-markers-src',
+        paint: { 'circle-radius': 16, 'circle-color': ['get', 'color'], 'circle-opacity': 0.22 }
+      });
+      this.map.addLayer({
+        id: 'overlay-markers', type: 'circle', source: 'overlay-markers-src',
+        paint: {
+          'circle-radius': 8, 'circle-color': ['get', 'color'],
+          'circle-stroke-width': 2.5, 'circle-stroke-color': '#ffffff'
+        }
+      });
+    }
+  }
+
+  private removeOverlay(): void {
+    if (!this.map) return;
+    ['overlay-markers', 'overlay-markers-halo', 'overlay-track'].forEach(id => {
+      if (this.map.getLayer(id)) this.map.removeLayer(id);
+    });
+    ['overlay-markers-src', 'overlay-track-src'].forEach(id => {
+      if (this.map.getSource(id)) this.map.removeSource(id);
+    });
   }
 
   /**
@@ -621,19 +688,15 @@ export class MapVisComponent {
       maxzoom: heatZoom,
       paint: heatPaint
     });
+    // Heatmap is a density view, not a click-through one — no navigation here
+    // (the discrete Points / Normal modes handle click-to-detail).
     this.map.addLayer({
       id: 'data-heatmap-points',
       type: 'circle',
       source: 'data-heatmap-src',
       minzoom: pointZoom,
       paint: pointPaint
-    })
-      .on('click', 'data-heatmap-points', (e: any) => {
-        const feature = e.features[0];
-        if (feature.properties.internalLink) {
-          this.router.navigate([feature.properties.internalLink]);
-        }
-      });
+    });
 
     // Auto-exposure: rescale the heatmap's colour to the points currently in
     // view, recomputed on pan/zoom (unless the host supplied custom paint).
@@ -789,9 +852,8 @@ export class MapVisComponent {
           .setPopup(new maplibregl.Popup({ offset: 25 }).setText(item.title || 'No label'))
           .addTo(this.map);
         marker.getElement().addEventListener('click', () => {
-          if (item.internalLink) {
-            this.router.navigate(item.internalLink || ['/']);
-          }
+          const link = item.internalLink;
+          if (link) this.router.navigate(Array.isArray(link) ? link : [link]);
         });
         this.markers.push(marker);
       }

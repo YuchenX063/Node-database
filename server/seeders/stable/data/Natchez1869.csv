@@ -1,8 +1,8 @@
 ﻿instID,church_type,instName,language,instNote,placeName,region,county_orig,county_reg,city_orig,city_reg,state_orig,state_reg,latitude,longitude,attendingInstID,attendingChurch,attendingChurchFrequency,persID,persTitle,persName,persSuffix,persRole,persNote,memberType,member,affiliated,order,year,attendingPersID,attendingChurchNote,diocese,diocese_reg
-﻿nat.ms.0001,﻿cathedral,"﻿St. Mary's Cathedral, Our Lady of Sorrows",English,,,,,,﻿Natchez,﻿Natchez,﻿MS,,31.5587495,-91.4014488,,,,﻿wil_h_elder_001,﻿Rt. Rev.,﻿William Henry Elder,﻿D.D.,,,,,,,1869,﻿,﻿,﻿Natchez,Natchez
-﻿nat.ms.0001,﻿cathedral,"﻿St. Mary's Cathedral, Our Lady of Sorrows",English,,,,,,﻿Natchez,﻿Natchez,﻿MS,,31.5587495,-91.4014488,,,,﻿mat_f_grignon_001,﻿Very Rev.,﻿Mathurin F. Grignon,,﻿V.G.,,,,,,1869,﻿,﻿,﻿Natchez,Natchez
-﻿nat.ms.0001,﻿cathedral,"﻿St. Mary's Cathedral, Our Lady of Sorrows",English,,,,,,﻿Natchez,﻿Natchez,﻿MS,,31.5587495,-91.4014488,,,,﻿m_vigerie_001,﻿Rev.,﻿M. Vigerie,,,,,,,,1869,﻿,﻿,﻿Natchez,Natchez
-﻿nat.ms.0001,﻿cathedral,"﻿St. Mary's Cathedral, Our Lady of Sorrows",English,,,,,,﻿Natchez,﻿Natchez,﻿MS,,31.5587495,-91.4014488,,,,﻿ger_marty_001,﻿Rev.,﻿Germain Marty,,,,,,,,1869,﻿,﻿,﻿Natchez,Natchez
+﻿nat.ms.0001,﻿cathedral,"﻿St. Mary's Cathedral, Our Lady of Sorrows",English,,,,,,﻿Natchez,﻿Natchez,﻿MS,,31.55875,-91.401449,,,,﻿wil_h_elder_001,﻿Rt. Rev.,﻿William Henry Elder,﻿D.D.,,,,,,,1869,﻿,﻿,﻿Natchez,Natchez
+﻿nat.ms.0001,﻿cathedral,"﻿St. Mary's Cathedral, Our Lady of Sorrows",English,,,,,,﻿Natchez,﻿Natchez,﻿MS,,31.55875,-91.401449,,,,﻿mat_f_grignon_001,﻿Very Rev.,﻿Mathurin F. Grignon,,﻿V.G.,,,,,,1869,﻿,﻿,﻿Natchez,Natchez
+﻿nat.ms.0001,﻿cathedral,"﻿St. Mary's Cathedral, Our Lady of Sorrows",English,,,,,,﻿Natchez,﻿Natchez,﻿MS,,31.55875,-91.401449,,,,﻿m_vigerie_001,﻿Rev.,﻿M. Vigerie,,,,,,,,1869,﻿,﻿,﻿Natchez,Natchez
+﻿nat.ms.0001,﻿cathedral,"﻿St. Mary's Cathedral, Our Lady of Sorrows",English,,,,,,﻿Natchez,﻿Natchez,﻿MS,,31.55875,-91.401449,,,,﻿ger_marty_001,﻿Rev.,﻿Germain Marty,,,,,,,,1869,﻿,﻿,﻿Natchez,Natchez
 ﻿nat.ms.0002,﻿church,﻿Church of St. Francis of Sales,English,,,,﻿Monroe County,,﻿Aberdeen,﻿Aberdeen,﻿MS,,33.8251139,-88.5436553,,,,﻿ant_f_strake_001,﻿Rev.,﻿Anthony Strake,,,,,,,,1869,﻿,﻿,﻿Natchez,Natchez
 ﻿nat.ms.0005,﻿church,not recorded,English,,,,﻿Copiah County,,﻿Bahala,﻿Wesson,﻿MS,,31.699167,-90.396944,﻿nat.ms.0013,﻿Visited from Brookhaven,,,,,,,,,,,,1869,﻿,﻿,﻿Natchez,Natchez
 ﻿nat.ms.0006,﻿church,not recorded,English,,,,﻿Choctaw County,,﻿Bankston,﻿French Camp,﻿MS,,33.397222,-89.366667,﻿nat.ms.0019,﻿Visited from Columbus,﻿Occasionally,,,,,,,,,,,1869,﻿,﻿,﻿Natchez,Natchez
@@ -12,7 +12,7 @@
 ﻿nat.ms.0010,﻿church,not recorded,English,,,,﻿Carroll County,,﻿Black Hawk,﻿Black Hawk,﻿MS,,33.3262353,-90.011751,﻿nat.ms.0107,﻿Visited from Yazoo City,,,,,,,,,,,,1869,﻿,﻿,﻿Natchez,Natchez
 ﻿nat.ms.0011,﻿church,not recorded,English,,,,﻿Pontotoc County,﻿Prentiss County,﻿Blackland,﻿Blackland,﻿MS,,34.6400963,-88.6658876,﻿nat.ms.0019,﻿Visited from Columbus,﻿About four times a year,,,,,,,,,,,1869,﻿,﻿,﻿Natchez,Natchez
 ﻿nat.ms.0012,﻿church,not recorded,English,,,,﻿Rankin County,,﻿Brandon,﻿Brandon,﻿MS,,32.2788733,-90.001384,﻿nat.ms.0036,﻿Visited from Jackson,,,,,,,,,,,,1869,﻿,﻿,﻿Natchez,Natchez
-﻿nat.ms.0013,﻿church,﻿St. Francis of Assisium,English,,,,﻿Lawrence County,﻿Lincoln County,﻿Brookhaven,﻿Brookhaven,﻿MS,,31.5779093,-90.4401719,,,,﻿h_picherit_001,﻿Rev.,﻿Henry Picherit,,,,,,,,1869,﻿,﻿,﻿Natchez,Natchez
+﻿nat.ms.0013,﻿church,﻿St. Francis of Assisium,English,,,,﻿Lawrence County,﻿Lincoln County,﻿Brookhaven,﻿Brookhaven,﻿MS,,31.5779093,-90.4401719,,,,﻿hen_picherit_001,﻿Rev.,﻿Henry Picherit,,,,,,,,1869,﻿,﻿,﻿Natchez,Natchez
 ﻿nat.ms.0015,﻿church,not recorded,English,,,,﻿Chickasaw County,,﻿Buena Vista,﻿Buena Vista,﻿MS,,33.884444,-88.838056,﻿nat.ms.0019,﻿Visited from Columbus,﻿About four times a year,,,,,,,,,,,1869,﻿,﻿,﻿Natchez,Natchez
 ﻿nat.ms.0016,﻿church,﻿Church of the Sacred Heart,English,,,,﻿Madison County,,﻿Canton,﻿Canton,﻿MS,,32.6126381,-90.0367512,,,,﻿pat_murtagh_001,﻿Rev.,﻿Patrick Murtagh,,,,,,,,1869,﻿,﻿,﻿Natchez,Natchez
 ﻿nat.ms.0017,﻿church,not recorded,English,,,,﻿Pike County,,﻿Chatawa,﻿Chatawa,﻿MS,,31.0604559,-90.4723185,﻿nat.ms.0013,﻿Visited from Brookhaven,,,,,,,,,,,,1869,﻿,﻿,﻿Natchez,Natchez
@@ -54,36 +54,36 @@
 ﻿nat.ms.0054,﻿church,not recorded,English,﻿New church,,,,﻿Pike County,﻿Osyka,﻿Osyka,﻿MS,,31.0068453,-90.4723178,﻿nat.ms.0013,﻿Visited from Brookhaven,,,,,,,,,,,,1869,﻿,﻿,﻿Natchez,Natchez
 ﻿nat.ms.0056,﻿church,not recorded,English,,,,,﻿Lafayette County,﻿Oxford,﻿Oxford,﻿MS,,34.3659868,-89.5188246,﻿nat.ms.0033,﻿Visited from Holly Springs,,,,,,,,,,,,1869,﻿,﻿,﻿Natchez,Natchez
 ﻿nat.ms.0057,﻿church,not recorded,English,,,,﻿Chickasaw County,﻿Clay County,﻿Palo Alto,﻿West Point,﻿MS,,33.680556,-88.8,﻿nat.ms.0019,﻿Visited from Columbus,﻿Occasionally,,,,,,,,,,,1869,﻿,﻿,﻿Natchez,Natchez
-﻿nat.ms.0058,﻿church,not recorded,English,,,,﻿Jackson County,,﻿East Pascagoula,﻿Pascagoula,﻿MS,,30.3657552,-88.5561272,,,,﻿l_bissey_001,﻿Rev.,﻿L. Bissey,,,﻿of Diocese of Mobile,,,,,1869,﻿,﻿,﻿Natchez,Natchez
-﻿nat.ms.0059,﻿church,﻿St. Paul's,English,,,,﻿Harrison County,,﻿Pass Christian,﻿Pass Christian,﻿MS,,30.315443,-89.244998,,,,﻿hen_georget_001,﻿Rev.,﻿Henry Georget,,,,,,,,1869,﻿,﻿,﻿Natchez,Natchez
-﻿nat.ms.0060,﻿church,﻿St. Michael's,English,,,,﻿Jasper County,,﻿Paulding,﻿Paulding,﻿MS,,32.0333325,-89.0395467,,,,﻿_ _001,﻿Rev.,﻿---- ------,,,,,,,,1869,﻿,﻿,﻿Natchez,Natchez
-﻿nat.ms.0061,﻿church,not recorded,English,,,,﻿Hancock County,,﻿Pearlington,﻿Pearlington,﻿MS,,30.2465843,-89.6111673,﻿new.la.0041,"﻿Visited from Covington, La.",,,,,,,,,,,,1869,﻿,﻿,﻿Natchez,Natchez
-﻿nat.ms.0062,﻿church,﻿St. Joseph's,English,,,,﻿Claiborne County,,﻿Port Gibson,﻿Port Gibson,﻿MS,,31.956868,-90.9831134,,,,﻿cha_van-quekelberge_001,﻿Rev.,﻿Chas. L. Vanquekelberge,,,,,,,,1869,﻿,﻿,﻿Natchez,Natchez
-﻿nat.ms.0063,﻿church,﻿Church of the Holy Cross,English,,,,﻿Neshoba County,,﻿Philadelphia,﻿Philadelphia,﻿MS,,32.7760186,-89.1106793,﻿nat.ms.0019,﻿Visited from Columbus,,,,,,,,,,,,1869,﻿,﻿,﻿Natchez,Natchez
-﻿nat.ms.0064,﻿church,not recorded,English,,,,﻿Pontotoc County,,﻿Pontotoc,﻿Pontotoc,﻿MS,,34.2478831,-88.998673,﻿nat.ms.0019,﻿Visited from Columbus,,,,,,,,,,,,1869,﻿,﻿,﻿Natchez,Natchez
+﻿nat.ms.0058,﻿church,not recorded,English,,,,﻿Jackson County,,﻿East Pascagoula,﻿Pascagoula,﻿MS,,30.315443,-89.244998,,,,﻿l_bissey_001,﻿Rev.,﻿L. Bissey,,,﻿of Diocese of Mobile,,,,,1869,﻿,﻿,﻿Natchez,Natchez
+﻿nat.ms.0059,﻿church,﻿St. Paul's,English,,,,﻿Harrison County,,﻿Pass Christian,﻿Pass Christian,﻿MS,,32.0333325,-89.0395467,,,,﻿hen_georget_001,﻿Rev.,﻿Henry Georget,,,,,,,,1869,﻿,﻿,﻿Natchez,Natchez
+﻿nat.ms.0060,﻿church,﻿St. Michael's,English,,,,﻿Jasper County,,﻿Paulding,﻿Paulding,﻿MS,,30.2465843,-89.6111673,,,,,﻿Rev.,﻿-,,,,,,,,1869,﻿,﻿,﻿Natchez,Natchez
+﻿nat.ms.0061,﻿church,not recorded,English,,,,﻿Hancock County,,﻿Pearlington,﻿Pearlington,﻿MS,,31.956868,-90.9831134,﻿new.la.0041,"﻿Visited from Covington, La.",,,,,,,,,,,,1869,﻿,﻿,﻿Natchez,Natchez
+﻿nat.ms.0062,﻿church,﻿St. Joseph's,English,,,,﻿Claiborne County,,﻿Port Gibson,﻿Port Gibson,﻿MS,,32.7760186,-89.1106793,,,,﻿cha_van-quekelberge_001,﻿Rev.,﻿Chas. L. Vanquekelberge,,,,,,,,1869,﻿,﻿,﻿Natchez,Natchez
+﻿nat.ms.0063,﻿church,﻿Church of the Holy Cross,English,,,,﻿Neshoba County,,﻿Philadelphia,﻿Philadelphia,﻿MS,,34.2478831,-88.998673,﻿nat.ms.0019,﻿Visited from Columbus,,,,,,,,,,,,1869,﻿,﻿,﻿Natchez,Natchez
+﻿nat.ms.0064,﻿church,not recorded,English,,,,﻿Pontotoc County,,﻿Pontotoc,﻿Pontotoc,﻿MS,,32.0401499,-88.7281,﻿nat.ms.0019,﻿Visited from Columbus,,,,,,,,,,,,1869,﻿,﻿,﻿Natchez,Natchez
 ﻿nat.ms.0065,﻿church,not recorded,English,,,,,,﻿Quitman,﻿Quitman,﻿MS,,32.033488,-89.5222911,﻿nat.ms.0060,﻿Visited from Paulding,,,,,,,,,,,,1869,﻿,﻿,﻿Natchez,Natchez
-﻿nat.ms.0066,﻿church,not recorded,English,,,,,,﻿Raleigh,﻿Raleigh,﻿MS,,32.033488,-89.5222911,﻿nat.ms.0060,﻿Visited from Paulding,,,,,,,,,,,,1869,﻿,﻿,﻿Natchez,Natchez
-﻿nat.ms.0067,﻿church,not recorded,English,,,,﻿Rankin County,,,,﻿MS,,32.2653668,-89.9253233,﻿nat.ms.0036,﻿Visited from Jackson,﻿Four times a year,,,,,,,,,,,1869,﻿,﻿,﻿Natchez,Natchez
-﻿nat.ms.0069,﻿church,not recorded,English,﻿New church,,,﻿Claiborne County,,﻿Rodney,﻿Alcorn,﻿MS,,31.861278,-91.199833,﻿nat.ms.0062,﻿Visited from Port Gibson,,,,,,,,,,,,1869,﻿,﻿,﻿Natchez,Natchez
-﻿nat.ms.0070,﻿church,﻿Our Lady of the Gulf,English,﻿Same as Bay St. Louis,,,﻿Hancock County,,﻿Shieldsborough,﻿Bay St. Louis,﻿MS,,30.30919408,-89.32998056,,,,,,,,,,,,,,1869,﻿,﻿,﻿Natchez,Natchez
-﻿nat.ms.0071,﻿church,not recorded,English,,,,﻿Itawamba County,﻿Lee County,﻿Saltillo,﻿Saltillo,﻿MS,,34.3764923,-88.6817201,﻿nat.ms.0019,﻿Visited from Columbus,﻿Occasionally,,,,,,,,,,,1869,﻿,﻿,﻿Natchez,Natchez
-﻿nat.ms.0072,﻿church,not recorded,English,,,,﻿Yazoo County,,﻿Satartia,﻿Satartia,﻿MS,,32.6709701,-90.5442623,﻿nat.ms.0087,﻿Visited from Yazoo City,,,,,,,,,,,,1869,﻿,﻿,﻿Natchez,Natchez
-﻿nat.ms.0073,﻿church,not recorded,English,,,,﻿Oktibbeha County,,﻿Starksville,﻿Starkville,﻿MS,,33.4503998,-88.8183872,﻿nat.ms.0019,﻿Visited from Columbus,,,,,,,,,,,,1869,﻿,﻿,﻿Natchez,Natchez
-﻿nat.ms.0074,﻿church,﻿Immaculate Conception,English,,,,﻿Madison County,,﻿Sulphur Springs,,﻿MS,,32.71496303,-89.80967682,,,,﻿tho_finn_001,﻿Rev.,﻿Thos. Finn.,,,,,,,,1869,﻿,﻿,﻿Natchez,Natchez
-﻿nat.ms.0075,﻿church,not recorded,English,,,,﻿Holmes County,,﻿Schula,﻿Tchula,﻿MS,,33.1829034,-90.2228629,﻿nat.ms.0087,﻿Visited from Yazoo City,,,,,,,,,,,,1869,﻿,﻿,﻿Natchez,Natchez
-﻿nat.ms.0076,﻿church,not recorded,English,,,,﻿Winston County,﻿Noxubee county,﻿Summerville,,﻿MS,,32.94401932,-88.73532867,﻿nat.ms.0019,﻿Visited from Columbus,,,,,,,,,,,,1869,﻿,﻿,﻿Natchez,Natchez
-﻿nat.ms.0077,﻿church,not recorded,English,,,,﻿Pike County,,﻿Summit,﻿Summit,﻿MS,,31.2837867,-90.4684315,﻿nat.ms.0013,﻿Visited from Brookhaven,,,,,,,,,,,,1869,﻿,﻿,﻿Natchez,Natchez
-﻿nat.ms.0079,﻿church,﻿St. Paul's,English,,,,﻿Warren County,,﻿Vicksburgh,﻿Vicksburg,﻿MS,,32.2834816,-90.8376038,,,,﻿fra_x_leray_001,﻿Rev.,﻿Francis X. Leray,,,,,,,,1869,﻿,﻿,﻿Natchez,Natchez
-﻿nat.ms.0079,﻿church,﻿St. Paul's,English,,,,﻿Warren County,,﻿Vicksburgh,﻿Vicksburg,﻿MS,,32.2834816,-90.8376038,,,,﻿f_j_bennet_001,﻿Rev.,﻿F. Jerome Bennet,,,,,,,,1869,﻿,﻿,﻿Natchez,Natchez
-﻿nat.ms.0080,﻿church,not recorded,English,﻿New church,,,﻿Yallobusha County,﻿Yalobusha County,﻿Water Valley,﻿Water Valley,﻿MS,,34.1514989,-89.6314736,﻿nat.ms.0033,﻿attended from Holly Springs,,,,,,,,,,,,1869,﻿,﻿,﻿Natchez,Natchez
-﻿nat.ms.0082,﻿church,not recorded,English,,,,﻿Jackson County,,﻿West Pascagoula,,﻿MS,,30.36060879,-88.5783137,﻿nat.ms.0058,﻿Visited from Pascagoula,,,,,,,,,,,,1869,﻿,﻿,﻿Natchez,Natchez
-﻿nat.ms.0083,﻿church,not recorded,English,,,,﻿Lowndes County,﻿Clay County,﻿West Point,﻿West Point,﻿MS,,33.6076186,-88.6503254,﻿nat.ms.0019,﻿Visited from Columbus,﻿Eight times a year,,,,,,,,,,,1869,﻿,﻿,﻿Natchez,Natchez
-﻿nat.ms.0084,﻿church,not recorded,English,,,,﻿Winston County,﻿Bolivar County,﻿Winstinville,﻿Winstonville,﻿MS,,33.9101112,-90.7514881,﻿nat.ms.0019,﻿Visited from Columbus,﻿occassionally,,,,,,,,,,,1869,﻿,﻿,﻿Natchez,Natchez
-﻿nat.ms.0085,﻿church,not recorded,English,,,,,﻿Hancock  County,﻿Wolf River,﻿Bay St. Louis,﻿MS,,30.3088076,-89.3300461,﻿nat.ms.0007,﻿Visited from Pass Christian,,,,,,,,,,,,1869,﻿,﻿,﻿Natchez,Natchez
-﻿nat.ms.0086,﻿church,not recorded,English,,,,﻿Wilkinson County,,﻿Woodville,﻿Woodville,﻿MS,,31.104619,-91.2995551,﻿nat.ms.0062,﻿Visited from Port Gibson,,,,,,,,,,,,1869,﻿,﻿,﻿Natchez,Natchez
-﻿nat.ms.0087,﻿church,﻿Assumption,English,,,,﻿Yazoo County,,﻿Yazoo City,﻿Yazoo City,﻿MS,,32.8551326,-90.4056468,,,,﻿p_le-corre_001,﻿Rev.,﻿P. Le Corre,,,,,,,,1869,﻿,﻿,﻿Natchez,Natchez
-﻿nat.ms.0087,﻿church,﻿Assumption,English,,,,﻿Yazoo County,,﻿Yazoo City,﻿Yazoo City,﻿MS,,32.8551326,-90.4056468,,,,,﻿Rev. S. Buteux,,,,"﻿""Absent temporarily on account of health""",,,,,1869,﻿,﻿,﻿Natchez,Natchez
-﻿nat.ms.0087,﻿church,﻿Assumption,English,,,,﻿Yazoo County,,﻿Yazoo City,﻿Yazoo City,﻿MS,,32.8551326,-90.4056468,,,,,﻿Rev. Francis Orlandi,,,,"﻿""Absent temporarily on account of health""",,,,,1869,﻿,﻿,﻿Natchez,Natchez
+﻿nat.ms.0066,﻿church,not recorded,English,,,,,,﻿Raleigh,﻿Raleigh,﻿MS,,32.2653668,-89.9253233,﻿nat.ms.0060,﻿Visited from Paulding,,,,,,,,,,,,1869,﻿,﻿,﻿Natchez,Natchez
+﻿nat.ms.0067,﻿church,not recorded,English,,,,﻿Rankin County,,,,﻿MS,,34.7659252,-88.526717,﻿nat.ms.0036,﻿Visited from Jackson,﻿Four times a year,,,,,,,,,,,1869,﻿,﻿,﻿Natchez,Natchez
+﻿nat.ms.0069,﻿church,not recorded,English,﻿New church,,,﻿Claiborne County,,﻿Rodney,﻿Alcorn,﻿MS,,30.30919408,-89.32998056,﻿nat.ms.0062,﻿Visited from Port Gibson,,,,,,,,,,,,1869,﻿,﻿,﻿Natchez,Natchez
+﻿nat.ms.0070,﻿church,﻿Our Lady of the Gulf,English,﻿Same as Bay St. Louis,,,﻿Hancock County,,﻿Shieldsborough,﻿Bay St. Louis,﻿MS,,34.3764923,-88.6817201,,,,,,,,,,,,,,1869,﻿,﻿,﻿Natchez,Natchez
+﻿nat.ms.0071,﻿church,not recorded,English,,,,﻿Itawamba County,﻿Lee County,﻿Saltillo,﻿Saltillo,﻿MS,,32.6709701,-90.5442623,﻿nat.ms.0019,﻿Visited from Columbus,﻿Occasionally,,,,,,,,,,,1869,﻿,﻿,﻿Natchez,Natchez
+﻿nat.ms.0072,﻿church,not recorded,English,,,,﻿Yazoo County,,﻿Satartia,﻿Satartia,﻿MS,,33.4503998,-88.8183872,﻿nat.ms.0087,﻿Visited from Yazoo City,,,,,,,,,,,,1869,﻿,﻿,﻿Natchez,Natchez
+﻿nat.ms.0073,﻿church,not recorded,English,,,,﻿Oktibbeha County,,﻿Starksville,﻿Starkville,﻿MS,,32.68771239,-89.79343347,﻿nat.ms.0019,﻿Visited from Columbus,,,,,,,,,,,,1869,﻿,﻿,﻿Natchez,Natchez
+﻿nat.ms.0074,﻿church,﻿Immaculate Conception,English,,,,﻿Madison County,,﻿Sulphur Springs,,﻿MS,,33.1829034,-90.2228629,,,,﻿tho_finn_001,﻿Rev.,﻿Thos. Finn.,,,,,,,,1869,﻿,﻿,﻿Natchez,Natchez
+﻿nat.ms.0075,﻿church,not recorded,English,,,,﻿Holmes County,,﻿Schula,﻿Tchula,﻿MS,,32.94401932,-88.73532867,﻿nat.ms.0087,﻿Visited from Yazoo City,,,,,,,,,,,,1869,﻿,﻿,﻿Natchez,Natchez
+﻿nat.ms.0076,﻿church,not recorded,English,,,,﻿Winston County,﻿Noxubee county,﻿Summerville,,﻿MS,,31.2837867,-90.4684315,﻿nat.ms.0019,﻿Visited from Columbus,,,,,,,,,,,,1869,﻿,﻿,﻿Natchez,Natchez
+﻿nat.ms.0077,﻿church,not recorded,English,,,,﻿Pike County,,﻿Summit,﻿Summit,﻿MS,,34.2576066,-88.7033859,﻿nat.ms.0013,﻿Visited from Brookhaven,,,,,,,,,,,,1869,﻿,﻿,﻿Natchez,Natchez
+﻿nat.ms.0079,﻿church,﻿St. Paul's,English,,,,﻿Warren County,,﻿Vicksburgh,﻿Vicksburg,﻿MS,,34.1514989,-89.6314736,,,,﻿fra_x_leray_001,﻿Rev.,﻿Francis X. Leray,,,,,,,,1869,﻿,﻿,﻿Natchez,Natchez
+﻿nat.ms.0079,﻿church,﻿St. Paul's,English,,,,﻿Warren County,,﻿Vicksburgh,﻿Vicksburg,﻿MS,,34.1514989,-89.6314736,,,,﻿f_j_bennet_001,﻿Rev.,﻿F. Jerome Bennet,,,,,,,,1869,﻿,﻿,﻿Natchez,Natchez
+﻿nat.ms.0080,﻿church,not recorded,English,﻿New church,,,﻿Yallobusha County,﻿Yalobusha County,﻿Water Valley,﻿Water Valley,﻿MS,,34.151499,-89.631474,﻿nat.ms.0033,﻿attended from Holly Springs,,,,,,,,,,,,1869,﻿,﻿,﻿Natchez,Natchez
+﻿nat.ms.0082,﻿church,not recorded,English,,,,﻿Jackson County,,﻿West Pascagoula,,﻿MS,,33.6076186,-88.6503254,﻿nat.ms.0058,﻿Visited from Pascagoula,,,,,,,,,,,,1869,﻿,﻿,﻿Natchez,Natchez
+﻿nat.ms.0083,﻿church,not recorded,English,,,,﻿Lowndes County,﻿Clay County,﻿West Point,﻿West Point,﻿MS,,33.9101112,-90.7514881,﻿nat.ms.0019,﻿Visited from Columbus,﻿Eight times a year,,,,,,,,,,,1869,﻿,﻿,﻿Natchez,Natchez
+﻿nat.ms.0084,﻿church,not recorded,English,,,,﻿Winston County,﻿Bolivar County,﻿Winstinville,﻿Winstonville,﻿MS,,30.3088076,-89.3300461,﻿nat.ms.0019,﻿Visited from Columbus,﻿occassionally,,,,,,,,,,,1869,﻿,﻿,﻿Natchez,Natchez
+﻿nat.ms.0085,﻿church,not recorded,English,,,,,﻿Hancock  County,﻿Wolf River,﻿Bay St. Louis,﻿MS,,31.104619,-91.2995551,﻿nat.ms.0007,﻿Visited from Pass Christian,,,,,,,,,,,,1869,﻿,﻿,﻿Natchez,Natchez
+﻿nat.ms.0086,﻿church,not recorded,English,,,,﻿Wilkinson County,,﻿Woodville,﻿Woodville,﻿MS,,32.8551326,-90.4056468,﻿nat.ms.0062,﻿Visited from Port Gibson,,,,,,,,,,,,1869,﻿,﻿,﻿Natchez,Natchez
+﻿nat.ms.0087,﻿church,﻿Assumption,English,,,,﻿Yazoo County,,﻿Yazoo City,﻿Yazoo City,﻿MS,,31.0604559,-90.4723185,,,,﻿p_le-corre_001,﻿Rev.,﻿P. Le Corre,,,,,,,,1869,﻿,﻿,﻿Natchez,Natchez
+﻿nat.ms.0087,﻿church,﻿Assumption,English,,,,﻿Yazoo County,,﻿Yazoo City,﻿Yazoo City,﻿MS,,31.0604559,-90.4723185,,,,,﻿Rev. S. Buteux,,,,"﻿""Absent temporarily on account of health""",,,,,1869,﻿,﻿,﻿Natchez,Natchez
+﻿nat.ms.0087,﻿church,﻿Assumption,English,,,,﻿Yazoo County,,﻿Yazoo City,﻿Yazoo City,﻿MS,,31.0604559,-90.4723185,,,,,﻿Rev. Francis Orlandi,,,,"﻿""Absent temporarily on account of health""",,,,,1869,﻿,﻿,﻿Natchez,Natchez
 ﻿nat.ms.0089,﻿school,﻿St. Stanislaus' Academy and Boarding School for Boys,English,,,,,﻿Hancock County,﻿Bay St. Louis,﻿Bay St. Louis,﻿MS,,30.306702,-89.3290697,,,,,﻿Brother,﻿Odon,,﻿Superior,,﻿boarder,﻿100 boarders,﻿Directed by the Brothers of the Sacred Heart,,1869,﻿,﻿,﻿Natchez,Natchez
 ﻿nat.ms.0089,﻿school,﻿St. Stanislaus' Academy and Boarding School for Boys,English,,,,,﻿Hancock County,﻿Bay St. Louis,﻿Bay St. Louis,﻿MS,,30.306702,-89.3290697,,,,,,,,,,﻿student,﻿80 day-scholars,﻿Directed by the Brothers of the Sacred Heart,,1869,﻿,﻿,﻿Natchez,Natchez
 ﻿nat.ms.0090,"﻿asylum, school",﻿St. Mary's Orphan Asylum for Girls,English,,,,,﻿Adams County,﻿Natchez,﻿Natchez,﻿MS,,31.5604442,-91.403171,,,,,﻿Sister,﻿Mary Thomas,,﻿Superior,,﻿child,﻿110 girls,﻿Under the Sisters of Charity,,1869,﻿,﻿,﻿Natchez,Natchez
@@ -93,9 +93,9 @@
 ﻿nat.ms.0094,"﻿convent, academy",﻿Convent and Academy of the Sisters of Mercy,English,,,,,﻿Warren County,﻿Vicksburgh,﻿Vicksburg,﻿MS,,32.3484335,-90.8680993,,,,,﻿Mother,﻿Mary de Sales,,﻿Superior,,﻿teacher,﻿100 scholars,,,1869,﻿,﻿,﻿Natchez,Natchez
 ﻿nat.ms.0095,"﻿academy, school",﻿Academy and Day-School,English,,,,,﻿Marshall County,﻿Holly Springs,﻿Holly Springs,﻿MS,,34.767597,-89.448689,,,,,,,,,,,,﻿Directed by the Sisters of Nazareth,,1869,﻿,﻿,﻿Natchez,Natchez
 ﻿nat.ms.0096,﻿school,﻿Cathedral School for Boys,English,,,,,﻿Adams County,﻿Natchez,﻿Natchez,﻿MS,,31.562107,-91.394726,,,,,,,,,,﻿student,﻿150 pupils,﻿Under the Brothers of the Sacred Heart,,1869,﻿,﻿,﻿Natchez,Natchez
-﻿nat.ms.0097,﻿school,﻿St. Joseph's Day School for Young Ladies,English,,,,,﻿Adams County,﻿Natchez,﻿Natchez,﻿MS,,31.5604442,-91.403171,,,,,﻿Sister,﻿Clotilda,,﻿Superior,,,,﻿Directed by the Sisters of Charity,,1869,﻿,﻿,﻿Natchez,Natchez
+﻿nat.ms.0097,﻿school,﻿St. Joseph's Day School for Young Ladies,English,,,,,﻿Adams County,﻿Natchez,﻿Natchez,﻿MS,,31.560444,-91.403171,,,,,﻿Sister,﻿Clotilda,,﻿Superior,,,,﻿Directed by the Sisters of Charity,,1869,﻿,﻿,﻿Natchez,Natchez
 ﻿nat.ms.0098,﻿college,﻿St. Mary's College,English,,,,,﻿Harrison County,﻿Pass Christian,﻿Pass Christian,﻿MS,,30.31821441,-89.24504855,,,,,,,,,,,,﻿Directed by the Christian Brothers,,1869,﻿,﻿,﻿Natchez,Natchez
 ﻿nat.ms.0099,﻿school,not recorded,English,﻿School for Colored Children,,,,﻿Adams County,﻿Natchez,﻿Natchez,﻿MS,,31.5604442,-91.403171,,,,,,,,,,﻿teacher,﻿54 scholars,,,1869,﻿,﻿,﻿Natchez,Natchez
-﻿nat.ms.0100,﻿school,not recorded,English,﻿Parish School,,,,﻿Hancock County,﻿Bay St. Louis,﻿Bay St. Louis,﻿MS,,31.5604442,-91.403171,,,,,,,,,,﻿teacher,﻿23 scholars,,,1869,﻿,﻿,﻿Natchez,Natchez
-﻿nat.ms.0101,﻿school,not recorded,English,﻿Parish School,,,,﻿Hinds County,﻿Jackson,﻿Jackson,﻿MS,,30.3088076,-89.3300461,,,,,,,,,,,,,,1869,﻿,﻿,﻿Natchez,Natchez
-﻿nat.ms.0103,﻿school,not recorded,English,﻿Parish School,,,,﻿Jasper County,﻿Paulding,﻿Paulding,﻿MS,,32.0307071,-89.0375554,,,,,,,,,,,,,,1869,﻿,﻿,﻿Natchez,Natchez
+﻿nat.ms.0100,﻿school,not recorded,English,﻿Parish School,,,,﻿Hancock County,﻿Bay St. Louis,﻿Bay St. Louis,﻿MS,,30.3088076,-89.3300461,,,,,,,,,,﻿teacher,﻿23 scholars,,,1869,﻿,﻿,﻿Natchez,Natchez
+﻿nat.ms.0101,﻿school,not recorded,English,﻿Parish School,,,,﻿Hinds County,﻿Jackson,﻿Jackson,﻿MS,,32.2987573,-90.1848103,,,,,,,,,,,,,,1869,﻿,﻿,﻿Natchez,Natchez
+﻿nat.ms.0103,﻿school,not recorded,English,﻿Parish School,,,,﻿Jasper County,﻿Paulding,﻿Paulding,﻿MS,,30.3157527,-89.2475429,,,,,,,,,,,,,,1869,﻿,﻿,﻿Natchez,Natchez

@@ -1,6 +1,6 @@
 ﻿instID,church_type,instName,language,instNote,placeName,region,county_orig,county_reg,city_orig,city_reg,state_orig,state_reg,latitude,longitude,attendingInstID,attendingChurch,attendingChurchFrequency,persID,persTitle,persName,persSuffix,persRole,persNote,memberType,member,affiliated,order,year,attendingPersID,attendingChurchNote,diocese,diocese_reg
 ﻿oma.ne.0001,﻿church,﻿Church of St. Philomena,English,,,,,,﻿Omaha,﻿Omaha,﻿NE,﻿NE,41.2565369,-95.9345034,,,,﻿jam_ogorman_001,﻿Rt. Rev.,﻿James O'Gorman,﻿D.D.,﻿Bishop,,,,,,1870,﻿,﻿,﻿VANebraska,VANebraska
-﻿oma.ne.0001,﻿church,﻿Church of St. Philomena,English,,,,,,﻿Omaha,﻿Omaha,﻿NE,,41.2565369,-95.9345034,,,,﻿joh_curtis_001,﻿Rev.,﻿John Curtis,﻿Administrator,,,,,,,1870,﻿,﻿,﻿VANebraska,VANebraska
+﻿oma.ne.0001,﻿church,﻿Church of St. Philomena,English,,,,,,﻿Omaha,﻿Omaha,﻿NE,,41.2565369,-95.9345034,,,,﻿joh_curtis_001,﻿Rev.,﻿John Curtis,,﻿Administrator,,,,,,1870,﻿,﻿,﻿VANebraska,VANebraska
 ﻿oma.ne.0001,﻿church,﻿Church of St. Philomena,English,,,,,,﻿Omaha,﻿Omaha,﻿NE,,41.2565369,-95.9345034,,,,﻿wil_mcginnis_001,﻿Rev.,﻿William McGinnis,,,,,,,,1870,﻿,﻿,﻿VANebraska,VANebraska
 ﻿oma.ne.0002,﻿church,﻿Church of St. Mary Magdalen,﻿german,,,,,,﻿Omaha,﻿Omaha,﻿NE,﻿NE,41.2050802,-95.9845069,,,,﻿ott_groenebaum_001,﻿Rev.,﻿Ottoe Groenebaum,,﻿Pastor,,,,,,1870,﻿,﻿,﻿VANebraska,VANebraska
 ﻿oma.ne.0003,﻿church,﻿Church of St. Benedict,﻿german,,,,,,﻿Nebraska City,﻿Nebraska City,﻿NE,﻿NE,40.6765745,-95.8593616,,,,﻿ema_hartig_001,﻿Rev.,﻿Emanuel Hartig,﻿O.S.B.,﻿Pastor,,,,,,1870,﻿,﻿,﻿VANebraska,VANebraska

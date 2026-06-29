@@ -46,7 +46,7 @@
 ﻿cle.oh.0036,﻿church,not recorded,English,,,,,﻿Williams County,﻿Bryan,﻿Bryan,﻿OH,,41.4747732,-84.5524508,﻿cle.oh.0154,﻿attended from Stryker,,,,,,,,,,,,1870,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0037,﻿church,﻿Trinity Church,English,,,,,﻿Crawford County,﻿Bucyrus,﻿Bucyrus,﻿OH,,40.8083909,-82.9754649,﻿cle.oh.0169,﻿attended from Upper Sandusky,,,,,,,,,,,,1870,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0038,﻿church,﻿St. John the Baptist,English,,﻿St. John the Baptist,,,﻿Stark County,﻿Canton,﻿Canton,﻿OH,,40.8031789,-81.377309,,,,﻿f_berthelet_001,﻿Rev.,﻿F. Berthelet,,,,,,,,1870,﻿,﻿,﻿Cleveland,Cleveland
-﻿cle.oh.0039,﻿church,﻿St. Peter's,﻿German,,,,,﻿Stark County,﻿Canton,﻿Canton,﻿OH,,40.8446339,-81.3634308,,,,﻿v_arnould_001,﻿Rev.,﻿V. Arnould,,﻿Dean,,,,,,1870,﻿,﻿,﻿Cleveland,Cleveland
+﻿cle.oh.0039,﻿church,﻿St. Peter's,﻿German,,,,,﻿Stark County,﻿Canton,﻿Canton,﻿OH,,40.8446339,-81.3634308,,,,﻿ven_arnold_001,﻿Rev.,﻿V. Arnould,,﻿Dean,,,,,,1870,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0040,﻿church,not recorded,English,,,,,﻿Stark County,﻿Canal Fulton,﻿Canal Fulton,﻿OH,,40.8897784,-81.597623,,,,﻿n_kirch_001,﻿Rev.,﻿N. Kirch,,,,,,,,1870,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0041,﻿church,not recorded,English,,,,﻿Huron County,﻿Lorain County,﻿Camden,﻿Camden Township,﻿OH,,41.2347306,-82.3126294,﻿cle.oh.0121,﻿attended from Norwalk,,,,,,,,,,,,1870,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0042,﻿church,not recorded,English,,,,,﻿Mahoning County,﻿Canfield,﻿Canfield,﻿OH,,41.0250584,-80.7609121,﻿cle.oh.0119,﻿attended from Niles,,,,,,,,,,,,1870,﻿,﻿,﻿Cleveland,Cleveland
@@ -71,7 +71,7 @@
 ﻿cle.oh.0060,﻿church,not recorded,English,,,,,﻿Huron County,﻿Fairfield,﻿Fairfield Township,﻿OH,,41.1024743,-82.5834947,﻿cle.oh.0121,﻿attended from Norwalk,,,,,,,,,,,,1870,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0061,﻿church,not recorded,English,,,,,﻿Hancock County,﻿Findley,﻿Findlay,﻿OH,,41.0391283,-83.6502309,,,,﻿j_flammang_001,﻿Rev.,﻿J. Flammang,,,,,,,,1870,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0062,﻿church,not recorded,English,,﻿Florence Township,,,﻿Williams County,,,﻿OH,,41.5814078,-84.7524482,﻿cle.oh.0154,﻿attended from Stryker,,,,,,,,,,,,1870,﻿,﻿,﻿Cleveland,Cleveland
-﻿cle.oh.0063,﻿church,not recorded,English,,,,,﻿Seneca County,﻿Fostoria,﻿Fostoria,﻿OH,,41.156998,-83.4168702,,,,﻿m_pitts_001,﻿Rev.,﻿M. Pitts,,,,,,,,1870,﻿,﻿,﻿Cleveland,Cleveland
+﻿cle.oh.0063,﻿church,not recorded,English,,,,,﻿Seneca County,﻿Fostoria,﻿Fostoria,﻿OH,,41.156998,-83.4168702,,,,﻿mar_pitts_001,﻿Rev.,﻿M. Pitts,,,,,,,,1870,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0064,﻿church,not recorded,English,,,,,﻿Putnam County,﻿Fort Jennings,﻿Fort Jennings,﻿OH,,40.9064392,-84.296616,﻿cle.oh.0128,﻿attended from Ottoville,,,,,,,,,,,,1870,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0065,﻿church,not recorded,English,,,,,﻿Wayne County,﻿Fredericksburgh,﻿Fredericksburg,﻿OH,,40.6767255,-81.8704168,﻿cle.oh.0181,﻿attended from Wooster,,,,,,,,,,,,1870,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0066,﻿church,﻿St. Mary's,English,,,,,﻿Sandusky County,﻿Fremont,﻿Fremont,﻿OH,,41.3503303,-83.1218634,,,,﻿j_carroll_001,﻿Rev.,﻿J. Carroll,,,,,,,,1870,﻿,﻿,﻿Cleveland,Cleveland
@@ -149,7 +149,7 @@
 ﻿cle.oh.0135,﻿church,﻿St. Patrick's,English,,,,﻿Henry County,﻿Lucas County,﻿Providence,﻿Providence,﻿OH,,41.6894388,-83.3789389,,,,﻿l_okeefe_001,﻿Rev.,﻿L. O'Keefe,,,,,,,,1870,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0136,﻿church,not recorded,English,,,,,﻿Portage County,﻿Randolph,﻿Randolph Township,﻿OH,,41.0104923,-81.2739073,,,,﻿t_koehn_001,﻿Rev.,﻿T. Koehn,,,,,,,,1870,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0137,﻿church,not recorded,English,,,,,﻿Portage County,﻿Ravenna,﻿Ravenna,﻿OH,,41.1575566,-81.2420473,,,,﻿p_h_brown_001,﻿Rev.,﻿P. H. Brown,,,,,,,,1870,﻿,﻿,﻿Cleveland,Cleveland
-﻿cle.oh.0138,﻿church,not recorded,English,,,,,﻿Lorain County,﻿Rawsonville,﻿Belden,﻿OH,,41.2379628,-82.0669727,,,,﻿a_sidley_001,﻿Rev.,﻿A. Sidley,,,,,,,,1870,﻿,﻿,﻿Cleveland,Cleveland
+﻿cle.oh.0138,﻿church,not recorded,English,,,,,﻿Lorain County,﻿Rawsonville,﻿Belden,﻿OH,,41.2379628,-82.0669727,,,,﻿ale_sidley_001,﻿Rev.,﻿A. Sidley,,,,,,,,1870,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0139,﻿church,not recorded,English,,﻿Reed Township,,,﻿Seneca County,,,﻿OH,,41.1215547,-82.8855961,,,,﻿n_galles_001,﻿Rev.,﻿N. Galles,,,,,,,,1870,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0140,﻿church,not recorded,English,,,,,﻿Ottawa County,﻿Rivière aux Toussaints,,﻿OH,,41.5116409,-83.151674,﻿cle.oh.0134,﻿attended from Port Clinton,,,,,,,,,,,,1870,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0141,﻿church,not recorded,English,,,,,﻿Cuyahoga County,﻿Rockport,﻿Rocky River,﻿OH,,41.4768217,-81.8497567,,,,,,,,,,,,,,1870,﻿,﻿,﻿Cleveland,Cleveland
@@ -172,7 +172,7 @@
 ﻿cle.oh.0158,﻿church,﻿St. Mary's,English,,,,,﻿Seneca County,﻿Tiffin,﻿Tiffin,﻿OH,,41.1172573,-83.1838661,,,,﻿mic_healy_001,﻿Rev.,﻿Michael Healy,,﻿Dean,,,,,,1870,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0159,﻿church,﻿St. Joseph's,﻿German,,,,,﻿Seneca County,﻿Tiffin,﻿Tiffin,﻿OH,,41.108735,-83.1752995,,,,﻿jos_bihn_001,﻿Rev.,﻿Joseph Bihn,,,,,,,,1870,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0160,﻿church,﻿St. Michael's,English,,,,,﻿Seneca County,﻿Thompson,﻿Thompson Township,﻿OH,,41.2016422,-82.8855961,,,,﻿erh_glück_001,﻿Rev.,﻿Erhard Glück,,,,,,,,1870,﻿,﻿,﻿Cleveland,Cleveland
-﻿cle.oh.0161,﻿church,not recorded,English,,,,,﻿Geauga County,﻿Thompson,﻿Thompson,﻿OH,,41.686894,-81.0451037,,,,﻿th_thorpe_001,﻿Rev.,﻿T. Thorpe,,,,,,,,1870,﻿,﻿,﻿Cleveland,Cleveland
+﻿cle.oh.0161,﻿church,not recorded,English,,,,,﻿Geauga County,﻿Thompson,﻿Thompson,﻿OH,,41.686894,-81.0451037,,,,﻿tho_p_thorpe_001,﻿Rev.,﻿T. Thorpe,,,,,,,,1870,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0162,﻿church,﻿St. Francis of Sales',English,,,,,﻿Lucas County,﻿Toledo,﻿Toledo,﻿OH,,41.6627992,-83.598385,,,,﻿f_boff_001,﻿Rev.,﻿F. Boff,,﻿Dean,,,,,,1870,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0162,﻿church,﻿St. Francis of Sales',English,,,,,﻿Lucas County,﻿Toledo,﻿Toledo,﻿OH,,41.6627992,-83.598385,,,,﻿j_b_couillard_001,﻿Rev.,﻿J. B. Couillard,,,,,,,,1870,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0163,﻿church,﻿St. Mary's,﻿German,,,,,﻿Lucas County,﻿Toledo,﻿Toledo,﻿OH,,41.6340526,-83.5434252,,,,﻿pet_spicker_001,﻿Rev.,﻿Peter Spicker,﻿S.J.,,,,,,,1870,﻿,﻿,﻿Cleveland,Cleveland

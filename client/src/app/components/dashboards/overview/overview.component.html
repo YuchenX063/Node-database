@@ -1,9 +1,8 @@
 <div class="overview">
   <header class="ov-header">
     <div class="ov-title">
-      <h1>The Almanac at a Glance</h1>
-      <p class="ov-sub">Every institution the almanacs recorded, in one place. Click any
-        function, diocese, type, or year to filter the whole board — then click again to release it.</p>
+      <h1>The Almanacs at a Glance</h1>
+      <p class="ov-sub">Every institution the almanacs recorded, in one place. Click any function, diocese, type, or year to filter the whole board — then click again to release it.</p>
     </div>
     <mat-button-toggle-group class="entity-toggle" [(ngModel)]="entity" (change)="onEntityChange()"
         aria-label="Count by" hideSingleSelectionIndicator>
@@ -24,11 +23,11 @@
       <div class="kpi"><span class="kpi-num">{{ kpis.dioceses | number }}</span><span class="kpi-label">dioceses</span></div>
       <div class="kpi"><span class="kpi-num">{{ kpis.states | number }}</span><span class="kpi-label">states</span></div>
       <div class="kpi"><span class="kpi-num">{{ kpis.yearSpan }}</span><span class="kpi-label">year span</span></div>
-      <div class="kpi kpi-wide"><span class="kpi-num">{{ kpis.topFunction }}</span><span class="kpi-label">largest function</span></div>
+      <div class="kpi kpi-wide"><span class="kpi-num">{{ kpis.topFunction }}</span><span class="kpi-label">most frequent institution</span></div>
     </div>
 
     <p class="metric-note">
-      <ng-container *ngIf="entity === 'institutions'">Bars count <strong>distinct institutions</strong> — deduplicated across years, with branching identities counted as separate houses.</ng-container>
+      <ng-container *ngIf="entity === 'institutions'">Bars count <strong>distinct institutions</strong> — deduplicated across years.</ng-container>
       <ng-container *ngIf="entity === 'people'">Bars count <strong>distinct people</strong> — each person counted once, however many institutions or years they served.</ng-container>
     </p>
 
@@ -49,10 +48,28 @@
       </div>
     </ng-template>
 
+      <h2 class="text-2xl">
+          @if (entity === 'institutions') {
+            Institutions
+          }
+          @else {
+            People
+          }
+       </h2>
+
     <div class="ov-breakdowns">
       <!-- Function + type composition -->
       <section class="panel panel-comp">
-        <h3 class="panel-title">By function</h3>
+        <h3 class="panel-title">
+          Number of 
+          @if (entity === 'institutions') {
+            Institutions
+          }
+          @else {
+            People
+          }
+          by function
+        </h3>
         <div class="bars">
           <button class="bar-row" *ngFor="let b of functionBars"
               [class.sel]="b.selected" [class.dim]="fnActive && !b.selected"
@@ -62,7 +79,16 @@
             <span class="bar-value">{{ b.value | number }}</span>
           </button>
         </div>
-        <h3 class="panel-title">Top types</h3>
+        <h3 class="panel-title">
+          Number of 
+          @if (entity === 'institutions') {
+            Institutions
+          }
+          @else {
+            People
+          }
+          by type
+       </h3>
         <div class="bars">
           <button class="bar-row" *ngFor="let b of typeBars"
               [class.sel]="b.selected" (click)="toggleType(b.key)">
@@ -76,7 +102,17 @@
 
       <!-- Diocese ranking -->
       <section class="panel panel-dio">
-        <h3 class="panel-title">Top dioceses</h3>
+        <h3 class="panel-title">
+          Diocese by Number of 
+          @if (entity === 'institutions') {
+            Institutions
+          }
+          @else {
+            People
+          }
+          in each
+       
+        </h3>
         <div class="bars">
           <button class="bar-row" *ngFor="let b of dioceseBars"
               [class.sel]="b.selected" (click)="toggleDiocese(b.key)">
@@ -91,7 +127,18 @@
 
     <!-- Timeline (full width) -->
     <section class="panel panel-time">
-      <h3 class="panel-title">By year <span class="panel-hint">— two almanac eras, with the unpublished gap between</span></h3>
+      <h3 class="panel-title">
+        
+          Number of 
+          @if (entity === 'institutions') {
+            Institutions
+          }
+          @else {
+            People
+          }
+          by year
+       
+        <span class="panel-hint">— Note: there are two periods of our data entry: 1833-40 and 1860-70, excepting 1862-63 when the almanacs were not published. We are actively working to fill the gap in the 1840's and '50s.</span></h3>
       <div class="year-bars">
         <ng-container *ngFor="let y of yearBars">
           <span class="year-gap" *ngIf="y.gapBefore" aria-hidden="true"></span>
@@ -107,7 +154,7 @@
 
     <!-- Map (full width) — click a point to filter to its diocese -->
     <section class="panel panel-map">
-      <h3 class="panel-title">Where <span class="panel-hint">— click a point to filter to its diocese</span></h3>
+      <h3 class="panel-title">Where <span class="panel-hint">— scroll to zoom, click and drag to move. Click a point to filter to its diocese.</span></h3>
       <app-map-vis [data]="mapData" [isOpen]="true" [legend]="legend" [options]="mapOptions"
         [clickToSelect]="true" [excludeModes]="['cluster']" (featureClick)="onMapSelect($event)"></app-map-vis>
     </section>

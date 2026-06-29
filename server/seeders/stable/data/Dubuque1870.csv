@@ -10,7 +10,7 @@
 ﻿dub.ia.0003,﻿church,﻿St. Mary's,﻿German,﻿Residence adjoining,﻿corner of Fifteenth and White streets,,,,﻿Dubuque City,﻿Dubuque,﻿IA,,42.50767966,-90.66700683,,,,﻿aug_sauter_001,﻿Rev.,﻿Augustin Sauter,,﻿assistant,,,,,,1870,﻿,﻿,﻿Dubuque,Dubuque
 ﻿dub.ia.0004,﻿church,﻿St. Joseph's,English,﻿church in process of erection,,,﻿Dubuque County,﻿Dubuque County,,,﻿IA,,42.5831975,-90.8836303,,,,﻿a_f_moynihan_001,﻿Rev.,﻿A. F. Moynihan,,,,,,,,1870,﻿,﻿,﻿Dubuque,Dubuque
 ﻿dub.ia.0005,﻿church,﻿St. Catherine's,English,,,,﻿Dubuque County,﻿Dubuque County,,,﻿IA,,42.4059085,-90.5919455,,,,,﻿Rev.,﻿---,,,,,,,,1870,﻿,﻿,﻿Dubuque,Dubuque
-﻿dub.ia.0006,﻿church,﻿St. Donatus,﻿German,,,,﻿Dubuque County,﻿Dubuque County,,,﻿IA,,42.3608433,-90.5392951,,,,﻿m_flamang_001,﻿Rev.,﻿M. Flamang,,,,,,,,1870,﻿,﻿,﻿Dubuque,Dubuque
+﻿dub.ia.0006,﻿church,﻿St. Donatus,﻿German,,,,﻿Dubuque County,﻿Dubuque County,,,﻿IA,,42.3608433,-90.5392951,,,,﻿mic_flammang_001,﻿Rev.,﻿M. Flamang,,,,,,,,1870,﻿,﻿,﻿Dubuque,Dubuque
 ﻿dub.ia.0007,﻿church,﻿St. Theresa,English,,,,﻿Dubuque County,﻿Dubuque County,,,﻿IA,,42.4694679,-90.8294002,﻿dub.ia.0015,﻿attended from Burns' Settlement,,,,,,,,,,,,1870,﻿,﻿,﻿Dubuque,Dubuque
 ﻿dub.ia.0008,﻿church,﻿St. Philomena's,English,,,,﻿Dubuque County,﻿Dubuque County,,,﻿IA,,42.4694679,-90.8294002,,,﻿vacant,,,,,,,,,,,1870,﻿,﻿,﻿Dubuque,Dubuque
 ﻿dub.ia.0009,﻿church,﻿St. Joseph's,English,,,,﻿Jackson County,﻿Jackson County,﻿Bellevue,﻿Bellevue,﻿IA,,42.2594879,-90.4282878,,,,﻿t_shiffmacher_001,﻿Rev.,﻿T. Shiffmacher,,,,,,,,1870,﻿,﻿,﻿Dubuque,Dubuque
@@ -42,7 +42,7 @@
 ﻿dub.ia.0035,﻿station,not recorded,English,,,,﻿Winneshiek County,﻿Winneshiek County,﻿Ossion,﻿Ossion,﻿IA,,43.145809,-91.7632108,﻿dub.ia.0032,﻿attended from Cresco,,,,,,,,,,,,1870,﻿,﻿,﻿Dubuque,Dubuque
 ﻿dub.ia.0036,﻿church,not recorded,English,,,,﻿Alamakee County,﻿Winneshiek County,﻿Castelia,﻿Castalia,﻿IA,,43.11285875,-91.67681461,,,,,,,,,,,,,,1870,﻿,﻿,﻿Dubuque,Dubuque
 ﻿dub.ia.0037,﻿church,﻿St. Kearnsville,English,﻿new church,,,﻿Howard County,,﻿St. Kearns,,﻿IA,,43.3819496,-92.3813621,,,,,,,,,,,,,,1870,﻿,﻿,﻿Dubuque,Dubuque
-﻿dub.ia.0039,﻿church,﻿St. Francis Xavier,English,,,,﻿Potawatamie County,,﻿Council Bluffs,﻿Council Bluffs,﻿IA,,41.2581489,-95.85074588,,,,﻿bp_mcmenomy_001,﻿Rev.,﻿B.P. McMenomy,,,,,,,,1870,﻿,﻿,﻿Dubuque,Dubuque
+﻿dub.ia.0039,﻿church,﻿St. Francis Xavier,English,,,,﻿Potawatamie County,,﻿Council Bluffs,﻿Council Bluffs,﻿IA,,41.2581489,-95.85074588,,,,﻿ber_p_mcmenomy_001,﻿Rev.,﻿B.P. McMenomy,,,,,,,,1870,﻿,﻿,﻿Dubuque,Dubuque
 ﻿dub.ia.0040,﻿church,﻿St. Boniface,English,,,,,,,,﻿IA,,41.13103761,-95.7547178,﻿dub.ia.0039,﻿attended from Council Bluffs,,,,,,,,,,,,1870,﻿,﻿,﻿Dubuque,Dubuque
 ﻿dub.ia.0041,﻿church,﻿St. Anthony's,English,,,,﻿Scott County,﻿Scott County,﻿Davenport,﻿Davenport,﻿IA,,41.5239995,-90.5752912,,,,﻿mau_flavin_001,﻿Rev.,﻿Maurice Flavin,,,,,,,,1870,﻿,﻿,﻿Dubuque,Dubuque
 ﻿dub.ia.0042,﻿church,﻿St. Mary's Church,English,﻿lately dedicated,,,﻿Scott County,﻿Scott County,﻿Davenport,﻿Davenport,﻿IA,,41.52536844,-90.59467524,﻿dub.ia.0041,﻿attended from St. Anthony's,,,,,,,,,,,,1870,﻿,﻿,﻿Dubuque,Dubuque
@@ -57,7 +57,7 @@
 ﻿dub.ia.0050,﻿station,﻿new church in process of erection,English,,,,﻿Guthrie County,﻿Guthrie County,﻿Panora,﻿Panora,﻿IA,,41.6916535,-94.3630215,﻿dub.ia.0048,﻿attended from Des Moines,,,,,,,,,,,,1870,﻿,﻿,﻿Dubuque,Dubuque
 ﻿dub.ia.0051,﻿station,not recorded,English,,,,﻿Jasper County,﻿Jasper County,﻿Newton,﻿Newton,﻿IA,,41.7033177,-93.0573533,﻿dub.ia.0048,﻿attended from Des Moines,,,,,,,,,,,,1870,﻿,﻿,﻿Dubuque,Dubuque
 ﻿dub.ia.0052,﻿station,﻿church in process of erection,English,,﻿Irish settlement,,﻿Madison County,﻿Madison County,,﻿Cumming,﻿IA,,41.42751192,-93.79277736,﻿dub.ia.0048,﻿attended from Des Moines,,,,,,,,,,,,1870,﻿,﻿,﻿Dubuque,Dubuque
-﻿dub.ia.0053,﻿church,﻿St. Simeon's,English,,,,﻿Clinton County,﻿Clinton County,﻿De Witt,﻿De Witt,﻿IA,,41.8239952,-90.5389662,,,,﻿jam_scallan_001,﻿Rev.,﻿James Scallan,,,,,,,,1870,﻿,﻿,﻿Dubuque,Dubuque
+﻿dub.ia.0053,﻿church,﻿St. Simeon's,English,,,,﻿Clinton County,﻿Clinton County,﻿De Witt,﻿De Witt,﻿IA,,41.8239952,-90.5389662,,,,﻿jam_scallon_001,﻿Rev.,﻿James Scallan,,,,,,,,1870,﻿,﻿,﻿Dubuque,Dubuque
 ﻿dub.ia.0054,﻿church,not recorded,English,,,,,,﻿Deep Creek,﻿Deep Creek Township,﻿IA,,41.99092896,-90.37971148,﻿dub.ia.0053,﻿attended from De Witt,,,,,,,,,,,,1870,﻿,﻿,﻿Dubuque,Dubuque
 ﻿dub.ia.0055,﻿church,﻿St. Francis Xavier's,English,,,,﻿Dubuque County,﻿Dubuque County,﻿Dyersville,﻿Dyersville,﻿IA,,42.48409294,-91.12617571,,,,﻿s_kortenkamp_001,﻿Rev.,﻿S. Kortenkamp,,,,,,,,1870,﻿,﻿,﻿Dubuque,Dubuque
 ﻿dub.ia.0056,﻿church,﻿church in process of erection,English,,,,,﻿Dubuque County,﻿Worthington,﻿Worthington,﻿IA,,42.3963877,-91.1198617,﻿dub.ia.0055,﻿attended from Dyersville,,,,,,,,,,,,1870,﻿,﻿,﻿Dubuque,Dubuque
@@ -68,7 +68,7 @@
 ﻿dub.ia.0061,﻿church,not recorded,English,,,,,﻿Buchanan County,﻿Winthrop,﻿Winthrop,﻿IA,,42.4733189,-91.7343327,﻿dub.ia.0058,﻿attended from Erin and Buffalo,,,,,,,,,,,,1870,﻿,﻿,﻿Dubuque,Dubuque
 ﻿dub.ia.0062,﻿church,﻿St. James,English,,,,﻿Lee County,﻿Lee County,﻿Fort Madison,﻿Fort Madison,﻿IA,,40.6297634,-91.314535,,,,﻿mat_j_orth_001,﻿Rev.,﻿Mathias John Michael Orth,,,,,,,,1870,﻿,﻿,﻿Dubuque,Dubuque
 ﻿dub.ia.0063,﻿church,not recorded,English,,,,﻿Webster County,﻿Webster County,﻿Fort Dodge,﻿Fort Dodge,﻿IA,,42.4974694,-94.1680158,,,,﻿f_butler_001,﻿Rev.,﻿F. Butler,,,,,,,,1870,﻿,﻿,﻿Dubuque,Dubuque
-﻿dub.ia.0064,﻿church,﻿Our Lady of the Seven Dolors,English,,,,﻿Winneshiek County,﻿Winneshiek County,﻿Festina,﻿Festina,﻿IA,,43.12033499,-91.86552979,,,,﻿con_schulte_001,﻿Rev.,﻿Conrad Schulte,,,,,,,,1870,﻿,﻿,﻿Dubuque,Dubuque
+﻿dub.ia.0064,﻿church,﻿Our Lady of the Seven Dolors,English,,,,﻿Winneshiek County,﻿Winneshiek County,﻿Festina,﻿Festina,﻿IA,,43.12033499,-91.86552979,,,,﻿con_schultz_001,﻿Rev.,﻿Conrad Schulte,,,,,,,,1870,﻿,﻿,﻿Dubuque,Dubuque
 ﻿dub.ia.0065,﻿church,﻿St. Luke's,English,,,,﻿Fayette County,﻿Fayette County,,﻿St. Lucas,﻿IA,,43.06591991,-91.9302494,﻿dub.ia.0064,﻿attended from Festina,,,,,,,,,,,,1870,﻿,﻿,﻿Dubuque,Dubuque
 ﻿dub.ia.0066,﻿church,﻿St. Joseph's,English,,,,﻿Dubuque County,﻿Dubuque County,﻿Farley,﻿Farley,﻿IA,,42.4484763,-90.9960408,,,,﻿cha_j_mcgauran_001,﻿Rev.,﻿Charles Joseph McGauran,,,,,,,,1870,﻿,﻿,﻿Dubuque,Dubuque
 ﻿dub.ia.0067,﻿church,﻿St. Clement's,English,,,,,﻿Dubuque County,﻿Banxton Settlement,﻿Bankston,﻿IA,,42.51862172,-90.96190177,﻿dub.ia.0066,﻿attended from Farley,,,,,,,,,,,,1870,﻿,﻿,﻿Dubuque,Dubuque
@@ -94,7 +94,7 @@
 ﻿dub.ia.0087,﻿station,﻿St. John Baptist,English,,,,﻿Black Hawk County,﻿Black Hawk County,﻿Barkley,﻿Barklay,﻿IA,,42.51584262,-92.14529431,﻿dub.ia.0085,﻿attended from Independence,,,,,,,,,,,,1870,﻿,﻿,﻿Dubuque,Dubuque
 ﻿dub.ia.0088,﻿church,not recorded,English,,,,﻿Johnson County,﻿Johnson County,﻿Iowa City,﻿Iowa City,﻿IA,,41.6578257,-91.5346169,,,,﻿wil_emmonds_001,﻿Rev.,﻿William Emmonds,,,,,,,,1870,﻿,﻿,﻿Dubuque,Dubuque
 ﻿dub.ia.0089,﻿church,not recorded,English,,,,﻿Linn County,,﻿Irish Valley,,﻿IA,,42.0659844,-91.6760691,﻿dub.ia.0088,﻿attended from Iowa City,,,,,,,,,,,,1870,﻿,﻿,﻿Dubuque,Dubuque
-﻿dub.ia.0090,﻿church,not recorded,English,,,,﻿Lee County,﻿Lee County,﻿Keokuk,﻿Keokuk,﻿IA,,40.4044731,-91.3963966,,,,﻿ant_trevis_001,﻿Rev.,﻿Anthony Trevis,,,,,,,,1870,﻿,﻿,﻿Dubuque,Dubuque
+﻿dub.ia.0090,﻿church,not recorded,English,,,,﻿Lee County,﻿Lee County,﻿Keokuk,﻿Keokuk,﻿IA,,40.4044731,-91.3963966,,,,﻿ant_trévis_001,﻿Rev.,﻿Anthony Trevis,,,,,,,,1870,﻿,﻿,﻿Dubuque,Dubuque
 ﻿dub.ia.0090,﻿church,not recorded,English,,,,﻿Lee County,﻿Lee County,﻿Keokuk,﻿Keokuk,﻿IA,,40.4044731,-91.3963966,,,,﻿vin_hayes_001,﻿Rev.,﻿Vincent Hayes,,﻿Assistant,,,,,,1870,﻿,﻿,﻿Dubuque,Dubuque
 ﻿dub.ia.0091,﻿church,﻿St. Mary's,﻿German,,,,﻿Lee County,﻿Lee County,﻿Keokuk,﻿Keokuk,﻿IA,,40.40217765,-91.39160399,,,,﻿jos_weikman_001,﻿Rev.,﻿Joseph Weikman,,,,,,,,1870,﻿,﻿,﻿Dubuque,Dubuque
 ﻿dub.ia.0092,﻿church,not recorded,English,,,,﻿Alamakee County,﻿Allamakee County,﻿Lansing,﻿Lansing,﻿IA,,43.3609053,-91.218768,,,,﻿f_jacobi_001,﻿Rev.,﻿F. Jacobi,,,,,,,,1870,﻿,﻿,﻿Dubuque,Dubuque
@@ -139,13 +139,13 @@
 ﻿dub.ia.0131,﻿church,not recorded,English,,,,,﻿Woodbury County,﻿Smithland,﻿Smithland,﻿IA,,42.229157,-95.9308434,﻿dub.ia.0130,﻿attended from Sioux City,,,,,,,,,,,,1870,﻿,﻿,﻿Dubuque,Dubuque
 ﻿dub.ia.0132,﻿church,not recorded,English,,,,﻿Lee County,,﻿Sugar Creek,,﻿IA,,40.7068663,-91.443469,﻿dub.ia.0095,﻿attended by Rev. L. Wieland of Lyons,,﻿mat_mitchel_001,﻿Rev.,﻿Mathias Mitchel,,,,,,,,1870,﻿,﻿,﻿Dubuque,Dubuque
 ﻿dub.ia.0133,﻿church,﻿Assumption of B. V. M.,English,,,,﻿Lee County,﻿Lee County,﻿West Point,﻿West Point,﻿IA,,40.71513639,-91.45396632,,,,﻿c_johannes_001,﻿Rev.,﻿C. Johannes,,,,,,,,1870,﻿,﻿,﻿Dubuque,Dubuque
-﻿dub.ia.0134,﻿church,﻿Immaculate Conception,English,,﻿P.O. Harper's Ferry,,﻿Alamakee County,﻿Allamakee County,﻿Wexford,﻿Lansing,﻿IA,,43.37300079,-91.22460712,,,,﻿jas_mcgowan_001,﻿Rev.,﻿Jas. McGowan,,,,,,,,1870,﻿,﻿,﻿Dubuque,Dubuque
+﻿dub.ia.0134,﻿church,﻿Immaculate Conception,English,,﻿P.O. Harper's Ferry,,﻿Alamakee County,﻿Allamakee County,﻿Wexford,﻿Lansing,﻿IA,,43.37300079,-91.22460712,,,,﻿jam_mcgowan_001,﻿Rev.,﻿Jas. McGowan,,,,,,,,1870,﻿,﻿,﻿Dubuque,Dubuque
 ﻿dub.ia.0135,﻿church,﻿St. Pius,English,,,,﻿Alamakee County,﻿Allamakee County,﻿Cherry Mount,,﻿IA,,43.16724291,-91.28046109,﻿dub.ia.0134,﻿attended from Wexford,,,,,,,,,,,,1870,﻿,﻿,﻿Dubuque,Dubuque
 ﻿dub.ia.0136,﻿church,﻿St. Patrick's,English,,,,﻿Alamakee County,﻿Allamakee County,﻿Paint Rock,,﻿IA,,43.17953825,-91.19181075,﻿dub.ia.0134,﻿attended from Wexford,,,,,,,,,,,,1870,﻿,﻿,﻿Dubuque,Dubuque
 ﻿dub.ia.0137,﻿church,not recorded,English,,,,﻿Alamakee County,﻿Allamakee County,﻿Harper's Ferry,﻿Harper's Ferry,﻿IA,,43.2005358,-91.1531852,﻿dub.ia.0134,﻿attended from Wexford,,,,,,,,,,,,1870,﻿,﻿,﻿Dubuque,Dubuque
 ﻿dub.ia.0138,﻿church,not recorded,English,,,,﻿Bremer County,,﻿Waterloo,,﻿IA,,,,,,,﻿n_scallan_001,﻿Rev.,﻿N. Scallan,,,,,,,,1870,﻿,﻿,﻿Dubuque,Dubuque
 ﻿dub.ia.0139,﻿church,not recorded,English,,,,﻿Alamakee County,﻿Allamakee County,﻿Waukon,﻿Waukon,﻿IA,,43.2694208,-91.475695,,,,﻿jam_mcgowan_001,﻿Rev.,﻿James McGowan,,,,,,,,1870,﻿,﻿,﻿Dubuque,Dubuque
-﻿dub.ia.0140,﻿church,﻿St. Mary's,English,,,,﻿Muscatine County,﻿Muscatine County,﻿Wilton Junction,﻿Wilton,﻿IA,,41.5879866,-91.0079068,,,,﻿p_a_mccabe_001,﻿Rev.,﻿P. A. McCabe,,,,,,,,1870,﻿,﻿,﻿Dubuque,Dubuque
+﻿dub.ia.0140,﻿church,﻿St. Mary's,English,,,,﻿Muscatine County,﻿Muscatine County,﻿Wilton Junction,﻿Wilton,﻿IA,,41.5879866,-91.0079068,,,,﻿pet_a_mccabe_001,﻿Rev.,﻿P. A. McCabe,,,,,,,,1870,﻿,﻿,﻿Dubuque,Dubuque
 ﻿dub.ia.0141,﻿church,﻿Immaculate Conception,English,,,,﻿Bremer County,﻿Bremer County,﻿Waverley,﻿Waverly,﻿IA,,42.7272032,-92.4668511,,,,﻿p_j_murphy_001,﻿Rev.,﻿P. J. R. Murphy,,,,,,,,1870,﻿,﻿,﻿Dubuque,Dubuque
 ﻿dub.ia.0142,﻿church,not recorded,English,,,,﻿Black Hawk County,﻿Black Hawk County,﻿Waterloo,﻿Waterloo,﻿IA,,42.492786,-92.3425775,﻿dub.ia.0141,﻿attended from Waverley,,,,,,,,,,,,1870,﻿,﻿,﻿Dubuque,Dubuque
 ﻿dub.ia.0143,﻿church,﻿St. Joseph's,English,,,,,,﻿Eagletown,,﻿IA,,41.8780025,-93.097702,﻿dub.ia.0141,﻿attended from Waverley,,,,,,,,,,,,1870,﻿,﻿,﻿Dubuque,Dubuque
@@ -159,7 +159,7 @@
 ﻿dub.ia.0151,﻿church,﻿St. Ignatius,English,,,,﻿Chickasaw County,﻿Chickasaw County,,﻿Lawler,﻿IA,,43.15555477,-92.1805512,﻿dub.ia.0150,﻿attended from Waukoma,,,,,,,,,,,,1870,﻿,﻿,﻿Dubuque,Dubuque
 ﻿dub.ia.0152,﻿church,not recorded,English,,,,﻿Chickasaw County,﻿Chickasaw County,﻿New Hampton,﻿New Hampton,﻿IA,,43.0592724,-92.317864,﻿dub.ia.0150,﻿attended from Waukoma,,,,,,,,,,,,1870,﻿,﻿,﻿Dubuque,Dubuque
 ﻿dub.ia.0153,﻿church,not recorded,English,,,,﻿Benton County,﻿Benton County,﻿Vinton,﻿Vinton,﻿IA,,42.1646477,-92.0185651,,,,﻿a_urban_001,﻿Rev.,﻿A. Urban,,,,,,,,1870,﻿,﻿,﻿Dubuque,Dubuque
-﻿dub.ia.0154,﻿abbey,﻿New Melleray Abbey,English,﻿The spiritual wants of a large congregation of seculars attended to by the Fathers of the abbey. A new abbey in course of erection,﻿situated about 12 miles from Dubuque,,,,,﻿Peosta,﻿IA,,42.3894238,-90.8088684,,,,﻿eph_mcdonald_001,﻿Right Rev.,﻿Ephrem McDonald,﻿priest,﻿Abbot,,,,,,1870,﻿,﻿,﻿Dubuque,Dubuque
+﻿dub.ia.0154,﻿abbey,﻿New Melleray Abbey,English,﻿The spiritual wants of a large congregation of seculars attended to by the Fathers of the abbey. A new abbey in course of erection,﻿situated about 12 miles from Dubuque,,,,,﻿Peosta,﻿IA,,42.3894238,-90.8088684,,,,﻿eph_mcdonald_001,﻿Right Rev.,﻿Ephrem McDonald,,"﻿Abbot, priest",,,,,,1870,﻿,﻿,﻿Dubuque,Dubuque
 ﻿dub.ia.0154,﻿abbey,﻿New Melleray Abbey,English,﻿The spiritual wants of a large congregation of seculars attended to by the Fathers of the abbey. A new abbey in course of erection,﻿situated about 12 miles from Dubuque,,,,,﻿Peosta,﻿IA,,42.3894238,-90.8088684,,,,﻿ber_mccaffery_001,﻿Very Rev.,﻿Bernard McCaffery,,﻿Prior,,,,,,1870,﻿,﻿,﻿Dubuque,Dubuque
 ﻿dub.ia.0155,﻿convent,﻿St. Joseph's Convent and Novitiate of the Sisters of Charity of the B.V.M.,English,﻿Established 1833.,,,,,﻿Dubuque,﻿Dubuque,﻿IA,,42.4751798,-90.6562173,,,,,﻿Mother,﻿Mary Francis Clarke,,﻿Superior,,﻿religious,"﻿Professed sisters, 34",,,1870,﻿,﻿,﻿Dubuque,Dubuque
 ﻿dub.ia.0155,﻿convent,﻿St. Joseph's Convent and Novitiate of the Sisters of Charity of the B.V.M.,English,﻿Established 1833.,,,,,﻿Dubuque,﻿Dubuque,﻿IA,,42.4751798,-90.6562173,,,,,,,,,,﻿religious,"﻿novices, 14",,,1870,﻿,﻿,﻿Dubuque,Dubuque

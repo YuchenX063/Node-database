@@ -60,7 +60,7 @@
 ﻿new.nj.0048,﻿church,﻿St. Mary's (Immaculate Conception),English,﻿Parochial school connected,,,﻿Hudson County,,﻿Jersey City,﻿Jersey City,﻿NJ,,40.722586,-74.043876,,,,﻿p_mcgovern_001,﻿Rev.,﻿Patrick McGovern,,,,,,,,1867,﻿,﻿,﻿Newark,Newark
 ﻿new.nj.0049,﻿church,﻿St. Boniface's,﻿German,﻿Parochial school connected,,,﻿Hudson County,,﻿Jersey City,﻿Jersey City,﻿NJ,,40.749346,-74.047048,,,,﻿d_kraus_001,﻿Rev.,﻿D. Kraus,,,,,,,,1867,﻿,﻿,﻿Newark,Newark
 ﻿new.nj.0052,﻿church,﻿St. Joseph's,English,,,,﻿Monmouth County,,﻿Keyport,﻿Keyport,﻿NJ,,40.429971,-74.19841,﻿new.nj.0095,﻿Attended from South-Amboy,,,,,,,,,,,,1867,﻿,﻿,﻿Newark,Newark
-﻿new.nj.0053,﻿church,﻿St. John Evangelist's,English,﻿Parochial school connected,,,﻿Hunterdon County,,﻿Lambertville,﻿Lambertville,﻿NJ,,40.366716,-74.943482,,,,﻿e_okeefe_001,﻿Rev.,﻿Eugene O'Keefe,,,,,,,,1867,﻿,﻿,﻿Newark,Newark
+﻿new.nj.0053,﻿church,﻿St. John Evangelist's,English,﻿Parochial school connected,,,﻿Hunterdon County,,﻿Lambertville,﻿Lambertville,﻿NJ,,40.366716,-74.943482,,,,﻿eug_okeefe_001,﻿Rev.,﻿Eugene O'Keefe,,,,,,,,1867,﻿,﻿,﻿Newark,Newark
 ﻿new.nj.0054,﻿church,﻿St. Mary's,English,,,,﻿Monmouth County,,﻿Long Branch,﻿Long Branch,﻿NJ,,40.304278,-73.99236,﻿new.nj.0089,﻿Attended from Red Bank,,,,,,,,,,,,1867,﻿,﻿,﻿Newark,Newark
 ﻿new.nj.0055,﻿church,﻿St. Francis of Sales,English,,,,﻿Bergen County,,﻿Lodi,﻿Lodi,﻿NJ,,40.875077,-74.080391,﻿new.nj.0075,﻿Attended from Paterson,,,,,,,,,,,,1867,﻿,﻿,﻿Newark,Newark
 ﻿new.nj.0056,﻿church,﻿St. Joseph's,English,,,,﻿Passaic County,,﻿Macopin,﻿Macopin,﻿NJ,,40.857743,-74.175466,﻿new.nj.0075,﻿Attended from Boonton,,,,,,,,,,,,1867,﻿,﻿,﻿Newark,Newark
@@ -92,7 +92,7 @@
 ﻿new.nj.0086,﻿church,﻿St. Peter's,English,,,,﻿Burlington County,,﻿Progress,﻿Riverside,﻿NJ,,40.032334,-74.957391,﻿phi.pa.0015,"﻿Attended from St. Peter's, Philadelphia",,,,,,,,,,,,1867,﻿,﻿,﻿Newark,Newark
 ﻿new.nj.0087,﻿church,﻿St. Mary's,English,﻿Parochial school connected,,,﻿Union County,,﻿Rahway,﻿Rahway,﻿NJ,,40.608159,-74.277647,,,,﻿tho_quinn_001,﻿Rev.,﻿Thomas Quinn,,,,,,,,1867,﻿,﻿,﻿Newark,Newark
 ﻿new.nj.0088,﻿church,﻿St. Bernard's,English,﻿Parochial school connected,,,﻿Somerset County,,﻿Raritan,﻿Raritan,﻿NJ,,40.52921,-74.640043,﻿new.nj.0081,﻿Attended from Plainfield,,,,,,,,,,,,1867,﻿,﻿,﻿Newark,Newark
-﻿new.nj.0089,﻿church,﻿St. James',English,﻿Parochial school connected,,,﻿Monmouth County,,﻿Red Bank,﻿Red Bank,﻿NJ,,40.347054,-74.064306,,,,﻿tho_m_killeen_001,﻿Rev.,﻿Thomas Killeen,,,,,,,,1867,﻿,﻿,﻿Newark,Newark
+﻿new.nj.0089,﻿church,﻿St. James',English,﻿Parochial school connected,,,﻿Monmouth County,,﻿Red Bank,﻿Red Bank,﻿NJ,,40.347054,-74.064306,,,,﻿tho_m_killen_001,﻿Rev.,﻿Thomas Killeen,,,,,,,,1867,﻿,﻿,﻿Newark,Newark
 ﻿new.nj.0090,﻿church,not recorded,English,,,,﻿Passaic County,,﻿Ringwood,﻿Ringwood,﻿NJ,,41.113429,-74.245425,﻿new.nj.0075,﻿Attended from Paterson,,,,,,,,,,,,1867,﻿,﻿,﻿Newark,Newark
 ﻿new.nj.0092,﻿church,﻿St. Mary's,English,﻿Parochial school connected,,,﻿Salem County,,﻿Salem,﻿Salem,﻿NJ,,39.570493,-75.471564,,,,﻿cor_cannon_001,﻿Rev.,﻿Cornelius Cannon,,,,,,,,1867,﻿,﻿,﻿Newark,Newark
 ﻿new.nj.0093,﻿church,﻿St. Mary's,﻿German,,,,﻿Union County,,﻿Scotch Plains,﻿Scotch Plains,﻿NJ,,40.64004,-74.369018,﻿new.nj.0004,"﻿Attended from St. Mary's, Newark",,,,,,,,,,,,1867,﻿,﻿,﻿Newark,Newark
@@ -126,7 +126,7 @@
 ﻿new.nj.0113,﻿monastery,﻿St. Michael's Retreat (Passionists),English,,,,﻿Hudson County,,﻿West-Hoboken,﻿West Hoboken,﻿NJ,,40.743991,-74.032363,,,,﻿j_p_baudinelli_001,﻿Rev. Father,﻿J. Philip,,﻿Professor of Theology,,﻿religious,﻿6 lay brothers,,,1867,﻿,﻿,﻿Newark,Newark
 ﻿new.nj.0113,﻿monastery,﻿St. Michael's Retreat (Passionists),English,,,,﻿Hudson County,,﻿West-Hoboken,﻿West Hoboken,﻿NJ,,40.743991,-74.032363,,,,﻿tim_pacetti_002,﻿Rev. F.,﻿Timothy Pacetti,,,,﻿religious,﻿6 lay brothers,,,1867,﻿,﻿,﻿Newark,Newark
 ﻿new.nj.0113,﻿monastery,﻿St. Michael's Retreat (Passionists),English,,,,﻿Hudson County,,﻿West-Hoboken,﻿West Hoboken,﻿NJ,,40.743991,-74.032363,,,,﻿vit_lilla_001,﻿Rev. F.,﻿Vitalian Lilla,,,,﻿religious,﻿6 lay brothers,,,1867,﻿,﻿,﻿Newark,Newark
-﻿new.nj.0113,﻿monastery,﻿St. Michael's Retreat (Passionists),English,,,,﻿Hudson County,,﻿West-Hoboken,﻿West Hoboken,﻿NJ,,40.743991,-74.032363,,,,﻿vin_naylor_001,﻿Rev. F.,﻿Vincent Naylor,,,,﻿religious,﻿6 lay brothers,,,1867,﻿,﻿,﻿Newark,Newark
+﻿new.nj.0113,﻿monastery,﻿St. Michael's Retreat (Passionists),English,,,,﻿Hudson County,,﻿West-Hoboken,﻿West Hoboken,﻿NJ,,40.743991,-74.032363,,,,﻿vin_nayler_001,﻿Rev. F.,﻿Vincent Naylor,,,,﻿religious,﻿6 lay brothers,,,1867,﻿,﻿,﻿Newark,Newark
 ﻿new.nj.0116,﻿house,﻿Mother-House of the Sisters of Charity,English,﻿they direct 17 different establishments,,,,﻿Morris County,﻿Madison,﻿Madison,﻿NJ,,40.759823,-74.417097,,,,,﻿Mother,﻿M. Xavier,,﻿Superioress,,﻿member,﻿The Community numbers 104 members,﻿Sisters of Charity,,1867,﻿,﻿,﻿Newark,Newark
 ﻿new.nj.0117,﻿academy,﻿St. Elizabeth's Academy,English,﻿for girls,,,,﻿Morris County,﻿Madison,﻿Madison,﻿NJ,,40.779636,-74.439636,,,,,,,,,,﻿student,﻿80 pupils,,,1867,﻿,﻿,﻿Newark,Newark
 ﻿new.nj.0118,﻿school,﻿St. Joseph's Preparatory Boarding-School,English,﻿for boys,,,,﻿Morris County,﻿Madison,﻿Madison,﻿NJ,,40.759823,-74.417097,,,,,,,,,,﻿student,﻿40 pupils,,,1867,﻿,﻿,﻿Newark,Newark

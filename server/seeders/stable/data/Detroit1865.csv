@@ -6,7 +6,7 @@
 ﻿det.mi.0002,﻿church,﻿St. Ann's,English,,,,﻿Wayne County,﻿Wayne County,﻿Detroit,﻿Detroit,﻿MI,,42.331427,-83.0457538,,,,﻿ber_g_soffers_001,﻿Rev.,﻿B. G. Soffers,,,,,,,,1865,﻿,﻿,﻿Detroit,Detroit
 ﻿det.mi.0002,﻿church,﻿St. Ann's,English,,,,﻿Wayne County,﻿Wayne County,﻿Detroit,﻿Detroit,﻿MI,,42.331427,-83.0457538,,,,﻿j_frere_002,﻿Rev.,﻿J. Frere,,,,,,,,1865,﻿,﻿,﻿Detroit,Detroit
 ﻿det.mi.0003,﻿church,﻿St. Mary's,English,,,,﻿Wayne County,﻿Wayne County,﻿Detroit,﻿Detroit,﻿MI,,42.3271448,-83.1352858,,,,﻿f_n_van-emstede_001,﻿Rev.,﻿F. Van Emstede,﻿C.SS.R.,,,,,,,1865,﻿,﻿,﻿Detroit,Detroit
-﻿det.mi.0003,﻿church,﻿St. Mary's,English,,,,﻿Wayne County,﻿Wayne County,﻿Detroit,﻿Detroit,﻿MI,,42.3271448,-83.1352858,,,,﻿th_majerus_001,﻿Rev.,﻿F. Majerus,﻿C.SS.R.,,,,,,,1865,﻿,﻿,﻿Detroit,Detroit
+﻿det.mi.0003,﻿church,﻿St. Mary's,English,,,,﻿Wayne County,﻿Wayne County,﻿Detroit,﻿Detroit,﻿MI,,42.3271448,-83.1352858,,,,﻿the_majerus_001,﻿Rev.,﻿F. Majerus,﻿C.SS.R.,,,,,,,1865,﻿,﻿,﻿Detroit,Detroit
 ﻿det.mi.0003,﻿church,﻿St. Mary's,English,,,,﻿Wayne County,﻿Wayne County,﻿Detroit,﻿Detroit,﻿MI,,42.3271448,-83.1352858,,,,﻿geo_sniet_002,﻿Rev.,﻿George Sniet,﻿C.SS.R.,,,,,,,1865,﻿,﻿,﻿Detroit,Detroit
 ﻿det.mi.0003,﻿church,﻿St. Mary's,English,,,,﻿Wayne County,﻿Wayne County,﻿Detroit,﻿Detroit,﻿MI,,42.3271448,-83.1352858,,,,﻿jacobs_001,﻿Rev.,﻿____Jacobs,﻿C.SS.R.,,,,,,,1865,﻿,﻿,﻿Detroit,Detroit
 ﻿det.mi.0004,﻿church,﻿Most Holy Trinity,English,,,,﻿Wayne County,﻿Wayne County,﻿Detroit,﻿Detroit,﻿MI,,42.3298381,-83.0604831,,,,﻿fra_j_peeters_001,﻿Rev.,﻿F. J. Peters,,,,,,,,1865,﻿,﻿,﻿Detroit,Detroit
@@ -169,7 +169,7 @@
 ﻿det.mi.0176,﻿church,not recorded,English,,,,﻿Barry County,﻿Barry County,﻿Yankee Springs,﻿Yankee Springs Township,﻿MI,,42.6389768,-85.4994192,﻿det.mi.0061,﻿attended from Dorr,,,,,,,,,,,,1865,﻿,﻿,﻿Detroit,Detroit
 ﻿det.mi.0177,﻿church,not recorded,English,,,,﻿Washtenaw County,﻿Washtenaw County,﻿Ypsilanti,﻿Ypsilanti,﻿MI,,42.2411499,-83.6129939,,,,﻿edw_van-paemel_001,﻿Rev.,﻿Ed. Vanpaemel,,,,,,,,1865,﻿,﻿,﻿Detroit,Detroit
 ﻿det.mi.0178,﻿convent,﻿Redemptorist Convent,English,,﻿98 Croghan street,,﻿Wayne County,﻿Wayne County,﻿Detroit,﻿Detroit,﻿MI,,,,,,,﻿f_n_van-emstede_001,﻿Rev.,﻿F. N. Van Emstede,﻿C.SS.R.,,,﻿layperson,3.0,,,1865,﻿,﻿,﻿Detroit,Detroit
-﻿det.mi.0178,﻿convent,﻿Redemptorist Convent,English,,﻿98 Croghan street,,﻿Wayne County,﻿Wayne County,﻿Detroit,﻿Detroit,﻿MI,,,,,,,﻿th_majerus_001,﻿Rev.,﻿Th. Majerus,﻿C.SS.R.,,,﻿layperson,3.0,,,1865,﻿,﻿,﻿Detroit,Detroit
+﻿det.mi.0178,﻿convent,﻿Redemptorist Convent,English,,﻿98 Croghan street,,﻿Wayne County,﻿Wayne County,﻿Detroit,﻿Detroit,﻿MI,,,,,,,﻿the_majerus_001,﻿Rev.,﻿Th. Majerus,﻿C.SS.R.,,,﻿layperson,3.0,,,1865,﻿,﻿,﻿Detroit,Detroit
 ﻿det.mi.0178,﻿convent,﻿Redemptorist Convent,English,,﻿98 Croghan street,,﻿Wayne County,﻿Wayne County,﻿Detroit,﻿Detroit,﻿MI,,,,,,,﻿geo_sniet_002,﻿Rev.,﻿George Sniet,﻿C.SS.R.,,,﻿layperson,3.0,,,1865,﻿,﻿,﻿Detroit,Detroit
 ﻿det.mi.0178,﻿convent,﻿Redemptorist Convent,English,,﻿98 Croghan street,,﻿Wayne County,﻿Wayne County,﻿Detroit,﻿Detroit,﻿MI,,,,,,,﻿jacobs_001,﻿Rev.,﻿____Jacobs,﻿C.SS.R.,,,﻿layperson,3.0,,,1865,﻿,﻿,﻿Detroit,Detroit
 ﻿det.mi.0179,"﻿academy, school, asylum",﻿Academy for Young Ladies,English,"﻿Select Schools, Free Schools, and Orphan Asylum","﻿On Jefferson avenue, between Beaubien and St. Antoine streets",,﻿Wayne County,﻿Wayne County,﻿Detroit,﻿Detroit,﻿MI,,42.349622,-83.052335,,,,,﻿Madame,﻿E. Desmarquets,,﻿Lady Superioress,,,,﻿Conducted by the Ladies of the Sacred Heart,,1865,﻿,﻿,﻿Detroit,Detroit

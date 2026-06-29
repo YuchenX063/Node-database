@@ -47,7 +47,7 @@
 ﻿chi.il.0336,﻿church,﻿St. James',English,,,,﻿Boone County,,﻿Belvidere,,﻿IL,,,,,,,﻿pat_maguire_001,﻿Rev.,﻿Patrick Maguire,,,,,,,,1868,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0031,﻿church,﻿Holy Trinity,﻿German,﻿German Catholic church,,,﻿McLean County,,﻿Bloomington,﻿Bloomington,﻿IL,,﻿40.48525023,-88.99422853,﻿chi.il.0073,﻿Attended from Lincoln,﻿regularly,﻿tho_ogara_001,﻿Rev.,﻿Thomas O'Gara,,,,,,,,1868,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0031,﻿church,﻿Holy Trinity,﻿German,﻿German Catholic church,,,﻿McLean County,,﻿Bloomington,﻿Bloomington,﻿IL,,﻿40.48525023,-88.99422853,,,,﻿d_egan_001,﻿Rev.,﻿Dominick Egan,,,,,,,,1868,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0032,﻿church,﻿Notre Dame,English,,,,﻿Kankakee County,,﻿Bourbonnais Grove,﻿Bourbonnais,﻿IL,,﻿41.15648863,-87.87627605,,,,﻿_ _005,﻿Rev.,﻿----- ------,,,,,,,,1868,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0032,﻿church,﻿Notre Dame,English,,,,﻿Kankakee County,,﻿Bourbonnais Grove,﻿Bourbonnais,﻿IL,,﻿41.15648863,-87.87627605,,,,,﻿Rev.,﻿-,,,,,,,,1868,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0033,﻿church,﻿St. Joseph's,English,,,,﻿Peoria County,,﻿Brimfield,﻿Brimfield,﻿IL,,﻿40.83976145,-89.8888287,,,,﻿j_murphy_002,﻿Rev.,﻿J. Murphy,,,,,,,,1868,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0035,﻿church,﻿St. Peter's,English,,,,,﻿Iroquois County,﻿Clifton,﻿Clifton,﻿IL,,﻿40.9353109,-87.9344851,,,,﻿p_pernin_001,﻿Rev.,﻿P. Pernin,,,,,,,,1868,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0036,﻿church,﻿St. Mary's,English,,,,﻿Fulton County,﻿Fulton County,﻿Canton,﻿Canton,﻿IL,,﻿40.55732454,-90.03214698,,,﻿Attended twice a month,﻿j_ryan_001,﻿Rev.,﻿J. Ryan,,,,,,,,1868,﻿,﻿,﻿Chicago,Chicago
@@ -79,7 +79,7 @@
 ﻿chi.il.0077,﻿church,﻿St. Paul's,English,,,,﻿McDonough,﻿McDonough County,﻿Macomb,﻿Macomb,﻿IL,,﻿40.45862934,-90.67556199,,,,﻿joh_larmer_001,﻿Rev.,﻿John Larmer,,,,,,,,1868,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0078,﻿church,﻿St. Patrick's,English,,,,﻿McHenry County,﻿McHenry County,﻿McHenry,﻿McHenry,﻿IL,,﻿42.34960509,-88.26293916,,,,﻿p_birch_001,﻿Rev.,﻿P. Birch,,,,,,,,1868,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0079,﻿church,﻿St. John the Baptist,﻿German,,,,﻿McHenry County,,﻿McHenry,﻿Johnsburg,﻿IL,,﻿42.38310468,-88.24214808,,,,﻿j_venn_001,﻿Rev.,﻿J. Venn,,,,,,,,1868,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0338,﻿church,﻿St. Michael's,English,,,,﻿Lake County,,﻿Meehan's Settlement,,,,,,,,,﻿m_lyons_001,﻿Rev.,﻿M. Lyons,,,,,,,,1868,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0338,﻿church,﻿St. Michael's,English,,,,﻿Lake County,,﻿Meehan's Settlement,,,,,,,,,﻿mic_lyons_001,﻿Rev.,﻿M. Lyons,,,,,,,,1868,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0080,﻿church,﻿Immaculate Conception,English,,,,﻿La Salle County,﻿La Salle County,﻿Mendota,﻿Mendota,﻿IL,,﻿41.5472547,-89.1175851,,,,﻿tho_ofarrell_001,﻿Rev.,﻿Thomas O'Farrel,,,,,,,,1868,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0081,﻿church,not recorded,﻿German,,,,﻿La Salle County,﻿La Salle County,﻿Mendota,﻿Mendota,﻿IL,,﻿41.54945686,-89.12355092,,,,﻿e_hermann_001,﻿Rev.,﻿E. Hermann,,,,,,,,1868,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0083,﻿church,﻿St. Mary's,English,,,,﻿Woodford County,﻿Woodford County,﻿Metamora,﻿Metamora,﻿IL,,﻿40.79150161,-89.46296678,,,,﻿pet_fassbender_001,﻿Rev.,﻿Peter Fassbender,,,,,,,,1868,﻿,﻿,﻿Chicago,Chicago
@@ -87,7 +87,7 @@
 ﻿chi.il.0086,﻿church,﻿Immaculate Conception,English,,,,﻿Grundy County,﻿Grundy County,﻿Morris,﻿Morris,﻿IL,,﻿41.36046748,-88.41899925,,,,﻿pet_corcoran_001,﻿Rev.,﻿Peter Corcoran,,,,,,,,1868,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0087,﻿church,﻿St. Peter's,﻿German,,,,﻿Du Page County,,﻿Napierville,﻿Naperville,﻿IL,,﻿41.77527567,-88.14481739,,,,﻿w_delaporte_001,﻿Rev.,﻿W. Delaporte,,,,,,,,1868,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0088,﻿church,﻿St. Patrick's,English,,,,﻿Hancock County,﻿Hancock County,﻿Nauvoo,﻿Nauvoo,﻿IL,,﻿40.55183391,-91.38472797,,,,﻿hen_reimbold_001,﻿Rev.,﻿Henry Reimbold,,,,,,,,1868,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0089,﻿church,﻿St. Mary's,English,"﻿Post Town, Eleroy",,,﻿Stephenson County,,﻿New Dublin,﻿OGLESBY??,﻿IL,,﻿41.2953126,-89.0595266,,,,﻿t_ackly_001,﻿Rev.,﻿T. Ackly,,,,,,,,1868,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0089,﻿church,﻿St. Mary's,English,"﻿Post Town, Eleroy",,,﻿Stephenson County,,﻿New Dublin,﻿OGLESBY??,﻿IL,,﻿41.2953126,-89.0595266,,,,﻿tho_j_ackley_001,﻿Rev.,﻿T. Ackly,,,,,,,,1868,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0090,﻿church,﻿St. Joseph's,English,,,,,,﻿New Strasburgh,﻿Sauk Village,﻿IL,,﻿41.48812819,-87.57680672,,,,﻿hen_boers_001,﻿Rev.,﻿H. Boers,,,,,,,,1868,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0091,﻿church,﻿St. Columba's,English,,,,﻿La Salle County,﻿La Salle County,﻿Ottawa,﻿Ottawa,﻿IL,,﻿41.3455892,-88.8425769,,,,﻿pat_terry_001,﻿Rev.,﻿Patrick Terry,,,,,,,,1868,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0091,﻿church,﻿St. Columba's,English,,,,﻿La Salle County,﻿La Salle County,﻿Ottawa,﻿Ottawa,﻿IL,,﻿41.3455892,-88.8425769,,,,﻿edw_terry_001,﻿Rev.,﻿Edward Terry,,,,,,,,1868,﻿,﻿,﻿Chicago,Chicago
@@ -102,7 +102,7 @@
 ﻿chi.il.0099,﻿church,﻿St. Mary's,English,,,,﻿La Salle County,,﻿Peru,﻿Peru,﻿IL,,﻿41.32980444,-89.12370581,,,,﻿a_petit_001,﻿Rev.,﻿A. Pettit,,,,,,,,1868,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0101,﻿church,﻿St. Mary's,English,,,,﻿Livingston County,,﻿Pontiac,﻿Pontiac,﻿IL,,﻿40.88147203,-88.62843058,,,,﻿f_quigly_001,﻿Rev.,﻿F. Quigly,,,,,,,,1868,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0103,﻿church,﻿St. James',English,,,,﻿Winnebago County,,﻿Rockford,﻿Rockford,﻿IL,,﻿42.27124179,-89.08502852,,,,﻿j_s_oneil_001,﻿Rev.,﻿J. S. O'Neil,,,,,,,,1868,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0104,﻿church,﻿St. Mary's,English,,,,﻿Rock Island County,﻿Rock Island County,﻿Rock Island,﻿Rock Island,﻿IL,,﻿41.50861017,-90.56889602,,,,﻿p_mcelhearne_001,﻿Rev.,﻿P. T. McElhearn,,,,,,,,1868,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0104,﻿church,﻿St. Mary's,English,,,,﻿Rock Island County,﻿Rock Island County,﻿Rock Island,﻿Rock Island,﻿IL,,﻿41.50861017,-90.56889602,,,,﻿p_t_mcelhearn_001,﻿Rev.,﻿P. T. McElhearn,,,,,,,,1868,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0108,﻿church,﻿St. Patrick's,English,,,,﻿Whitesides County,,﻿Sterling,﻿Sterling,﻿IL,,﻿41.79078354,-89.69931,,,,﻿joh_daly_001,﻿Rev.,﻿John Daly,,,,,,,,1868,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0109,﻿church,﻿St. Patrick's,English,,,,﻿Kane County,,﻿St. Charles,﻿St. Charles,﻿IL,,﻿41.91407319,-88.31845068,,,,﻿pet_campbell_001,﻿Rev.,﻿Peter Campbell,,,,,,,,1868,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0110,﻿church,﻿St. Mary's,English,﻿vacant,,,﻿Iroquois County,,﻿St. Marie,﻿Beaverville,﻿IL,,﻿40.95287115,-87.65358583,,,,,,,,,,,,,,1868,﻿,﻿,﻿Chicago,Chicago
@@ -246,7 +246,7 @@
 ﻿chi.il.0234,﻿academy,﻿La Salle Academy,English,,,,﻿La Salle County,,﻿La Salle,﻿La Salle,﻿IL,,﻿41.3621503,-89.0418249,,,,,,,,,,,,﻿Conducted by the Brothers of the Christian Schools,,1868,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0004_02,﻿college,﻿St. Ignatius' College,English,"﻿now under erection at a cost of two hundred thousand dollars, will be ready for the reception of students first Monday in September, 1868.",﻿Corner of Twelfth and May streets,,,,﻿Chicago,﻿Chicago,﻿IL,,﻿41.86737613,-87.65414607,,,,,,,,,,,,﻿Under the direction of the Jesuit Fathers,,1868,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0007_02,﻿convent,﻿Redemptorist Convent,English,﻿For other Fathers see St. Michael's Church,﻿Corner of North avenue and Church street,,,,﻿Chicago,﻿Chicago,﻿IL,,﻿41.91116983,-87.63986557,,,,﻿pet_zimmer_001,﻿Rev.,﻿Peter Zimmer,﻿C.SS.R.,﻿Superior,,,,,,1868,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0008_02,﻿convent,﻿Benedictine Convent,English,﻿See St. Joseph's Church,﻿Corner of Cass and Chicago avenue,,,,﻿Chicago,﻿Chicago,﻿IL,,﻿41.89671205,-87.62555666,,,,﻿lou_m_fink_001,﻿Rev.,﻿Louis M. Fink,,﻿Superior,,,,,,1868,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0008_02,﻿convent,﻿Benedictine Convent,English,﻿See St. Joseph's Church,﻿Corner of Cass and Chicago avenue,,,,﻿Chicago,﻿Chicago,﻿IL,,﻿41.89671205,-87.62555666,,,,﻿lou_m_finke_001,﻿Rev.,﻿Louis M. Fink,,﻿Superior,,,,,,1868,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0004_04,﻿convent,﻿Jesuit Fathers,English,﻿corner of Twelfth and May streets. See Church of Holy Family,,,,,,,,,,,,,,﻿arn_damen_001,﻿Rev.,﻿A. Damen,﻿S.J.,﻿Superior,,,,,,1868,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0237,﻿school,﻿Brothers of Christian Schools,English,,﻿Corner of Desplain and Adams streets,,,,﻿Chicago,﻿Chicago,﻿IL,,﻿41.87951815,-87.64453189,,,,,,,,,,,,,,1868,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0369,﻿school,﻿Brothers of Christian Schools,English,,﻿Corner of Van Buren and Fourth Avenue,,,,,,,,,,,,,,,,,,,,,,,1868,﻿,﻿,﻿Chicago,Chicago
@@ -296,7 +296,7 @@
 ﻿chi.il.0016_02,﻿convent,﻿Convent of the Sisters of St. Francis Assisium,English,,﻿at St. Boniface's,,,,﻿Chicago,﻿Chicago,﻿IL,,﻿41.89095906,-87.6695875,,,,,,,,,,﻿religious,﻿2 postulants,﻿Sisters of St. Francis Assisium,,1868,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0265,﻿convent,﻿Sisters of Charity,English,,,,,,﻿La Salle,﻿Chicago,﻿IL,,﻿41.87942649,-87.6443372,,,,,﻿Sister,﻿Pacifica,,﻿Superior,,,,,,1868,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0266,﻿convent,﻿Convent of the Sisters of Charity of the Blessed Virgin Mary,English,,﻿Halstead and Kramer streets,,,,﻿Chicago,﻿Chicago,﻿IL,,﻿41.87761658,-87.81431939,,,,,﻿Sister,﻿Agatha,,﻿Superior,,﻿religious,﻿8 professed sisters,,,1868,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0091_02,﻿convent,﻿Sisters of Charity,English,,﻿178 Paulina street. At St. Columba's Convent,,,,﻿Chicago,﻿Chicago,﻿IL,,﻿41.88289691,-87.65204781,,,,,﻿Sister,﻿M. Barbara,,﻿Superior,,﻿religious,﻿6 professed sisters,﻿Sisters of Charity,,1868,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0266,﻿convent,﻿Sisters of Charity,English,,﻿178 Paulina street. At St. Columba's Convent,,,,﻿Chicago,﻿Chicago,﻿IL,,﻿41.88289691,-87.65204781,,,,,﻿Sister,﻿M. Barbara,,﻿Superior,,﻿religious,﻿6 professed sisters,﻿Sisters of Charity,,1868,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0359,﻿convent,﻿Sisters of St. Francis,English,,,,,,﻿Mendota,,,,,,,,,,﻿Sister,﻿M. Alberta,,﻿Superior,,,﻿2 professed sisters,,,1868,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0370,﻿convent,﻿Sisters of St. Francis,English,,,,,,﻿Joliet,,,,,,,,,,﻿Sister,﻿Alfred,,﻿Superior,,﻿religious,﻿4 professed sisters,,,1868,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0370,﻿convent,﻿Sisters of St. Francis,English,,,,,,﻿Joliet,,,,,,,,,,,,,,,﻿religious,﻿1 novice,,,1868,﻿,﻿,﻿Chicago,Chicago

@@ -305,8 +305,11 @@ exports.getGeo = async (req, res) => {
     const entity = req.query.entity === 'people' ? 'people' : 'institutions';
     const by = req.query.by === 'diocese' ? 'diocese' : 'function';
     const catField = by === 'diocese' ? 'diocese' : 'fn';
+    // detail=1 returns one point PER institution (with its instID) instead of
+    // grid-aggregated cells, so a discrete-points map can link to each church.
+    const detail = req.query.detail === '1' && entity === 'institutions';
 
-    const key = cacheKey('stats/geo', { entity, by });
+    const key = cacheKey('stats/geo', { entity, by, detail });
     const cached = networkCache.get(key);
     if (cached) return res.send(cached);
 
@@ -324,7 +327,7 @@ exports.getGeo = async (req, res) => {
             );
         } else {
             rows = await db.sequelize.query(
-                `SELECT latitude AS lat, longitude AS lng, year AS year,
+                `SELECT instID AS instID, latitude AS lat, longitude AS lng, year AS year,
                         instFunction AS fn, diocese_reg AS diocese, 1 AS weight
                  FROM almanacRecords
                  WHERE latitude IS NOT NULL AND longitude IS NOT NULL AND year IS NOT NULL`,
@@ -337,7 +340,9 @@ exports.getGeo = async (req, res) => {
             ? (r.diocese && String(r.diocese).trim() ? String(r.diocese).trim() : 'Unknown')
             : primaryFunction(r.fn);
 
+        const round3 = n => Math.round(n * 1000) / 1000;
         const pointMap = new Map();    // "year|lat|lng|cat" -> summed weight
+        const detailPoints = [];       // un-aggregated, one per institution-year
         const yearStats = new Map();   // year -> { total, sumLng, sumLat }
         const catTotals = new Map();   // category -> total weight (all years)
         for (const r of rows) {
@@ -347,29 +352,41 @@ exports.getGeo = async (req, res) => {
             const lng = Number(r.lng);
             if (!Number.isFinite(lat) || !Number.isFinite(lng)) continue;
             const cat = categoryOf(r);
-            const rlat = Math.round(lat * 10) / 10;
-            const rlng = Math.round(lng * 10) / 10;
-            const pkey = `${r.year}|${rlat}|${rlng}|${cat}`;
-            pointMap.set(pkey, (pointMap.get(pkey) || 0) + w);
             catTotals.set(cat, (catTotals.get(cat) || 0) + w);
+            // Centroid is the WEIGHTED mean of exact locations (a place with many
+            // institutions/people pulls it proportionally — not an extremes average).
             let ys = yearStats.get(r.year);
             if (!ys) { ys = { total: 0, sumLng: 0, sumLat: 0 }; yearStats.set(r.year, ys); }
             ys.total += w;
             ys.sumLng += lng * w;
             ys.sumLat += lat * w;
+
+            if (detail) {
+                detailPoints.push({ year: r.year, lat: round3(lat), lng: round3(lng), [catField]: cat, i: r.instID, weight: w });
+            } else {
+                const rlat = Math.round(lat * 10) / 10;
+                const rlng = Math.round(lng * 10) / 10;
+                const pkey = `${r.year}|${rlat}|${rlng}|${cat}`;
+                pointMap.set(pkey, (pointMap.get(pkey) || 0) + w);
+            }
         }
 
-        const points = [];
-        for (const [pkey, weight] of pointMap) {
-            // Split off the trailing category (diocese names contain no '|').
-            const idx = pkey.indexOf('|');
-            const idx2 = pkey.indexOf('|', idx + 1);
-            const idx3 = pkey.indexOf('|', idx2 + 1);
-            const year = Number(pkey.slice(0, idx));
-            const lat = Number(pkey.slice(idx + 1, idx2));
-            const lng = Number(pkey.slice(idx2 + 1, idx3));
-            const cat = pkey.slice(idx3 + 1);
-            points.push({ year, lat, lng, [catField]: cat, weight });
+        let points;
+        if (detail) {
+            points = detailPoints;
+        } else {
+            points = [];
+            for (const [pkey, weight] of pointMap) {
+                // Split off the trailing category (diocese names contain no '|').
+                const idx = pkey.indexOf('|');
+                const idx2 = pkey.indexOf('|', idx + 1);
+                const idx3 = pkey.indexOf('|', idx2 + 1);
+                const year = Number(pkey.slice(0, idx));
+                const lat = Number(pkey.slice(idx + 1, idx2));
+                const lng = Number(pkey.slice(idx2 + 1, idx3));
+                const cat = pkey.slice(idx3 + 1);
+                points.push({ year, lat, lng, [catField]: cat, weight });
+            }
         }
         const years = Array.from(yearStats.entries())
             .map(([year, s]) => ({
@@ -389,7 +406,7 @@ exports.getGeo = async (req, res) => {
                 entity,
                 by,
                 categories,
-                note: `Each point is an almanac-year location snapped to a ~0.1° grid; weight is the number of ${entity === 'people' ? 'people-years serving institutions' : 'institution-years'} there. Coverage grows across the two year-islands, so absolute spread partly reflects the source's widening reach.`
+                note: `Each point is an almanac-year location snapped to a ~0.1° grid; weight is the number of ${entity === 'people' ? 'people-years serving institutions' : 'institution-years'} there.`
             },
             years,
             points
@@ -408,7 +425,7 @@ exports.getGeo = async (req, res) => {
 // built once per process (the corpus is static), so each request is cheap and
 // the payload is a few KB instead of the whole ~700 KB corpus.
 
-const OVERVIEW_NOTE = 'Counts are distinct institutions (or distinct people), deduplicated across years; branching identities are counted as separate houses. Coverage grows across the two year-islands (c. 1834-1840 and 1860-1870), so totals reflect the source\'s widening reach as much as real growth.';
+const OVERVIEW_NOTE = 'Counts are distinct institutions (or distinct people), deduplicated across years.';
 
 // Internal fact array, built once. Each fact:
 //   { i,y,f,t,d,s,lat,lng, pp:[personIds], o:[orders], _c:[childInstitutionIds] }

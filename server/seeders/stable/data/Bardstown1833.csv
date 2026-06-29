@@ -1,0 +1,268 @@
+﻿instID,church_type,instName,language,instNote,placeName,region,county_orig,county_reg,city_orig,city_reg,state_orig,state_reg,latitude,longitude,attendingInstID,attendingChurch,attendingChurchFrequency,persID,persTitle,persName,persSuffix,persRole,persNote,memberType,member,affiliated,order,year,Unnamed: 30,Unnamed: 31,Unnamed: 32,attendingPersID,attendingChurchNote,diocese,diocese_reg
+﻿alt.il.0020,﻿church,﻿Church of the Holy Family,﻿French,,,,﻿St. Clair's County,﻿St. Clair County,﻿Cahokias,﻿Cahokia Heights,﻿IL,﻿IL,﻿38.5700824,﻿-90.1892805,,,,﻿p_doutreluigne_001,﻿Rev.,﻿Peter Doutreluigne,,,﻿officiates here every Sunday,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿alt.il.0091,﻿church,not recorded,﻿English,﻿Church not yet finished. Service once a month.,,,﻿Monroe County,﻿St. Clair County,﻿Prairie du Long,﻿Prairie Du Long Township,﻿IL,﻿IL,﻿38.5695756,﻿-90.1886874,,﻿Rev. V. Van Cloostere,,﻿vit_van-cloostere_901,﻿Rev.,﻿V. Van Cloostere,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿alt.il.9001,﻿church,not recorded,﻿English,﻿Church not yet finished. Service once a month.,﻿English Settlement,,﻿Monroe County,,,,﻿IL,,﻿38.3376468,﻿-89.9813445,,﻿Rev. V. Van Cloostere,,﻿vit_van-cloostere_901,﻿Rev.,﻿V. Van Cloostere,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿chi.il.0052,﻿church,not recorded,﻿English,,,,﻿Davies County,﻿Jo Daviess County,﻿Galena,﻿Galena,﻿IL,﻿IL,﻿42.41531383,﻿-90.4304371,,﻿Rev. John McMahon,,﻿joh_mcmahon_901,﻿Rev.,﻿John McMahon,,,,,,,,1833,"﻿https://en.wikipedia.org/wiki/Saint_Michael%27s_Catholic_Church_(Galena,_Illinois)",,,﻿,﻿,Bardstown,Bardstown
+﻿chi.il.9000,﻿church,not recorded,English,,﻿Fever River,,﻿Davies County,﻿Jo Daviess County,,,﻿IL,﻿IL,﻿38.2775544,﻿-90.3501191,,﻿Rev. John McMahon,,﻿joh_mcmahon_901,﻿Rev.,﻿John McMahon,,,,,,,,1833,﻿https://en.wikipedia.org/wiki/Galena_River_(Illinois),,,﻿,﻿,Bardstown,Bardstown
+﻿chi.il.9001,﻿church,not recorded,English,,﻿Mines,,﻿Davies County,﻿Jo Daviess County,,,﻿IL,﻿IL,﻿37.9214413,﻿-89.9131643,,﻿Rev. John McMahon,,﻿joh_mcmahon_901,﻿Rev.,﻿John McMahon,,,,,,,,1833,﻿maybe room to narrow down the location at a later date based on this information: https://jodaviess.illinoisgenweb.org/1904history/mining.htm,,,﻿,﻿,Bardstown,Bardstown
+﻿alt.il.0053,﻿church,not recorded,English,,,,﻿Monroe County,,﻿Harrisonville,﻿Harrisonville,﻿IL,﻿IL,﻿38.28670882,﻿-90.34951975,,﻿visited by Rev. V. Van Cloostere,,﻿#REF!,,,,,,,,,,1833,﻿https://www.hmdb.org/m.asp?m=226556,,,﻿,﻿,Bardstown,Bardstown
+﻿alt.il.0059,﻿church,﻿Church of the Conception,﻿English and French,,,,,﻿Randolph County,﻿Kaskakia,﻿Kaskakia,﻿IL,﻿IL,﻿37.92209896,﻿-89.91503761,,,,﻿mat_condamine_902,﻿Rev.,﻿Matthew Condamine,,,,,,,,1833,"﻿https://en.wikipedia.org/wiki/Kaskaskia,_Illinois",,,﻿,﻿,Bardstown,Bardstown
+﻿alt.il.0083,﻿church,﻿St. Patrick's,English,,,,﻿Randolph County,﻿Randolph County,﻿O'Harasburg,﻿Ruma,﻿IL,﻿IL,﻿38.12947755,﻿-90.00877373,,﻿Rev. V. Van Cloostere,﻿once a month,﻿vit_van-cloostere_901,﻿Rev.,﻿V. Van Cloostere,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿alt.il.0092,﻿church,﻿St. Joseph,﻿French,,,,﻿Randolph County,﻿Randolph County,﻿Prairie du Rocher,﻿Prairie du Rocher,﻿IL,﻿IL,﻿38.07923498,﻿-90.09333592,,﻿Rev. V. Van Cloostere,﻿visited once a month,﻿vit_van-cloostere_901,﻿Rev.,﻿V. Van Cloostere,,,,,,,,1833,﻿http://www.stjoespdr.org/,,,﻿,﻿,Bardstown,Bardstown
+﻿alt.il.9000,﻿church,not recorded,English,,,,﻿Sangamore County,,,,﻿IL,,﻿40.84917,﻿-86.32472,,"﻿visited by Rev. P. Van Quickenborne, S.J.",,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿vinc.in.0090,﻿church,not recorded,English,,﻿Black Oak Ridge,,﻿Davies County,﻿Daviess County,,﻿Montgomery,﻿IN,﻿IN,﻿38.66456043,﻿-87.04685934,,,,﻿sim_lalumiere_901,﻿Rev.,﻿Simon Lalumiere,,,,,,,,1833,﻿https://archives.nd.edu/aidan/aidan501.htm ; https://indianacatholic.mwweb.org/?p=6438 ; https://stpetermontgomery.org/church-history/st-peters-history/,,,﻿,﻿,Bardstown,Bardstown
+﻿vinc.in.0093,﻿church,not recorded,English,,,,,,﻿Mount Pleasant,,﻿IN,,﻿37.8104984,﻿-85.466402,,,﻿occasionally,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿vinc.in.0001,﻿church,not recorded,English,,,,,﻿Knox County,﻿Vincennes,﻿Vincennes,﻿IN,﻿IN,﻿38.67902364,﻿-87.5341505,,,,﻿l_picot_901,﻿Rev.,﻿L. Picot,,,,,,,,1833,﻿https://en.wikipedia.org/wiki/St._Francis_Xavier_Cathedral_and_Library,,,﻿,﻿,Bardstown,Bardstown
+﻿vinc.in.9000,﻿convent,﻿St. Clare's Convent,English,,,,,,﻿Vincennes,,﻿IN,,﻿38.68467453,﻿-87.51453548,,,,﻿#REF!,,,,,,,,﻿manage[d] and govern[ed] [by] Sisters of Charity,,1833,﻿Nuns from KY came in 1824 but went back in '34 because they weren't even getting mass or sacraments (not enough people or infrastructure).  Went with the intersection of St. Clair St. with the main street in town,"﻿English, French, Arithmetic, Geography, History, Rhetoric, Plain Sewing, Marking and Ornamental Needle-work, Drawing, Painting in water colors, Fancy work and Embroidery, Spelling, Reading, Writing, Grammar and Syntax, music (piano forte and guitar)",,﻿,﻿,Bardstown,Bardstown
+﻿lou.ky.0020,﻿cathedral,﻿Cathedral of St. Joseph,English,,,,,﻿Nelson County,﻿Bardstown,﻿Bardstown,﻿KY,﻿KY,﻿37.8107095,﻿-85.47136896,,,,﻿ben_j_flaget_901,﻿Right Rev.,﻿Ben J. Flaget,﻿D.D,,,,,,,1833,﻿https://stjosephbasilica.org/history,,,﻿,﻿,Bardstown,Bardstown
+﻿lou.ky.9000,﻿church,not recorded,English,,,,﻿Breckinridge County,,,,﻿KY,,﻿#REF!,﻿#REF!,,,,﻿jos_rogers_901,﻿Rev.,﻿-- Rogers,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿lou.ky.9001,﻿church,not recorded,English,,,,﻿Bullet County,﻿Bullitt County,,,﻿KY,,﻿#REF!,﻿#REF!,,,,﻿jam_elliott_001,﻿Rev.,﻿J. Elliott,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿lou.ky.0074,﻿church,not recorded,English,,,,﻿Casey County,﻿Casey County,,﻿Liberty,﻿KY,﻿KY,﻿37.2885901,﻿-85.0960577,,,,﻿dav_a_deparcq_901,﻿Rev.,﻿David Deparq,,,,,,,,1833,﻿https://stbernardchurch.weebly.com/history.html,,,﻿,﻿,Bardstown,Bardstown
+﻿lou.ky.9002,﻿church,not recorded,English,,,,,,﻿Clare Creek,,﻿KY,﻿KY,﻿36.715,﻿-86.395,,,,﻿wal_s_coomes_001,﻿Rev.,﻿Walter Coomes,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿lou.ky.0034,﻿church,﻿St. Patrick's,English,,,,﻿Mercer County,﻿Boyle County,﻿Danville,﻿Danville,﻿KY,﻿KY,﻿37.64607733,﻿-84.77069785,,,,﻿dav_a_deparcq_901,﻿Rev.,﻿D. Deparq,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿lou.ky.0065,﻿church,not recorded,English,,,,﻿Davies County,﻿Daviess County,,﻿Owensboro,﻿KY,,﻿37.769766,﻿-87.1159126,,,,﻿cha_coomes_901,﻿Rev.,﻿Charles Coomes,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿lou.ky.9004,﻿church,not recorded,English,,,,﻿Hardin County,﻿Hardin County,﻿Elizabethtown,﻿Elizabethtown,﻿KY,﻿KY,﻿37.69995457,﻿-85.87335513,,,,﻿cha_cecil_901,﻿Rev.,﻿Charles Cecil,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿lou.ky.0038,﻿church,﻿St. Michael's,English,﻿Mass at 11,,,﻿Nelson County,﻿Nelson County,﻿Fairfield,﻿Fairfield,﻿KY,﻿KY,﻿37.93178213,﻿-85.38291799,,,,﻿jam_elliott_001,﻿Rev.,﻿J. Elliott,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿lou.ky.0045,﻿church,not recorded,English,,,,,,﻿Hendersonville,﻿Henderson,﻿KY,﻿KY,﻿37.83895375,﻿-87.58671155,,,,﻿#REF!,,,,,,,,,,1833,"﻿Church site says that there was not a formal building until later; however it implies that these was still a catholic community in Hendersonv. Also, it seems that Hendersonville was the early version of Henderson, which started as a settlement but grew as tobacco production in the county grew: https://holynameparish.net/parish-history ; https://en.wikipedia.org/wiki/Henderson,_Kentucky",,,﻿,﻿,Bardstown,Bardstown
+﻿lou.ky.9005,﻿church,﻿Holy Cross,English,,,,﻿Washington County,﻿Marion County,,﻿Holy Cross,﻿KY,,﻿37.673056,﻿-85.448056,,,,﻿r_byrne_901,﻿Rev.,﻿R. Byrne,,,,,,,,1833,"﻿https://en.wikipedia.org/wiki/Holy_Cross_Church_(Marion_County,_Kentucky)",,,﻿,﻿,Bardstown,Bardstown
+﻿lou.ky.9006,﻿church,﻿Holy Mary's,English,,,,﻿Washington County,,,﻿Lebanon,﻿KY,﻿KY,﻿37.51635792,﻿-85.26821131,,,,﻿dav_a_deparcq_901,﻿Rev.,﻿D. Deparq,,,,,,,,1833,﻿https://www.archlou.org/about-the-archdiocese/history/  | https://www.archlou.org/parishes/holy-name-of-mary-parish/,,,﻿,﻿,Bardstown,Bardstown
+﻿lou.ky.9007,﻿church,not recorded,English,﻿Mass at 11,,,﻿Washington County,,﻿Lebanon,,﻿KY,,﻿37.75319635,﻿-85.17006831,,,,﻿#REF!,﻿Rev.,﻿W. Byrne,,,,,,,,1833,﻿https://www.archlou.org/parishes/holy-name-of-mary-parish/,,,﻿,﻿,Bardstown,Bardstown
+﻿cov.ky.0028,﻿church,﻿St. Peter's,English,﻿Mass at 11,,,﻿Fayette County,﻿Fayette County,﻿Lexington,﻿Lexington,﻿KY,,﻿38.04673404,﻿-84.49459291,,,,﻿edw_mcmahon_901,﻿Rev.,﻿E. McMahon,,,﻿dw. at St. Pius,,,,,1833,﻿https://www.stpeterlex.org/about-us/our-history,,,﻿,﻿,Bardstown,Bardstown
+﻿lou.ky.0048,﻿church,not recorded,English,,,,,﻿Marion County,﻿Loretto,﻿Loretto,﻿KY,﻿KY,﻿37.6728593,﻿-85.44784585,,,,﻿guy_i_chabrat_901,﻿Rev. Mr.,﻿Chabrat,,,,,,,,1833,﻿http://sfahc.com/holy-cross,,,﻿,﻿,Bardstown,Bardstown
+﻿lou.ky.0016,﻿church,﻿St. Louis's,English,﻿Mass at 11,,,﻿Jefferson County,﻿Jefferson County,﻿Louisville,﻿Louisville,﻿KY,﻿KY,﻿38.23690764,﻿-85.76363854,,,,﻿rob_a_abell_001,﻿Rev.,﻿Robert A. Abell,,,,,,,,1833,﻿https://www.stlb.org/,,,﻿,﻿,Bardstown,Bardstown
+﻿lou.ky.0059,﻿church,not recorded,English,,,,﻿Union County,﻿Union County,﻿Morganfield,﻿Morganfield,﻿KY,﻿KY,﻿37.68256297,﻿-87.9215952,,,,﻿eli_j_durbin_001,﻿Rev.,﻿Elisha Durbin,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿lou.ky.9008,﻿church,﻿St. Benedict,English,,,,﻿Nelson County,,,,﻿KY,,﻿37.81980224,﻿-85.41808381,,,,﻿wal_s_coomes_001,﻿Rev.,﻿Walter Coomes,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿lou.ky.9009,﻿church,﻿St. Charles's,English,,,,﻿Washington County,,,﻿Lebanon,﻿KY,﻿KY,﻿37.59577026,﻿-85.34314748,,,,﻿dav_a_deparcq_901,﻿Rev.,﻿David Deparq,,,,,,,,1833,﻿https://www.archlou.org/parishes/saint-charles-parish/,,,﻿,﻿,Bardstown,Bardstown
+﻿lou.ky.0020,﻿church,﻿St. Joseph's,English,,,,,﻿Nelson County,﻿Bardstown,﻿Bardstown,﻿KY,,﻿37.81042035,﻿-85.47164901,,,,﻿#REF!,,,,,,,,,,1833,﻿https://stjosephbasilica.org/history,,,﻿,﻿,Bardstown,Bardstown
+﻿cov.ky.0056,﻿church,﻿St. Pius,English,,,,﻿Scott County,,﻿Frankfort,,﻿KY,,﻿38.20755338,﻿-84.69712115,,,,﻿edw_mcmahon_901,﻿Rev.,﻿E. McMahon,,,,,,,,1833,﻿https://ssfrancisjohn.org/our-history,,,﻿,﻿,Bardstown,Bardstown
+﻿lou.ky.0089,﻿church,﻿St. Rose,English,﻿Here is a convent of Dominicans,,,﻿Washington County,﻿Washington County,﻿Springfield,﻿Springfield,﻿KY,﻿KY,﻿37.69318504,﻿-85.26238897,,,,﻿tho_martin_901,﻿Rev.,﻿Thomas Martin,,,,,,,,1833,﻿https://strosespringfield.org/about/history/,,,﻿,﻿,Bardstown,Bardstown
+﻿lou.ky.0091,﻿church,﻿St. Thomas,English,﻿the Seminary of the Brothers of the Mission,,,,,,﻿Bardstown,﻿KY,﻿KY,﻿37.76659691,﻿-85.48401476,,,,﻿lin_coomes_901,﻿Rev.,﻿Linus Coomes,,,,,,,,1833,﻿https://www.saintthomasbardstown.org/ ; https://ia801606.us.archive.org/13/items/historicaltribut00howl/historicaltribut00howl.pdf,,,﻿,﻿,Bardstown,Bardstown
+﻿lou.ky.9011,﻿church,not recorded,English,,,,﻿Shelby County,﻿Shelby County,﻿Shelbyville,﻿Shelbyville,﻿KY,﻿KY,﻿38.21786381,﻿-85.22290968,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿lou.ky.0102,﻿church,not recorded,English,,,,﻿Spencer County,﻿Spencer County,,﻿Taylorsville,﻿KY,﻿KY,﻿38.03301885,﻿-85.34467741,,,,﻿jam_elliott_001,﻿Rev.,﻿J. Elliott,,,,,,,,1833,﻿https://www.allsaintstville.org/history,,,﻿,﻿,Bardstown,Bardstown
+﻿lou.ky.0105,﻿college,﻿St. Joseph's College,English,,,,,﻿Nelson County,﻿Bardstown,﻿Bardstown,﻿KY,﻿KY,﻿37.81142142,﻿-85.47126817,,,,﻿geo_a_elder_901,﻿Rev.,﻿Geo. A. M. Elder,,﻿President,,,,﻿conducted by Roman Catholic clergymen,,1833,"﻿No longer an active institution, now a whiskey museum. Here is info on its history: https://www.jesuits.org/our-work/shmr/what-we-have-learned/st-josephs-college-bardstown-kentucky/ ; https://en.wikipedia.org/wiki/Spalding_Hall","﻿Latin, Greek, Spanish, French, Mathematics, Rhetoric, Mental and Natural Philosophy, Chemistry, History, Geography",,﻿,﻿,Bardstown,Bardstown
+﻿lou.ky.0106,﻿college,﻿St. Thomas' College,English,﻿considered as an appendage to St. Joseph's College in Bardsown,"﻿four miles south of Bardstown, half a mile from the Nashviille Road",,,﻿Nelson County,﻿Bardstown,﻿Bardstown,﻿KY,﻿KY,﻿37.766944,﻿-85.483333,,,,﻿geo_a_elder_901,﻿Rev.,﻿Geo. A. M. Elder,,﻿President,,,,,,1833,﻿https://en.wikipedia.org/wiki/St._Thomas_Church_and_Howard%E2%80%93Flaget_House,"﻿reading, Writing, Arithmatic, English Grammar, Geography, Book-keeping, Surveying, Mathematics, French, Greek, Latin",﻿by the Right Rev. Bishop of Bardstown in 1811,﻿,﻿,Bardstown,Bardstown
+﻿lou.ky.9012,﻿college,﻿St. Mary's Seminary,English,,,,﻿Washington County,﻿Marion County,,﻿Lebanon,﻿KY,﻿KY,﻿37.56946499,﻿-85.34408288,,,,﻿#REF!,﻿Rev.,﻿W. Byrne,,﻿President,,,,,,1833,﻿https://en.wikipedia.org/wiki/St._Mary%27s_College_(Kentucky) ; https://explorekyhistory.ky.gov/items/show/260,,,﻿,﻿,Bardstown,Bardstown
+﻿lou.ky.0089_92,﻿convent,﻿St. Rose,English,﻿convent of Dominicans,,,﻿Washington County,﻿Washington County,﻿Springfield,﻿Springfield,﻿KY,﻿KY,﻿37.69344761,﻿-85.26339642,,,,﻿g_martin_901,﻿Rev.,﻿G. Martin,,﻿Superior,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿lou.ky.0118,﻿academy,﻿Female Academy of Nazareth,English,,﻿Nazareth (community),,,﻿Nelson County,﻿Bardstown,﻿Bardstown,﻿KY,﻿KY,﻿37.85131853,﻿-85.4734955,,,,﻿joh_b_david_901,﻿Right Rev.,﻿David,,﻿Bishop,,,,﻿Conducted by the Sisters of Charity,,1833,﻿https://nazareth.org/about/ ; https://www.kyhistory.com/digital/collection/PH/id/695/,"﻿Reading, writing, arithmetic, english grammar, georgraphy, history, rhetoric, botany, natural philosophy, astronomy, opticks, chemistry, plain sewing, marketing, needle work, drawing, painting, music, french, english literature",,﻿,﻿,Bardstown,Bardstown
+﻿lou.ky.0134,﻿academy,﻿Female Academy of Loretto,English,,,,﻿Washington County,﻿Marion County,﻿Loretto,﻿Nerinx,﻿KY,﻿KY,﻿37.65963579,﻿-85.39593267,,,,﻿ben_j_flaget_901,﻿Right Rev. Dr.,﻿Flaget,,﻿Bishop of Bardstown,,,,﻿under the direction of the Sisters of 'Mary at the Foot of the Cross',,1833,﻿https://www.lorettocommunity.org/about/history/motherhouse-history/,,,﻿,﻿,Bardstown,Bardstown
+﻿lou.ky.0158,﻿monastery,﻿Monastery of St. Magdalen,English,,﻿at St. Rose,,﻿Washington County,﻿Washington County,,﻿Saint Catharine,﻿KY,﻿KY,﻿37.71013369,﻿-85.25986873,,,,﻿#REF!,,,,,,,,﻿under the direction of the Nuns of St. Dominick,,1833,﻿https://oppeace.org/who-we-are/history/,,,﻿,﻿,Bardstown,Bardstown
+﻿lou.ky.9012,﻿convent,﻿Convent of Holy Mary,English,﻿a branch establishment,,,﻿Washington County,﻿Marion County,﻿Loretto,﻿Nerinx,﻿KY,﻿KY,﻿37.65963579,﻿-85.39593267,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿lou.ky.9013,﻿convent,﻿Convent of Gethsemani,English,,,,,﻿Nelson County,,﻿Trappist,﻿KY,﻿KY,﻿37.66453035,﻿-85.52900423,,,,﻿#REF!,,,,,,,,,,1833,﻿https://monks.org/,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,"﻿https://www.hmdb.org/m.asp?m=36240 ; https://en.wikipedia.org/wiki/Cathedral_of_the_Incarnation_(Nashville,_Tennessee)",,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown
+﻿nash.tn.9000,﻿church,not recorded,English,,,,,,﻿Nashville,,﻿TN,,﻿36.16652078,﻿-86.78395778,,,,﻿#REF!,,,,,,,,,,1833,,,,﻿,﻿,Bardstown,Bardstown

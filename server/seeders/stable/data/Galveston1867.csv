@@ -1,5 +1,5 @@
 ﻿instID,church_type,instName,language,instNote,placeName,region,county_orig,county_reg,city_orig,city_reg,state_orig,state_reg,latitude,longitude,attendingInstID,attendingChurch,attendingChurchFrequency,persID,persTitle,persName,persSuffix,persRole,persNote,memberType,member,affiliated,order,year,attendingPersID,attendingChurchNote,diocese,diocese_reg
-﻿gal.tx.0001,﻿cathedral,﻿St. Mary's Cathedral,English,,,,﻿Galveston County,﻿Galveston County,﻿Galveston,﻿Galveston,﻿TX,,29.304165,-94.790631,,,,﻿cm_dubuis_001,﻿Rt. Rev.,﻿C. M. Dubuis,﻿D.D.,,,,,,,1867,﻿,﻿,﻿Galveston,Galveston
+﻿gal.tx.0001,﻿cathedral,﻿St. Mary's Cathedral,English,,,,﻿Galveston County,﻿Galveston County,﻿Galveston,﻿Galveston,﻿TX,,29.304165,-94.790631,,,,﻿c_m_dubuis_001,﻿Rt. Rev.,﻿C. M. Dubuis,﻿D.D.,,,,,,,1867,﻿,﻿,﻿Galveston,Galveston
 ﻿gal.tx.0001,﻿cathedral,﻿St. Mary's Cathedral,English,,,,﻿Galveston County,﻿Galveston County,﻿Galveston,﻿Galveston,﻿TX,,29.304165,-94.790631,,,,﻿l_c_chambodut_001,﻿Very Rev.,﻿L. C. M. Chambodut,,﻿Vicar-General,,,,,,1867,﻿,﻿,﻿Galveston,Galveston
 ﻿gal.tx.0001,﻿cathedral,﻿St. Mary's Cathedral,English,,,,﻿Galveston County,﻿Galveston County,﻿Galveston,﻿Galveston,﻿TX,,29.304165,-94.790631,,,,﻿tj_johnston_001,﻿Rev.,﻿Thomas Johnston,,,,,,,,1867,﻿,﻿,﻿Galveston,Galveston
 ﻿gal.tx.0002,﻿church,﻿St. Joseph's Church,English,,,,﻿Galveston County,﻿Galveston County,﻿Galveston,﻿Galveston,﻿TX,,29.299605,-94.790738,,,,﻿j_anstaett_001,﻿Very Rev.,﻿Joseph Anstaett,,﻿Vicar-Chancellor,,,,,,1867,﻿,﻿,﻿Galveston,Galveston
@@ -96,7 +96,7 @@
 ﻿gal.tx.0075,﻿church,not recorded,English,,,,﻿Cameron County,﻿Willacy County,﻿Lajarita,﻿La Jarita,﻿TX,,26.128497,-97.524724,﻿gal.tx.0023,﻿attended from Brownsville,,,,,,,,,,,,1867,﻿,﻿,﻿Galveston,Galveston
 ﻿gal.tx.0076,﻿church,not recorded,English,,,,﻿Refugio County,﻿Aransas County,﻿Lamar,﻿Lamar,﻿TX,,28.139457,-97.005545,﻿gal.tx.0111,﻿attended from Refugio,,,,,,,,,,,,1867,﻿,﻿,﻿Galveston,Galveston
 ﻿gal.tx.0077,﻿church,not recorded,English,,,,﻿Webb County,﻿Webb County,﻿Laredo,﻿Laredo,﻿TX,,27.503561,-99.507552,,,,﻿mic_suchon_001,﻿Rev.,﻿Michael Souchon,,,,,,,,1867,﻿,﻿,﻿Galveston,Galveston
-﻿gal.tx.0077,﻿church,not recorded,English,,,,﻿Webb County,﻿Webb County,﻿Laredo,﻿Laredo,﻿TX,,27.503561,-99.507552,,,,﻿lm_planchet_001,﻿Rev.,﻿L. M. Planchet,,,,,,,,1867,﻿,﻿,﻿Galveston,Galveston
+﻿gal.tx.0077,﻿church,not recorded,English,,,,﻿Webb County,﻿Webb County,﻿Laredo,﻿Laredo,﻿TX,,27.503561,-99.507552,,,,﻿l_m_planchet_001,﻿Rev.,﻿L. M. Planchet,,,,,,,,1867,﻿,﻿,﻿Galveston,Galveston
 ﻿gal.tx.0078,﻿church,not recorded,English,,,,﻿Cameron County,,﻿Las Animas,,﻿TX,,26.069758,-97.738263,﻿gal.tx.0023,﻿attended from Brownsville,,,,,,,,,,,,1867,﻿,﻿,﻿Galveston,Galveston
 ﻿gal.tx.0079,﻿chapel,﻿St. Mary's Chapel,English,,,,﻿Lavaca County,﻿Lavaca,,﻿Halletsville,﻿TX,,29.448272,-96.998309,,,,﻿ant_forest_001,﻿Rev.,﻿Anthony Forest,,,,,,,,1867,﻿,﻿,﻿Galveston,Galveston
 ﻿gal.tx.0080,﻿church,not recorded,English,,,,﻿Liberty County,﻿Liberty County,﻿Liberty,﻿Liberty,﻿TX,,30.057993,-94.795478,,,,﻿j_martinere_001,﻿Rev.,﻿Joseph Martinière,,,,,,,,1867,﻿,﻿,﻿Galveston,Galveston
@@ -153,7 +153,7 @@
 ﻿gal.tx.0159,﻿convent,﻿Ursuline Convent,English,,,,﻿Bexar County,﻿Bexar County,﻿San Antonio,﻿San Antonio,﻿TX,,29.425191,-98.494592,,,,,﻿Madame,﻿de St. Chantal,,﻿Mother Superior,,﻿boarder,﻿50 boarders,,,1867,﻿,﻿,﻿Galveston,Galveston
 ﻿gal.tx.0159,﻿convent,﻿Ursuline Convent,English,,,,﻿Bexar County,﻿Bexar County,﻿San Antonio,﻿San Antonio,﻿TX,,29.425191,-98.494592,,,,,,,,,,﻿student,﻿250 day-scholars,,,1867,﻿,﻿,﻿Galveston,Galveston
 ﻿gal.tx.0127,﻿church,not recorded,English,,,,﻿Zapata County,﻿Zapata County,﻿San Bartolo,﻿Zapata,﻿TX,,26.907261,-99.271425,﻿gal.tx.0023,﻿attended from Brownsville,,,,,,,,,,,,1867,﻿,﻿,﻿Galveston,Galveston
-﻿gal.tx.0170,﻿church,﻿San Francisco de la Espada,English,,,,﻿Bexar County,,,,,,29.562047,-98.495179,,,,﻿f_bouchu_001,﻿Rev.,﻿Francis Bouchu,,,,,,,,1867,﻿,﻿,﻿Galveston,Galveston
+﻿gal.tx.0170,﻿church,﻿San Francisco de la Espada,English,,,,﻿Bexar County,,,,,,29.562047,-98.495179,,,,﻿fra_bouchu_001,﻿Rev.,﻿Francis Bouchu,,,,,,,,1867,﻿,﻿,﻿Galveston,Galveston
 ﻿gal.tx.0130,﻿church,not recorded,English,,,,﻿Zapata County,﻿Zapata County,﻿San Ignacio,﻿San Ygnacio,﻿TX,,27.042532,-99.44004,﻿gal.tx.0077,﻿attended from Laredo,,,,,,,,,,,,1867,﻿,﻿,﻿Galveston,Galveston
 ﻿gal.tx.0131,﻿church,not recorded,English,,,,﻿Bexar County,﻿Bexar County,﻿San José,﻿San Antonio,﻿TX,,29.365108,-98.487148,﻿gal.tx.0178,"﻿attended by two Priests O.S.B., and two Brothers O.S.B.",,,,,,,,,,,,1867,﻿,﻿,﻿Galveston,Galveston
 ﻿gal.tx.0132,﻿church,not recorded,English,,,,﻿Bexar County,﻿Bexar County,﻿San Juan,,﻿TX,,33.50215,-117.662659,﻿gal.tx.0178,"﻿attended from the monastery, O.S.B.",,,,,,,,,,,,1867,﻿,﻿,﻿Galveston,Galveston
@@ -178,7 +178,6 @@
 ﻿gal.tx.0151,﻿church,not recorded,English,,,,﻿Washington County,﻿Washington County,﻿Washington,﻿Washington-on-the-Brazos,﻿TX,,30.325275,-96.15731,﻿gal.tx.0061,﻿attended from Hidalgo Prairie,,,,,,,,,,,,1867,﻿,﻿,﻿Galveston,Galveston
 ﻿gal.tx.0152,﻿church,not recorded,English,,,,﻿Robertson County,﻿Robertson County,﻿Wheelock,﻿Wheelock,﻿TX,,30.89769,-96.389964,﻿gal.tx.0061,﻿attended from Hidalgo Prairie,,,,,,,,,,,,1867,﻿,﻿,﻿Galveston,Galveston
 ﻿gal.tx.0153,﻿church,not recorded,English,,,,﻿Travis County,﻿Travis County,﻿Webberville,﻿Webberville,﻿TX,,30.231045,-97.516665,﻿gal.tx.0009,﻿attended from Austin,,,,,,,,,,,,1867,﻿,﻿,﻿Galveston,Galveston
-﻿gal.tx.0153,﻿church,not recorded,English,"﻿N.B. - Just arrived, six priests of the Order of the Resurrection, for the station of Paña-Maria, Banders, and Martinez",,,﻿Travis County,﻿Travis County,﻿Webberville,﻿Webberville,﻿TX,,30.231045,-97.516665,,,,,,,,,,,,,,1867,﻿,﻿,﻿Galveston,Galveston
 ﻿gal.tx.0178,﻿convent,"﻿San Jose, Convent of the Order of St. Benedict",English,﻿established in 1859,"﻿near San Antonio, Bexar County",,,,﻿San José,,﻿TX,,,,,,,﻿emi_wendel_001,﻿Very Rev.,﻿Emilian Wendel,,﻿Prior,,﻿religious,﻿3 lay brothers,,,1867,﻿,﻿,﻿Galveston,Galveston
 ﻿gal.tx.0162,﻿convent,﻿Convent of the Incarnate Word,English,,,,,,﻿Brownsville,,﻿TX,,25.918439,-97.508273,,,,,﻿Madame,﻿de St. Ange,,﻿Mother-Superior,,﻿boarder,﻿70 to 80 boarders,,,1867,﻿,﻿,﻿Galveston,Galveston
 ﻿gal.tx.0162,﻿convent,﻿Convent of the Incarnate Word,English,,,,,,﻿Brownsville,,﻿TX,,25.918439,-97.508273,,,,,,,,,,﻿student,﻿100 day-scholars,,,1867,﻿,﻿,﻿Galveston,Galveston

@@ -93,14 +93,14 @@
 ﻿chi.il.0379,﻿church,﻿St. George's,English,,,,﻿Kankakee County,,﻿Petites Isles,,,,,,,,,﻿pet_parradis_001,﻿Rev.,﻿Peter Parradis,,,,,,,,1867,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0103,﻿church,﻿St. James',English,,,,﻿Winnebago County,,﻿Rockford,﻿Rockford,﻿IL,,﻿42.27124179,-89.08502852,,,,﻿j_s_oneil_001,﻿Rev.,﻿J. S. O'Neil,,,,,,,,1867,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0104,﻿church,﻿St. Mary's,English,,,,﻿Rock Island County,﻿Rock Island County,﻿Rock Island,﻿Rock Island,﻿IL,,﻿41.50861017,-90.56889602,,,,﻿p_t_mcelhearn_001,﻿Rev.,﻿P. T. McElhearn,,,,,,,,1867,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0104,﻿church,﻿St. Mary's,English,,,,﻿Rock Island County,﻿Rock Island County,﻿Rock Island,﻿Rock Island,﻿IL,,﻿41.50861017,-90.56889602,,,,﻿t_ackly_001,﻿Rev.,﻿Thomas Ackly,,,,,,,,1867,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0104,﻿church,﻿St. Mary's,English,,,,﻿Rock Island County,﻿Rock Island County,﻿Rock Island,﻿Rock Island,﻿IL,,﻿41.50861017,-90.56889602,,,,﻿tho_j_ackley_001,﻿Rev.,﻿Thomas Ackly,,,,,,,,1867,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0108,﻿church,﻿St. Patrick's,English,,,,﻿Whitesides County,,﻿Sterling,﻿Sterling,﻿IL,,﻿41.79078354,-89.69931,,,,﻿joh_daly_001,﻿Rev.,﻿John Daly,,,,,,,,1867,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0109,﻿church,﻿St. Patrick's,English,,,,﻿Kane County,,﻿St. Charles,﻿St. Charles,﻿IL,,﻿41.91407319,-88.31845068,,,,﻿pet_campbell_001,﻿Rev.,﻿Peter Campbell,,,,,,,,1867,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0110,﻿church,﻿St. Mary's,English,﻿vacant,,,﻿Iroquois County,,﻿St. Marie,﻿Beaverville,﻿IL,,﻿40.95287115,-87.65358583,,,,,,,,,,,,,,1867,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0112,﻿church,﻿St. Josephs's,English,,,,﻿Hancock County,﻿Hancock County,﻿Warsaw,﻿Warsaw,﻿IL,,﻿40.359211,-91.4345978,,,,﻿p_l_henderickx_001,﻿Rev.,﻿P. L. Henderickx,,,,,,"﻿Attended by Franciscan Fathers, Quincy, Ill.",,1867,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0113,﻿church,﻿Immaculate Conception,English,,,,﻿Lake County,,﻿Waukegan,﻿Waukegan,﻿IL,,﻿42.35820769,-87.83267301,,,,﻿mic_donahoe_001,﻿Rev.,﻿Michael Donahoe,,,,,,,,1867,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0115,﻿church,﻿St. Rose of Lima,English,,,,﻿Will County,,﻿Wilmington,﻿Wilmington,﻿IL,,﻿41.30407584,-88.14340099,,,,﻿bar_lonergan_001,﻿Rev.,﻿Barth. Lonergan,,,,,,,,1867,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0118,﻿church,﻿St. Patrick's,English,,,,﻿McHenry County,﻿McHenry County,﻿Woodstock,﻿Woodstock,﻿IL,,﻿42.31718389,-88.45083491,,,,﻿m_lyons_001,﻿Rev.,﻿Michael Lyons,,,,,,,,1867,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0118,﻿church,﻿St. Patrick's,English,,,,﻿McHenry County,﻿McHenry County,﻿Woodstock,﻿Woodstock,﻿IL,,﻿42.31718389,-88.45083491,,,,﻿mic_lyons_001,﻿Rev.,﻿Michael Lyons,,,,,,,,1867,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0119,﻿station,﻿St. Patrick's,English,,,,﻿Cook County,,﻿Ainsworth,﻿South Chicago,﻿IL,,﻿41.73406012,-87.55764343,﻿chi.il.0013,"﻿attended from St. James', Chicago",,,,,,,,,,,,1867,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0120,﻿station,﻿St. Patrick's,English,,,,﻿Bureau County,﻿Bureau County,﻿Arlington,﻿Arlington,﻿IL,,﻿41.4710246,-89.25036504,﻿chi.il.0080,﻿Attended from Mendota,,,,,,,,,,,,1867,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0340,﻿station,﻿St. Patrick's,English,,,,﻿Cook County,,﻿Athens,,,,,,﻿chi.il.0075,﻿Lockport,,,,,,,,,,,,1867,﻿,﻿,﻿Chicago,Chicago
@@ -211,7 +211,7 @@
 ﻿chi.il.0007_2,﻿convent,﻿Redemptorist Convent,English,﻿For other Fathers see St. Michael's Church,﻿Corner of North avenue and Church street,,,,﻿Chicago,﻿Chicago,﻿IL,,﻿41.91116983,-87.63986557,,,,﻿alb_schaeffler_002,﻿Rev. Fr.,﻿Schaeffler,,,,,,,,1867,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0007_2,﻿convent,﻿Redemptorist Convent,English,﻿For other Fathers see St. Michael's Church,﻿Corner of North avenue and Church street,,,,﻿Chicago,﻿Chicago,﻿IL,,﻿41.91116983,-87.63986557,,,,﻿jos_wessel_001,﻿Rev. Fr.,﻿Wessell,,,,,,,,1867,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0007_2,﻿convent,﻿Redemptorist Convent,English,﻿For other Fathers see St. Michael's Church,﻿Corner of North avenue and Church street,,,,﻿Chicago,﻿Chicago,﻿IL,,﻿41.91116983,-87.63986557,,,,﻿joh_b_kuehn_002,﻿Rev. Fr.,﻿Kuehn,,,,,,,,1867,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0007_2,﻿convent,﻿Redemptorist Convent,English,﻿For other Fathers see St. Michael's Church,﻿Corner of North avenue and Church street,,,,﻿Chicago,﻿Chicago,﻿IL,,﻿41.91116983,-87.63986557,,,,﻿heskemann_001,﻿Rev. Fr.,﻿Heskemann,,,,﻿layperson,﻿2 lay brothers,,,1867,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0007_2,﻿convent,﻿Redemptorist Convent,English,﻿For other Fathers see St. Michael's Church,﻿Corner of North avenue and Church street,,,,﻿Chicago,﻿Chicago,﻿IL,,﻿41.91116983,-87.63986557,,,,﻿b_heskemann_001,﻿Rev. Fr.,﻿Heskemann,,,,﻿layperson,﻿2 lay brothers,,,1867,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0234,﻿academy,﻿La Salle Academy,English,,,,﻿La Salle County,,﻿La Salle,﻿La Salle,﻿IL,,﻿41.3621503,-89.0418249,,,,,,,,,,,,﻿Conducted by the Brothers of the Christian Schools,,1867,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0242,﻿seminary,﻿Seminary of the Sacred Heart,English,,,,,,﻿Chicago,﻿Chicago,﻿IL,,﻿41.89689282,-87.62704114,,,,,﻿Madame,﻿M. J. Gallway,,﻿Superior,,﻿boarder,﻿40 boarders,,,1867,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0241,﻿academy,﻿St. Francis Xavier's Academy,English,,﻿131 Wabash avenue,,,,﻿Chicago,﻿Chicago,﻿IL,,﻿41.88215304,-87.62623814,,,,,,,,,,﻿boarder,﻿46 boarders,,,1867,﻿,﻿,﻿Chicago,Chicago

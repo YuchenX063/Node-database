@@ -1,7 +1,7 @@
 ﻿instID,church_type,instName,language,instNote,placeName,region,county_orig,county_reg,city_orig,city_reg,state_orig,state_reg,latitude,longitude,attendingInstID,attendingChurch,attendingChurchFrequency,persID,persTitle,persName,persSuffix,persRole,persNote,memberType,member,affiliated,order,year,attendingPersID,attendingChurchNote,diocese,diocese_reg
 ﻿bur.vt.0001,﻿cathedral,﻿St. Mary's Cathedral,English,,,,,,﻿Burlington,,﻿VT,,44.475883,-73.212072,,,,﻿jer_m_cloarec_001,﻿Rev.,﻿Jerome M. Cloarec,,﻿Pastor,,,,,,1865,﻿,﻿,﻿Burlington,Burlington
 ﻿bur.vt.0001,﻿cathedral,﻿St. Mary's Cathedral,English,,,,,,﻿Burlington,,﻿VT,,44.475883,-73.212072,,,,﻿den_a_ryan_001,﻿Rev.,﻿Denis A. Ryan,,,,,,,,1865,﻿,﻿,﻿Burlington,Burlington
-﻿bur.vt.0001,﻿cathedral,﻿St. Mary's Cathedral,English,,,,,,﻿Burlington,,﻿VT,,44.475883,-73.212072,,,,﻿p_ocarroll_001,﻿Rev.,﻿P. O'Carroll,,,,,,,,1865,﻿,﻿,﻿Burlington,Burlington
+﻿bur.vt.0001,﻿cathedral,﻿St. Mary's Cathedral,English,,,,,,﻿Burlington,,﻿VT,,44.475883,-73.212072,,,,﻿pat_ocarroll_001,﻿Rev.,﻿P. O'Carroll,,,,,,,,1865,﻿,﻿,﻿Burlington,Burlington
 ﻿bur.vt.0002,﻿church,﻿St. Joseph's,English,,,,,,﻿Burlington,,﻿VT,,44.483516,-73.214615,,,,﻿her_cardinal_001,﻿Rev.,﻿Hervé Cardinal,,,,,,,,1865,﻿,﻿,﻿Burlington,Burlington
 ﻿bur.vt.0004,﻿church,not recorded,English,,,,,,﻿Albany,,﻿VT,,44.730941,-72.379808,﻿bur.vt.0050,﻿Attended from St. Johnsbury,,,,,,,,,,,,1865,﻿,﻿,﻿Burlington,Burlington
 ﻿bur.vt.0008,﻿church,﻿St. Charles',English,,,,﻿Windham County,,﻿Bellows' Falls,,﻿VT,,43.136091,-72.449482,﻿bur.vt.0012,﻿Attended from Brattleboro,,,,,,,,,,,,1865,﻿,﻿,﻿Burlington,Burlington

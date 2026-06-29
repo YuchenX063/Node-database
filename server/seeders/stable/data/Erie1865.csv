@@ -1,5 +1,5 @@
 ﻿instID,church_type,instName,language,instNote,placeName,region,county_orig,county_reg,city_orig,city_reg,state_orig,state_reg,latitude,longitude,attendingInstID,attendingChurch,attendingChurchFrequency,persID,persTitle,persName,persSuffix,persRole,persNote,memberType,member,affiliated,order,year,attendingPersID,attendingChurchNote,diocese,diocese_reg
-﻿erie.pa.0001,﻿cathedral,﻿St. Patrick's,English,,﻿Fourth street,,﻿Erie County,,﻿Erie,﻿Erie,﻿PA,,42.1402924,-80.0621357,,,,﻿j_d_coady_001,﻿The Bishop and Very Rev.,﻿John D. Coady,,,,,,,,1865,﻿,﻿,﻿Erie,Erie
+﻿erie.pa.0001,﻿cathedral,﻿St. Patrick's,English,,﻿Fourth street,,﻿Erie County,,﻿Erie,﻿Erie,﻿PA,,42.1402924,-80.0621357,,,,﻿joh_d_coady_001,﻿The Bishop and Very Rev.,﻿John D. Coady,,,,,,,,1865,﻿,﻿,﻿Erie,Erie
 ﻿erie.pa.0002,﻿church,﻿St. Mary's,English,,﻿Ninth street,,﻿Erie County,,﻿Erie,﻿Erie,﻿PA,,42.1288429,-80.0761177,,,,﻿cas_seitz_001,﻿Rev.,﻿Casimir Seitz,﻿O.S.B.,,,,,,,1865,﻿,﻿,﻿Erie,Erie
 ﻿erie.pa.0002,﻿church,﻿St. Mary's,English,,﻿Ninth street,,﻿Erie County,,﻿Erie,﻿Erie,﻿PA,,42.1288429,-80.0761177,,,,﻿mei_jeggle_001,﻿Rev.,﻿Meinrad Jeggle,﻿O.S.B.,,,,,,,1865,﻿,﻿,﻿Erie,Erie
 ﻿erie.pa.0002,﻿church,﻿St. Mary's,English,,﻿Ninth street,,﻿Erie County,,﻿Erie,﻿Erie,﻿PA,,42.1288429,-80.0761177,,,,﻿tha_heinzelmayer_001,﻿Rev.,﻿Thaddeus Heinzelmayer,﻿O.S.B.,,,,,,,1865,﻿,﻿,﻿Erie,Erie

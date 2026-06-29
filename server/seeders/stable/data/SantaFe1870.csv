@@ -35,7 +35,7 @@
 ﻿san.nm.0028,﻿chapel,﻿San Pedro's Chapel,English,,,﻿Albuquerque,,,,,﻿NM,,35.2397286,-106.2110857,﻿san.nm.0022,﻿Attended from Albuquerque,,,,,,,,,,,,1870,﻿,﻿,﻿Santa Fé,SantaFe
 ﻿san.nm.0029,﻿chapel,﻿Chapel of San José,English,,,﻿Albuquerque,,,﻿Rancheros de Atrisco,﻿Albuquerque,﻿NM,,35.042073,-106.6468148,﻿san.nm.0022,﻿Attended from Albuquerque,,,,,,,,,,,,1870,﻿,﻿,﻿Santa Fé,SantaFe
 ﻿san.nm.0030,﻿church,﻿Parish Church of San José,English,,,﻿Antonchico,,,﻿Antonchico,﻿Anton Chico,﻿NM,,35.2011473,-105.1433163,,,,﻿aug_redon_001,﻿Rev.,﻿Aug. Redon,,,,,,,,1870,﻿,﻿,﻿Santa Fé,SantaFe
-﻿san.nm.0030,﻿church,﻿Parish Church of San José,English,,,﻿Antonchico,,,﻿Antonchico,﻿Anton Chico,﻿NM,,35.2011473,-105.1433163,,,,﻿a_matonet_001,﻿Rev.,﻿A. Matonet,﻿Assistant,,,,,,,1870,﻿,﻿,﻿Santa Fé,SantaFe
+﻿san.nm.0030,﻿church,﻿Parish Church of San José,English,,,﻿Antonchico,,,﻿Antonchico,﻿Anton Chico,﻿NM,,35.2011473,-105.1433163,,,,﻿ale_matonet_001,﻿Rev.,﻿A. Matonet,﻿Assistant,,,,,,,1870,﻿,﻿,﻿Santa Fé,SantaFe
 ﻿san.nm.0031,﻿chapel,﻿Plasa de Ariba Chapel,English,,,﻿Antonchico,,,,,﻿NM,,34.9727305,-105.0323635,﻿san.nm.0030,﻿Attended from Antonchico,,,,,,,,,,,,1870,﻿,﻿,﻿Santa Fé,SantaFe
 ﻿san.nm.0032,﻿chapel,not recorded,English,,﻿Chapel,﻿Antonchico,,,﻿Chaperito,,﻿NM,,35.32476819,-104.9102304,﻿san.nm.0030,﻿Attended from Antonchico,,,,,,,,,,,,1870,﻿,﻿,﻿Santa Fé,SantaFe
 ﻿san.nm.0033,﻿chapel,﻿Chapel of San Augustin,English,,,﻿Antonchico,,,﻿Valles,﻿San Augustin,﻿NM,,35.457823,-105.1458373,﻿san.nm.0030,﻿Attended from Antonchico,,,,,,,,,,,,1870,﻿,﻿,﻿Santa Fé,SantaFe
@@ -83,7 +83,7 @@
 ﻿san.nm.0075,﻿chapel,not recorded,English,,﻿Chapel,﻿Manzano,,,﻿Chilili,﻿Chilili,﻿NM,,34.8894968,-106.2328016,﻿san.nm.0074,﻿Chapel attended from Manzano,,,,,,,,,,,,1870,﻿,﻿,﻿Santa Fé,SantaFe
 ﻿san.nm.0076,﻿chapel,not recorded,English,,﻿Chapel,﻿Manzano,,,﻿Torreon,﻿Torreon,﻿NM,,34.7222803,-106.2986314,﻿san.nm.0074,﻿Chapel attended from Manzano,,,,,,,,,,,,1870,﻿,﻿,﻿Santa Fé,SantaFe
 ﻿san.nm.0077,﻿chapel,not recorded,English,,﻿Chapel,﻿Manzano,,,﻿Tajique,﻿Tajique,﻿NM,,34.751724,-106.2877984,﻿san.nm.0074,﻿Chapel attended from Manzano,,,,,,,,,,,,1870,﻿,﻿,﻿Santa Fé,SantaFe
-﻿san.nm.0078,﻿church,﻿Parish Church of Santa Gertrudis,English,,,﻿Mora,,,﻿Mora,﻿Mora,﻿NM,,35.9730664,-105.3301475,,,,﻿joh_guérin_001,﻿Rev.,﻿John Guérin,﻿Pastor,,,,,,,1870,﻿,﻿,﻿Santa Fé,SantaFe
+﻿san.nm.0078,﻿church,﻿Parish Church of Santa Gertrudis,English,,,﻿Mora,,,﻿Mora,﻿Mora,﻿NM,,35.9730664,-105.3301475,,,,﻿jua_guérin_001,﻿Rev.,﻿John Guérin,﻿Pastor,,,,,,,1870,﻿,﻿,﻿Santa Fé,SantaFe
 ﻿san.nm.0078,﻿church,﻿Parish Church of Santa Gertrudis,English,,,﻿Mora,,,﻿Mora,﻿Mora,﻿NM,,35.9730664,-105.3301475,,,,﻿l_bourdier_001,﻿Rev.,﻿L. Bourdier,﻿Assistant,,,,,,,1870,﻿,﻿,﻿Santa Fé,SantaFe
 ﻿san.nm.0079,﻿chapel,not recorded,English,,,﻿Mora,,,﻿El Coyote,﻿Coyote/Youngsville,﻿NM,,36.1878577,-106.5576829,﻿san.nm.0078,﻿Chapel attended from Mora,,,,,,,,,,,,1870,﻿,﻿,﻿Santa Fé,SantaFe
 ﻿san.nm.0080,﻿chapel,not recorded,English,,,﻿Mora,,,﻿Guadalupita,﻿Guadalupita,﻿NM,,36.138175,-105.2376399,﻿san.nm.0078,﻿Chapel attended from Mora,,,,,,,,,,,,1870,﻿,﻿,﻿Santa Fé,SantaFe
@@ -127,7 +127,7 @@
 ﻿san.nm.0117,﻿chapel,not recorded,English,,﻿Chapel,﻿San Miguel del Vado,,,﻿La Cuesta,﻿Villanueva,﻿NM,,35.266753,-105.3613399,﻿san.nm.0133,﻿Attended from San Miguel,,,,,,,,,,,,1870,﻿,﻿,﻿Santa Fé,SantaFe
 ﻿san.nm.0118,﻿chapel,not recorded,English,,﻿Chapel,﻿San Miguel del Vado,,,﻿Bernal,﻿Bernal,﻿NM,,35.3928231,-105.3175088,﻿san.nm.0133,﻿Attended from San Miguel,,,,,,,,,,,,1870,﻿,﻿,﻿Santa Fé,SantaFe
 ﻿san.nm.0119,﻿chapel,not recorded,English,,﻿Chapel,﻿San Miguel del Vado,,,﻿Rio La Vaca,,﻿NM,,34.9727305,-105.0323635,﻿san.nm.0133,﻿Attended from San Miguel,,,,,,,,,,,,1870,﻿,﻿,﻿Santa Fé,SantaFe
-﻿san.nm.0243,﻿church,not recorded,English,,﻿Parish Church,﻿Peña Blanca,,,﻿Peña Blanca,﻿Peña Blanca,﻿NM,,35.5707835,-106.3378843,,,,﻿r_medina_001,﻿Rev.,﻿R. Medina,,,"﻿attends San Domingo, etc.",,,,,1870,﻿,﻿,﻿Santa Fé,SantaFe
+﻿san.nm.0243,﻿church,not recorded,English,,﻿Parish Church,﻿Peña Blanca,,,﻿Peña Blanca,﻿Peña Blanca,﻿NM,,35.5707835,-106.3378843,,,,﻿ram_medina_001,﻿Rev.,﻿R. Medina,,,"﻿attends San Domingo, etc.",,,,,1870,﻿,﻿,﻿Santa Fé,SantaFe
 ﻿san.nm.0121,﻿chapel,﻿Santa Rosa,English,,﻿Chapel,﻿Peña Blanca,,,﻿Cubero,﻿Cubero,﻿NM,,35.084783,-107.522465,﻿san.nm.0120,﻿Attended from San Domingo,,,,,,,,,,,,1870,﻿,﻿,﻿Santa Fé,SantaFe
 ﻿san.nm.0122,﻿chapel,not recorded,English,,"﻿Chapel, Indian Pueblo",﻿Peña Blanca,,,﻿San Felipe,﻿San Felipe Pueblo,﻿NM,,35.4021826,-106.4437245,﻿san.nm.0120,﻿Attended from San Domingo,,,,,,,,,,,,1870,﻿,﻿,﻿Santa Fé,SantaFe
 ﻿san.nm.0123,﻿chapel,﻿Chapel of San Buenaventura,English,,﻿Indian Pueblo,﻿Peña Blanca,,,﻿Cochiti,﻿Cochiti Pueblo,﻿NM,,35.60892,-106.3503042,﻿san.nm.0120,﻿Attended from San Domingo,,,,,,,,,,,,1870,﻿,﻿,﻿Santa Fé,SantaFe

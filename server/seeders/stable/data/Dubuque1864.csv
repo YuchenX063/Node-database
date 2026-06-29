@@ -3,7 +3,7 @@
 ﻿dub.ia.0001,﻿cathedral,﻿St. Raphael's,English,,,,,,﻿Dubuque,﻿Dubuque,﻿IA,,42.495195,-90.666832,,,,﻿mau_flavin_001,﻿Rev.,﻿M. Flavin,,,,,,,,1864,﻿,﻿,﻿Dubuque,Dubuque
 ﻿dub.ia.0001,﻿cathedral,﻿St. Raphael's,English,,,,,,﻿Dubuque,﻿Dubuque,﻿IA,,42.495195,-90.666832,,,,﻿dan_molony_001,﻿Rev.,﻿Daniel Molony,,,,,,,,1864,﻿,﻿,﻿Dubuque,Dubuque
 ﻿dub.ia.0002,﻿church,﻿St. Patrick's,English,,,,,,﻿Dubuque City,﻿Dubuque,﻿IA,,42.506691,-90.669298,,,,﻿fra_walsh_001,﻿Rev.,﻿Francis Walsh,,,,,,,,1864,﻿,﻿,﻿Dubuque,Dubuque
-﻿dub.ia.0003,﻿church,﻿Holy Trinity,﻿German,,,,,,﻿Dubuque City,﻿Dubuque,﻿IA,,42.50768,-90.667007,,,,﻿joh_fendrick_001,﻿Rev.,﻿John Fendrick,,,,,,,,1864,﻿,﻿,﻿Dubuque,Dubuque
+﻿dub.ia.0003,﻿church,﻿Holy Trinity,﻿German,,,,,,﻿Dubuque City,﻿Dubuque,﻿IA,,42.50768,-90.667007,,,,﻿joh_fendricks_001,﻿Rev.,﻿John Fendrick,,,,,,,,1864,﻿,﻿,﻿Dubuque,Dubuque
 ﻿dub.ia.0003,﻿church,﻿Holy Trinity,﻿German,,,,,,﻿Dubuque City,﻿Dubuque,﻿IA,,42.50768,-90.667007,,,,﻿a_cortenkamp_001,﻿Rev.,﻿A. Cortenkamp,,,,,,,,1864,﻿,﻿,﻿Dubuque,Dubuque
 ﻿dub.ia.0004,﻿church,﻿St. Joseph's Church,English,,,,﻿Dubuque County,﻿Dubuque County,,,﻿IA,,42.583198,-90.88363,,,,﻿t_j_donaghoe_001,﻿Very Rev.,﻿T. J. Donaghoe,,﻿V.G.,,,,,,1864,﻿,﻿,﻿Dubuque,Dubuque
 ﻿dub.ia.0005,﻿church,﻿St. Catherine's,English,,,,﻿Dubuque County,﻿Dubuque County,,,﻿IA,,42.405909,-90.591945,﻿dub.ia.0006,﻿attended from St. Donatus,,,,,,,,,,,,1864,﻿,﻿,﻿Dubuque,Dubuque
@@ -12,7 +12,7 @@
 ﻿dub.ia.0262,﻿church,﻿St. Joseph Calasanctius',English,,,,﻿Dubuque County,﻿Dubuque County,,,﻿IA,,42.4793918,-90.70523288,﻿dub.ia.0001,﻿attended from Dubuque,,,,,,,,,,,,1864,﻿,﻿,﻿Dubuque,Dubuque
 ﻿dub.ia.0269,﻿church,﻿St. Williams,English,,,,,﻿Dubuque County,,,﻿IA,,42.51840507,-90.79333875,,,,,,,,,,,,,,1864,﻿,﻿,﻿Dubuque,Dubuque
 ﻿dub.ia.0263,﻿church,﻿St. Eugenie,English,,,,﻿Dallas County,﻿Dallas County,﻿Adel,﻿Adel,﻿IA,,41.6156865,-94.01713603,﻿dub.ia.0048,﻿attended from Des Moines,,,,,,,,,,,,1864,﻿,﻿,﻿Dubuque,Dubuque
-﻿dub.ia.0270,﻿church,﻿St. Agatha,English,,,,﻿Monoe County,﻿Monoe County,﻿Albia,﻿Albia,﻿IA,,41.02788758,-92.8113166,,,,﻿t_clifford_001,﻿Rev.,﻿T. Clifford,,,,,,,,1864,﻿,﻿,﻿Dubuque,Dubuque
+﻿dub.ia.0270,﻿church,﻿St. Agatha,English,,,,﻿Monoe County,﻿Monoe County,﻿Albia,﻿Albia,﻿IA,,41.02788758,-92.8113166,,,,﻿tim_clifford_001,﻿Rev.,﻿T. Clifford,,,,,,,,1864,﻿,﻿,﻿Dubuque,Dubuque
 ﻿dub.ia.0238,﻿church,﻿St. Louis,English,,,,﻿Des Moines County,﻿Des Moines County,﻿Augusta,﻿Augusta,﻿IA,,40.756322,-91.2761,﻿dub.ia.0012,﻿attended from Burlington,,,,,,,,,,,,1864,﻿,﻿,﻿Dubuque,Dubuque
 ﻿dub.ia.0067,﻿church,not recorded,English,,,,﻿Dubuque County,﻿Dubuque County,﻿Banxton Settlement,﻿Bankston,﻿IA,,42.518622,-90.961902,,,,﻿and_bennett_001,﻿Rev.,﻿A.Bennett,,,,,,,,1864,﻿,﻿,﻿Dubuque,Dubuque
 ﻿dub.ia.0009,﻿church,﻿St. Andrew,English,,,,﻿Jackson County,﻿Jackson County,﻿Belleview,﻿Bellevue,﻿IA,,42.259488,-90.428288,,,,﻿dev_brennan_001,﻿Rev.,﻿D. Brennan,,,,,,,,1864,﻿,﻿,﻿Dubuque,Dubuque
@@ -71,7 +71,7 @@
 ﻿dub.ia.0274,﻿church,﻿St. Henry's,English,,,,﻿Henry County,,﻿New London,,﻿IA,,40.92677961,-91.40082822,﻿dub.ia.0103,﻿attended from Mount Pleasant,,,,,,,,,,,,1864,﻿,﻿,﻿Dubuque,Dubuque
 ﻿dub.ia.0051,﻿station,﻿St. Mark,English,,,,﻿Jasper County,﻿Jasper County,﻿Newton,﻿Newton,﻿IA,,41.703318,-93.057353,﻿dub.ia.0048,﻿attended from Des Moines,,,,,,,,,,,,1864,﻿,﻿,﻿Dubuque,Dubuque
 ﻿dub.ia.0203,﻿church,﻿St. Bernard's,English,,,,﻿Dubuque County,﻿Dubuque County,﻿New-Melleray,,﻿IA,,42.389836,-90.808495,,,,﻿b_mccaffery_001,﻿Rev.,﻿Bernard McCaffery,,,,,,,,1864,﻿,﻿,﻿Dubuque,Dubuque
-﻿dub.ia.0248,﻿church,﻿St. Boniface,﻿German,,,,﻿Dubuque County,﻿Dubuque County,﻿New-Wine,,﻿IA,,42.529293,-91.078595,,,,﻿jam_orth_001,﻿Rev.,﻿James Orth,,,,,,,,1864,﻿,﻿,﻿Dubuque,Dubuque
+﻿dub.ia.0111,﻿church,﻿St. Boniface,﻿German,,,,﻿Dubuque County,﻿Dubuque County,﻿New-Wine,,﻿IA,,42.529293,-91.078595,,,,﻿jam_orth_001,﻿Rev.,﻿James Orth,,,,,,,,1864,﻿,﻿,﻿Dubuque,Dubuque
 ﻿dub.ia.0249,﻿church,﻿St. David,English,,,,﻿Dubuque County,,﻿O'Connel's Settlement,,﻿IA,,42.49863204,-90.80633717,,,,﻿and_bennett_001,﻿Rev.,﻿Andrew Bennett,,,,,,,,1864,﻿,﻿,﻿Dubuque,Dubuque
 ﻿dub.ia.0265,﻿church,﻿St. Michael's,English,,,,﻿Iowa County,,﻿Old Man's Creek,,﻿IA,,41.60390801,-91.83149625,,,,﻿pet_sullivan_001,﻿Rev.,﻿P. Sullivan,,,,,,,,1864,﻿,﻿,﻿Dubuque,Dubuque
 ﻿dub.ia.0113,﻿church,﻿Seven Dolors,English,,,,﻿Winneshiek County,﻿Winneshiek County,﻿Old Mission,,﻿IA,,43.124097,-91.902162,,,,﻿fre_hannasch_001,﻿Rev.,﻿Frederick Hannasch,,,,,,,,1864,﻿,﻿,﻿Dubuque,Dubuque

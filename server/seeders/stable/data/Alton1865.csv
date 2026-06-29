@@ -1,6 +1,6 @@
 ﻿instID,church_type,instName,language,instNote,placeName,region,county_orig,county_reg,city_orig,city_reg,state_orig,state_reg,latitude,longitude,attendingInstID,attendingChurch,attendingChurchFrequency,persID,persTitle,persName,persSuffix,persRole,persNote,memberType,member,affiliated,order,year,attendingPersID,attendingChurchNote,diocese,diocese_reg
 ﻿alt.il.0001,﻿cathedral,﻿Cathedral of SS. Peter and Paul,English,,,,﻿Madison County,﻿Madison County,﻿Alton,﻿Alton,﻿IL,,38.8953847,-90.1902021,,,,﻿hen_d_juncker_001,﻿Rt. Rev.,﻿H. D. Juncker,,,,,,,,1865,﻿,﻿,﻿Alton,Alton
-﻿alt.il.0001,﻿cathedral,﻿Cathedral of SS. Peter and Paul,English,,,,﻿Madison County,﻿Madison County,﻿Alton,﻿Alton,﻿IL,,38.8953847,-90.1902021,,,,﻿th_f_mangan_001,﻿Rev.,﻿Th. Fr. Mangan,,,,,,,,1865,﻿,﻿,﻿Alton,Alton
+﻿alt.il.0001,﻿cathedral,﻿Cathedral of SS. Peter and Paul,English,,,,﻿Madison County,﻿Madison County,﻿Alton,﻿Alton,﻿IL,,38.8953847,-90.1902021,,,,﻿tho_f_mangan_001,﻿Rev.,﻿Th. Fr. Mangan,,,,,,,,1865,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0001,﻿cathedral,﻿Cathedral of SS. Peter and Paul,English,,,,﻿Madison County,﻿Madison County,﻿Alton,﻿Alton,﻿IL,,38.8953847,-90.1902021,,,,﻿a_b_rinckes_001,﻿Rev.,﻿B. Rinckes,,,,,,,,1865,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0001,﻿cathedral,﻿Cathedral of SS. Peter and Paul,English,,,,﻿Madison County,﻿Madison County,﻿Alton,﻿Alton,﻿IL,,38.8953847,-90.1902021,,,,﻿j_janssen_001,﻿Rev.,﻿J. Janssen,,﻿Chaplain of the Convent,,,,,,1865,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0002,﻿church,﻿St. Mary's,﻿German,,,,﻿Madison County,﻿Madison County,﻿Alton,﻿Alton,﻿IL,,38.8911797,-90.1782179,,,,﻿f_ostrop_001,﻿Rev.,﻿Fr. Ostrop,,,,,,,,1865,﻿,﻿,﻿Alton,Alton
@@ -77,7 +77,7 @@
 ﻿alt.il.0087,﻿church,﻿Immaculate Conception,English,,,,﻿Edgar County,﻿Edgar County,﻿Paris,﻿Paris,﻿IL,,39.611146,-87.696137,,,,﻿ant_zingchina_001,﻿Rev.,﻿Anth. Zingsheim,,,,,,,,1865,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0089,﻿church,﻿St. Mary's,English,,,,﻿Pittsfield County,﻿Pike County,﻿Pike,﻿Pittsfield,﻿IL,,39.607825,-90.805129,,,,﻿t_cusack_001,﻿Rev.,﻿Th. Cussack,,,,,,,,1865,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0090,﻿church,not recorded,English,,,,﻿Gallatin County,,﻿Pond Settlement,,﻿IL,,37.710775,-88.246118,﻿alt.il.0115,﻿Attended from Shawneetown,,,,,,,,,,,,1865,﻿,﻿,﻿Alton,Alton
-﻿alt.il.0091,﻿church,﻿St. Augustine's,English,,﻿Heckler P.O.,,﻿Monroe County,﻿St. Clair County,﻿Prarie du Long,﻿Prairie Du Long Township,﻿IL,,38.300842,-90.03607,,,,﻿jul_turnel_001,﻿Rev.,﻿Jul. Turnel,,,,,,,,1865,﻿,﻿,﻿Alton,Alton
+﻿alt.il.0091,﻿church,﻿St. Augustine's,English,,﻿Heckler P.O.,,﻿Monroe County,﻿St. Clair County,﻿Prarie du Long,﻿Prairie Du Long Township,﻿IL,,38.300842,-90.03607,,,,﻿jul_turmel_001,﻿Rev.,﻿Jul. Turnel,,,,,,,,1865,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0092,﻿church,﻿St. Philip's,English,,,,﻿Randolph County,﻿Randolph County,﻿Prarie du Rocher,﻿Prairie Du Rocher,﻿IL,,38.079235,-90.093336,,,,﻿h_frohboese_001,﻿Rev.,﻿H. Frohboese,,,,,,,,1865,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0093,﻿church,﻿St. Boniface's,English,,,,﻿Adams County,﻿Adams County,﻿Quincy,﻿Quincy,﻿IL,,39.932455,-91.40511,,,,﻿h_schäfermeyer_001,﻿Very Rev.,﻿H. Schaefermeier,,,,,,,,1865,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0093,﻿church,﻿St. Boniface's,English,,,,﻿Adams County,﻿Adams County,﻿Quincy,﻿Quincy,﻿IL,,39.932455,-91.40511,,,,﻿g_lüken_001,﻿Rev.,﻿Gerh. Lueken,,,,,,,,1865,﻿,﻿,﻿Alton,Alton

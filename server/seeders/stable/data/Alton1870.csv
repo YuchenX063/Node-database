@@ -42,8 +42,8 @@
 ﻿alt.il.0037,﻿church,﻿St. Patrick's,English,,,,﻿St. Clair County,﻿St. Clair County,﻿East St. Louis,﻿East St. Louis,﻿IL,,38.624514,-90.1506465,,,,﻿f_h_zabel_001,﻿Rev.,﻿F. H. Zabel,﻿D.D.,,,,,,,1870,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0038,﻿church,﻿St. Henry's,English,,,,﻿St. Clair County,﻿St. Clair County,﻿East St. Louis,﻿East St. Louis,﻿IL,,38.624514,-90.1506465,,,,﻿c_könig_001,﻿Rev.,﻿C. König,,,,,,,,1870,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0039,﻿church,﻿St. Anne's,English,,,,﻿Effingham County,﻿Effingham County,﻿Edgewood,﻿Edgewood,﻿IL,,38.9206006,-88.6614402,,,,﻿fra_mönning_001,﻿Rev.,﻿F. Mönning,﻿O.S.F.,,,,,,,1870,﻿,﻿,﻿Alton,Alton
-﻿alt.il.0040,﻿church,﻿St. Mary's,English,,,,﻿Madison County,﻿Madison County,﻿Edwardsville,﻿Edwardsville,﻿IL,,38.8052247,-89.9260088,,,,﻿a_rustige_001,﻿Rev.,﻿A. Rustige,,,,,,,,1870,﻿,﻿,﻿Alton,Alton
-﻿alt.il.0041,﻿church,﻿St. Boniface's,English,,,,﻿Madison County,﻿Madison County,﻿Edwardsville,﻿Edwardsville,﻿IL,,38.8137972,-89.9647233,,,,﻿a_rustige_001,﻿Rev.,﻿A. Rustige,,,,,,,,1870,﻿,﻿,﻿Alton,Alton
+﻿alt.il.0040,﻿church,﻿St. Mary's,English,,,,﻿Madison County,﻿Madison County,﻿Edwardsville,﻿Edwardsville,﻿IL,,38.8052247,-89.9260088,,,,﻿ant_rustige_001,﻿Rev.,﻿A. Rustige,,,,,,,,1870,﻿,﻿,﻿Alton,Alton
+﻿alt.il.0041,﻿church,﻿St. Boniface's,English,,,,﻿Madison County,﻿Madison County,﻿Edwardsville,﻿Edwardsville,﻿IL,,38.8137972,-89.9647233,,,,﻿ant_rustige_001,﻿Rev.,﻿A. Rustige,,,,,,,,1870,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0042,﻿church,﻿St. Anthony's,English,,,,﻿Effingham County,﻿Effingham County,﻿Effingham,﻿Effingham,﻿IL,,39.125549,-88.5504177,,,,﻿kil_schlosser_001,﻿Very Rev.,﻿Kilian Schlosser,﻿O.S.F.,,,,,,,1870,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0043,﻿church,﻿St. Joseph's,English,,,,﻿Randolph County,﻿Randolph County,﻿Evansville,﻿Evansville,﻿IL,,38.0892829,-89.9398151,﻿alt.il.0243,﻿Attended from Chester,,,,,,,,,,,,1870,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0044,﻿church,﻿St. Pancratius's,English,,,,﻿St. Clair County,﻿St. Clair County,﻿Fayetteville,﻿Fayetteville,﻿IL,,38.37956,-89.7948386,,,,﻿g_mirbach_001,﻿Rev.,﻿G. Mirbach,,,,,,,,1870,﻿,﻿,﻿Alton,Alton
@@ -72,11 +72,11 @@
 ﻿alt.il.0066,﻿church,﻿St. Gabriel's,English,,,,﻿Moultrie County,﻿Moultrie County,﻿Marrowbone,﻿Marrowbone Township,﻿IL,,39.6246684,-88.7686382,﻿alt.il.0034,﻿Attended from Decatur,,,,,,,,,,,,1870,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0067,﻿church,﻿St. Mary's,English,,,,﻿Clark County,﻿Clark County,﻿Marshall,﻿Marshall,﻿IL,,39.3874967,-87.694521,,,,﻿joh_mark_001,﻿Rev.,﻿John Mark,,,,,,,,1870,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0068,﻿church,﻿Holy Childhood of Jesus,English,,,,﻿St. Clair County,﻿St. Clair County,﻿Maskoutah,﻿Mascoutah,﻿IL,,38.4912049,-89.7917831,,,,﻿g_leve_001,﻿Rev.,﻿G. Leve,,,,,,,,1870,﻿,﻿,﻿Alton,Alton
-﻿alt.il.0069,﻿church,﻿Immaculate Conception,English,,,,﻿Coles County,﻿Coles County,﻿Mattoon,﻿Mattoon,﻿IL,,39.4830897,-88.3728255,,,,﻿t_f_mangan_001,﻿Rev.,﻿T. F. Mangan,,,,,,,,1870,﻿,﻿,﻿Alton,Alton
+﻿alt.il.0069,﻿church,﻿Immaculate Conception,English,,,,﻿Coles County,﻿Coles County,﻿Mattoon,﻿Mattoon,﻿IL,,39.4830897,-88.3728255,,,,﻿tho_f_mangan_001,﻿Rev.,﻿T. F. Mangan,,,,,,,,1870,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0070,﻿church,﻿St. James,English,,,,﻿St. Clair County,﻿St. Clair County,﻿Millstadt,﻿Millstadt,﻿IL,,38.4612076,-90.0964751,,,,﻿f_trojan_001,﻿Rev.,﻿F. Trojan,,,,,,,,1870,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0071,﻿church,﻿St. Mary's,English,,,,﻿Pulaski County,﻿Pulaski County,﻿Mound City,﻿Mound City,﻿IL,,37.0834604,-89.1683594,,,,﻿ric_walsh_001,﻿Rev.,﻿Richard Walsh,,,,,,,,1870,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0072,﻿church,﻿Our Lady of Mount Carmel,English,,,,﻿Wabash County,﻿Wabash County,﻿Mount Carmel,﻿Mount Carmel,﻿IL,,38.4108801,-87.7614174,,,,﻿l_quitter_001,﻿Rev.,﻿L. Quitter,,,,,,,,1870,﻿,﻿,﻿Alton,Alton
-﻿alt.il.0073,﻿church,﻿St. Mary's,English,,,,﻿Brown County,﻿Brown County,﻿Mount Sterling,﻿Mount Sterling,﻿IL,,39.9872707,-90.763463,,,,﻿p_kearney_001,﻿Rev.,﻿P. Kearney,,,,,,,,1870,﻿,﻿,﻿Alton,Alton
+﻿alt.il.0073,﻿church,﻿St. Mary's,English,,,,﻿Brown County,﻿Brown County,﻿Mount Sterling,﻿Mount Sterling,﻿IL,,39.9872707,-90.763463,,,,﻿pat_kearney_001,﻿Rev.,﻿P. Kearney,,,,,,,,1870,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0074,﻿church,﻿St. Joseph's,English,,,,﻿Brown County,﻿Brown County,﻿Mount Sterling,﻿Mount Sterling,﻿IL,,39.9872707,-90.763463,,,,﻿c_hoffmans_001,﻿Rev.,﻿C. Hoffmans,,,,,,,,1870,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0075,﻿church,﻿St. Andrew's,English,,,,﻿Jackson County,﻿Jackson County,﻿Murphysboro,﻿Murphysboro,﻿IL,,37.7644952,-89.3350888,﻿alt.il.0004,﻿Attended from Anna,,,,,,,,,,,,1870,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0076,﻿church,﻿St. Patrick's,English,,,,﻿Cumberland County,﻿Cumberland County,﻿Neoga,﻿Neoga,﻿IL,,39.3194817,-88.4528261,﻿alt.il.0216,"﻿Attended by Rev. F. Mönning, O.S.F.",,,,,,,,,,,,1870,﻿,﻿,﻿Alton,Alton
@@ -125,7 +125,7 @@
 ﻿alt.il.0118,﻿church,﻿St. Dominic's,English,,,,﻿Clinton County,﻿Clinton County,﻿Shoal Creek Station,﻿Breese,﻿IL,,38.6089289,-89.5290943,,,,﻿aug_reineke_001,﻿Rev.,﻿Aug. Reineke,,,,,,,,1870,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0119,﻿church,﻿St. Michael's,English,,,,﻿Shelby County,﻿Shelby County,﻿Sigel,﻿Sigel,﻿IL,,39.2268852,-88.490956,﻿alt.il.0127,﻿Attended from Teutopolis,,,,,,,,,,,,1870,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0120,﻿church,﻿Immaculate Conception,English,,,,﻿Sangamon County,﻿Sangamon County,﻿Springfield,﻿Springfield,﻿IL,,39.7938015,-89.648891,,,,﻿p_brady_002,﻿Rev.,﻿P. Brady,,,,,,,,1870,﻿,﻿,﻿Alton,Alton
-﻿alt.il.0120,﻿church,﻿Immaculate Conception,English,,,,﻿Sangamon County,﻿Sangamon County,﻿Springfield,﻿Springfield,﻿IL,,39.7938015,-89.648891,,,,﻿t_hickey_001,﻿Rev.,﻿T. Hickey,,,,,,,,1870,﻿,﻿,﻿Alton,Alton
+﻿alt.il.0120,﻿church,﻿Immaculate Conception,English,,,,﻿Sangamon County,﻿Sangamon County,﻿Springfield,﻿Springfield,﻿IL,,39.7938015,-89.648891,,,,﻿tim_hickey_001,﻿Rev.,﻿T. Hickey,,,,,,,,1870,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0121,﻿church,﻿SS. Peter and Paul's,English,,,,﻿Sangamon County,﻿Sangamon County,﻿Springfield,﻿Springfield,﻿IL,,39.5897583,-89.7384532,,,,﻿g_lüken_001,﻿Rev.,﻿G. Lüken,,,,,,,,1870,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0121,﻿church,﻿SS. Peter and Paul's,English,,,,﻿Sangamon County,﻿Sangamon County,﻿Springfield,﻿Springfield,﻿IL,,39.5897583,-89.7384532,,,,﻿h_eggenstein_001,﻿Rev.,﻿H. Eggenstein,,,,,,,,1870,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0122,﻿chapel,﻿St. Joseph's Chapel,English,,,,﻿Sangamon County,﻿Sangamon County,﻿Springfield,﻿Springfield,﻿IL,,39.7544164,-89.6434187,﻿alt.il.0027,﻿Attended from Immaculate Conception Church,,,,,,,,,,,,1870,﻿,﻿,﻿Alton,Alton
@@ -133,7 +133,7 @@
 ﻿alt.il.0124,﻿church,﻿St. Joseph's,English,,﻿Stringtown,,﻿Richland County,﻿Richland County,﻿Stringtown,﻿German Township,﻿IL,,38.80573489,-87.98358127,﻿alt.il.0084,﻿Attended from Olney,,,,,,,,,,,,1870,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0125,﻿church,﻿St. Bernards's,English,,﻿Chatham P.O.,,﻿Sangamon County,﻿Sangamon County,﻿Sugar Creek,﻿Chatham,﻿IL,,39.7337353,-89.6251646,,,﻿Vacant,,,,,,,,,,,1870,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0126,﻿church,﻿St. Mary's,English,,,,﻿Christian County,﻿Christian County,﻿Taylorsville,﻿Taylorville,﻿IL,,39.5462867,-89.2950878,﻿alt.il.0007,﻿Attended from Assumption,,,,,,,,,,,,1870,﻿,﻿,﻿Alton,Alton
-﻿alt.il.0127,﻿church,﻿SS. Peter and Francis',English,,,,﻿Effingham County,﻿Effingham County,﻿Teutopolis,﻿Teutopolis,﻿IL,,39.1330967,-88.4719918,,,,﻿m_hiltermann_001,﻿Rev.,﻿M. Hiltermann,﻿O.S.F.,,,,,,,1870,﻿,﻿,﻿Alton,Alton
+﻿alt.il.0127,﻿church,﻿SS. Peter and Francis',English,,,,﻿Effingham County,﻿Effingham County,﻿Teutopolis,﻿Teutopolis,﻿IL,,39.1330967,-88.4719918,,,,﻿mat_hiltermann_001,﻿Rev.,﻿M. Hiltermann,﻿O.S.F.,,,,,,,1870,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0128,﻿church,﻿St. Patrick's,English,,﻿Red Bud P.O.,,﻿Monroe County,﻿Monroe County,﻿Tiptown,﻿Tiptown,﻿IL,,38.2117172,-89.9942741,,,,﻿p_dee_001,﻿Rev.,﻿P. Dee,,,,,,,,1870,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0129,﻿church,﻿St. Mary Magdalen's,English,,,,﻿Perry County,﻿Perry County,﻿Todd's Mill,﻿Todds Mill,﻿IL,,38.0612022,-89.3226954,﻿alt.il.0260,﻿Attended from Lively Grove,,,,,,,,,,,,1870,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0130,﻿church,﻿Purification of the Blessed Virgin Mary,English,,,,﻿Clinton County,﻿Clinton County,﻿Trenton,﻿Trenton,﻿IL,,38.605604,-89.6820368,,,,﻿a_brefeld_001,﻿Rev.,﻿A. Brefeld,,,,,,,,1870,﻿,﻿,﻿Alton,Alton

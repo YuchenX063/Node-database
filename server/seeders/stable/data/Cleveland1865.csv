@@ -8,7 +8,7 @@
 ﻿cle.oh.0006,﻿church,﻿St. Bridget's,English,,,,,,﻿Cleveland,﻿Cleveland,﻿OH,,41.408659,-81.759543,,﻿attended from the Seminary,,,,,,,,,,,,1865,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0007,﻿church,﻿Immaculate Conception,English,,,,,,﻿Cleveland,﻿Cleveland,﻿OH,,41.514753,-81.66101,,﻿attended from Cathedral,,,,,,,,,,,,1865,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0008,﻿church,﻿St. Augustine's,English,,,,,,﻿Cleveland,﻿Cleveland,﻿OH,,41.47864,-81.685952,,﻿attended from Cathedral,,,,,,,,,,,,1865,﻿,﻿,﻿Cleveland,Cleveland
-﻿cle.oh.0004,﻿church,﻿St. Peter's,English,,﻿Dodge street,,,,﻿Cleveland,﻿Cleveland,﻿OH,,41.50231,-81.68207,,,,﻿j_luhr_002,﻿Very Rev.,﻿J. Luhr,,,,,,,,1865,﻿,﻿,﻿Cleveland,Cleveland
+﻿cle.oh.0004,﻿church,﻿St. Peter's,English,,﻿Dodge street,,,,﻿Cleveland,﻿Cleveland,﻿OH,,41.50231,-81.68207,,,,﻿j_luhr_001,﻿Very Rev.,﻿J. Luhr,,,,,,,,1865,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0005,﻿church,﻿St. Joseph's,English,,﻿Kingsman street,,,,﻿Cleveland,﻿Cleveland,﻿OH,,41.486729,-81.640255,,,,﻿a_kräsny_001,﻿Rev.,﻿A. Kräsny,,,,,,﻿Francisan Fathers,,1865,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0010,﻿chapel,﻿St. Mary's,English,,﻿Columbus street,,,,﻿Cleveland,﻿Cleveland,﻿OH,,41.490575,-81.6946,,,,﻿ste_falk_001,﻿Rev.,﻿F. Falk,,,,,,,,1865,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0187_02&0187_04,"﻿convent, female orphan asylum",﻿Ursuline Convent and Girls' Asylum,English,,,,,,﻿Cleveland,﻿Cleveland,﻿OH,,41.49932,-81.69436,,﻿attended from the Cathedral,,,,,,,,,,,,1865,﻿,﻿,﻿Cleveland,Cleveland
@@ -98,7 +98,7 @@
 ﻿cle.oh.0101,﻿church,not recorded,English,,,,,﻿Portage County,﻿Mantua,﻿Mantua,﻿OH,,41.283944,-81.223991,,﻿attended form Newburgh,,,,,,,,,,,,1865,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0109,﻿church,not recorded,English,,,,,,﻿Morcherville,﻿Monroeville,﻿OH,,41.24422,-82.696293,,﻿attended from Fulton,,,,,,,,,,,,1865,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0110,﻿church,not recorded,English,,,,,﻿Henry County,﻿Napoleon,﻿Napoleon,﻿OH,,41.392273,-84.125224,,﻿attended from Defiance,,,,,,,,,,,,1865,﻿,﻿,﻿Cleveland,Cleveland
-﻿cle.oh.0118,﻿church,not recorded,English,,,,,﻿Crawford County,﻿New Washington,﻿New Washington,﻿OH,,40.962508,-82.857191,,,,﻿a_damback_001,﻿Rev.,﻿A. Damback,,,,,,,,1865,﻿,﻿,﻿Cleveland,Cleveland
+﻿cle.oh.0118,﻿church,not recorded,English,,,,,﻿Crawford County,﻿New Washington,﻿New Washington,﻿OH,,40.962508,-82.857191,,,,﻿a_dambach_001,﻿Rev.,﻿A. Damback,,,,,,,,1865,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0113,﻿church,not recorded,English,,,,,﻿Cuyahoga County,﻿Newburgh,﻿Newburgh Heights,﻿OH,,41.450052,-81.663462,,,,﻿j_kuhn_001,﻿Rev.,﻿J. Kuhn,,,,,,,,1865,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0314,﻿church,﻿St. Peter's,English,,,,,﻿Putnam County,﻿New Cleveland,﻿New Cleveland,﻿OH,,41.06487,-84.043595,,﻿attended from Glendolff,,,,,,,,,,,,1865,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0112,﻿church,not recorded,English,,,,,﻿Stark County,﻿New Berlin,﻿North Canton,﻿OH,,40.875891,-81.402336,﻿?,﻿attended from Canton,,,,,,,,,,,,1865,﻿,﻿,﻿Cleveland,Cleveland
@@ -112,9 +112,9 @@
 ﻿cle.oh.0128,﻿church,not recorded,English,,,,﻿Van Wert County,﻿Putnam County,﻿Ottoville,﻿Ottoville,﻿OH,,40.932272,-84.338838,,,,,,,,,,,,,,1865,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0127,﻿church,not recorded,English,,,,,﻿Wayne County,﻿Onaville,﻿Orrville,﻿OH,,40.85,-81.761111,﻿cle.oh.0181,﻿attended from Wooster,,,,,,,,,,,,1865,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0125,﻿church,not recorded,English,,,,,﻿Lorain County,﻿Oberlin,﻿Oberlin,﻿OH,,41.293939,-82.217379,﻿cle.oh.0138,﻿attended from Rawseinville,,,,,,,,,,,,1865,﻿,﻿,﻿Cleveland,Cleveland
-﻿cle.oh.0133,﻿church,not recorded,English,,,,,﻿Henry County,﻿Poplar Ridge,﻿New Bavaria,﻿OH,,41.19592,-84.13244,,,,﻿c_barbier_001,﻿Rev.,﻿C. Barbier,,,,,,,,1865,﻿,﻿,﻿Cleveland,Cleveland
+﻿cle.oh.0133,﻿church,not recorded,English,,,,,﻿Henry County,﻿Poplar Ridge,﻿New Bavaria,﻿OH,,41.19592,-84.13244,,,,﻿cha_barbier_001,﻿Rev.,﻿C. Barbier,,,,,,,,1865,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0131,﻿church,﻿St. Alphonsu's,English,,,,,﻿Huron County,﻿Peru,﻿Peru Township,﻿OH,,41.202367,-82.638066,,,,﻿a_mayenhahn_001,﻿Rev.,﻿A. Magenhahn,,,,,,,,1865,﻿,﻿,﻿Cleveland,Cleveland
-﻿cle.oh.0129,﻿church,not recorded,English,,,,,﻿Lake County,﻿Painesville,﻿Painesville,﻿OH,,41.724489,-81.245657,,,,﻿c_coquerelle_001,﻿Rev.,﻿C. Coquerelle,,,,,,,,1865,﻿,﻿,﻿Cleveland,Cleveland
+﻿cle.oh.0129,﻿church,not recorded,English,,,,,﻿Lake County,﻿Painesville,﻿Painesville,﻿OH,,41.724489,-81.245657,,,,﻿cha_coquerelle_001,﻿Rev.,﻿C. Coquerelle,,,,,,,,1865,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0134,﻿church,not recorded,English,,,,,﻿Ottawa County,﻿Port Clinton,﻿Port Clinton,﻿OH,,41.511995,-82.937692,,,,﻿f_varle_001,﻿Rev.,﻿F. Varle,,,,,,,,1865,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0135,﻿church,﻿St. Patrick's,English,,,,﻿Henry County,﻿Lucas County,﻿Providence,﻿Providence,﻿OH,,41.689439,-83.378939,,﻿attended from Maumee City,,,,,,,,,,,,1865,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0309,﻿church,not recorded,English,,,,﻿Cuyahoga County,﻿Cuyahoga County,﻿Rockport,﻿Rocky River,﻿OH,,41.4768217,-81.8497567,,﻿attended from Newburgh,,,,,,,,,,,,1865,﻿,﻿,﻿Cleveland,Cleveland
@@ -132,7 +132,7 @@
 ﻿cle.oh.0155,﻿church,﻿St. John's,English,,,,,﻿Columbiana County,﻿Summitville,﻿Summitville,﻿OH,,40.678117,-80.886196,,,,﻿p_mcguire_001,﻿Rev.,﻿P. McGuire,,,,,,,,1865,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0149,﻿church,not recorded,English,,,,,﻿Lorain County,﻿Shilo,,﻿OH,,41.411688,-82.12784,﻿cle.oh.0138,﻿attended from Rawseinville,,,,,,,,,,,,1865,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0154,﻿church,not recorded,English,,,,,﻿Williams County,﻿Stryker,﻿Stryker,﻿OH,,41.503662,-84.414116,,﻿attended from Defiance,,,,,,,,,,,,1865,﻿,﻿,﻿Cleveland,Cleveland
-﻿cle.oh.0150,﻿church,not recorded,English,,,,﻿Lucas County,﻿Fulton County,﻿Six-Mile Wood,﻿Delta,﻿OH,,41.573663,-84.005223,,﻿attended from Maumee,,﻿c_barbier_001,﻿Rev.,﻿C. Barbier,,,,,,,,1865,﻿,﻿,﻿Cleveland,Cleveland
+﻿cle.oh.0150,﻿church,not recorded,English,,,,﻿Lucas County,﻿Fulton County,﻿Six-Mile Wood,﻿Delta,﻿OH,,41.573663,-84.005223,,﻿attended from Maumee,,﻿cha_barbier_001,﻿Rev.,﻿C. Barbier,,,,,,,,1865,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0153,﻿church,not recorded,English,,,,﻿Stark County,﻿Tuscarawas County,﻿Strasburg,﻿Strasburg,﻿OH,,40.594784,-81.526786,﻿cle.oh.0096,﻿attended from Louisville,,,,,,,,,,,,1865,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0142,﻿church,not recorded,English,,,,,﻿Columbiana County,﻿Salem,﻿Salem,﻿OH,,40.900892,-80.85675,﻿cle.oh.0055,﻿attended from Dungannon,,,,,,,,,,,,1865,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0152,﻿church,not recorded,English,,,,,﻿Williams County,﻿Spring Hills,,﻿OH,,41.55076,-84.522219,,﻿attended from Defiance,,,,,,,,,,,,1865,﻿,﻿,﻿Cleveland,Cleveland
@@ -161,9 +161,9 @@
 ﻿cle.oh.0173,﻿church,not recorded,English,,,,,﻿Trumbull County,﻿Warren,﻿Warren,﻿OH,,41.237557,-80.818417,,﻿attended from Youngstown,,,,,,,,,,,,1865,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0179,﻿church,not recorded,English,,,,﻿Trumbull County,﻿Portage County,﻿Windham,﻿Windham,﻿OH,,41.235056,-81.049261,,﻿attended from Youngstown,,,,,,,,,,,,1865,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0182,﻿church,not recorded,English,,,,,﻿Mahoning County,﻿Youngstown,﻿Youngstown,﻿OH,,41.09978,-80.649519,,,,﻿e_m_ocallaghan_001,﻿Rev.,﻿E. M. O'Callaghan,,,,,,,,1865,﻿,﻿,﻿Cleveland,Cleveland
-﻿cle.oh.0183,﻿seminary,﻿St. Mary's Ecclesiastical Seminary,English,,,,,,﻿Cleveland,﻿Cleveland,﻿OH,,41.503018,-81.691627,,,,﻿j_quin_001,﻿Rev.,﻿J. Quin,,﻿Superior,,,"﻿Seminarians, 24",,,1865,﻿,﻿,﻿Cleveland,Cleveland
-﻿cle.oh.0183,﻿seminary,﻿St. Mary's Ecclesiastical Seminary,English,,,,,,﻿Cleveland,﻿Cleveland,﻿OH,,41.503018,-81.691627,,,,﻿ch_clemens_001,﻿Rev.,﻿Ch. Clemens,,,,,"﻿Seminarians, 24",,,1865,﻿,﻿,﻿Cleveland,Cleveland
-﻿cle.oh.0183,﻿seminary,﻿St. Mary's Ecclesiastical Seminary,English,,,,,,﻿Cleveland,﻿Cleveland,﻿OH,,41.503018,-81.691627,,,,﻿f_wilmott_001,﻿Rev.,﻿F. Wilmott,,,,,"﻿Seminarians, 24",,,1865,﻿,﻿,﻿Cleveland,Cleveland
+﻿cle.oh.0183,﻿seminary,﻿St. Mary's Ecclesiastical Seminary,English,,,,,,﻿Cleveland,﻿Cleveland,﻿OH,,41.503018,-81.691627,,,,﻿j_quin_001,﻿Rev.,﻿J. Quin,,﻿Superior,,﻿priest,"﻿Seminarians, 24",,,1865,﻿,﻿,﻿Cleveland,Cleveland
+﻿cle.oh.0183,﻿seminary,﻿St. Mary's Ecclesiastical Seminary,English,,,,,,﻿Cleveland,﻿Cleveland,﻿OH,,41.503018,-81.691627,,,,﻿ch_clemens_001,﻿Rev.,﻿Ch. Clemens,,,,﻿priest,"﻿Seminarians, 24",,,1865,﻿,﻿,﻿Cleveland,Cleveland
+﻿cle.oh.0183,﻿seminary,﻿St. Mary's Ecclesiastical Seminary,English,,,,,,﻿Cleveland,﻿Cleveland,﻿OH,,41.503018,-81.691627,,,,﻿f_wilmott_001,﻿Rev.,﻿F. Wilmott,,,,﻿priest,"﻿Seminarians, 24",,,1865,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0183_02,﻿seminary,﻿Petit Seminary,English,,,,,,,,﻿OH,,41.503018,-81.691627,,,,﻿j_quin_001,﻿Rev.,﻿J. Quin,,﻿Superior,,﻿student,"﻿students, 30",,,1865,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0183_02,﻿seminary,﻿Petit Seminary,English,,,,,,,,﻿OH,,41.503018,-81.691627,,,,﻿e_martin_001,﻿Rev.,﻿E. Martin,,﻿Professor,,﻿student,"﻿students, 30",,,1865,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0183_02,﻿seminary,﻿Petit Seminary,English,,,,,,,,﻿OH,,41.503018,-81.691627,,,,﻿f_quin_001,﻿Rev.,﻿F. Quin,,﻿Professor,,﻿student,"﻿students, 30",,,1865,﻿,﻿,﻿Cleveland,Cleveland

@@ -7,7 +7,7 @@
 ﻿new.la.0002,﻿church,﻿St. Mary's,English,﻿Archibishop's Residence,,,,,﻿New Orleans,﻿New Orleans,﻿LA,,29.961033,-90.06049,,,,﻿a_bécard_001,﻿Rev.,﻿A. Bécard,,,,,,,,1868,﻿,﻿,﻿New Orleans,NewOrleans
 ﻿new.la.0002,﻿church,﻿St. Mary's,English,﻿Archibishop's Residence,,,,,﻿New Orleans,﻿New Orleans,﻿LA,,29.961033,-90.06049,,,,﻿aug_mascaroni_001,﻿Rev.,﻿A. Mascaroni,,,,,,,,1868,﻿,﻿,﻿New Orleans,NewOrleans
 ﻿new.la.0003,﻿church,﻿St. Patrick's,English,,,,,,﻿New Orleans,﻿New Orleans,﻿LA,,29.951893,-90.068432,,,,,,,,,﻿no information regarding people/members,,,,,1868,﻿,﻿,﻿New Orleans,NewOrleans
-﻿new.la.0004,﻿church,﻿Immaculate Conception,English,,﻿Barrone street,,,,﻿New Orleans,﻿New Orleans,﻿LA,,29.953707,-90.071516,,,,﻿a_jourdan_001,﻿Rev.,﻿A. Jourdan,﻿S.J.,﻿Pastor,,,,,,1868,﻿,﻿,﻿New Orleans,NewOrleans
+﻿new.la.0004,﻿church,﻿Immaculate Conception,English,,﻿Barrone street,,,,﻿New Orleans,﻿New Orleans,﻿LA,,29.953707,-90.071516,,,,﻿ant_jourdan_001,﻿Rev.,﻿A. Jourdan,﻿S.J.,﻿Pastor,,,,,,1868,﻿,﻿,﻿New Orleans,NewOrleans
 ﻿new.la.0004,﻿church,﻿Immaculate Conception,English,,﻿Barrone street,,,,﻿New Orleans,﻿New Orleans,﻿LA,,29.953707,-90.071516,,,,﻿j_j_duffo_001,﻿Rev.,﻿J. J. Duffo,﻿S.J.,﻿Assistant,,,,,,1868,﻿,﻿,﻿New Orleans,NewOrleans
 ﻿new.la.0005,﻿church,﻿St. Augustine's,English,,,,,,﻿New Orleans,﻿New Orleans,﻿LA,,29.965189,-90.066071,,,,﻿j_b_jobert_001,﻿Rev.,﻿J. B. Jobert,,﻿Pastor,,,,,,1868,﻿,﻿,﻿New Orleans,NewOrleans
 ﻿new.la.0005,﻿church,﻿St. Augustine's,English,,,,,,﻿New Orleans,﻿New Orleans,﻿LA,,29.965189,-90.066071,,,,﻿j_subileau_001,﻿Rev.,﻿J. Subileau,,﻿Assistant,,,,,,1868,﻿,﻿,﻿New Orleans,NewOrleans
@@ -79,7 +79,7 @@
 ﻿new.la.0053,﻿church,﻿St. Raphael,English,,,,﻿Iberville Parish,,,,﻿LA,,30.289918,-91.404825,,,,﻿dubernard_001,﻿Rev.,﻿Dubernard,,﻿Pastor,,,,,,1868,﻿,﻿,﻿New Orleans,NewOrleans
 ﻿new.la.0054,﻿church,﻿Conception,English,,,,,,﻿Ile Piquante,﻿Ile Piquante,﻿LA,,29.903538,-91.733727,﻿new.la.0061,﻿Attended from New Iberia,,,,,,,,,,,,1868,﻿,﻿,﻿New Orleans,NewOrleans
 ﻿new.la.0055,﻿church,not recorded,English,,,,﻿East Feliciana Parish,,﻿Jackson,﻿Jackson,﻿LA,,30.837404,-91.217609,,,,﻿m_scolard_001,﻿Rev.,﻿M. Scolard,,﻿Pastor,,,,,,1868,﻿,﻿,﻿New Orleans,NewOrleans
-﻿new.la.0056,﻿church,﻿Assumption,English,,,,﻿Lafourche Parish,,,,﻿LA,,29.69523,-90.525782,,,,﻿bouchet_002,﻿Rev.,﻿Bouchet,,﻿Pastor,,,,,,1868,﻿,﻿,﻿New Orleans,NewOrleans
+﻿new.la.0056,﻿church,﻿Assumption,English,,,,﻿Lafourche Parish,,,,﻿LA,,29.69523,-90.525782,,,,﻿jul_bouchet_001,﻿Rev.,﻿Bouchet,,﻿Pastor,,,,,,1868,﻿,﻿,﻿New Orleans,NewOrleans
 ﻿new.la.0057,﻿church,﻿St. Mary's,English,,,,﻿Lafourche Parish,,,,﻿LA,,29.69523,-90.525782,,,,﻿j_b_héran_001,﻿Rev.,﻿J. B. Héran,,﻿Pastor,,,,,,1868,﻿,﻿,﻿New Orleans,NewOrleans
 ﻿new.la.0058,﻿church,﻿St. Andrew's,English,,,,,,﻿Lockport,﻿Lockport,﻿LA,,29.646047,-90.539252,,,,﻿p_m_letilly_001,﻿Rev.,﻿P. M. Letilly,,﻿Pastor,,,,,,1868,﻿,﻿,﻿New Orleans,NewOrleans
 ﻿new.la.0059,﻿church,not recorded,English,,,,,,﻿Madison,,﻿LA,,30.406248,-90.157311,﻿new.la.0041,﻿Attended from Covington,,,,,,,,,,,,1868,﻿,﻿,﻿New Orleans,NewOrleans
@@ -120,19 +120,19 @@
 ﻿new.la.0146,﻿school,﻿Theological Seminary,English,,,,,,﻿Bouligny,﻿New Orleans,﻿LA,,29.971684,-90.05578,,,,﻿a_verrina_001,﻿Rev.,﻿A. Verrina,﻿C.M.,﻿Superior,,,,,,1868,﻿,﻿,﻿New Orleans,NewOrleans
 ﻿new.la.0146,﻿school,﻿Theological Seminary,English,,,,,,﻿Bouligny,﻿New Orleans,﻿LA,,29.971684,-90.05578,,,,﻿m_beecher_001,﻿Rev.,﻿M. Beecher,﻿C.M.,,,,,,,1868,﻿,﻿,﻿New Orleans,NewOrleans
 ﻿new.la.0146,﻿school,﻿Theological Seminary,English,,,,,,﻿Bouligny,﻿New Orleans,﻿LA,,29.971684,-90.05578,,,,﻿ale_h_mandine_001,﻿Rev.,﻿Alexius H. Mandine,﻿C.M.,,,,,,,1868,﻿,﻿,﻿New Orleans,NewOrleans
-﻿new.la.0146,﻿school,﻿Theological Seminary,English,,,,,,﻿Bouligny,﻿New Orleans,﻿LA,,29.971684,-90.05578,,,,﻿j_duncan_001,﻿Rev.,﻿J. Duncan,﻿C.M.,,,,,,,1868,﻿,﻿,﻿New Orleans,NewOrleans
+﻿new.la.0146,﻿school,﻿Theological Seminary,English,,,,,,﻿Bouligny,﻿New Orleans,﻿LA,,29.971684,-90.05578,,,,﻿jam_h_duncan_001,﻿Rev.,﻿J. Duncan,﻿C.M.,,,,,,,1868,﻿,﻿,﻿New Orleans,NewOrleans
 ﻿new.la.0146,﻿school,﻿Theological Seminary,English,,,,,,﻿Bouligny,﻿New Orleans,﻿LA,,29.971684,-90.05578,,,,﻿kelly_001,﻿Rev.,﻿Kelly,﻿C.M.,,,,,,,1868,﻿,﻿,﻿New Orleans,NewOrleans
-﻿new.la.0088,﻿college,﻿College of the Immaculate Conception,English,,,,,,﻿New Orleans,,﻿LA,,29.953016,-90.072315,,,,﻿a_jourdan_001,﻿Rev.,﻿A Jourdan,﻿S.J.,﻿President,,﻿religious,﻿there are 6 brothers,,,1868,﻿,﻿,﻿New Orleans,NewOrleans
+﻿new.la.0088,﻿college,﻿College of the Immaculate Conception,English,,,,,,﻿New Orleans,,﻿LA,,29.953016,-90.072315,,,,﻿ant_jourdan_001,﻿Rev.,﻿A Jourdan,﻿S.J.,﻿President,,﻿religious,﻿there are 6 brothers,,,1868,﻿,﻿,﻿New Orleans,NewOrleans
 ﻿new.la.0088,﻿college,﻿College of the Immaculate Conception,English,,,,,,﻿New Orleans,,﻿LA,,29.953016,-90.072315,,,,﻿j_gautrelet_001,﻿Rev.,﻿J. Gautrelet,﻿S.J.,﻿Vice-President,,﻿religious,﻿there are 6 brothers,,,1868,﻿,﻿,﻿New Orleans,NewOrleans
-﻿new.la.0088,﻿college,﻿College of the Immaculate Conception,English,,,,,,﻿New Orleans,,﻿LA,,29.953016,-90.072315,,,,﻿w_murphy_001,﻿Rev.,﻿W. Murphy,﻿S.J.,﻿Chaplain,,﻿religious,﻿there are 6 brothers,,,1868,﻿,﻿,﻿New Orleans,NewOrleans
-﻿new.la.0088,﻿college,﻿,English,,,,,,﻿New Orleans,,﻿LA,,29.953016,-90.072315,,,,﻿joh_cambiazo_001,﻿Rev.,﻿John Cambiazo,﻿S.J.,﻿Treasurer,,﻿religious,﻿there are 6 brothers,,,1868,﻿,﻿,﻿New Orleans,NewOrleans
-﻿new.la.0088,﻿college,﻿,English,,,,,,﻿New Orleans,,﻿LA,,29.953016,-90.072315,,,,﻿d_hubert_001,﻿Rev.,﻿D. Hubert,﻿S.J.,﻿Professor,﻿teachers,﻿religious,﻿there are 6 brothers,,,1868,﻿,﻿,﻿New Orleans,NewOrleans
+﻿new.la.0088,﻿college,﻿College of the Immaculate Conception,English,,,,,,﻿New Orleans,,﻿LA,,29.953016,-90.072315,,,,﻿wil_s_murphy_001,﻿Rev.,﻿W. Murphy,﻿S.J.,﻿Chaplain,,﻿religious,﻿there are 6 brothers,,,1868,﻿,﻿,﻿New Orleans,NewOrleans
+﻿new.la.0088,﻿college,﻿,English,,,,,,﻿New Orleans,,﻿LA,,29.953016,-90.072315,,,,﻿joh_cambiaso_001,﻿Rev.,﻿John Cambiazo,﻿S.J.,﻿Treasurer,,﻿religious,﻿there are 6 brothers,,,1868,﻿,﻿,﻿New Orleans,NewOrleans
+﻿new.la.0088,﻿college,﻿,English,,,,,,﻿New Orleans,,﻿LA,,29.953016,-90.072315,,,,﻿dar_hubert_001,﻿Rev.,﻿D. Hubert,﻿S.J.,﻿Professor,﻿teachers,﻿religious,﻿there are 6 brothers,,,1868,﻿,﻿,﻿New Orleans,NewOrleans
 ﻿new.la.0088,﻿college,﻿,English,,,,,,﻿New Orleans,,﻿LA,,29.953016,-90.072315,,,,﻿p_bouige_001,﻿Rev.,﻿P. Bouige,﻿S.J.,﻿Professor,﻿teachers,﻿religious,﻿there are 6 brothers,,,1868,﻿,﻿,﻿New Orleans,NewOrleans
 ﻿new.la.0088,﻿college,﻿,English,,,,,,﻿New Orleans,,﻿LA,,29.953016,-90.072315,,,,﻿r_holaind_001,﻿Rev.,﻿R. Holaind,﻿S.J.,﻿Professor,﻿teachers,﻿religious,﻿there are 6 brothers,,,1868,﻿,﻿,﻿New Orleans,NewOrleans
-﻿new.la.0088,﻿college,﻿,English,,,,,,﻿New Orleans,,﻿LA,,29.953016,-90.072315,,,,﻿j_downey_001,﻿Rev.,﻿J. Downey,﻿S.J.,﻿Professor,﻿teachers,﻿religious,﻿there are 6 brothers,,,1868,﻿,﻿,﻿New Orleans,NewOrleans
-﻿new.la.0088,﻿college,﻿,English,,,,,,﻿New Orleans,,﻿LA,,29.953016,-90.072315,,,,﻿fr_vaure_001,﻿Rev.,﻿Fr. Vaure,﻿S.J.,﻿Professor,﻿teachers,﻿religious,﻿there are 6 brothers,,,1868,﻿,﻿,﻿New Orleans,NewOrleans
+﻿new.la.0088,﻿college,﻿,English,,,,,,﻿New Orleans,,﻿LA,,29.953016,-90.072315,,,,﻿joh_dowey_001,﻿Rev.,﻿J. Downey,﻿S.J.,﻿Professor,﻿teachers,﻿religious,﻿there are 6 brothers,,,1868,﻿,﻿,﻿New Orleans,NewOrleans
+﻿new.la.0088,﻿college,﻿,English,,,,,,﻿New Orleans,,﻿LA,,29.953016,-90.072315,,,,﻿fra_vaure_001,﻿Rev.,﻿Fr. Vaure,﻿S.J.,﻿Professor,﻿teachers,﻿religious,﻿there are 6 brothers,,,1868,﻿,﻿,﻿New Orleans,NewOrleans
 ﻿new.la.0088,﻿college,﻿,English,,,,,,﻿New Orleans,,﻿LA,,29.953016,-90.072315,,,,﻿j_foley_001,﻿Rev.,﻿J. Foley,﻿S.J.,﻿Professor,﻿teachers,﻿religious,﻿there are 6 brothers,,,1868,﻿,﻿,﻿New Orleans,NewOrleans
-﻿new.la.0088,﻿college,﻿,English,,,,,,﻿New Orleans,,﻿LA,,29.953016,-90.072315,,,,﻿b_roydhouse_001,﻿Mr.,﻿B. Roydhouse,﻿S.J.,﻿Professor,﻿teachers,﻿religious,﻿there are 6 brothers,,,1868,﻿,﻿,﻿New Orleans,NewOrleans
+﻿new.la.0088,﻿college,﻿,English,,,,,,﻿New Orleans,,﻿LA,,29.953016,-90.072315,,,,﻿ben_roydhouse_001,﻿Mr.,﻿B. Roydhouse,﻿S.J.,﻿Professor,﻿teachers,﻿religious,﻿there are 6 brothers,,,1868,﻿,﻿,﻿New Orleans,NewOrleans
 ﻿new.la.0089,﻿college,﻿St. Charles' College,English,,,,,,﻿Grand Coteau,,﻿LA,,30.418336,-92.043368,,,,﻿fel_benausse_001,﻿Very Rev.,﻿Fel. Benausse,﻿S.J.,﻿President,,﻿religious,﻿11 brothers,,,1868,﻿,﻿,﻿New Orleans,NewOrleans
 ﻿new.la.0089,﻿college,﻿St. Charles' College,English,,,,,,﻿Grand Coteau,,﻿LA,,30.418336,-92.043368,,,,﻿fre_larnaudie_001,﻿Rev.,﻿Fred. Larnaudié,﻿S.J.,﻿Vice-President,,﻿religious,﻿11 brothers,,,1868,﻿,﻿,﻿New Orleans,NewOrleans
 ﻿new.la.0089,﻿college,﻿St. Charles' College,English,,,,,,﻿Grand Coteau,,﻿LA,,30.418336,-92.043368,,,,﻿ant_a_de-chaignon_001,﻿Rev.,﻿A. de Chaignon,﻿S.J.,﻿Chaplain,,﻿religious,﻿11 brothers,,,1868,﻿,﻿,﻿New Orleans,NewOrleans
@@ -140,14 +140,14 @@
 ﻿new.la.0089,﻿college,﻿St. Charles' College,English,,,,,,﻿Grand Coteau,,﻿LA,,30.418336,-92.043368,,,,﻿con_widmann_001,﻿Rev.,﻿Conrad Widmann,﻿S.J.,﻿Professor,﻿teachers,﻿religious,﻿11 brothers,,,1868,﻿,﻿,﻿New Orleans,NewOrleans
 ﻿new.la.0089,﻿college,﻿St. Charles' College,English,,,,,,﻿Grand Coteau,,﻿LA,,30.418336,-92.043368,,,,﻿f_abbadie_001,﻿Rev.,﻿Fr. Abaddie,﻿S.J.,﻿Professor,﻿teachers,﻿religious,﻿11 brothers,,,1868,﻿,﻿,﻿New Orleans,NewOrleans
 ﻿new.la.0089,﻿college,﻿St. Charles' College,English,,,,,,﻿Grand Coteau,,﻿LA,,30.418336,-92.043368,,,,﻿j_b_unverzagt_001,﻿Rev.,﻿J. B. Unverzagt,﻿S.J.,﻿Professor,﻿teachers,﻿religious,﻿11 brothers,,,1868,﻿,﻿,﻿New Orleans,NewOrleans
-﻿new.la.0089,﻿college,﻿St. Charles' College,English,,,,,,﻿Grand Coteau,,﻿LA,,30.418336,-92.043368,,,,﻿h_begly_001,﻿Rev.,﻿H. Begly,﻿S.J.,﻿Professor,﻿teachers,﻿religious,﻿11 brothers,,,1868,﻿,﻿,﻿New Orleans,NewOrleans
+﻿new.la.0089,﻿college,﻿St. Charles' College,English,,,,,,﻿Grand Coteau,,﻿LA,,30.418336,-92.043368,,,,﻿hen_begly_001,﻿Rev.,﻿H. Begly,﻿S.J.,﻿Professor,﻿teachers,﻿religious,﻿11 brothers,,,1868,﻿,﻿,﻿New Orleans,NewOrleans
 ﻿new.la.0089,﻿college,﻿St. Charles' College,English,,,,,,﻿Grand Coteau,,﻿LA,,30.418336,-92.043368,,,,﻿joh_oshanahan_001,﻿Rev.,﻿John O'Shanahan,﻿S.J.,﻿Professor,﻿teachers,﻿religious,﻿11 brothers,,,1868,﻿,﻿,﻿New Orleans,NewOrleans
 ﻿new.la.0089,﻿college,﻿St. Charles' College,English,,,,,,﻿Grand Coteau,,﻿LA,,30.418336,-92.043368,,,,﻿w_kennelly_001,﻿Rev.,﻿W. Kennelly,﻿S.J.,﻿Professor,﻿teachers,﻿religious,﻿11 brothers,,,1868,﻿,﻿,﻿New Orleans,NewOrleans
 ﻿new.la.0089,﻿college,﻿St. Charles' College,English,,,,,,﻿Grand Coteau,,﻿LA,,30.418336,-92.043368,,,,﻿p_murphy_003,﻿Rev.,﻿P. Murphy,﻿S.J.,﻿Professor,﻿teachers,﻿religious,﻿11 brothers,,,1868,﻿,﻿,﻿New Orleans,NewOrleans
 ﻿new.la.0090,﻿convent,﻿Redemptorist Convent,English,,,﻿Lafayette,,,﻿New Orleans,,﻿LA,,29.929105,-90.074541,,,,﻿j_b_duffy_001,﻿Rev.,﻿J. B. Duffy,﻿C.SS.R.,﻿Rector,,﻿religious,﻿6 lay brothers,,,1868,﻿,﻿,﻿New Orleans,NewOrleans
 ﻿new.la.0090,﻿convent,﻿Redemptorist Convent,English,,,﻿Lafayette,,,﻿New Orleans,,﻿LA,,29.929105,-90.074541,,,,﻿ale_cvitkovicz_001,﻿Rev.,﻿Alexander Cvitkovicz,﻿C.SS.R.,,,﻿religious,﻿6 lay brothers,,,1868,﻿,﻿,﻿New Orleans,NewOrleans
 ﻿new.la.0090,﻿convent,﻿Redemptorist Convent,English,,,﻿Lafayette,,,﻿New Orleans,,﻿LA,,29.929105,-90.074541,,,,﻿jam_m_jacobs_001,﻿Rev.,﻿James M. Jacobs,﻿C.SS.R.,,,﻿religious,﻿6 lay brothers,,,1868,﻿,﻿,﻿New Orleans,NewOrleans
-﻿new.la.0090,﻿convent,﻿Redemptorist Convent,English,,,﻿Lafayette,,,﻿New Orleans,,﻿LA,,29.929105,-90.074541,,,,﻿wm_v_meredith_001,﻿Rev.,﻿Wm. V. Meredith,﻿C.SS.R.,,,﻿religious,﻿6 lay brothers,,,1868,﻿,﻿,﻿New Orleans,NewOrleans
+﻿new.la.0090,﻿convent,﻿Redemptorist Convent,English,,,﻿Lafayette,,,﻿New Orleans,,﻿LA,,29.929105,-90.074541,,,,﻿wil_v_meredith_001,﻿Rev.,﻿Wm. V. Meredith,﻿C.SS.R.,,,﻿religious,﻿6 lay brothers,,,1868,﻿,﻿,﻿New Orleans,NewOrleans
 ﻿new.la.0090,﻿convent,﻿Redemptorist Convent,English,,,﻿Lafayette,,,﻿New Orleans,,﻿LA,,29.929105,-90.074541,,,,﻿e_smulders_001,﻿Rev.,﻿E. Smulders,﻿C.SS.R.,,,﻿religious,﻿6 lay brothers,,,1868,﻿,﻿,﻿New Orleans,NewOrleans
 ﻿new.la.0090,﻿convent,﻿Redemptorist Convent,English,,,﻿Lafayette,,,﻿New Orleans,,﻿LA,,29.929105,-90.074541,,,,﻿jam_sheeran_002,﻿Rev.,﻿Jas. Sheeran,﻿C.SS.R.,,,﻿religious,﻿6 lay brothers,,,1868,﻿,﻿,﻿New Orleans,NewOrleans
 ﻿new.la.0090,﻿convent,﻿Redemptorist Convent,English,,,﻿Lafayette,,,﻿New Orleans,,﻿LA,,29.929105,-90.074541,,,,﻿alf_de-ham_001,﻿Rev.,﻿Alf. de Ham,﻿C.SS.R.,,,﻿religious,﻿6 lay brothers,,,1868,﻿,﻿,﻿New Orleans,NewOrleans
@@ -224,7 +224,7 @@
 ﻿new.la.0130,﻿house,﻿House of the Good Shepherd,English,,,,,,﻿New Orleans,,﻿LA,,29.981864,-90.107938,,,,,,,,,,﻿religious,﻿2 novices,,,1868,﻿,﻿,﻿New Orleans,NewOrleans
 ﻿new.la.0130,﻿house,﻿House of the Good Shepherd,English,,,,,,﻿New Orleans,,﻿LA,,29.981864,-90.107938,,,,,,,,,,﻿religious,﻿4 postulants,,,1868,﻿,﻿,﻿New Orleans,NewOrleans
 ﻿new.la.0130,﻿house,﻿House of the Good Shepherd,English,,,,,,﻿New Orleans,,﻿LA,,29.981864,-90.107938,,,,,,,,,,﻿layperson,﻿65 penitents,,,1868,﻿,﻿,﻿New Orleans,NewOrleans
-﻿new.la.0130,﻿house,﻿House of the Good Shepherd,English,,,,,,﻿New Orleans,,﻿LA,,29.981864,-90.107938,,,,,,,,,,﻿magdalen,﻿10 Madgalens,,,1868,﻿,﻿,﻿New Orleans,NewOrleans
+﻿new.la.0130,﻿house,﻿House of the Good Shepherd,English,,,,,,﻿New Orleans,,﻿LA,,29.981864,-90.107938,,,,,,,,,,﻿patient,﻿10 Madgalens,,,1868,﻿,﻿,﻿New Orleans,NewOrleans
 ﻿new.la.0131,﻿asylum,﻿St. Mary's Orphan Boys' Asylum,English,,,,,,﻿New Orleans,,﻿LA,,29.960701,-90.035431,,,,﻿florent_001,﻿Rev. Father,﻿Florent,﻿C.S.C.,,,﻿religious,﻿5 lay brothers,﻿under the direction of the Congregation of the Holy Cross,,1868,﻿,﻿,﻿New Orleans,NewOrleans
 ﻿new.la.0131,﻿asylum,﻿St. Mary's Orphan Boys' Asylum,English,,,,,,﻿New Orleans,,﻿LA,,29.960701,-90.035431,,,,﻿f_shortis_001,﻿Rev.,﻿F. Shortis,﻿C.S.C,,,﻿religious,﻿5 lay brothers,﻿under the direction of the Congregation of the Holy Cross,,1868,﻿,﻿,﻿New Orleans,NewOrleans
 ﻿new.la.0131,﻿asylum,﻿St. Mary's Orphan Boys' Asylum,English,,,,,,﻿New Orleans,,﻿LA,,29.960701,-90.035431,,,,﻿f_toohey_001,﻿Rev.,﻿F. Twohy,﻿C.S.C.,,,﻿religious,﻿13 professed Sisters,﻿under the direction of the Congregation of the Holy Cross,,1868,﻿,﻿,﻿New Orleans,NewOrleans

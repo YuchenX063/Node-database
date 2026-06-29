@@ -27,7 +27,7 @@
 ﻿chi.il.0013,﻿church,﻿St. James',English,,"﻿Prairie avenue, between Twenty-sixth and Twenty-seventh streets",,,,﻿Chicago,﻿Chicago,﻿IL,,﻿41.84384284,-87.61745143,,,,﻿tho_kelly_002,﻿Rev.,﻿Thomas Kelly,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0011,﻿church,﻿St. Francis Assisium,English,"﻿Residence, Mather Street",﻿Corner of Mather and Clinton streets,,,,﻿Chicago,﻿Chicago,﻿IL,,﻿41.86684589,-87.64779062,,,,﻿fer_kalvelag_001,﻿Rev.,﻿Ferdinand Kalvalage,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0012,﻿church,﻿St. Columbkille's,English,"﻿Residence, Indiana street, adjoining church",﻿Corner of Paulina and Indiana streets,,,,﻿Chicago,﻿Chicago,﻿IL,,﻿41.6654003,-87.6173631,,,,﻿tho_c_bourk_001,﻿Rev.,﻿Thomas C. Bourk,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0014,﻿church,﻿St. Louis',English,"﻿Residence, Bishop's house","﻿Sherman street, near Polk",,,,﻿Chicago,﻿Chicago,﻿IL,,﻿41.87224806,-87.63255865,﻿Attended from the Bishop's House,,,,,,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0014,﻿church,﻿St. Louis',English,"﻿Residence, Bishop's house","﻿Sherman street, near Polk",,,,﻿Chicago,﻿Chicago,﻿IL,,﻿41.87224806,-87.63255865,,﻿Attended from the Bishop's House,,,,,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0027,﻿church,﻿St. Patrick's,English,,,,﻿Lee County,﻿Lee County,﻿Amboy,﻿Amboy,﻿IL,,﻿41.7132868,-89.32813318,,,,﻿m_j_clarke_001,﻿Rev.,﻿Michael J. Clarke,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0373,﻿church,﻿St. Mary's,English,,,,﻿Jo Daviess County,,﻿Apple River,,,,,,,,,﻿pet_corcoran_001,﻿Rev.,﻿Peter Corcoran,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0029,﻿church,﻿Sacred Heart,English,,,,﻿Kane County,,﻿Aurora,﻿Aurora,﻿IL,,﻿41.7605849,-88.3200715,,,,﻿mic_osullivan_001,﻿Rev.,﻿Michael O'Sullivan,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
@@ -159,7 +159,7 @@
 ﻿chi.il.0220,﻿station,not recorded,English,,,,﻿Stark County,﻿Stark County,﻿Toulon,﻿Toulon,﻿IL,,﻿41.09513197,-89.86580861,﻿chi.il.0069,﻿Attended from Lacon,﻿regularly,,,,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0219,﻿station,﻿St. Mary's,English,,,,﻿McDonough,﻿McDonough County,﻿Tennessee,﻿Tennessee,﻿IL,,﻿40.40990694,-90.84147983,﻿chi.il.0077,﻿Attended from Macomb,﻿regularly,,,,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0224,﻿station,not recorded,English,,,,﻿Will County,,﻿Twelve Mile Grove,﻿Wilton Center,﻿IL,,﻿41.35153281,-87.95959447,﻿chi.il.0115,﻿Attended from Wilmington,﻿regularly,,,,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0226,﻿station,not recorded,English,,,,﻿Jo Daviess County,,﻿Vinegar Hill,﻿Vinegar Hill Township,﻿IL,,﻿42.50043431,-90.42638281,,﻿Attended from Sinsinawa Md. College,﻿regularly,,,,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0226,﻿station,not recorded,English,,,,﻿Jo Daviess County,,﻿Vinegar Hill,﻿Vinegar Hill Township,﻿IL,,﻿42.50043431,-90.42638281,﻿mil.wi.0457,﻿Attended from Sinsinawa Md. College,﻿regularly,,,,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0386,﻿station,not recorded,English,,,,﻿Hancock County,,﻿Warsaw,,,,,,﻿chi.il.0077,﻿Attended from Macomb,﻿regularly,,,,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.368,﻿seminary,﻿University of St. Mary of the Lake,English,,,,,,﻿Chicago,,,,,,,,,﻿joh_mcmullen_001,﻿Rev.,﻿John McMullen,﻿D.D.,"﻿President, Member of Theology Department, Vice President of Board of Trustees",,,,,,1864,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.368,﻿seminary,﻿University of St. Mary of the Lake,English,,,,,,﻿Chicago,,,,,,,,,﻿j_mcgovern_001,﻿Rev.,﻿J. McGovern,﻿D.D.,"﻿Vice-President, Rector, Member of Theology Department",,,,,,1864,﻿,﻿,﻿Chicago,Chicago

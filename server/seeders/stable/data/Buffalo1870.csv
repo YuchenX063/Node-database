@@ -1,23 +1,23 @@
 ﻿instID,church_type,instName,language,instNote,placeName,region,county_orig,county_reg,city_orig,city_reg,state_orig,state_reg,latitude,longitude,attendingInstID,attendingChurch,attendingChurchFrequency,persID,persTitle,persName,persSuffix,persRole,persNote,memberType,member,affiliated,order,year,attendingPersID,attendingChurchNote,diocese,diocese_reg
 ﻿buf.ny.0001,﻿cathedral,﻿St. Joseph's Cathedral,English,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,42.8828026,-78.878283,,,,﻿ste_v_ryan_001,﻿Rt. Rev.,﻿Stephen V. Ryan,﻿D.D.,,,,,,,1870,﻿,﻿,﻿Buffalo,Buffalo
-﻿buf.ny.0001,﻿cathedral,﻿St. Joseph's Cathedral,English,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,42.8828026,-78.878283,,,,﻿wm_gleeson_001,﻿Very Rev.,﻿Wm. Gleeson,,﻿V.G.,,,,,,1870,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0001,﻿cathedral,﻿St. Joseph's Cathedral,English,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,42.8828026,-78.878283,,,,﻿w_gleeson_001,﻿Very Rev.,﻿Wm. Gleeson,,﻿V.G.,,,,,,1870,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0001,﻿cathedral,﻿St. Joseph's Cathedral,English,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,42.8828026,-78.878283,,,,﻿j_mcevoy_001,﻿Rev.,﻿J. McEvoy,,﻿Chancellor,,,,,,1870,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0001,﻿cathedral,﻿St. Joseph's Cathedral,English,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,42.8828026,-78.878283,,,,﻿wm_j_mcnab_001,﻿Rev.,﻿Wm. J. McNab,,,,,,,,1870,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0001,﻿cathedral,﻿St. Joseph's Cathedral,English,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,42.8828026,-78.878283,,,,﻿ed_quigley_001,﻿Rev.,﻿Ed. Quigley,,,,,,,,1870,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0001,﻿cathedral,﻿St. Joseph's Cathedral,English,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,42.8828026,-78.878283,,,,﻿ed_kelly_001,﻿Rev.,﻿Ed. Kelly,,,,,,,,1870,﻿,﻿,﻿Buffalo,Buffalo
-﻿buf.ny.0002,﻿church,﻿St. Bridget's,English,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,42.8647859,-78.86443,,,,﻿mar_oconnor_001,﻿Rev.,﻿Martin O'Connor,,﻿Pastor,,,,,,1870,﻿,﻿,﻿Buffalo,Buffalo
-﻿buf.ny.0002,﻿church,﻿St. Bridget's,English,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,42.8647859,-78.86443,,,,﻿j_lannigan_001,﻿Rev.,﻿J. Lannigan,,﻿Assistant,,,,,,1870,﻿,﻿,﻿Buffalo,Buffalo
-﻿buf.ny.0003,﻿church,﻿St. Patrick's,English,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,42.8864468,-78.8783689,,,,﻿jam_titta_001,﻿Rev.,﻿James Titta,﻿O.S.F.,﻿Superior,,,,,,1870,﻿,﻿,﻿Buffalo,Buffalo
-﻿buf.ny.0003,﻿church,﻿St. Patrick's,English,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,42.8864468,-78.8783689,,,,﻿isa_de-scanno_001,﻿Rev. Father,﻿Isaiah Da Scanno,﻿O.S.F.,,,,,,,1870,﻿,﻿,﻿Buffalo,Buffalo
-﻿buf.ny.0003,﻿church,﻿St. Patrick's,English,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,42.8864468,-78.8783689,,,,﻿gil_nuonno_001,﻿Rev.,﻿Gilbert Nuonno,﻿O.S.F.,,,,,,,1870,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0002,﻿church,﻿St. Bridget's,English,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,42.87277928,-78.86423055,,,,﻿mar_oconnor_001,﻿Rev.,﻿Martin O'Connor,,﻿Pastor,,,,,,1870,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0002,﻿church,﻿St. Bridget's,English,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,42.87277928,-78.86423055,,,,﻿j_lannigan_001,﻿Rev.,﻿J. Lannigan,,﻿Assistant,,,,,,1870,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0003,﻿church,﻿St. Patrick's,English,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,42.87730699,-78.84805984,,,,﻿jam_titta_001,﻿Rev.,﻿James Titta,﻿O.S.F.,﻿Superior,,,,,,1870,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0003,﻿church,﻿St. Patrick's,English,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,42.87730699,-78.84805984,,,,﻿isa_de-scanno_001,﻿Rev. Father,﻿Isaiah Da Scanno,﻿O.S.F.,,,,,,,1870,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0003,﻿church,﻿St. Patrick's,English,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,42.87730699,-78.84805984,,,,﻿gil_nuonno_001,﻿Rev.,﻿Gilbert Nuonno,﻿O.S.F.,,,,,,,1870,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0004,﻿church,﻿Immaculate Conception,English,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,42.8864468,-78.8783689,,,,﻿joh_omara_001,﻿Rev.,﻿John O'Mara,,,,,,,,1870,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0005,﻿church,﻿Holy Angels,English,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,42.9034422,-78.8893034,,,,﻿a_tortel_001,﻿Rev.,﻿A. Tortel,﻿O.M.I.,﻿Superior,,,,,,1870,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0005,﻿church,﻿Holy Angels,English,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,42.9034422,-78.8893034,,,,﻿j_mangin_001,﻿Rev.,﻿J. Mangin,﻿O.M.I.,,,,,,,1870,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0005,﻿church,﻿Holy Angels,English,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,42.9034422,-78.8893034,,,,﻿jam_mcgrath_001,﻿Rev.,﻿J. McGrath,﻿O.M.I.,,,,,,,1870,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0005,﻿church,﻿Holy Angels,English,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,42.9034422,-78.8893034,,,,﻿e_kavanagh_001,﻿Rev.,﻿E. Kavanagh,﻿O.M.I.,,,,,,,1870,﻿,﻿,﻿Buffalo,Buffalo
-﻿buf.ny.0006,﻿church,﻿St. Louis',﻿German,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,42.9056453,-78.825265,,,,﻿jos_m_sorg_001,﻿Rev.,﻿Jos. M. Sorg,,,,,,,,1870,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0006,﻿church,﻿St. Louis',﻿German,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,42.89568118,-78.87218644,,,,﻿jos_m_sorg_001,﻿Rev.,﻿Jos. M. Sorg,,,,,,,,1870,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0007,﻿church,﻿St. Boniface,﻿German,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,42.9154358,-78.7699029,,,,﻿nic_sorg_001,﻿Rev.,﻿Nicholas Sorg,,,,,,,,1870,﻿,﻿,﻿Buffalo,Buffalo
-﻿buf.ny.0008,﻿church,﻿St. Mary's,﻿German,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,42.9075495,-78.8070109,,,,﻿j_b_hespelein_001,﻿Rev.,﻿J. B. Hespelein,﻿C.SS.R.,﻿Rector,,,,,,1870,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0008,﻿church,﻿St. Mary's,﻿German,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,42.88748313,-78.86446773,,,,﻿j_b_hespelein_001,﻿Rev.,﻿J. B. Hespelein,﻿C.SS.R.,﻿Rector,,,,,,1870,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0009,﻿church,﻿St. Michael's,﻿German,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,42.8864468,-78.8783689,,,,﻿jos_m_durthaller_001,﻿Rev.,﻿Jos. M. Durthaller,﻿S.J.,﻿Superior,,,,,,1870,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0009,﻿church,﻿St. Michael's,﻿German,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,42.8864468,-78.8783689,,,,﻿j_kreusch_001,﻿Rev.,﻿J. Kreusch,﻿S.J.,,,,,,,1870,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0009,﻿church,﻿St. Michael's,﻿German,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,42.8864468,-78.8783689,,,,﻿f_koekerols_001,﻿Rev.,﻿F. Koekerols,﻿S.J.,,,,,,,1870,﻿,﻿,﻿Buffalo,Buffalo
@@ -27,7 +27,7 @@
 ﻿buf.ny.0011,﻿church,﻿St. Peter's,﻿French,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,42.9721211,-78.8154749,,,,﻿jos_zoegel_001,﻿Rev.,﻿Jos. Zoegle,,,,,,,,1870,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0012,﻿church,﻿St. Vincent's,﻿German,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,42.9091043,-78.866851,,,,﻿a_keck_001,﻿Rev.,﻿A. Keck,,,,,,,,1870,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0013,﻿church,﻿St. John the Baptist,English,,﻿North Buffalo,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,42.9509105,-78.8488584,,,,﻿p_m_mazuret_001,﻿Rev.,﻿P. Mazuret,,,,,,,,1870,﻿,﻿,﻿Buffalo,Buffalo
-﻿buf.ny.0014,﻿church,﻿St. Francis Xavier's,﻿German,,﻿North Buffalo,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,42.9509105,-78.8488584,,,,﻿h_feldmann_001,﻿Rev.,﻿H. Feldmann,,,,,,,,1870,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0014,﻿church,﻿St. Francis Xavier's,﻿German,,﻿North Buffalo,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,42.9509105,-78.8488584,,,,﻿hen_feldman_001,﻿Rev.,﻿H. Feldmann,,,,,,,,1870,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0015,﻿church,﻿Holy Cross Cemetery,English,,﻿Limestone Hill,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,42.8304119,-78.8113632,,,,﻿tho_hines_001,﻿Rev.,﻿Thos. Hines,,,,,,,,1870,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0015,﻿church,﻿Holy Cross Cemetery,English,,﻿Limestone Hill,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,42.8304119,-78.8113632,,,,﻿mic_cunningham_001,﻿Rev.,﻿Michael Cunningham,,﻿Assistant,,,,,,1870,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0016,﻿chapel,﻿Chapel at the Hospital,English,,﻿Hospital,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,42.8864468,-78.8783689,﻿buf.ny.0009,﻿Attended from St. Michael's,,,,,,,,,,,,1870,﻿,﻿,﻿Buffalo,Buffalo
@@ -35,7 +35,7 @@
 ﻿buf.ny.0018,﻿chapel,﻿Chapel at Convent of the Good Shepherd,English,,﻿Convent of the Good Shepherd,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,42.8864468,-78.8783689,﻿buf.ny.0001,﻿Attended from the Cathedral,,,,,,,,,,,,1870,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0019,﻿chapel,﻿Chapel at St. Vincent's Foundling and Lying-in Asylum,English,,﻿St. Vincent's Foundling and Lying-in Asylum,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,42.8859606,-78.87194563,﻿buf.ny.0004,﻿Attended from the Church of the Immaculate Conception,,,,,,,,,,,,1870,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0163_02,﻿chapel,﻿Chapel of the Deaf Mute Asylum,English,,﻿the Deaf Mute Asylum,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,42.89576277,-78.87497557,﻿buf.ny.0004,﻿Attended from the Church of the Immaculate Conception,,,,,,,,,,,,1870,﻿,﻿,﻿Buffalo,Buffalo
-﻿buf.ny.0167_02,﻿chapel,﻿Chapel of the Providence Lunatic Asylum,English,,﻿the Providence Lunatic Asylum,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,42.8478381,-78.8323092,,,,﻿a_keck_001,﻿Rev.,﻿A. Keck,,,,,,,,1870,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0167_02,﻿chapel,﻿Chapel of the Providence Lunatic Asylum,English,,﻿the Providence Lunatic Asylum,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,42.92786121,-78.85116926,,,,﻿a_keck_001,﻿Rev.,﻿A. Keck,,,,,,,,1870,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0022,﻿chapel,﻿Chapel at the Convent of the Gray Nuns,English,,﻿the Convent of the Gray Nuns,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,42.8864468,-78.8783689,﻿buf.ny.0005,﻿Attended from the Holy Angels',,,,,,,,,,,,1870,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0023,﻿church,﻿St. Teresa's,English,﻿frame church,,,﻿Erie County,,﻿Akron,﻿Akron,﻿NY,,43.0296432,-78.484574,,,,﻿joh_donoghue_001,﻿Rev.,﻿John Donoghue,,,,,,,,1870,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0024,﻿church,﻿Holy Name,English,﻿frame church,,,﻿Erie County,,﻿Alden,﻿Alden,﻿NY,,42.9000596,-78.4919671,,,,﻿j_n_arrent_001,﻿Rev.,﻿J. N. Arrent,,,,,,,,1870,﻿,﻿,﻿Buffalo,Buffalo
@@ -58,7 +58,7 @@
 ﻿buf.ny.0041,﻿church,﻿St. John's,English,﻿frame church,,,﻿Erie County,,﻿Springbrook,﻿Springbrook,﻿NY,,42.8181149,-78.6755836,﻿buf.ny.0015,"﻿Attended from Holy Cross Cemetery, Limestone Hill",,,,,,,,,,,,1870,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0042,﻿church,﻿St. Aloysius',English,﻿frame church,,,﻿Erie County,,﻿Springville,﻿Springville,﻿NY,,42.5099558,-78.6693936,,,,﻿fra_s_urich_001,﻿Rev.,﻿F. S. Urich,,,,,,,,1870,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0043,﻿church,﻿St. Francis of Assisium,﻿German,﻿stone church,,,﻿Erie County,,﻿Tonawanda,﻿Tonawanda,﻿NY,,43.0203347,-78.880315,,,,﻿l_v_poel_001,﻿Rev.,﻿L. Van de Poel,,,,,,,,1870,﻿,﻿,﻿Buffalo,Buffalo
-﻿buf.ny.0044,﻿church,﻿Assumption,English,﻿brick church,,,﻿Erie County,,﻿Transit,﻿Transit,﻿NY,,42.6974933,-78.7476208,,,,﻿h_boehmann_001,﻿Rev.,﻿H. Boehmann,,,,,,,,1870,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0044,﻿church,﻿Assumption,English,﻿brick church,,,﻿Erie County,,﻿Transit,﻿Transit,﻿NY,,42.6974933,-78.7476208,,,,﻿her_boehmann_001,﻿Rev.,﻿H. Boehmann,,,,,,,,1870,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0045,﻿church,﻿SS. Peter and Paul,﻿German,﻿brick church,,,﻿Erie County,,﻿White's Corners,﻿White's Corners,﻿NY,,42.9082049,-78.6787969,,,,﻿bar_gruber_001,﻿Rev.,﻿Bart. Gruber,,,,,,,,1870,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0046,﻿church,﻿SS. Peter and Paul,﻿German,﻿stone church,,,﻿Erie County,,﻿Williamsville,﻿Williamsville,﻿NY,,42.963167,-78.7489323,,,,﻿geo_pax_001,﻿Rev.,﻿Geo. Pax,,,,,,,,1870,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0047,﻿church,﻿St. Bonaventure's,English,﻿brick church,,,﻿Allegany County,,﻿Allegany,﻿Allegany,﻿NY,,42.3129816,-78.0195387,,,,﻿max_cassini_001,﻿Rev.,﻿Maximus Cassini,﻿O.S.F.,,,,,,,1870,﻿,﻿,﻿Buffalo,Buffalo
@@ -109,7 +109,7 @@
 ﻿buf.ny.0090,﻿church,﻿St. Mary of the Cataract,English,﻿stone church,,,﻿Niagara County,,﻿Niagara Falls,﻿Niagara Falls,﻿NY,,43.0849173,-79.0572904,,,,﻿p_moynihan_001,﻿Rev.,﻿P. Moynihan,,,,,,,,1870,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0091,﻿church,﻿Good Shepherd,﻿German,﻿brick church,,,﻿Niagara County,,﻿Pendleton,﻿Pendleton,﻿NY,,43.0784212,-78.7402055,,,,﻿joh_soemer_001,﻿Rev.,﻿John Soemer,,,,,,,,1870,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0092,﻿church,not recorded,English,,,,﻿Niagara County,,﻿Somerset,﻿Somerset,﻿NY,,43.3475566,-78.5558625,﻿buf.ny.0089,﻿Attended from Newfane,,,,,,,,,,,,1870,﻿,﻿,﻿Buffalo,Buffalo
-﻿buf.ny.0093,﻿church,﻿St. Raphael's,English,﻿brick church,,,﻿Niagara County,,﻿Suspension Bridge,,﻿NY,,43.1221298,-79.051636,,,,﻿p_a_maloy_001,﻿Rev.,﻿P. A. Maloy,,,,,,,,1870,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0093,﻿church,﻿St. Raphael's,English,﻿brick church,,,﻿Niagara County,,﻿Suspension Bridge,,﻿NY,,42.88742453,-78.86423996,,,,﻿p_a_maloy_001,﻿Rev.,﻿P. A. Maloy,,,,,,,,1870,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0094,﻿church,not recorded,English,,,,﻿Niagara County,,﻿Wilson,﻿Wilson,﻿NY,,43.2613892,-78.8156113,﻿buf.ny.0089,﻿Attended from Newfane,,,,,,,,,,,,1870,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0095,﻿church,﻿St. Bernard's,English,﻿frame church,,,﻿Niagara County,,﻿Youngstown,﻿Youngstown,﻿NY,,43.24935,-79.047503,﻿buf.ny.0084,﻿Attended from Lewiston,,,,,,,,,,,,1870,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0096,﻿church,﻿St. Joseph's,English,﻿brick church,,,﻿Orleans County,,﻿Albion,﻿Albion,﻿NY,,43.2442769,-78.1968594,,,,﻿j_castaldi_001,﻿Rev.,﻿J. Castaldi,,,,,,,,1870,﻿,﻿,﻿Buffalo,Buffalo
@@ -193,11 +193,11 @@
 ﻿buf.ny.0009_02,﻿school,﻿St. Michael's,﻿German,"﻿Male, under a secular teacher",,,,,﻿Buffalo,﻿Buffalo,﻿NY,,42.8910876,-78.8704902,,,,,,,,,,﻿student,"﻿Pupils, 550",,,1870,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0011_02,﻿school,﻿St. Peter's,﻿French,"﻿Male, under a secular teacher",,,,,﻿Buffalo,﻿Buffalo,﻿NY,,42.9721211,-78.8154749,,,,,,,,,,﻿student,"﻿Pupils, 100",,,1870,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0010_02,﻿school,﻿St. Ann's,﻿German,"﻿Male, under a secular teacher",,,,,﻿Buffalo,﻿Buffalo,﻿NY,,42.8822131,-78.8493334,,,,,,,,,,﻿student,"﻿Pupils, 606",,,1870,﻿,﻿,﻿Buffalo,Buffalo
-﻿buf.ny.0002_02,﻿school,﻿St. Bridget's,English,,,,,,﻿Buffalo,﻿Buffalo,﻿NY,,42.8864468,-78.8783689,,,,,,,,,,﻿student,"﻿Pupils, 800; boys, 200; girls, 600",﻿under the Sisters of Mercy,,1870,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0002_02,﻿school,﻿St. Bridget's,English,,,,,,﻿Buffalo,﻿Buffalo,﻿NY,,42.87277928,-78.86423055,,,,,,,,,,﻿student,"﻿Pupils, 800; boys, 200; girls, 600",﻿under the Sisters of Mercy,,1870,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0005_03,﻿school,﻿Holy Angels',English,,,,,,﻿Buffalo,﻿Buffalo,﻿NY,,42.9034422,-78.8893034,,,,,,,,,,﻿student,"﻿Pupils, 150",﻿under the Gray Sisters,,1870,﻿,﻿,﻿Buffalo,Buffalo
-﻿buf.ny.0003_02,﻿school,﻿St. Patrick's,English,﻿Female,,,,,﻿Buffalo,﻿Buffalo,﻿NY,,42.8840642,-78.8288968,,,,,,,,,,﻿student,"﻿Pupils, 60",﻿under the Franciscan Sisters,,1870,﻿,﻿,﻿Buffalo,Buffalo
-﻿buf.ny.0003_03,﻿school,﻿St. Patrick's,English,﻿Male,,,,,﻿Buffalo,﻿Buffalo,﻿NY,,42.8840642,-78.8288968,,,,,﻿Brother,﻿Francis White,﻿O.S.F.,,,﻿student,"﻿Pupils, 120",,,1870,﻿,﻿,﻿Buffalo,Buffalo
-﻿buf.ny.0003_03,﻿school,﻿St. Patrick's,English,﻿Male,,,,,﻿Buffalo,﻿Buffalo,﻿NY,,42.8840642,-78.8288968,,,,,﻿Brother,﻿Aloysius Murphy,﻿O.S.F.,,,﻿student,"﻿Pupils, 120",,,1870,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0003_02,﻿school,﻿St. Patrick's,English,﻿Female,,,,,﻿Buffalo,﻿Buffalo,﻿NY,,42.87730699,-78.84805984,,,,,,,,,,﻿student,"﻿Pupils, 60",﻿under the Franciscan Sisters,,1870,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0003_03,﻿school,﻿St. Patrick's,English,﻿Male,,,,,﻿Buffalo,﻿Buffalo,﻿NY,,42.87730699,-78.84805984,,,,,﻿Brother,﻿Francis White,﻿O.S.F.,,,﻿student,"﻿Pupils, 120",,,1870,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0003_03,﻿school,﻿St. Patrick's,English,﻿Male,,,,,﻿Buffalo,﻿Buffalo,﻿NY,,42.87730699,-78.84805984,,,,,﻿Brother,﻿Aloysius Murphy,﻿O.S.F.,,,﻿student,"﻿Pupils, 120",,,1870,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0150,﻿school,﻿St. Vincent's,English,,﻿Main Street,,,,﻿Buffalo,﻿Buffalo,﻿NY,,42.9280679,-78.8510078,,,,,,,,,,﻿student,"﻿Pupils, 75",﻿under Sisters of St. Joseph,,1870,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0213_02,﻿school,﻿St. Francis Xavier's,﻿German,"﻿Male, under a secular teacher",,,,,﻿Blackrock,﻿Buffalo,﻿NY,,42.93065347,-78.89829546,,,,,,,,,,﻿student,"﻿Pupils, 100",,,1870,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0152,﻿school,﻿St. Joseph's Parochial Schools,English,,,,,,﻿Batavia,﻿Batavia,﻿NY,,42.9981156,-78.1875167,,,,,,,,,,﻿student,"﻿Pupils, 400",﻿under the Sisters of Mercy,,1870,﻿,﻿,﻿Buffalo,Buffalo

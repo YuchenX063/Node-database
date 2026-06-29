@@ -1,19 +1,19 @@
 ﻿instID,church_type,instName,language,instNote,placeName,region,county_orig,county_reg,city_orig,city_reg,state_orig,state_reg,latitude,longitude,attendingInstID,attendingChurch,attendingChurchFrequency,persID,persTitle,persName,persSuffix,persRole,persNote,memberType,member,affiliated,order,year,attendingPersID,attendingChurchNote,diocese,diocese_reg
 ﻿cha.sc.0001,﻿cathedral,﻿Finbar's Cathedral,English,,,,,,﻿Charleston,﻿Charleston,﻿SC,,32.776496,-79.934468,,,,﻿p_n_lynch_001,﻿Rt. Rev.,﻿P. N. Lynch,﻿D.D.,,,,,,,1864,﻿,﻿,﻿Charleston,Charleston
 ﻿cha.sc.0001,﻿cathedral,﻿Finbar's Cathedral,English,,,,,,﻿Charleston,﻿Charleston,﻿SC,,32.776496,-79.934468,,,,﻿t_j_sullivan_001,﻿Rev.,﻿T. J. Sullivan,,,,,,,,1864,﻿,﻿,﻿Charleston,Charleston
-﻿cha.sc.0001,﻿cathedral,﻿Finbar's Cathedral,English,,,,,,﻿Charleston,﻿Charleston,﻿SC,,32.776496,-79.934468,,,,﻿j_a_corcoran_001,﻿Rev.,﻿J. A. Corcoran,﻿D.D.,,,,,,,1864,﻿,﻿,﻿Charleston,Charleston
+﻿cha.sc.0001,﻿cathedral,﻿Finbar's Cathedral,English,,,,,,﻿Charleston,﻿Charleston,﻿SC,,32.776496,-79.934468,,,,﻿jam_a_corcoran_001,﻿Rev.,﻿J. A. Corcoran,﻿D.D.,,,,,,,1864,﻿,﻿,﻿Charleston,Charleston
 ﻿cha.sc.0001,﻿cathedral,﻿Finbar's Cathedral,English,,,,,,﻿Charleston,﻿Charleston,﻿SC,,32.776496,-79.934468,,,,﻿l_fillion_001,﻿Rev.,﻿L. Fillion,,,,,,,,1864,﻿,﻿,﻿Charleston,Charleston
 ﻿cha.sc.0001,﻿cathedral,﻿Finbar's Cathedral,English,,,,,,﻿Charleston,﻿Charleston,﻿SC,,32.776496,-79.934468,,,,﻿fel_j_carr_001,﻿Rev.,﻿Felix J. Carr,,,,,,,,1864,﻿,﻿,﻿Charleston,Charleston
 ﻿cha.sc.0002,﻿church,﻿St. Mary's,English,,,,,,﻿Charleston,﻿Charleston,﻿SC,,32.7818,-79.932825,,,,﻿ric_s_baker_001,﻿Rev.,﻿R. S. Baker,,,,,,,,1864,﻿,﻿,﻿Charleston,Charleston
 ﻿cha.sc.0002,﻿church,﻿St. Mary's,English,,,,,,﻿Charleston,﻿Charleston,﻿SC,,32.7818,-79.932825,,,,﻿p_ryan_002,﻿Rev.,﻿P. Bryan,﻿D.D.,,,,,,,1864,﻿,﻿,﻿Charleston,Charleston
 ﻿cha.sc.0003,﻿church,﻿St. Patrick's,English,,,,,,﻿Charleston,﻿Charleston,﻿SC,,32.788225,-79.940392,,,,﻿p_oneill_002,﻿Rev.,﻿P. O'Neill,﻿D.D.,,,,,,,1864,﻿,﻿,﻿Charleston,Charleston
-﻿cha.sc.0049,﻿church,not recorded,English,,,,,,﻿Abbeville,﻿Abbeville,﻿SC,,34.177635,-82.380399,﻿sav.ga.0003,"﻿Attended from Augusta, Ga.",,,,,,,﻿1870 includes middle initial O.,,,,,1864,﻿,﻿,﻿Charleston,Charleston
+﻿cha.sc.0049,﻿church,not recorded,English,,,,,,﻿Abbeville,﻿Abbeville,﻿SC,,34.177635,-82.380399,﻿sav.ga.0003,"﻿Attended from Augusta, Ga.",,,,,,,,,,,,1864,﻿,﻿,﻿Charleston,Charleston
 ﻿cha.sc.0044,﻿church,﻿St. Andrew's,English,,,,,,﻿Bairnewall,﻿Barnwell,﻿SC,,33.239849,-81.359976,,,,﻿tim_bermingham_001,﻿Rev.,﻿T. Bermingham,,,,,,,,1864,﻿,﻿,﻿Charleston,Charleston
 ﻿cha.sc.0023,﻿church,﻿St. Peter's,English,,,,,,﻿Beaufort,﻿Beaufort,﻿SC,,32.439429,-80.670543,﻿cha.sc.0001,﻿Attended from the Cathedral,,,,,,,,,,,,1864,﻿,﻿,﻿Charleston,Charleston
 ﻿cha.sc.0050,﻿church,not recorded,English,,,,,,﻿Camden,,﻿SC,,34.244998,-80.611646,﻿cha.sc.0025,"﻿Attended from Columbia, S.C.",,,,,,,,,,,,1864,﻿,﻿,﻿Charleston,Charleston
-﻿cha.sc.0035,﻿church,﻿St. Peter's,English,,,,,,﻿Cheraw,﻿Cheraw,﻿SC,,34.693371,-79.89188,,,,﻿j_cullinane_001,﻿Rev.,﻿J. Cullinane,,,﻿John Cullinane in 1869,,,,,1864,﻿,﻿,﻿Charleston,Charleston
+﻿cha.sc.0035,﻿church,﻿St. Peter's,English,,,,,,﻿Cheraw,﻿Cheraw,﻿SC,,34.693371,-79.89188,,,,﻿joh_cullinane_001,﻿Rev.,﻿J. Cullinan,,,,,,,,1864,﻿,﻿,﻿Charleston,Charleston
 ﻿cha.sc.0051,﻿church,not recorded,English,,,,,,﻿Chester,﻿Chester,﻿SC,,34.70461,-81.212438,,,,﻿aug_f_mcneal_001,﻿Rev.,﻿Aug. McNeall,,,,,,,,1864,﻿,﻿,﻿Charleston,Charleston
-﻿cha.sc.0025,﻿church,﻿St. Joseph's,English,,,,,,﻿Columbia,﻿Columbia,﻿SC,,34.005607,-81.038007,,,,﻿j_j_oconnell_001,﻿Rev.,﻿J. J. O'Connell,,,"﻿referred to as ""J. J. O'Connell"" 1869-70",,,,,1864,﻿,﻿,﻿Charleston,Charleston
+﻿cha.sc.0025,﻿church,﻿St. Joseph's,English,,,,,,﻿Columbia,﻿Columbia,﻿SC,,34.005607,-81.038007,,,,﻿j_j_oconnell_001,﻿Rev.,﻿J. J. O'Connell,,,,,,,,1864,﻿,﻿,﻿Charleston,Charleston
 ﻿cha.sc.0025,﻿church,﻿St. Joseph's,English,,,,,,﻿Columbia,﻿Columbia,﻿SC,,34.005607,-81.038007,,,,,,﻿L. J. O'Connell,,,,,,,,1864,﻿,﻿,﻿Charleston,Charleston
 ﻿cha.sc.0025,﻿church,﻿St. Joseph's,English,,,,,,﻿Columbia,﻿Columbia,﻿SC,,34.005607,-81.038007,,,,﻿j_p_oconnell_001,,﻿Joseph P. O'Connell,﻿D.D.,,,,,,,1864,﻿,﻿,﻿Charleston,Charleston
 ﻿cha.sc.0021,﻿church,not recorded,English,,,,,,﻿Edgefield,﻿Edgefield,﻿SC,,33.790431,-81.930357,,,,﻿tim_bermingham_001,﻿Rev.,﻿Timothy Bermingham,,,,,,,,1864,﻿,﻿,﻿Charleston,Charleston

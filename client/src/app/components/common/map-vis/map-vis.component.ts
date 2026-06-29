@@ -89,6 +89,7 @@ export class MapVisComponent {
   private binsViewHandler?: any;
   private heatConfig: any = null;
   private heatViewHandler?: any;
+  private renderRetries = 0;
 
   /** Modes shown in the Display control, minus any the host excluded. */
   get displayModes() {
@@ -356,42 +357,49 @@ export class MapVisComponent {
    */
   private renderMapFeatures(): void {
     if (!this.map) return;
-    // addSource/addLayer throw if the style isn't loaded yet (e.g. data arrives
-    // before the initial 'load', or during a base-map style swap). Defer to the
-    // next idle, by which point the style is ready and this.data is current.
-    if (!this.map.isStyleLoaded()) {
-      this.map.once('idle', () => this.renderMapFeatures());
-      return;
-    }
-    this.removeMapLayersAndSources();
-    this.removeAllMarkers();
-    const features = this.data
-      .filter(item => item.latitude && item.longitude)
-      .map(item => ({
-        type: 'Feature',
-        geometry: { type: 'Point', coordinates: [item.longitude, item.latitude] },
-        properties: {
-          value: item.options?.value || 1,
-          title: item.title || '',
-          color: item.options?.color || this.options.modeOptions?.color || '#0000ff',
-          radius: item.options?.radius || this.options.modeOptions?.radius || 8,
-          internalLink: item.internalLink || null
-        }
-      }));
-    const geojson = { type: 'FeatureCollection', features };
+    // addSource/addLayer throw if the base-map style isn't ready yet. MapLibre's
+    // isStyleLoaded() is unreliable (it can stay false even when the style is
+    // perfectly usable, and 'idle' may not fire), so rather than gate on it we
+    // ATTEMPT the render and retry shortly if MapLibre rejects it as not-ready.
+    try {
+      this.removeMapLayersAndSources();
+      this.removeAllMarkers();
+      const features = this.data
+        .filter(item => item.latitude && item.longitude)
+        .map(item => ({
+          type: 'Feature',
+          geometry: { type: 'Point', coordinates: [item.longitude, item.latitude] },
+          properties: {
+            value: item.options?.value || 1,
+            title: item.title || '',
+            color: item.options?.color || this.options.modeOptions?.color || '#0000ff',
+            radius: item.options?.radius || this.options.modeOptions?.radius || 8,
+            internalLink: item.internalLink || null
+          }
+        }));
+      const geojson = { type: 'FeatureCollection', features };
 
-    if (this.currentMode === 'heatmap') {
-      this.addHeatmapLayer(geojson);
-    } else if (this.currentMode === 'cluster') {
-      this.addClusterLayer(geojson);
-    } else if (this.currentMode === 'point') {
-      this.addPointLayer(geojson);
-    } else if (this.currentMode === 'bins') {
-      this.addBinsLayer();
-    } else {
-      this.addMarkerLayer();
+      if (this.currentMode === 'heatmap') {
+        this.addHeatmapLayer(geojson);
+      } else if (this.currentMode === 'cluster') {
+        this.addClusterLayer(geojson);
+      } else if (this.currentMode === 'point') {
+        this.addPointLayer(geojson);
+      } else if (this.currentMode === 'bins') {
+        this.addBinsLayer();
+      } else {
+        this.addMarkerLayer();
+      }
+      this.renderOverlay();   // emphasised markers + track, always on top
+      this.renderRetries = 0;
+    } catch (e) {
+      if (this.renderRetries < 40) {
+        this.renderRetries++;
+        setTimeout(() => this.renderMapFeatures(), 150);
+      } else {
+        console.warn('map-vis: could not render features', e);
+      }
     }
-    this.renderOverlay();   // emphasised markers + track, always on top
   }
 
   /**
@@ -401,7 +409,6 @@ export class MapVisComponent {
    */
   private renderOverlay(): void {
     if (!this.map) return;
-    if (!this.map.isStyleLoaded()) { this.map.once('idle', () => this.renderOverlay()); return; }
     this.removeOverlay();
 
     if (Array.isArray(this.overlayTrack) && this.overlayTrack.length > 1) {

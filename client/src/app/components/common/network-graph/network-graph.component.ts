@@ -249,6 +249,8 @@ export class NetworkGraphComponent implements OnInit, AfterViewInit, OnChanges, 
     this.network.on("stabilizationIterationsDone", () => {
       // Only hide loading bar when physics is fully stabilized
       this.hideLoadingBar();
+      // Frame the settled layout so every node is visible from the start.
+      this.fitAll();
     });
 
     // Deferred so the template state it sets (isEmpty, legend, slider bounds)
@@ -273,7 +275,7 @@ export class NetworkGraphComponent implements OnInit, AfterViewInit, OnChanges, 
           width: '100%'
         });
         this.network.redraw();
-        this.network.fit({ animation: false });
+        this.fitAll();
       }, 0);
     }
   }
@@ -526,6 +528,31 @@ export class NetworkGraphComponent implements OnInit, AfterViewInit, OnChanges, 
     }
   }
 
+  /**
+   * Frame the whole graph: fit every node into view, then back off slightly so
+   * nothing sits on the edge. vis' own `fit` can land zoomed-IN on a compact
+   * graph (or run before the container has its final size), so we re-fit on a
+   * later frame and never start closer than ~1:1.
+   */
+  private fitAll(): void {
+    if (!this.network) return;
+    requestAnimationFrame(() => {
+      if (!this.network) return;
+      try {
+        this.network.fit({ animation: false });
+        const scale = this.network.getScale();
+        const target = Math.min(scale, 1) * 0.9;   // cap the zoom, keep a margin
+        if (Math.abs(target - scale) > 0.001) {
+          this.network.moveTo({
+            position: this.network.getViewPosition(),
+            scale: target,
+            animation: false
+          });
+        }
+      } catch { /* network torn down between frames */ }
+    });
+  }
+
   private restartPhysics(): void {
     if (!this.network || (this.currentNodeCount === 0 && this.currentEdgeCount === 0)) {
       this.hideLoadingBar();
@@ -565,7 +592,7 @@ export class NetworkGraphComponent implements OnInit, AfterViewInit, OnChanges, 
       this.network.stopSimulation();
       this.hideLoadingBar();
       // Re-frame the settled layout
-      this.network.fit({ animation: true });
+      this.fitAll();
       this.physicsCooldownTimeout = null;
     }, 3500);
   }

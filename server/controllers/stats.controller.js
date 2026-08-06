@@ -10,6 +10,7 @@ const db = require("../models");
 const { parseIntParam, networkCache, cacheKey } = require("../utils/network");
 const { childIds, buildOverview } = require("../utils/overview");
 const { buildCoverage } = require("../utils/coverage");
+const dioceses = require("../utils/dioceses");
 
 // The five canonical institution functions (from functions.csv). instFunction
 // can be a compound string like "consecrated life institutions and educational
@@ -317,12 +318,12 @@ exports.getGeo = async (req, res) => {
         let rows;
         if (entity === 'people') {
             rows = await db.sequelize.query(
-                `SELECT ar.latitude AS lat, ar.longitude AS lng, ar.year AS year,
+                `SELECT ar.instID AS instID, ar.latitude AS lat, ar.longitude AS lng, ar.year AS year,
                         ar.instFunction AS fn, ar.diocese_reg AS diocese, COUNT(piar.persID) AS weight
                  FROM personInAlmanacRecords piar
                  JOIN almanacRecords ar ON ar.ID = piar.almanacRecordID
                  WHERE ar.latitude IS NOT NULL AND ar.longitude IS NOT NULL AND ar.year IS NOT NULL
-                 GROUP BY ar.ID, ar.latitude, ar.longitude, ar.year, ar.instFunction, ar.diocese_reg`,
+                 GROUP BY ar.ID, ar.instID, ar.latitude, ar.longitude, ar.year, ar.instFunction, ar.diocese_reg`,
                 { type: db.Sequelize.QueryTypes.SELECT }
             );
         } else {
@@ -335,9 +336,10 @@ exports.getGeo = async (req, res) => {
             );
         }
 
-        // Category for each row: a function bucket, or the diocese (raw value).
+        // Category for each row: a function bucket, or the diocese keyed by its
+        // CANONICAL id (instID prefix), so name variants merge onto one category.
         const categoryOf = r => by === 'diocese'
-            ? (r.diocese && String(r.diocese).trim() ? String(r.diocese).trim() : 'Unknown')
+            ? (dioceses.resolveDioceseId(r.instID, r.diocese) || 'unknown')
             : primaryFunction(r.fn);
 
         const round3 = n => Math.round(n * 1000) / 1000;
@@ -397,8 +399,11 @@ exports.getGeo = async (req, res) => {
             }))
             .sort((a, b) => a.year - b.year);
 
+        // Diocese categories carry a display name (canonical id -> latest name);
+        // function categories are their own label.
+        const dioNames = by === 'diocese' ? dioceseNameMap() : null;
         const categories = Array.from(catTotals.entries())
-            .map(([key, total]) => ({ key, total }))
+            .map(([key, total]) => dioNames ? { key, total, name: dioNames[key] || key } : { key, total })
             .sort((a, b) => b.total - a.total);
 
         const result = {
@@ -426,6 +431,15 @@ exports.getGeo = async (req, res) => {
 // the payload is a few KB instead of the whole ~700 KB corpus.
 
 const OVERVIEW_NOTE = 'Counts are distinct institutions (or distinct people), deduplicated across years.';
+
+// Canonical diocese id -> display name, for panels that key dioceses by id.
+let _dioceseNames = null;
+function dioceseNameMap() {
+    if (_dioceseNames) return _dioceseNames;
+    _dioceseNames = { unknown: 'Unknown' };
+    for (const [id, m] of dioceses.load().byId) _dioceseNames[id] = m.displayName;
+    return _dioceseNames;
+}
 
 // Internal fact array, built once. Each fact:
 //   { i,y,f,t,d,s,lat,lng, pp:[personIds], o:[orders], _c:[childInstitutionIds] }
@@ -478,18 +492,20 @@ async function buildFactArray() {
 
     const facts = rows.map(r => {
         const i = r.instID;
+        const d = clean(r.diocese) || 'Unknown';
         return {
             i,
             y: Number(r.year),
             f: primaryFunction(r.fn),
             t: clean(r.type),
-            d: clean(r.diocese) || 'Unknown',
+            d,
             s: clean(r.state),
             lat: round(r.lat),
             lng: round(r.lng),
             pp: personsByRec.get(r.recID) || [],
             o: r.orders ? String(r.orders).split(',').map(s => s.trim()).filter(Boolean) : [],
-            _c: childIds(i)
+            _c: childIds(i),
+            _dio: dioceses.resolveDioceseId(i, d) || 'unknown'   // canonical diocese id
         };
     });
     _factYears = Array.from(new Set(facts.map(f => f.y))).sort((a, b) => a - b);
@@ -522,7 +538,7 @@ exports.getOverview = async (req, res) => {
             dioceses: new Set(dioArr)
         };
         const result = buildOverview(facts, state, entity, _factYears, [...FUNCTION_BUCKETS, OTHER_BUCKET]);
-        result.meta = { entity, years: _factYears, note: OVERVIEW_NOTE };
+        result.meta = { entity, years: _factYears, note: OVERVIEW_NOTE, dioceseNames: dioceseNameMap() };
         networkCache.set(key, result);
         res.send(result);
     } catch (error) {
@@ -540,7 +556,13 @@ exports.getCoverage = async (req, res) => {
     try {
         const facts = await loadFacts();
         const result = buildCoverage(facts, _factYears);
-        result.note = 'Coverage = distinct institutions recorded for a diocese in a year. It reflects how thoroughly the almanacs documented each see over time, not the true size of the church — empty cells are years a diocese was not published or collected.';
+        result.note = 'Coverage = distinct institutions recorded for a diocese in a year. It reflects how thoroughly the almanacs documented each see over time, not the true size of the church. Hatched cells are years a diocese did not yet exist; light cells are years it existed but has no records encoded yet.';
+        // One-time data-quality report (cached response means this logs once).
+        if (result.report) {
+            const { seededEmptyDioceses, unmatchedPrefixes } = result.report;
+            console.log(`[coverage] diocese timeline: ${seededEmptyDioceses} existing sees seeded with no data`
+                + (unmatchedPrefixes.length ? `; ${unmatchedPrefixes.length} instID prefixes not in CSV: ${unmatchedPrefixes.join(', ')}` : '; all instID prefixes matched the CSV'));
+        }
         networkCache.set(key, result);
         res.send(result);
     } catch (error) {

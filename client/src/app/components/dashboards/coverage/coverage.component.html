@@ -1,7 +1,7 @@
 <div class="coverage">
   <header class="cov-header">
     <h1>Coverage — the shape of the data</h1>
-    <p class="cov-sub">See at a geographical glance which dioceses have more institutions and how that number changes over time. The darker color means more institutions recorded in a diocese in a given year. Empty means a diocese was not published in the almanac that year or has yet to be encoded in our dataset.</p>
+    <p class="cov-sub">See at a glance which dioceses were recorded, how thoroughly, and how that changed over time. A darker cell means more institutions recorded that year; a light cell means the diocese existed but has no records encoded yet; a <strong>hatched</strong> cell means the diocese did not exist that year. Dioceses that changed names over time (e.g. “New York” / “New York City”) are merged onto one row under their latest name.</p>
   </header>
 
   <div class="cov-loading" *ngIf="loading">Loading coverage…</div>
@@ -14,8 +14,11 @@
         <div class="cov-panel-head">
           <h3>Diocese &times; year <span class="cov-hint">— click a year or diocese to focus the map</span></h3>
           <div class="cov-legend">
+            <span class="cov-sw cov-sw-absent" title="Did not exist that year"></span>
+            <span class="cov-legend-label">didn’t exist</span>
+            <span class="cov-legend-sep">·</span>
             <span class="cov-legend-label">fewer</span>
-            <span class="cov-sw" [style.background]="cellColor(0)"></span>
+            <span class="cov-sw" [style.background]="emptyColor"></span>
             <span class="cov-sw" *ngFor="let c of ramp" [style.background]="c"></span>
             <span class="cov-legend-label">more</span>
           </div>
@@ -36,8 +39,8 @@
                   [title]="r.name + ' — ' + r.total + ' institutions · ' + r.span + ' (click to focus the map)'">{{ r.name }}</button>
               <ng-container *ngFor="let c of r.cells">
                 <div class="cov-gap" *ngIf="c.gapBefore" aria-hidden="true"></div>
-                <button class="cov-cell" [class.col-sel]="isYearSel(c.year)"
-                    [style.background]="cellColor(c.level)" [title]="cellTitle(r.name, c)"
+                <button class="cov-cell" [class.col-sel]="isYearSel(c.year)" [class.cov-absent]="c.state === 'absent'"
+                    [style.background]="cellColor(c)" [title]="cellTitle(r, c)"
                     (click)="pickCell(r.key, c.year)"></button>
               </ng-container>
             </div>

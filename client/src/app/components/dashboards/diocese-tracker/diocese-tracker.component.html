@@ -14,7 +14,7 @@
       <mat-select [(ngModel)]="selected" (selectionChange)="onSelectChange()">
         <mat-option value="">All dioceses</mat-option>
         @for (d of dioceses; track d.key) {
-          <mat-option [value]="d.key">{{ d.key | spaceName }}</mat-option>
+          <mat-option [value]="d.key">{{ nameFor(d.key) }}</mat-option>
         }
       </mat-select>
     </mat-form-field>
@@ -49,7 +49,7 @@
       @if (selected) {
         <div class="stat" *ngIf="selectedSpan">
           <div class="stat-value">{{ selectedSpan.first }}–{{ selectedSpan.last }}</div>
-          <div class="stat-label">years {{ selected | spaceName }} appears</div>
+          <div class="stat-label">years {{ nameFor(selected) }} appears</div>
         </div>
       } @else {
         <div class="stat">

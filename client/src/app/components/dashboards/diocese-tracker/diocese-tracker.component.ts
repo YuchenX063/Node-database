@@ -12,17 +12,17 @@ import * as d3 from 'd3';
 import { ApiService } from '../../../services/api.service';
 import { MapVisComponent } from '../../common/map-vis/map-vis.component';
 import { PALETTE, OTHER_COLOR, LegendEntry } from '../../common/map-vis/map-grouping';
-import { SpaceNamePipe, spaceName } from '../../../pipes/space-name.pipe';
+import { spaceName } from '../../../pipes/space-name.pipe';
 
 interface YearStat { year: number; total: number; centroidLng: number; centroidLat: number; }
-interface DioceseCat { key: string; total: number; }
+interface DioceseCat { key: string; total: number; name?: string; }
 interface GeoPoint { year: number; lat: number; lng: number; diocese: string; weight: number; }
 
 @Component({
   selector: 'app-diocese-tracker-dashboard',
   imports: [
     CommonModule, FormsModule, MatFormFieldModule, MatSelectModule,
-    MatIconModule, MatSliderModule, MapVisComponent, SpaceNamePipe
+    MatIconModule, MatSliderModule, MapVisComponent
   ],
   templateUrl: './diocese-tracker.component.html',
   styleUrl: './diocese-tracker.component.scss'
@@ -39,7 +39,6 @@ export class DioceseTrackerDashboardComponent implements OnInit, AfterViewInit, 
 
   dioceses: DioceseCat[] = [];
   selected = ''; // '' = all dioceses
-  readonly spaceName = spaceName;
 
   mapData: any[] = [];
   legend: LegendEntry[] = [];
@@ -53,6 +52,7 @@ export class DioceseTrackerDashboardComponent implements OnInit, AfterViewInit, 
 
   private pointsByYear = new Map<number, GeoPoint[]>();
   private dioceseColor: Record<string, string> = {};
+  private dioceseName: Record<string, string> = {};   // canonical id -> display name
   private fetchSubscription: Subscription | null = null;
   private timer: any = null;
   private resizeObserver?: ResizeObserver;
@@ -95,7 +95,11 @@ export class DioceseTrackerDashboardComponent implements OnInit, AfterViewInit, 
         // Assign palette colours biggest-diocese-first, so the most prominent
         // jurisdictions get the most distinct colours (and stay stable by year).
         this.dioceseColor = {};
-        this.dioceses.forEach((d, i) => { this.dioceseColor[d.key] = PALETTE[i % PALETTE.length]; });
+        this.dioceseName = {};
+        this.dioceses.forEach((d, i) => {
+          this.dioceseColor[d.key] = PALETTE[i % PALETTE.length];
+          this.dioceseName[d.key] = d.name || spaceName(d.key);
+        });
         this.pointsByYear = new Map();
         for (const p of (res.points ?? []) as GeoPoint[]) {
           const list = this.pointsByYear.get(p.year);
@@ -119,6 +123,11 @@ export class DioceseTrackerDashboardComponent implements OnInit, AfterViewInit, 
 
   private colorFor(diocese: string): string {
     return this.dioceseColor[diocese] || OTHER_COLOR;
+  }
+
+  /** Canonical diocese id -> display name (from the timeline), with a fallback. */
+  nameFor(diocese: string): string {
+    return this.dioceseName[diocese] || spaceName(diocese);
   }
 
   private pointsThisYear(): GeoPoint[] {
@@ -155,7 +164,7 @@ export class DioceseTrackerDashboardComponent implements OnInit, AfterViewInit, 
     this.mapData = pts.map(p => ({
       latitude: p.lat,
       longitude: p.lng,
-      title: spaceName(p.diocese),
+      title: this.nameFor(p.diocese),
       options: {
         color: this.colorFor(p.diocese),
         value: p.weight,
@@ -163,11 +172,11 @@ export class DioceseTrackerDashboardComponent implements OnInit, AfterViewInit, 
       }
     }));
     if (this.selected) {
-      this.legend = [{ label: spaceName(this.selected), color: this.colorFor(this.selected) }];
+      this.legend = [{ label: this.nameFor(this.selected), color: this.colorFor(this.selected) }];
     } else {
       // Top dioceses by overall size, so the legend stays readable.
       this.legend = this.dioceses.slice(0, 12)
-        .map(d => ({ label: spaceName(d.key), color: this.colorFor(d.key) }));
+        .map(d => ({ label: this.nameFor(d.key), color: this.colorFor(d.key) }));
     }
     this.cdr.markForCheck();
   }
@@ -229,7 +238,7 @@ export class DioceseTrackerDashboardComponent implements OnInit, AfterViewInit, 
 
   get growthTitle(): string {
     return this.selected
-      ? `${spaceName(this.selected)} — institutions recorded, by year`
+      ? `${this.nameFor(this.selected)} — institutions recorded, by year`
       : 'Dioceses represented, by year';
   }
 

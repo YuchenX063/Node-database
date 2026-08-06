@@ -24,7 +24,7 @@ function passes(f, s, except) {
   if (except !== 'years' && s.years.size && !s.years.has(f.y)) return false;
   if (except !== 'functions' && s.functions.size && !s.functions.has(f.f)) return false;
   if (except !== 'types' && s.types.size && !(f.t != null && s.types.has(f.t))) return false;
-  if (except !== 'dioceses' && s.dioceses.size && !s.dioceses.has(f.d)) return false;
+  if (except !== 'dioceses' && s.dioceses.size && !s.dioceses.has(f._dio)) return false;
   return true;
 }
 
@@ -82,7 +82,7 @@ function gridMap(facts, entity) {
     for (const id of (f._c || childIds(f.i))) c.insts.add(id);
     for (const p of (f.pp || [])) c.people.add(p);
     c.fn.set(f.f, (c.fn.get(f.f) || 0) + 1);
-    c.dio.set(f.d, (c.dio.get(f.d) || 0) + 1);
+    c.dio.set(f._dio, (c.dio.get(f._dio) || 0) + 1);
   }
   const out = [];
   for (const c of cells.values()) {
@@ -104,7 +104,7 @@ function buildOverview(facts, state, entity, allYears, functionOrder) {
     .map(k => ({ key: k, value: fnExcept.get(k) || 0 }));
 
   const types = topN(bucketCounts(applyFilters(facts, state, 'types'), f => f.t, entity), state.types, TOP_N);
-  const dioceses = topN(bucketCounts(applyFilters(facts, state, 'dioceses'), f => f.d, entity), state.dioceses, TOP_N);
+  const dioceses = topN(bucketCounts(applyFilters(facts, state, 'dioceses'), f => f._dio, entity), state.dioceses, TOP_N);
 
   const yearExcept = bucketCounts(applyFilters(facts, state, 'years'), f => String(f.y), entity);
   const years = allYears.map(y => ({ year: y, value: yearExcept.get(String(y)) || 0 }));
@@ -112,7 +112,7 @@ function buildOverview(facts, state, entity, allYears, functionOrder) {
   const dios = new Set(), states = new Set();
   let minY = Infinity, maxY = -Infinity;
   for (const f of fully) {
-    dios.add(f.d);
+    dios.add(f._dio);
     if (f.s) states.add(f.s);
     if (f.y < minY) minY = f.y;
     if (f.y > maxY) maxY = f.y;

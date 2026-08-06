@@ -8,13 +8,13 @@ import { MatSelectModule } from '@angular/material/select';
 import { Subscription } from 'rxjs';
 import { ApiService } from '../../../services/api.service';
 import { MapVisComponent } from '../../common/map-vis/map-vis.component';
-import { spaceName } from '../../../pipes/space-name.pipe';
 
 // Sequential 5-step colour ramp (light -> dark), shared by the grid and the map.
 const RAMP = ['#bdd7e7', '#6baed6', '#3182bd', '#08519c', '#08306b'];
 const EMPTY_COLOR = 'rgba(127,127,127,0.10)';
 
-interface CovCell { year: number; n: number; level: number; gapBefore: boolean; }
+type CellState = 'data' | 'empty' | 'absent';
+interface CovCell { year: number; n: number; level: number; state: CellState; nameThatYear?: string; gapBefore: boolean; }
 interface CovRow { key: string; name: string; total: number; span: string; cells: CovCell[]; }
 interface HeaderYear { year: number; gapBefore: boolean; }
 
@@ -39,11 +39,13 @@ export class CoverageComponent implements OnInit, OnDestroy {
   headerYears: HeaderYear[] = [];
   rows: CovRow[] = [];
   ramp = RAMP;
+  emptyColor = EMPTY_COLOR;
 
   years: number[] = [];
   selectedYear: number | 'all' = 'all';
   selectedDiocese: string | null = null;
   private dioceseKeys: string[] = [];
+  private dioceseNames = new Map<string, string>();
 
   mapData: any[] = [];
   mapOptions = {
@@ -83,17 +85,27 @@ export class CoverageComponent implements OnInit, OnDestroy {
     const maxCell = res.maxCell || 1;
 
     this.headerYears = years.map((y, i) => ({ year: y, gapBefore: gapAt(i) }));
-    this.rows = (res.dioceses ?? []).map((d: any) => ({
-      key: d.key,
-      name: spaceName(d.key),
-      total: d.total,
-      span: d.firstYear == null ? '—' : (d.firstYear === d.lastYear ? `${d.firstYear}` : `${d.firstYear}–${d.lastYear}`),
-      cells: years.map((y, i) => {
-        const n = d.years?.[y] || 0;
-        return { year: y, n, level: this.level(n, maxCell), gapBefore: gapAt(i) };
-      })
-    }));
+    this.rows = (res.dioceses ?? []).map((d: any) => {
+      const exists = new Set<number>(d.existYears ?? years);   // missing timeline => all years
+      return {
+        key: d.key,
+        name: d.name || d.key,
+        total: d.total,
+        span: d.firstYear == null ? '—' : (d.firstYear === d.lastYear ? `${d.firstYear}` : `${d.firstYear}–${d.lastYear}`),
+        cells: years.map((y, i) => {
+          const n = d.years?.[y] || 0;
+          const state: CellState = !exists.has(y) ? 'absent' : (n > 0 ? 'data' : 'empty');
+          return {
+            year: y, n, state,
+            level: state === 'data' ? this.level(n, maxCell) : 0,
+            nameThatYear: d.namesByYear?.[y],
+            gapBefore: gapAt(i)
+          };
+        })
+      };
+    });
     this.dioceseKeys = this.rows.map(r => r.key);
+    this.dioceseNames = new Map(this.rows.map(r => [r.key, r.name]));
 
     this.allPoints = res.points ?? [];
     this.buildMapData();
@@ -167,7 +179,7 @@ export class CoverageComponent implements OnInit, OnDestroy {
   isDioceseSel(key: string): boolean { return this.selectedDiocese === key; }
 
   get selectedDioceseLabel(): string {
-    return this.selectedDiocese ? spaceName(this.selectedDiocese) : '';
+    return this.selectedDiocese ? (this.dioceseNames.get(this.selectedDiocese) || this.selectedDiocese) : '';
   }
 
   clearDiocese(): void {
@@ -184,13 +196,17 @@ export class CoverageComponent implements OnInit, OnDestroy {
     return Math.min(RAMP.length, Math.max(1, Math.ceil(r * RAMP.length)));
   }
 
-  cellColor(level: number): string {
-    return level === 0 ? EMPTY_COLOR : RAMP[level - 1];
+  // Background for a cell; absent cells get no fill (a CSS hatch shows instead).
+  cellColor(c: CovCell): string {
+    if (c.state === 'absent') return '';
+    return c.state === 'data' ? RAMP[c.level - 1] : EMPTY_COLOR;
   }
 
-  cellTitle(name: string, c: CovCell): string {
+  cellTitle(row: CovRow, c: CovCell): string {
+    if (c.state === 'absent') return `${row.name} · ${c.year} — did not exist`;
+    const alias = c.nameThatYear && c.nameThatYear !== row.name ? ` (recorded as “${c.nameThatYear}”)` : '';
     return c.n
-      ? `${name} · ${c.year} — ${c.n} institution${c.n === 1 ? '' : 's'}`
-      : `${name} · ${c.year} — not recorded`;
+      ? `${row.name} · ${c.year} — ${c.n} institution${c.n === 1 ? '' : 's'}${alias}`
+      : `${row.name} · ${c.year} — no records yet${alias}`;
   }
 }

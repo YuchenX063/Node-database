@@ -58,6 +58,7 @@ export class OverviewDashboardComponent implements OnInit, OnDestroy {
   functionBars: Bar[] = [];
   typeBars: Bar[] = [];
   dioceseBars: Bar[] = [];
+  private dioceseNames: Record<string, string> = {};
   yearBars: YearBar[] = [];
   kpis = {
     institutions: 0, people: 0, dioceses: 0, states: 0,
@@ -187,10 +188,11 @@ export class OverviewDashboardComponent implements OnInit, OnDestroy {
     this.fetching = false;
     this.error = null;
     this.note = res.meta?.note ?? this.note;
+    if (res.meta?.dioceseNames) this.dioceseNames = res.meta.dioceseNames;
 
     this.functionBars = this.toBars(res.functions, this.filter.functions, k => FUNCTION_LABELS[k] ?? k, k => functionColor(k));
     this.typeBars = this.toBars(res.types, this.filter.types, k => this.titleCase(k), () => '#5c6bc0');
-    this.dioceseBars = this.toBars(res.dioceses, this.filter.dioceses, k => spaceName(k), () => '#26a69a');
+    this.dioceseBars = this.toBars(res.dioceses, this.filter.dioceses, k => this.dioceseName(k), () => '#26a69a');
 
     const ys = (res.years ?? []) as { year: number; value: number }[];
     const ymax = Math.max(1, ...ys.map(y => y.value));
@@ -218,8 +220,8 @@ export class OverviewDashboardComponent implements OnInit, OnDestroy {
       return {
         latitude: c.lat,
         longitude: c.lng,
-        title: spaceName(c.d),
-        select: c.d,                 // click filters to this location's diocese
+        title: this.dioceseName(c.d),
+        select: c.d,                 // click filters to this location's diocese (canonical id)
         options: {
           color: functionColor(c.f),
           value: c.v,
@@ -257,7 +259,7 @@ export class OverviewDashboardComponent implements OnInit, OnDestroy {
     const chips: Chip[] = [];
     for (const f of this.filter.functions) chips.push({ dim: 'functions', key: f, label: FUNCTION_LABELS[f] ?? f });
     for (const t of this.filter.types) chips.push({ dim: 'types', key: t, label: this.titleCase(t) });
-    for (const d of this.filter.dioceses) chips.push({ dim: 'dioceses', key: d, label: spaceName(d) });
+    for (const d of this.filter.dioceses) chips.push({ dim: 'dioceses', key: d, label: this.dioceseName(d) });
     for (const y of Array.from(this.filter.years).sort((a, b) => a - b)) {
       chips.push({ dim: 'years', key: String(y), label: String(y) });
     }
@@ -266,5 +268,10 @@ export class OverviewDashboardComponent implements OnInit, OnDestroy {
 
   private titleCase(value: string): string {
     return spaceName(value).replace(/\b\w/g, c => c.toUpperCase());
+  }
+
+  // Canonical diocese id -> display name (from the server), with a graceful fallback.
+  private dioceseName(key: string): string {
+    return this.dioceseNames[key] || spaceName(key);
   }
 }

@@ -54,8 +54,17 @@
   display: flex;
   align-items: center;
   gap: 4px;
+  flex-wrap: wrap;
   .cov-legend-label { font-size: 0.72rem; opacity: 0.55; }
+  .cov-legend-sep { opacity: 0.3; margin: 0 2px; }
   .cov-sw { width: 13px; height: 13px; border-radius: 3px; }
+  .cov-sw-absent {
+    background:
+      repeating-linear-gradient(-45deg,
+        rgba(127,127,127,0.28) 0, rgba(127,127,127,0.28) 1px,
+        transparent 1px, transparent 4px),
+      rgba(127,127,127,0.05);
+  }
 }
 
 /* ---- Diocese x year grid ---- */
@@ -107,6 +116,16 @@
   cursor: pointer;
   &:hover { outline: 2px solid rgba(0,0,0,0.45); outline-offset: -1px; }
   &.col-sel { outline: 2px solid var(--mat-sys-primary, #1559a8); outline-offset: -1px; }
+}
+/* Diocese did not exist that year: diagonal hatch, no data expected. */
+.cov-absent {
+  cursor: default;
+  background:
+    repeating-linear-gradient(-45deg,
+      rgba(127,127,127,0.28) 0, rgba(127,127,127,0.28) 1px,
+      transparent 1px, transparent 4px),
+    rgba(127,127,127,0.05);
+  &:hover { outline: none; }
 }
 .row-sel .cov-cell { outline: 1px solid rgba(21,95,168,0.6); outline-offset: -1px; }
 .cov-gap { width: 14px; flex: 0 0 14px; }

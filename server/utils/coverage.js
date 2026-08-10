@@ -79,9 +79,13 @@ function buildCoverage(facts, allYears) {
       if (!m || m.existsYears.has(y)) existYears.push(y);
       if (n > 0) { covered++; if (y < first) first = y; if (y > last) last = y; }
     }
-    // Only trim in-range names, for tooltips.
+    // Only trim in-range names + error reasons, for tooltips.
     const namesByYear = {};
-    if (m) for (const y of allYears) if (m.namesByYear[y]) namesByYear[y] = m.namesByYear[y];
+    const errorYears = {};
+    if (m) for (const y of allYears) {
+      if (m.namesByYear[y]) namesByYear[y] = m.namesByYear[y];
+      if (m.errorsByYear[y]) errorYears[y] = m.errorsByYear[y];
+    }
 
     out.push({
       key: id,
@@ -95,7 +99,8 @@ function buildCoverage(facts, allYears) {
       lng: e.geo ? Math.round((e.lngSum / e.geo) * 1000) / 1000 : null,
       years,
       existYears,
-      namesByYear
+      namesByYear,
+      errorYears
     });
   }
 

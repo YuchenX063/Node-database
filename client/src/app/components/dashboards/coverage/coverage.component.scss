@@ -65,6 +65,34 @@
         transparent 1px, transparent 4px),
       rgba(127,127,127,0.05);
   }
+  .cov-sw-cw {
+    background: rgba(233, 30, 99, 0.22);
+    border: 1px solid rgba(233, 30, 99, 0.55);
+  }
+}
+
+/* Civil-War disclaimer callout under the intro. */
+.cov-cw-note {
+  display: flex;
+  align-items: flex-start;
+  gap: 8px;
+  margin: 8px 0 0;
+  padding: 6px 10px;
+  max-width: 72ch;
+  font-size: 0.82rem;
+  line-height: 1.4;
+  border-left: 3px solid rgba(233, 30, 99, 0.7);
+  background: rgba(233, 30, 99, 0.07);
+  border-radius: 4px;
+  .cov-sw-cw {
+    flex: 0 0 auto;
+    width: 13px;
+    height: 13px;
+    margin-top: 2px;
+    border-radius: 3px;
+    background: rgba(233, 30, 99, 0.22);
+    border: 1px solid rgba(233, 30, 99, 0.55);
+  }
 }
 
 /* ---- Diocese x year grid ---- */
@@ -117,6 +145,15 @@
   &:hover { outline: 2px solid rgba(0,0,0,0.45); outline-offset: -1px; }
   &.col-sel { outline: 2px solid var(--mat-sys-primary, #1559a8); outline-offset: -1px; }
 }
+/* See existed but its records are absent/disrupted that year (an ERROR: cell in
+   the timeline, e.g. the almanac wasn't printed during the Civil War). Pink like
+   the 1862-63 band; hover shows the reason. Still clickable (a real see-year). */
+.cov-cell.cov-error {
+  background: rgba(233, 30, 99, 0.28);
+  box-shadow: inset 0 0 0 1px rgba(233, 30, 99, 0.55);
+  cursor: help;
+}
+
 /* Diocese did not exist that year: diagonal hatch, no data expected. */
 .cov-absent {
   cursor: default;
@@ -129,6 +166,32 @@
 }
 .row-sel .cov-cell { outline: 1px solid rgba(21,95,168,0.6); outline-offset: -1px; }
 .cov-gap { width: 14px; flex: 0 0 14px; }
+
+/* Civil War gap (1862-63): the almanac wasn't published, so no columns exist —
+   a pink band per row stacks into a highlighted stripe between 1861 and 1864. */
+.cov-cw-band {
+  width: 16px;
+  flex: 0 0 16px;
+  height: 14px;
+  border-radius: 2px;
+  background: rgba(233, 30, 99, 0.22);
+  border-left: 1px solid rgba(233, 30, 99, 0.45);
+  border-right: 1px solid rgba(233, 30, 99, 0.45);
+  cursor: help;
+}
+.cov-cw-head {
+  width: 16px;
+  flex: 0 0 16px;
+  height: 14px;
+  align-self: flex-end;
+  font-size: 0.62rem;
+  font-weight: 700;
+  color: #c2185b;
+  white-space: nowrap;
+  transform: rotate(-60deg);
+  transform-origin: left bottom;
+  cursor: help;
+}
 .cov-ylabel {
   width: 14px;
   flex: 0 0 14px;

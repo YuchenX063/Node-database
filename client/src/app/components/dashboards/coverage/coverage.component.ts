@@ -5,6 +5,7 @@ import { CommonModule } from '@angular/common';
 import { FormsModule } from '@angular/forms';
 import { MatFormFieldModule } from '@angular/material/form-field';
 import { MatSelectModule } from '@angular/material/select';
+import { MatTooltipModule } from '@angular/material/tooltip';
 import { Subscription } from 'rxjs';
 import { ApiService } from '../../../services/api.service';
 import { MapVisComponent } from '../../common/map-vis/map-vis.component';
@@ -14,9 +15,9 @@ const RAMP = ['#bdd7e7', '#6baed6', '#3182bd', '#08519c', '#08306b'];
 const EMPTY_COLOR = 'rgba(127,127,127,0.10)';
 
 type CellState = 'data' | 'empty' | 'absent';
-interface CovCell { year: number; n: number; level: number; state: CellState; nameThatYear?: string; gapBefore: boolean; }
+interface CovCell { year: number; n: number; level: number; state: CellState; nameThatYear?: string; error?: string; gapBefore: boolean; civilWarBefore: boolean; }
 interface CovRow { key: string; name: string; total: number; span: string; cells: CovCell[]; }
-interface HeaderYear { year: number; gapBefore: boolean; }
+interface HeaderYear { year: number; gapBefore: boolean; civilWarBefore: boolean; }
 
 // "Coverage — the shape of the data": a GitHub-contribution-style diocese x year
 // grid (how thoroughly each see was recorded, year by year) beside a binned
@@ -24,7 +25,7 @@ interface HeaderYear { year: number; gapBefore: boolean; }
 // Colour is on a sqrt scale so dense cities don't flatten the rest.
 @Component({
   selector: 'app-coverage',
-  imports: [CommonModule, FormsModule, MatFormFieldModule, MatSelectModule, MapVisComponent],
+  imports: [CommonModule, FormsModule, MatFormFieldModule, MatSelectModule, MatTooltipModule, MapVisComponent],
   templateUrl: './coverage.component.html',
   styleUrl: './coverage.component.scss',
   changeDetection: ChangeDetectionStrategy.OnPush
@@ -40,6 +41,13 @@ export class CoverageComponent implements OnInit, OnDestroy {
   rows: CovRow[] = [];
   ramp = RAMP;
   emptyColor = EMPTY_COLOR;
+
+  // 1862-63: the Catholic Almanac was not published during the Civil War, so
+  // those years are absent from the data entirely. They aren't columns — a pink
+  // band marks the break between 1861 and 1864, with this note as its tooltip.
+  readonly civilWarNote =
+    'The Catholic Almanac was not published in 1862–1863, during the Civil War, ' +
+    'so records for these years are absent or highly disrupted.';
 
   years: number[] = [];
   selectedYear: number | 'all' = 'all';
@@ -82,9 +90,11 @@ export class CoverageComponent implements OnInit, OnDestroy {
     const years: number[] = res.years ?? [];
     this.years = years;
     const gapAt = (i: number) => i > 0 && years[i] - years[i - 1] > 3;
+    // The 1862-63 Civil War break: the columns straddling those missing years.
+    const civilWarAt = (i: number) => i > 0 && years[i - 1] < 1862 && years[i] > 1863;
     const maxCell = res.maxCell || 1;
 
-    this.headerYears = years.map((y, i) => ({ year: y, gapBefore: gapAt(i) }));
+    this.headerYears = years.map((y, i) => ({ year: y, gapBefore: gapAt(i), civilWarBefore: civilWarAt(i) }));
     this.rows = (res.dioceses ?? []).map((d: any) => {
       const exists = new Set<number>(d.existYears ?? years);   // missing timeline => all years
       return {
@@ -99,7 +109,9 @@ export class CoverageComponent implements OnInit, OnDestroy {
             year: y, n, state,
             level: state === 'data' ? this.level(n, maxCell) : 0,
             nameThatYear: d.namesByYear?.[y],
-            gapBefore: gapAt(i)
+            error: d.errorYears?.[y],
+            gapBefore: gapAt(i),
+            civilWarBefore: civilWarAt(i)
           };
         })
       };
@@ -196,13 +208,15 @@ export class CoverageComponent implements OnInit, OnDestroy {
     return Math.min(RAMP.length, Math.max(1, Math.ceil(r * RAMP.length)));
   }
 
-  // Background for a cell; absent cells get no fill (a CSS hatch shows instead).
+  // Background for a cell; absent cells get no fill (a CSS hatch shows instead)
+  // and error cells get none either (the .cov-error class paints them pink).
   cellColor(c: CovCell): string {
-    if (c.state === 'absent') return '';
+    if (c.state === 'absent' || c.error) return '';
     return c.state === 'data' ? RAMP[c.level - 1] : EMPTY_COLOR;
   }
 
   cellTitle(row: CovRow, c: CovCell): string {
+    if (c.error) return `${row.name} · ${c.year} — ${c.error}`;
     if (c.state === 'absent') return `${row.name} · ${c.year} — did not exist`;
     const alias = c.nameThatYear && c.nameThatYear !== row.name ? ` (recorded as “${c.nameThatYear}”)` : '';
     return c.n

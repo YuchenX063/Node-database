@@ -31,6 +31,11 @@ function parseCsv(text) {
   return rows;
 }
 
+// An `ERROR: <reason>` cell records that the see existed that year but its data
+// is absent/disrupted (e.g. the almanac wasn't printed during the Civil War).
+// Reason text follows the marker; the colon is optional.
+const ERROR_RE = /^\s*error\s*:?\s*(.*)$/i;
+
 // Strip the trailing source/page ref ("(54)", "(87, 429)", the unclosed "(1980",
 // bare trailing numbers "Natchez 131", stray "Detroit??") down to just the name.
 function cleanName(raw) {
@@ -91,20 +96,33 @@ function load() {
     if (!id) continue;
     const rootNo = parseInt((row[1] || '').trim(), 10);
     const namesByYear = {};
+    const errorsByYear = {};
     const existsYears = new Set();
     for (const { i, year } of yearCols) {
       const raw = (row[i] || '').trim();
       if (!raw) continue;
+      const err = ERROR_RE.exec(raw);
+      if (err) {
+        // See existed, but records are missing/disrupted — record the reason and
+        // DON'T treat the marker as a name (keeps display names + aliases clean).
+        existsYears.add(year);
+        errorsByYear[year] = err[1].trim() || 'Records absent or disrupted';
+        continue;
+      }
       existsYears.add(year);
       namesByYear[year] = cleanName(raw);
     }
     if (!existsYears.size) continue;
     const latest = Math.max(...existsYears);
+    // Display name = the latest year that actually has a name (skip error-only years).
+    const namedYears = Object.keys(namesByYear).map(Number);
+    const latestNamed = namedYears.length ? Math.max(...namedYears) : latest;
     byId.set(id, {
       id,
       rootNo: Number.isFinite(rootNo) ? rootNo : 9999,
-      displayName: namesByYear[latest] || id,   // latest/modern name
+      displayName: namesByYear[latestNamed] || id,   // latest/modern name
       namesByYear,
+      errorsByYear,
       existsYears,
       firstYear: Math.min(...existsYears),
       lastYear: latest

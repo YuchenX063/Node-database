@@ -6,10 +6,12 @@ const path = require('path');
 const csv = require('csv-parser');
 const{ attendingInstitution } = require('../models');
 const{ loadData } = require('../utils/data-preprocess');
+const{ logSeedError, logSeedSection } = require('../utils/seed-logger');
 
 /** @type {import('sequelize-cli').Migration} */
 module.exports = {
   async up (queryInterface, Sequelize) {
+    logSeedSection('AttendingInstitution');
     const data = await loadData(__dirname);
     for (const file of data) {
       await importData(file);
@@ -57,7 +59,7 @@ async function importData(data) {
         });
       //console.log(`Created attendingInstitution:${item.instID}, ${item.attendingInstID}`);
       } catch (error) {
-        console.error(`Error creating attendingInstitution: ${JSON.stringify(item)}`, error);
+        logSeedError(`[AttendingInstitution] Error creating attendingInstitution: ${JSON.stringify(item)}`, error);
       }
     }
   };

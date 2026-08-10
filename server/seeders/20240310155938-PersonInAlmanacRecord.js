@@ -6,6 +6,7 @@ const path = require('path');
 const csv = require('csv-parser');
 const{ person, personInAlmanacRecord } = require('../models');
 const{ loadData } = require('../utils/data-preprocess');
+const{ logSeedError, logSeedSection } = require('../utils/seed-logger');
 
 function extractLastName(fullName) {
   if (!fullName) return null;
@@ -33,6 +34,7 @@ function extractLastName(fullName) {
 /** @type {import('sequelize-cli').Migration} */
 module.exports = {
   async up (queryInterface, Sequelize) {
+    logSeedSection('PersonInAlmanacRecord');
     const data = await loadData(__dirname);
     for (const file of data) {
       await importData(file);
@@ -83,7 +85,7 @@ async function importData(data) {
         });
         //console.log(`Created person: ${item.persID}`);
       } catch (error) {
-        console.error(`Error creating person: ${JSON.stringify(item)}`, error);
+        logSeedError(`[PersonInAlmanacRecord] Error creating person: ${JSON.stringify(item)}`, error);
       }
     };
     
@@ -108,7 +110,7 @@ async function importData(data) {
         });
       //console.log(`Created personInAlmanacRecord:${item.instID}, ${item.uniquePersID}`);
       } catch (error) {
-        console.error(`Error creating personInAlmanacRecord: ${JSON.stringify(item)}`, error);
+        logSeedError(`[PersonInAlmanacRecord] Error creating personInAlmanacRecord: ${JSON.stringify(item)}`, error);
       }
     }
 

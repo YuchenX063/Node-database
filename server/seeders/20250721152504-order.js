@@ -5,11 +5,13 @@ const path = require('path');
 const csv = require('csv-parser');
 const{ order, orderInAlmanacRecord } = require('../models');
 const{ loadData } = require('../utils/data-preprocess');
+const{ logSeedError, logSeedSection } = require('../utils/seed-logger');
 
 
 /** @type {import('sequelize-cli').Migration} */
 module.exports = {
   async up (queryInterface, Sequelize) {
+      logSeedSection('order');
       const data = await loadData(__dirname);
       for (const file of data) {
         await importData(file);
@@ -55,7 +57,7 @@ async function importData(data) {
           }
         });
       } catch (error) {
-        console.error(`Error creating order: ${JSON.stringify(item)}`, error);
+        logSeedError(`[order] Error creating order: ${JSON.stringify(item)}`, error);
       }
     }
   };
@@ -71,7 +73,7 @@ async function importData(data) {
           }
         });
       } catch (error) {
-        console.error(`Error creating order: ${JSON.stringify(item)}`, error);
+        logSeedError(`[order] Error creating order: ${JSON.stringify(item)}`, error);
       }
     }
   };

@@ -13,7 +13,8 @@
         "test": "cross-env NODE_ENV=test jest --collect-coverage --testTimeOut=10000 --detectOpenHandles",
         "pretest": "cross-env NODE_ENV=test npm run migrate:reset --env=test",
         "migrate:reset": "npx sequelize-cli db:migrate:undo:all && npm run migrate",
-        "migrate": "npx sequelize-cli db:migrate && npx sequelize-cli db:seed:all && sleep 2"
+        "migrate": "npx sequelize-cli db:migrate && npx sequelize-cli db:seed:all && sleep 2",
+        "seed:errors": "node utils/seed-log-summary.js"
     },
     "license": "CC-BY-NC-SA-4.0",
     "dependencies": {

@@ -8,10 +8,12 @@ const path = require('path');
 const csv = require('csv-parser');
 const{ almanacRecord, institution } = require('../models');
 const{ loadData } = require('../utils/data-preprocess');
+const{ logSeedError, logSeedSection } = require('../utils/seed-logger');
 
 /** @type {import('sequelize-cli').Migration} */
 module.exports = {
   async up (queryInterface, Sequelize) {
+    logSeedSection('AlmanacRecord');
     const typeMap = {};
     const filePath = path.join(__dirname, 'stable', 'others', 'types.csv');
     await new Promise((resolve, reject) => {
@@ -156,7 +158,7 @@ async function importData(data, typeMap) {
         });
         //console.log(`Created institution: ${item.instID}`);
       } catch (error) {
-        console.log(`Error creating institution: ${item.ID}`, error);
+        logSeedError(`[AlmanacRecord] Error creating almanacRecord: ${item.ID}`, error);
       }
     }
     if (item.instID) {
@@ -165,7 +167,7 @@ async function importData(data, typeMap) {
           where: { ID: item.instID }
         });
       } catch (error) {
-        console.log(`Error creating institution: ${item.instID}`, error);
+        logSeedError(`[AlmanacRecord] Error creating institution: ${item.instID}`, error);
       }
     }
   };

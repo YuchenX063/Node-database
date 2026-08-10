@@ -5,10 +5,12 @@ const path = require('path');
 const csv = require('csv-parser');
 const { diocese } = require('../models');
 const { dioceseInfo } = require('../models');
+const { logSeedError, logSeedSection } = require('../utils/seed-logger');
 
 /** @type {import('sequelize-cli').Migration} */
 module.exports = {
   async up (queryInterface, Sequelize) {
+    logSeedSection('diocese');
     const dioceses = [];
     const filePath = path.join(__dirname, 'stable', 'others', 'diocese.csv');
     await new Promise((resolve, reject) => {
@@ -29,9 +31,13 @@ module.exports = {
       for (const row of dioceses) {
         const value = row[Object.keys(row)[0]];
         //console.log(`Processing diocese: ${value}`);
-        await diocese.findOrCreate({
-          where: { diocese: value },
-      })
+        try {
+          await diocese.findOrCreate({
+            where: { diocese: value },
+          })
+        } catch (error) {
+          logSeedError(`[diocese] Error creating diocese: ${value}`, error);
+        }
     }
   }
     console.log(`Inserted ${dioceses.length} dioceses into the database.`);
@@ -58,14 +64,18 @@ module.exports = {
         const year = parseInt(row['year']);
         const info = row['dioceseInfo'];
 
-        await dioceseInfo.findOrCreate({
-          where: { diocese: dioceseName, year: year },
-          defaults: {
-            diocese: dioceseName,
-            year: year,
-            dioceseInfo: info
-          }
-        });
+        try {
+          await dioceseInfo.findOrCreate({
+            where: { diocese: dioceseName, year: year },
+            defaults: {
+              diocese: dioceseName,
+              year: year,
+              dioceseInfo: info
+            }
+          });
+        } catch (error) {
+          logSeedError(`[diocese] Error creating dioceseInfo: ${dioceseName} ${year}`, error);
+        }
         //console.log(`Processed diocese info for ${dioceseName} in year ${year}`);
       }
     };

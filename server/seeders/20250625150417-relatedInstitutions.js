@@ -5,10 +5,12 @@ const path = require('path');
 const csv = require('csv-parser');
 const{ almanacRecord, institution, relatedInstitutions } = require('../models');
 const{ loadData } = require('../utils/data-preprocess');
+const{ logSeedError, logSeedSection } = require('../utils/seed-logger');
 
 /** @type {import('sequelize-cli').Migration} */
 module.exports = {
   async up (queryInterface, Sequelize) {
+    logSeedSection('relatedInstitutions');
     const data = await loadData(__dirname);
     for (const file of data) {
       await importData(file);
@@ -62,15 +64,17 @@ async function importData(data) {
         
         if (!createdRelationships.has(relationshipKey)) {
           try {
-            await relatedInstitutions.create({
-              almanacRecordID: currentItem.almanacRecordID,
-              firstID: currentItem.instID,
-              secondID: match.instID,
-              isSibling: false
+            await relatedInstitutions.findOrCreate({
+              where: {
+                almanacRecordID: currentItem.almanacRecordID,
+                firstID: currentItem.instID,
+                secondID: match.instID
+              },
+              defaults: { isSibling: false }
             });
             createdRelationships.add(relationshipKey);
           } catch (error) {
-            console.error(`Error creating relationship ${relationshipKey}:`, error);
+            logSeedError(`[relatedInstitutions] Error creating relationship ${relationshipKey}:`, error);
           };
           createdRelationships.add(relationshipKey);
         }
@@ -96,15 +100,17 @@ async function importData(data) {
         
         if (!createdRelationships.has(relationshipKey)) {
           try {
-            await relatedInstitutions.create({
-              almanacRecordID: currentItem.almanacRecordID,
-              firstID: currentItem.instID,
-              secondID: match.instID,
-              isSibling: true
+            await relatedInstitutions.findOrCreate({
+              where: {
+                almanacRecordID: currentItem.almanacRecordID,
+                firstID: currentItem.instID,
+                secondID: match.instID
+              },
+              defaults: { isSibling: true }
             });
             createdRelationships.add(relationshipKey);
           } catch (error) {
-            console.error(`Error creating relationship ${relationshipKey}:`, error);
+            logSeedError(`[relatedInstitutions] Error creating relationship ${relationshipKey}:`, error);
           };
           createdRelationships.add(relationshipKey);
         }
@@ -134,7 +140,7 @@ async function importData(data) {
             });
             createdRelationships.add(relationshipKey);
           } catch (error) {
-            console.error(`Error creating relationship ${relationshipKey}:`, error);
+            logSeedError(`[relatedInstitutions] Error creating relationship ${relationshipKey}:`, error);
           };
           createdRelationships.add(relationshipKey);
         }
@@ -150,15 +156,17 @@ async function importData(data) {
         
         if (!createdRelationships.has(relationshipKey)) {
           try {
-            await relatedInstitutions.create({
-              almanacRecordID: currentItem.almanacRecordID,
-              firstID: currentItem.instID,
-              secondID: match.instID,
-              isSibling: false
+            await relatedInstitutions.findOrCreate({
+              where: {
+                almanacRecordID: currentItem.almanacRecordID,
+                firstID: currentItem.instID,
+                secondID: match.instID
+              },
+              defaults: { isSibling: false }
             });
             createdRelationships.add(relationshipKey);
           } catch (error) {
-            console.error(`Error creating relationship ${relationshipKey}:`, error);
+            logSeedError(`[relatedInstitutions] Error creating relationship ${relationshipKey}:`, error);
           };
           createdRelationships.add(relationshipKey);
         }

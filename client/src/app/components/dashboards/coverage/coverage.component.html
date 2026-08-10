@@ -2,6 +2,10 @@
   <header class="cov-header">
     <h1>Coverage — the shape of the data</h1>
     <p class="cov-sub">See at a glance which dioceses were recorded, how thoroughly, and how that changed over time. A darker cell means more institutions recorded that year; a light cell means the diocese existed but has no records encoded yet; a <strong>hatched</strong> cell means the diocese did not exist that year. Dioceses that changed names over time (e.g. “New York” / “New York City”) are merged onto one row under their latest name.</p>
+    <p class="cov-cw-note">
+      <span class="cov-sw cov-sw-cw" aria-hidden="true"></span>
+      <span><strong>1862–1863</strong> — the <em>Catholic Almanac</em> was not published during these Civil War years, so records for this period are absent or highly disrupted; they appear as the pink band, not as columns. Individual <strong>pink cells</strong> mark other see-years whose records are absent or disrupted (mostly wartime) — hover any pink cell for the reason.</span>
+    </p>
   </header>
 
   <div class="cov-loading" *ngIf="loading">Loading coverage…</div>
@@ -14,6 +18,9 @@
         <div class="cov-panel-head">
           <h3>Diocese &times; year <span class="cov-hint">— click a year or diocese to focus the map</span></h3>
           <div class="cov-legend">
+            <span class="cov-sw cov-sw-cw" title="Records absent or disrupted (e.g. the almanac wasn’t printed) — hover for the reason"></span>
+            <span class="cov-legend-label">records disrupted</span>
+            <span class="cov-legend-sep">·</span>
             <span class="cov-sw cov-sw-absent" title="Did not exist that year"></span>
             <span class="cov-legend-label">didn’t exist</span>
             <span class="cov-legend-sep">·</span>
@@ -30,6 +37,7 @@
               <div class="cov-name"></div>
               <ng-container *ngFor="let h of headerYears">
                 <div class="cov-gap" *ngIf="h.gapBefore" aria-hidden="true"></div>
+                <div class="cov-cw-head" *ngIf="h.civilWarBefore" [matTooltip]="civilWarNote">1862–63</div>
                 <button class="cov-ylabel" [class.sel]="isYearSel(h.year)" (click)="pickYear(h.year)" title="Show this year on the map">{{ h.year }}</button>
               </ng-container>
             </div>
@@ -39,7 +47,9 @@
                   [title]="r.name + ' — ' + r.total + ' institutions · ' + r.span + ' (click to focus the map)'">{{ r.name }}</button>
               <ng-container *ngFor="let c of r.cells">
                 <div class="cov-gap" *ngIf="c.gapBefore" aria-hidden="true"></div>
+                <div class="cov-cw-band" *ngIf="c.civilWarBefore" [matTooltip]="civilWarNote"></div>
                 <button class="cov-cell" [class.col-sel]="isYearSel(c.year)" [class.cov-absent]="c.state === 'absent'"
+                    [class.cov-error]="!!c.error"
                     [style.background]="cellColor(c)" [title]="cellTitle(r, c)"
                     (click)="pickCell(r.key, c.year)"></button>
               </ng-container>
